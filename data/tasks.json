@@ -1,0 +1,5274 @@
+[
+  {
+    "id": "csv_1",
+    "source": "csv",
+    "question": "Nie znam ___ jeszcze dobrze.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "go"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Czasownik „znać” łączy się z biernikiem.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_2",
+    "source": "csv",
+    "question": "Wczoraj długo z ___ rozmawiałem.",
+    "options": [
+      {
+        "label": "B",
+        "text": "nią"
+      },
+      {
+        "label": "C",
+        "text": "jej"
+      },
+      {
+        "label": "D",
+        "text": "ją"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Przyimek „z” wymaga narzędnika.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_3",
+    "source": "csv",
+    "question": "Oddzwonię do ___ jutro rano.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "niego"
+      },
+      {
+        "label": "C",
+        "text": "nim"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Przyimek „do” wymaga dopełniacza.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_4",
+    "source": "csv",
+    "question": "Czy możesz ___ pomóc?",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "mu"
+      },
+      {
+        "label": "D",
+        "text": "go"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Czasownik „pomóc” łączy się z celownikiem.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_5",
+    "source": "csv",
+    "question": "Nie widziałem ___ od kilku dni.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "go"
+      },
+      {
+        "label": "D",
+        "text": "nim"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Czasownik „widzieć” wymaga biernika.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_6",
+    "source": "csv",
+    "question": "To prezent dla ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "niego"
+      },
+      {
+        "label": "C",
+        "text": "nim"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Przyimek „dla” łączy się z dopełniaczem.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_7",
+    "source": "csv",
+    "question": "Rozmawiałem z ___ o nowym projekcie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "nim"
+      },
+      {
+        "label": "C",
+        "text": "go"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "„Z” + narzędnik.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_8",
+    "source": "csv",
+    "question": "Nie pamiętam ___ nazwiska.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "mu"
+      },
+      {
+        "label": "D",
+        "text": "nim"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Czasownik „pamiętać” łączy się z dopełniaczem.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_9",
+    "source": "csv",
+    "question": "Muszę ___ coś ważnego powiedzieć.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "mu"
+      },
+      {
+        "label": "D",
+        "text": "go"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "„Powiedzieć” wymaga celownika.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_10",
+    "source": "csv",
+    "question": "Nie ma ___ dziś w pracy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "go"
+      },
+      {
+        "label": "D",
+        "text": "nim"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Konstrukcja „nie ma kogo?” → dopełniacz.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_11",
+    "source": "csv",
+    "question": "To zależy od ___ decyzji.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "niego"
+      },
+      {
+        "label": "C",
+        "text": "nim"
+      },
+      {
+        "label": "D",
+        "text": "jego"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Przyimek „od” wymaga dopełniacza.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_12",
+    "source": "csv",
+    "question": "Spotkałem się z ___ przypadkiem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "nim"
+      },
+      {
+        "label": "C",
+        "text": "go"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "„Z” + narzędnik.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_13",
+    "source": "csv",
+    "question": "Nie mogę bez ___ pracować.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "niego"
+      },
+      {
+        "label": "C",
+        "text": "nim"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "„Bez” + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_14",
+    "source": "csv",
+    "question": "Czy znasz ___ dobrze?",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "go"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Czasownik „znać” wymaga biernika.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_15",
+    "source": "csv",
+    "question": "To wszystko dzięki ___ pomocy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "niego"
+      },
+      {
+        "label": "C",
+        "text": "nim"
+      },
+      {
+        "label": "D",
+        "text": "jego"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Konstrukcja „dzięki”.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_16",
+    "source": "csv",
+    "question": "Martwię się o ___",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "niego"
+      },
+      {
+        "label": "C",
+        "text": "nim"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "„O” + biernik.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_17",
+    "source": "csv",
+    "question": "Nie zgadzam się z ___ opinią.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "nim"
+      },
+      {
+        "label": "C",
+        "text": "go"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "„Z” + narzędnik.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_18",
+    "source": "csv",
+    "question": "Zaufaj ___, proszę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "mu"
+      },
+      {
+        "label": "D",
+        "text": "go"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "„Zaufać” łączy się z celownikiem.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_19",
+    "source": "csv",
+    "question": "Nie słuchałem ___ uważnie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "go"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "„Słuchać” → biernik.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_20",
+    "source": "csv",
+    "question": "To pytanie dotyczy ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "on"
+      },
+      {
+        "label": "B",
+        "text": "niego"
+      },
+      {
+        "label": "C",
+        "text": "nim"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "„Dotyczyć” wymaga dopełniacza.",
+    "explanationPl": "",
+    "topic": "Zaimki osobowe",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_21",
+    "source": "csv",
+    "question": "Ten test był ___ niż poprzedni.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trudny"
+      },
+      {
+        "label": "B",
+        "text": "trudniejszy"
+      },
+      {
+        "label": "C",
+        "text": "najtrudniejszy"
+      },
+      {
+        "label": "D",
+        "text": "trudno"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Porównanie → stopień wyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_22",
+    "source": "csv",
+    "question": "To jest ___ restauracja w mieście.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dobra"
+      },
+      {
+        "label": "B",
+        "text": "lepsza"
+      },
+      {
+        "label": "C",
+        "text": "najlepsza"
+      },
+      {
+        "label": "D",
+        "text": "dobrze"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Najwyższy stopień przymiotnika.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_23",
+    "source": "csv",
+    "question": "Dzisiaj pracuję ___ niż wczoraj.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wydajnie"
+      },
+      {
+        "label": "B",
+        "text": "wydajniej"
+      },
+      {
+        "label": "C",
+        "text": "najwydajniej"
+      },
+      {
+        "label": "D",
+        "text": "wydajny"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Stopień wyższy przysłówka.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_24",
+    "source": "csv",
+    "question": "To zadanie jest ___ ze wszystkich.",
+    "options": [
+      {
+        "label": "A",
+        "text": "proste"
+      },
+      {
+        "label": "B",
+        "text": "prostsze"
+      },
+      {
+        "label": "D",
+        "text": "prosto"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Stopień najwyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_25",
+    "source": "csv",
+    "question": "On mówi ___ niż brat.",
+    "options": [
+      {
+        "label": "A",
+        "text": "głośno"
+      },
+      {
+        "label": "B",
+        "text": "głośniej"
+      },
+      {
+        "label": "D",
+        "text": "głośny"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Stopień wyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_26",
+    "source": "csv",
+    "question": "To był ___ dzień tygodnia.",
+    "options": [
+      {
+        "label": "A",
+        "text": "długi"
+      },
+      {
+        "label": "B",
+        "text": "dłuższy"
+      },
+      {
+        "label": "C",
+        "text": "najdłuższy"
+      },
+      {
+        "label": "D",
+        "text": "długo"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Stopień najwyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_27",
+    "source": "csv",
+    "question": "Ten film był ___ niż myślałem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ciekawy"
+      },
+      {
+        "label": "B",
+        "text": "ciekawszy"
+      },
+      {
+        "label": "C",
+        "text": "najciekawszy"
+      },
+      {
+        "label": "D",
+        "text": "ciekawie"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Porównanie.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_28",
+    "source": "csv",
+    "question": "To ___ sposób rozwiązania problemu.",
+    "options": [
+      {
+        "label": "B",
+        "text": "lepszy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Stopień najwyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_29",
+    "source": "csv",
+    "question": "Ona biega ___ niż ja.",
+    "options": [
+      {
+        "label": "A",
+        "text": "szybko"
+      },
+      {
+        "label": "B",
+        "text": "szybciej"
+      },
+      {
+        "label": "C",
+        "text": "najszybciej"
+      },
+      {
+        "label": "D",
+        "text": "szybka"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Stopień wyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_30",
+    "source": "csv",
+    "question": "To mieszkanie jest ___ w budynku.",
+    "options": [
+      {
+        "label": "A",
+        "text": "tanie"
+      },
+      {
+        "label": "B",
+        "text": "tańsze"
+      },
+      {
+        "label": "C",
+        "text": "najtańsze"
+      },
+      {
+        "label": "D",
+        "text": "tanio"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Stopień najwyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_31",
+    "source": "csv",
+    "question": "Czuję się dziś ___ niż wczoraj.",
+    "options": [
+      {
+        "label": "A",
+        "text": "źle"
+      },
+      {
+        "label": "B",
+        "text": "gorzej"
+      },
+      {
+        "label": "D",
+        "text": "zły"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Forma nieregularna.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_32",
+    "source": "csv",
+    "question": "On pracuje ___ ze wszystkich.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dokładnie"
+      },
+      {
+        "label": "B",
+        "text": "dokładniej"
+      },
+      {
+        "label": "C",
+        "text": "najdokładniej"
+      },
+      {
+        "label": "D",
+        "text": "dokładny"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Stopień najwyższy przysłówka.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_33",
+    "source": "csv",
+    "question": "To zadanie jest ___ niż poprzednie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "łatwe"
+      },
+      {
+        "label": "B",
+        "text": "łatwiejsze"
+      },
+      {
+        "label": "C",
+        "text": "najłatwiejsze"
+      },
+      {
+        "label": "D",
+        "text": "łatwo"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Stopień wyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_34",
+    "source": "csv",
+    "question": "To był ___ moment w jego życiu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ważny"
+      },
+      {
+        "label": "B",
+        "text": "ważniejszy"
+      },
+      {
+        "label": "C",
+        "text": "najważniejszy"
+      },
+      {
+        "label": "D",
+        "text": "ważnie"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Stopień najwyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_35",
+    "source": "csv",
+    "question": "On mówi ___ po polsku niż rok temu.",
+    "options": [
+      {
+        "label": "B",
+        "text": "lepiej"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Forma nieregularna.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_36",
+    "source": "csv",
+    "question": "To było ___ spotkanie miesiąca.",
+    "options": [
+      {
+        "label": "A",
+        "text": "długie"
+      },
+      {
+        "label": "B",
+        "text": "dłuższe"
+      },
+      {
+        "label": "C",
+        "text": "najdłuższe"
+      },
+      {
+        "label": "D",
+        "text": "długo"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Stopień najwyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_37",
+    "source": "csv",
+    "question": "Ten komputer działa ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "szybko"
+      },
+      {
+        "label": "B",
+        "text": "szybciej"
+      },
+      {
+        "label": "C",
+        "text": "najszybciej"
+      },
+      {
+        "label": "D",
+        "text": "szybki"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Stopień wyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_38",
+    "source": "csv",
+    "question": "To ___ książka, jaką czytałem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "interesująca"
+      },
+      {
+        "label": "B",
+        "text": "bardziej"
+      },
+      {
+        "label": "C",
+        "text": "najbardziej"
+      },
+      {
+        "label": "D",
+        "text": "interesująco"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Opisowy stopień najwyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_39",
+    "source": "csv",
+    "question": "On zachował się ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "spokojnie"
+      },
+      {
+        "label": "B",
+        "text": "spokojniej"
+      },
+      {
+        "label": "D",
+        "text": "spokojny"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Stopień najwyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_40",
+    "source": "csv",
+    "question": "To rozwiązanie jest ___ dla użytkownika.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wygodne"
+      },
+      {
+        "label": "B",
+        "text": "wygodniejsze"
+      },
+      {
+        "label": "C",
+        "text": "najwygodniejsze"
+      },
+      {
+        "label": "D",
+        "text": "wygodnie"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Stopień wyższy.",
+    "explanationPl": "",
+    "topic": "Stopniowanie przymiotnika i przysłówka",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_41",
+    "source": "csv",
+    "question": "Idę ___ sklepu.",
+    "options": [
+      {
+        "label": "C",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Iść do + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_42",
+    "source": "csv",
+    "question": "Jestem ___ pracy od rana.",
+    "options": [
+      {
+        "label": "A",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Być w + miejscownik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_43",
+    "source": "csv",
+    "question": "Wracam ___ domu późno.",
+    "options": [
+      {
+        "label": "C",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Wracać do + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_44",
+    "source": "csv",
+    "question": "Spotkajmy się ___ kawie.",
+    "options": [
+      {
+        "label": "B",
+        "text": "przy"
+      },
+      {
+        "label": "C",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Spotkać się na + miejscownik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_45",
+    "source": "csv",
+    "question": "Mieszkam ___ Warszawie.",
+    "options": [
+      {
+        "label": "B",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Mieszkać w + miejscownik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_46",
+    "source": "csv",
+    "question": "To prezent ___ mamy.",
+    "options": [
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Dla + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_47",
+    "source": "csv",
+    "question": "Nie mogę żyć ___ ciebie.",
+    "options": [
+      {
+        "label": "C",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Bez + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_48",
+    "source": "csv",
+    "question": "Pojechał ___ pracy autobusem.",
+    "options": [
+      {
+        "label": "C",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Jechać do + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_49",
+    "source": "csv",
+    "question": "Jestem zmęczony ___ pracy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "po"
+      },
+      {
+        "label": "C",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Po + miejscownik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_50",
+    "source": "csv",
+    "question": "Książka leży ___ stole.",
+    "options": [
+      {
+        "label": "B",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Na + miejscownik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_51",
+    "source": "csv",
+    "question": "Pracuję ___ domu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "W + miejscownik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_52",
+    "source": "csv",
+    "question": "Idziemy ___ kino.",
+    "options": [
+      {
+        "label": "C",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Iść do + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_53",
+    "source": "csv",
+    "question": "On siedzi ___ mnie.",
+    "options": [
+      {
+        "label": "B",
+        "text": "przy"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Obok + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_54",
+    "source": "csv",
+    "question": "Samochód stoi ___ domem.",
+    "options": [
+      {
+        "label": "C",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Przed + narzędnik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_55",
+    "source": "csv",
+    "question": "Rozmawiam ___ nauczycielem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "z"
+      },
+      {
+        "label": "D",
+        "text": "o"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Z + narzędnik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_56",
+    "source": "csv",
+    "question": "Jestem ___ kolegą.",
+    "options": [
+      {
+        "label": "A",
+        "text": "z"
+      },
+      {
+        "label": "D",
+        "text": "o"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Z + narzędnik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_57",
+    "source": "csv",
+    "question": "Idziemy ___ spacer.",
+    "options": [
+      {
+        "label": "C",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Iść na + biernik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_58",
+    "source": "csv",
+    "question": "To zależy ___ pogody.",
+    "options": [
+      {
+        "label": "C",
+        "text": "o"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Od + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_59",
+    "source": "csv",
+    "question": "On jest ___ domu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Być w + miejscownik.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_60",
+    "source": "csv",
+    "question": "Wyszedł ___ pokoju.",
+    "options": [
+      {
+        "label": "A",
+        "text": "z"
+      },
+      {
+        "label": "D",
+        "text": "w"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Z + dopełniacz.",
+    "explanationPl": "",
+    "topic": "Przyimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_61",
+    "source": "csv",
+    "question": "Wczoraj on ___ w domu cały dzień.",
+    "options": [
+      {
+        "label": "A",
+        "text": "był"
+      },
+      {
+        "label": "B",
+        "text": "była"
+      },
+      {
+        "label": "C",
+        "text": "byli"
+      },
+      {
+        "label": "D",
+        "text": "były"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Czas przeszły – rodzaj męski (on).",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_62",
+    "source": "csv",
+    "question": "Wczoraj ona ___ w domu cały dzień.",
+    "options": [
+      {
+        "label": "A",
+        "text": "był"
+      },
+      {
+        "label": "B",
+        "text": "była"
+      },
+      {
+        "label": "C",
+        "text": "byli"
+      },
+      {
+        "label": "D",
+        "text": "były"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Czas przeszły – rodzaj żeński (ona).",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_63",
+    "source": "csv",
+    "question": "Wczoraj oni ___ w kinie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "byli"
+      },
+      {
+        "label": "B",
+        "text": "były"
+      },
+      {
+        "label": "C",
+        "text": "była"
+      },
+      {
+        "label": "D",
+        "text": "był"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Czas przeszły – liczba mnoga męskoosobowa (oni).",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_64",
+    "source": "csv",
+    "question": "Wczoraj one ___ w kinie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "były"
+      },
+      {
+        "label": "B",
+        "text": "byli"
+      },
+      {
+        "label": "C",
+        "text": "była"
+      },
+      {
+        "label": "D",
+        "text": "był"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Czas przeszły – liczba mnoga niemęskoosobowa (one).",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_65",
+    "source": "csv",
+    "question": "Wczoraj on ___ list do szefa.",
+    "options": [
+      {
+        "label": "A",
+        "text": "napisał"
+      },
+      {
+        "label": "B",
+        "text": "napisała"
+      },
+      {
+        "label": "C",
+        "text": "napisali"
+      },
+      {
+        "label": "D",
+        "text": "napisały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rodzaj męski w czasie przeszłym.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_66",
+    "source": "csv",
+    "question": "Wczoraj ona ___ list do szefa.",
+    "options": [
+      {
+        "label": "A",
+        "text": "napisała"
+      },
+      {
+        "label": "B",
+        "text": "napisał"
+      },
+      {
+        "label": "C",
+        "text": "napisali"
+      },
+      {
+        "label": "D",
+        "text": "napisały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rodzaj żeński w czasie przeszłym.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_67",
+    "source": "csv",
+    "question": "Wczoraj ja (mężczyzna) ___ ten film.",
+    "options": [
+      {
+        "label": "A",
+        "text": "oglądałem"
+      },
+      {
+        "label": "B",
+        "text": "oglądałam"
+      },
+      {
+        "label": "C",
+        "text": "oglądali"
+      },
+      {
+        "label": "D",
+        "text": "oglądały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Ja (mężczyzna) – forma czasu przeszłego.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_68",
+    "source": "csv",
+    "question": "Wczoraj ja (kobieta) ___ ten film.",
+    "options": [
+      {
+        "label": "A",
+        "text": "oglądałam"
+      },
+      {
+        "label": "B",
+        "text": "oglądałem"
+      },
+      {
+        "label": "C",
+        "text": "oglądali"
+      },
+      {
+        "label": "D",
+        "text": "oglądały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Ja (kobieta) – forma czasu przeszłego.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_69",
+    "source": "csv",
+    "question": "Wczoraj oni ___ bardzo wcześnie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wstali"
+      },
+      {
+        "label": "B",
+        "text": "wstały"
+      },
+      {
+        "label": "C",
+        "text": "wstał"
+      },
+      {
+        "label": "D",
+        "text": "wstała"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Oni – męskoosobowe.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_70",
+    "source": "csv",
+    "question": "Wczoraj one ___ bardzo wcześnie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wstały"
+      },
+      {
+        "label": "B",
+        "text": "wstali"
+      },
+      {
+        "label": "C",
+        "text": "wstał"
+      },
+      {
+        "label": "D",
+        "text": "wstała"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "One – niemęskoosobowe.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_71",
+    "source": "csv",
+    "question": "Wczoraj on ___ maila rano.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wysłał"
+      },
+      {
+        "label": "B",
+        "text": "wysłała"
+      },
+      {
+        "label": "C",
+        "text": "wysłali"
+      },
+      {
+        "label": "D",
+        "text": "wysłały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rodzaj męski.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_72",
+    "source": "csv",
+    "question": "Wczoraj ona ___ maila rano.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wysłała"
+      },
+      {
+        "label": "B",
+        "text": "wysłał"
+      },
+      {
+        "label": "C",
+        "text": "wysłali"
+      },
+      {
+        "label": "D",
+        "text": "wysłały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rodzaj żeński.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_73",
+    "source": "csv",
+    "question": "Wczoraj oni ___ projekt na czas.",
+    "options": [
+      {
+        "label": "A",
+        "text": "skończyli"
+      },
+      {
+        "label": "B",
+        "text": "skończyły"
+      },
+      {
+        "label": "C",
+        "text": "skończył"
+      },
+      {
+        "label": "D",
+        "text": "skończyła"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Oni – męskoosobowe.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_74",
+    "source": "csv",
+    "question": "Wczoraj one ___ projekt na czas.",
+    "options": [
+      {
+        "label": "A",
+        "text": "skończyły"
+      },
+      {
+        "label": "B",
+        "text": "skończyli"
+      },
+      {
+        "label": "C",
+        "text": "skończył"
+      },
+      {
+        "label": "D",
+        "text": "skończyła"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "One – niemęskoosobowe.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_75",
+    "source": "csv",
+    "question": "Wczoraj on ___ obiad w domu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "gotował"
+      },
+      {
+        "label": "B",
+        "text": "gotowała"
+      },
+      {
+        "label": "C",
+        "text": "gotowali"
+      },
+      {
+        "label": "D",
+        "text": "gotowały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rodzaj męski.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_76",
+    "source": "csv",
+    "question": "Wczoraj ona ___ obiad w domu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "gotowała"
+      },
+      {
+        "label": "B",
+        "text": "gotował"
+      },
+      {
+        "label": "C",
+        "text": "gotowali"
+      },
+      {
+        "label": "D",
+        "text": "gotowały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rodzaj żeński.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_77",
+    "source": "csv",
+    "question": "Wczoraj oni ___ do domu późno.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wrócili"
+      },
+      {
+        "label": "B",
+        "text": "wróciły"
+      },
+      {
+        "label": "C",
+        "text": "wrócił"
+      },
+      {
+        "label": "D",
+        "text": "wróciła"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Oni – męskoosobowe.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_78",
+    "source": "csv",
+    "question": "Wczoraj one ___ do domu późno.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wróciły"
+      },
+      {
+        "label": "B",
+        "text": "wrócili"
+      },
+      {
+        "label": "C",
+        "text": "wrócił"
+      },
+      {
+        "label": "D",
+        "text": "wróciła"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "One – niemęskoosobowe.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_79",
+    "source": "csv",
+    "question": "Wczoraj on ___ w pracy do późna.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pracował"
+      },
+      {
+        "label": "B",
+        "text": "pracowała"
+      },
+      {
+        "label": "C",
+        "text": "pracowali"
+      },
+      {
+        "label": "D",
+        "text": "pracowały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rodzaj męski.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_80",
+    "source": "csv",
+    "question": "Wczoraj ona ___ w pracy do późna.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pracowała"
+      },
+      {
+        "label": "B",
+        "text": "pracował"
+      },
+      {
+        "label": "C",
+        "text": "pracowali"
+      },
+      {
+        "label": "D",
+        "text": "pracowały"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rodzaj żeński.",
+    "explanationPl": "",
+    "topic": "Czas przeszły",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_81",
+    "source": "csv",
+    "question": "___ ciszej, proszę!",
+    "options": [
+      {
+        "label": "A",
+        "text": "mów"
+      },
+      {
+        "label": "B",
+        "text": "mówisz"
+      },
+      {
+        "label": "C",
+        "text": "mówi"
+      },
+      {
+        "label": "D",
+        "text": "mówią"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący (2 os. l. poj.).",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_82",
+    "source": "csv",
+    "question": "___ to teraz.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zrób"
+      },
+      {
+        "label": "B",
+        "text": "robisz"
+      },
+      {
+        "label": "C",
+        "text": "zrobi"
+      },
+      {
+        "label": "D",
+        "text": "robią"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Forma rozkazująca.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_83",
+    "source": "csv",
+    "question": "___ ostrożnie!",
+    "options": [
+      {
+        "label": "A",
+        "text": "jedź"
+      },
+      {
+        "label": "B",
+        "text": "jedziesz"
+      },
+      {
+        "label": "C",
+        "text": "jechał"
+      },
+      {
+        "label": "D",
+        "text": "jadą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_84",
+    "source": "csv",
+    "question": "___ mi pomóc.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pomóż"
+      },
+      {
+        "label": "D",
+        "text": "pomogą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_85",
+    "source": "csv",
+    "question": "___ tego jeszcze raz.",
+    "options": [
+      {
+        "label": "A",
+        "text": "spróbuj"
+      },
+      {
+        "label": "B",
+        "text": "próbujesz"
+      },
+      {
+        "label": "C",
+        "text": "próbuje"
+      },
+      {
+        "label": "D",
+        "text": "próbowali"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Rozkaz – poprawna forma.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_86",
+    "source": "csv",
+    "question": "___ spokojnie chwilę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "czekaj"
+      },
+      {
+        "label": "B",
+        "text": "czekasz"
+      },
+      {
+        "label": "C",
+        "text": "czeka"
+      },
+      {
+        "label": "D",
+        "text": "czekali"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_87",
+    "source": "csv",
+    "question": "___ bliżej.",
+    "options": [
+      {
+        "label": "A",
+        "text": "podejdź"
+      },
+      {
+        "label": "B",
+        "text": "podchodzi"
+      },
+      {
+        "label": "C",
+        "text": "podszedł"
+      },
+      {
+        "label": "D",
+        "text": "podejdą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_88",
+    "source": "csv",
+    "question": "___ drzwi, proszę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zamknij"
+      },
+      {
+        "label": "B",
+        "text": "zamykasz"
+      },
+      {
+        "label": "C",
+        "text": "zamknął"
+      },
+      {
+        "label": "D",
+        "text": "zamykają"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_89",
+    "source": "csv",
+    "question": "___ mi prawdę.",
+    "options": [
+      {
+        "label": "B",
+        "text": "mówisz"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_90",
+    "source": "csv",
+    "question": "___ szybciej!",
+    "options": [
+      {
+        "label": "A",
+        "text": "idź"
+      },
+      {
+        "label": "B",
+        "text": "idziesz"
+      },
+      {
+        "label": "C",
+        "text": "szedł"
+      },
+      {
+        "label": "D",
+        "text": "idą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_91",
+    "source": "csv",
+    "question": "___ mi chwilę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "daj"
+      },
+      {
+        "label": "B",
+        "text": "dajesz"
+      },
+      {
+        "label": "C",
+        "text": "dał"
+      },
+      {
+        "label": "D",
+        "text": "dają"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_92",
+    "source": "csv",
+    "question": "___ ostrożny.",
+    "options": [
+      {
+        "label": "C",
+        "text": "jest"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Nieregularna forma rozkazu.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_93",
+    "source": "csv",
+    "question": "___ to teraz.",
+    "options": [
+      {
+        "label": "A",
+        "text": "weź"
+      },
+      {
+        "label": "C",
+        "text": "wziął"
+      },
+      {
+        "label": "D",
+        "text": "wezmą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Nieregularna forma rozkazu.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_94",
+    "source": "csv",
+    "question": "___ wcześniej.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przyjdź"
+      },
+      {
+        "label": "B",
+        "text": "przychodzisz"
+      },
+      {
+        "label": "C",
+        "text": "przyszedł"
+      },
+      {
+        "label": "D",
+        "text": "przychodzą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_95",
+    "source": "csv",
+    "question": "___ się tym dziś.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zajmij"
+      },
+      {
+        "label": "B",
+        "text": "zajmujesz"
+      },
+      {
+        "label": "C",
+        "text": "zajął"
+      },
+      {
+        "label": "D",
+        "text": "zajmują"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_96",
+    "source": "csv",
+    "question": "___ mnie uważnie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "słuchaj"
+      },
+      {
+        "label": "B",
+        "text": "słuchasz"
+      },
+      {
+        "label": "C",
+        "text": "słucha"
+      },
+      {
+        "label": "D",
+        "text": "słuchali"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_97",
+    "source": "csv",
+    "question": "___ to dokładnie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "sprawdź"
+      },
+      {
+        "label": "B",
+        "text": "sprawdzasz"
+      },
+      {
+        "label": "C",
+        "text": "sprawdził"
+      },
+      {
+        "label": "D",
+        "text": "sprawdzają"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_98",
+    "source": "csv",
+    "question": "___ mi znać jutro.",
+    "options": [
+      {
+        "label": "A",
+        "text": "daj"
+      },
+      {
+        "label": "B",
+        "text": "dajesz"
+      },
+      {
+        "label": "C",
+        "text": "dał"
+      },
+      {
+        "label": "D",
+        "text": "dają"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_99",
+    "source": "csv",
+    "question": "___ to proszę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zrób"
+      },
+      {
+        "label": "B",
+        "text": "robisz"
+      },
+      {
+        "label": "C",
+        "text": "zrobi"
+      },
+      {
+        "label": "D",
+        "text": "robią"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_100",
+    "source": "csv",
+    "question": "___ mi numer telefonu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "podaj"
+      },
+      {
+        "label": "B",
+        "text": "podajesz"
+      },
+      {
+        "label": "C",
+        "text": "podał"
+      },
+      {
+        "label": "D",
+        "text": "podają"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Tryb rozkazujący.",
+    "explanationPl": "",
+    "topic": "Tryb rozkazujący",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_101",
+    "source": "csv",
+    "question": "Mimo ___ pogody, zdecydowaliśmy się na długi spacer po lesie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "niesprzyjającej"
+      },
+      {
+        "label": "B",
+        "text": "niesprzyjającą"
+      },
+      {
+        "label": "C",
+        "text": "niesprzyjające"
+      },
+      {
+        "label": "D",
+        "text": "niesprzyjającym"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'mimo' требует родительного падежа (Dopełniacz). Правильная форма женского рода: 'niesprzyjającej'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_102",
+    "source": "csv",
+    "question": "Nie wyobrażam sobie życia bez ___ i wsparcia moich najbliższych.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przyjaciele"
+      },
+      {
+        "label": "B",
+        "text": "przyjaciół"
+      },
+      {
+        "label": "C",
+        "text": "przyjaciołom"
+      },
+      {
+        "label": "D",
+        "text": "przyjaciółmi"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "После предлога 'bez' используется родительный падеж (Dopełniacz). Множественное число от 'przyjaciel' в родительном падеже — 'przyjaciół'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_103",
+    "source": "csv",
+    "question": "Dyrektor przyglądał się ___ z dużym zainteresowaniem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "nowemu projektowi"
+      },
+      {
+        "label": "B",
+        "text": "nowy projekt"
+      },
+      {
+        "label": "C",
+        "text": "nowego projektu"
+      },
+      {
+        "label": "D",
+        "text": "nowym projektem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'przyglądać się' требует дательного падежа (Celownik). Форма мужского рода: 'nowemu projektowi'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_104",
+    "source": "csv",
+    "question": "Wczoraj spotkałem na ulicy ___ znajomego z czasów liceum.",
+    "options": [
+      {
+        "label": "A",
+        "text": "starego"
+      },
+      {
+        "label": "B",
+        "text": "starym"
+      },
+      {
+        "label": "C",
+        "text": "starego"
+      },
+      {
+        "label": "D",
+        "text": "staremu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'spotkać' требует винительного падежа (Biernik). Для одушевленных существительных мужского рода форма совпадает с родительным падежом: 'starego'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_105",
+    "source": "csv",
+    "question": "Interesuję się ___ polską i chciałbym dowiedzieć się o niej więcej.",
+    "options": [
+      {
+        "label": "A",
+        "text": "historię"
+      },
+      {
+        "label": "B",
+        "text": "historii"
+      },
+      {
+        "label": "C",
+        "text": "historią"
+      },
+      {
+        "label": "D",
+        "text": "historią"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Глагол 'interesować się' требует творительного падежа (Narzędnik). Форма женского рода: 'historią'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_106",
+    "source": "csv",
+    "question": "Często myślę o ___ spędzonych w górach zeszłego lata.",
+    "options": [
+      {
+        "label": "A",
+        "text": "chwilach"
+      },
+      {
+        "label": "B",
+        "text": "chwile"
+      },
+      {
+        "label": "C",
+        "text": "chwil"
+      },
+      {
+        "label": "D",
+        "text": "chwilami"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'o' в значении размышления требует предложного падежа (Miejscownik). Множественное число: 'chwilach'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_107",
+    "source": "csv",
+    "question": "Szukam ___ , która pomogłaby mi w nauce języka polskiego.",
+    "options": [
+      {
+        "label": "A",
+        "text": "osoby"
+      },
+      {
+        "label": "B",
+        "text": "osobę"
+      },
+      {
+        "label": "C",
+        "text": "osobie"
+      },
+      {
+        "label": "D",
+        "text": "osobą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'szukać' требует родительного падежа (Dopełniacz). Форма женского рода: 'osoby'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_108",
+    "source": "csv",
+    "question": "Podczas konferencji rozmawialiśmy o ___ problemach ekologicznych.",
+    "options": [
+      {
+        "label": "A",
+        "text": "współczesnych"
+      },
+      {
+        "label": "B",
+        "text": "współczesne"
+      },
+      {
+        "label": "C",
+        "text": "współczesnym"
+      },
+      {
+        "label": "D",
+        "text": "współczesnymi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'o' требует предложного падежа (Miejscownik). Множественное число прилагательного: 'współczesnych'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_109",
+    "source": "csv",
+    "question": "Nie lubię ___ , które są zbyt głośne i zatłoczone.",
+    "options": [
+      {
+        "label": "A",
+        "text": "miejsc"
+      },
+      {
+        "label": "B",
+        "text": "miejsca"
+      },
+      {
+        "label": "C",
+        "text": "miejscach"
+      },
+      {
+        "label": "D",
+        "text": "miejscami"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'lubić' в отрицании требует родительного падежа (Dopełniacz). Множественное число от 'miejsce' — 'miejsc'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_110",
+    "source": "csv",
+    "question": "Dzięki ___ pomocy udało nam się skończyć projekt na czas.",
+    "options": [
+      {
+        "label": "A",
+        "text": "twojej"
+      },
+      {
+        "label": "B",
+        "text": "twoją"
+      },
+      {
+        "label": "C",
+        "text": "twoim"
+      },
+      {
+        "label": "D",
+        "text": "twoje"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'dzięki' требует дательного падежа (Celownik). Форма женского рода: 'twojej'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_111",
+    "source": "csv",
+    "question": "Zawsze marzyłem o ___ w wielkim mieście.",
+    "options": [
+      {
+        "label": "A",
+        "text": "mieszkaniu"
+      },
+      {
+        "label": "B",
+        "text": "mieszkanie"
+      },
+      {
+        "label": "C",
+        "text": "mieszkania"
+      },
+      {
+        "label": "D",
+        "text": "mieszkaniem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'marzyć o' требует предложного падежа (Miejscownik). Форма среднего рода: 'mieszkaniu'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_112",
+    "source": "csv",
+    "question": "W tym sklepie nie ma ___ produktów spożywczych.",
+    "options": [
+      {
+        "label": "B",
+        "text": "świeże"
+      },
+      {
+        "label": "C",
+        "text": "świeżym"
+      },
+      {
+        "label": "D",
+        "text": "świeżymi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Конструкция 'nie ma' требует родительного падежа (Dopełniacz). Множественное число: 'świeżych'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_113",
+    "source": "csv",
+    "question": "Czy możesz podać mi ten ___ nóż?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ostry"
+      },
+      {
+        "label": "B",
+        "text": "ostrego"
+      },
+      {
+        "label": "C",
+        "text": "ostrym"
+      },
+      {
+        "label": "D",
+        "text": "ostremu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'podać' требует винительного падежа (Biernik). Для неодушевленных предметов мужского рода форма совпадает с именительным: 'ostry'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_114",
+    "source": "csv",
+    "question": "Zadzwonię do ___ jutro rano, żeby ustalić szczegóły.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pana"
+      },
+      {
+        "label": "B",
+        "text": "panu"
+      },
+      {
+        "label": "C",
+        "text": "panem"
+      },
+      {
+        "label": "D",
+        "text": "pan"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'do' требует родительного падежа (Dopełniacz). Форма слова 'pan' — 'pana'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_115",
+    "source": "csv",
+    "question": "On zawsze kieruje się ___ w życiu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "logiką"
+      },
+      {
+        "label": "B",
+        "text": "logikę"
+      },
+      {
+        "label": "C",
+        "text": "logiki"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'kierować się' требует творительного падежа (Narzędnik). Форма женского рода: 'logiką'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_116",
+    "source": "csv",
+    "question": "Wszystkie dzieci czekają na ___ od świętego Mikołaja.",
+    "options": [
+      {
+        "label": "A",
+        "text": "prezenty"
+      },
+      {
+        "label": "B",
+        "text": "prezentów"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'na' с глаголом 'czekać' требует винительного падежа (Biernik). Множественное число (неодушевленное): 'prezenty'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_117",
+    "source": "csv",
+    "question": "Nie wolno wchodzić do ___ bez pozwolenia.",
+    "options": [
+      {
+        "label": "A",
+        "text": "budynku"
+      },
+      {
+        "label": "B",
+        "text": "budynek"
+      },
+      {
+        "label": "C",
+        "text": "budynkowi"
+      },
+      {
+        "label": "D",
+        "text": "budynkiem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'do' требует родительного падежа (Dopełniacz). Форма мужского рода: 'budynku'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_118",
+    "source": "csv",
+    "question": "Znam tego ___ od wielu lat.",
+    "options": [
+      {
+        "label": "A",
+        "text": "człowieka"
+      },
+      {
+        "label": "B",
+        "text": "człowiekowi"
+      },
+      {
+        "label": "C",
+        "text": "człowiekiem"
+      },
+      {
+        "label": "D",
+        "text": "człowieku"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'znać' требует винительного падежа (Biernik). Для одушевленных существительных форма совпадает с родительным: 'człowieka'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_119",
+    "source": "csv",
+    "question": "Podaj mi, proszę, tamtą ___ książkę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "czerwoną"
+      },
+      {
+        "label": "B",
+        "text": "czerwonej"
+      },
+      {
+        "label": "C",
+        "text": "czerwoną"
+      },
+      {
+        "label": "D",
+        "text": "czerwonej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'podać' требует винительного падежа (Biernik). Форма женского рода: 'czerwoną'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_120",
+    "source": "csv",
+    "question": "On jest bardzo podobny do swojego ___ .",
+    "options": [
+      {
+        "label": "A",
+        "text": "ojca"
+      },
+      {
+        "label": "B",
+        "text": "ojcu"
+      },
+      {
+        "label": "C",
+        "text": "ojcem"
+      },
+      {
+        "label": "D",
+        "text": "ojciec"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'do' требует родительного падежа (Dopełniacz). Форма слова 'ojciec' — 'ojca'.",
+    "explanationPl": "",
+    "topic": "Fleksja Imienna",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_121",
+    "source": "csv",
+    "question": "Nie widziałem ___ od bardzo dawna.",
+    "options": [
+      {
+        "label": "A",
+        "text": "go"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "niego"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В отрицательных предложениях с глаголом 'widzieć' используется родительный падеж. Краткая форма 'go' используется, когда на местоимении нет логического ударения и оно не стоит в начале предложения.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_122",
+    "source": "csv",
+    "question": "Czekam na ___ przed kinem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ciebie"
+      },
+      {
+        "label": "B",
+        "text": "cię"
+      },
+      {
+        "label": "C",
+        "text": "tobie"
+      },
+      {
+        "label": "D",
+        "text": "tobą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После предлогов всегда используются полные формы личных местоимений. Правильная форма после 'na' — 'ciebie'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_123",
+    "source": "csv",
+    "question": "To jest mój brat. Bardzo ___ lubię.",
+    "options": [
+      {
+        "label": "A",
+        "text": "go"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "niego"
+      },
+      {
+        "label": "D",
+        "text": "mu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'lubić' требует винительного падежа. Краткая форма 'go' является стандартной для безударной позиции в середине предложения.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_124",
+    "source": "csv",
+    "question": "Czy możesz ___ pomóc w tym zadaniu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "mi"
+      },
+      {
+        "label": "B",
+        "text": "mnie"
+      },
+      {
+        "label": "C",
+        "text": "mną"
+      },
+      {
+        "label": "D",
+        "text": "mną"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'pomóc' требует дательного падежа. Краткая форма 'mi' используется в безударной позиции.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_125",
+    "source": "csv",
+    "question": "Oni zawsze myślą tylko o ___ .",
+    "options": [
+      {
+        "label": "D",
+        "text": "sią"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'o' требует предложного падежа. Возвратное местоимение 'się' в предложном падеже имеет форму 'sobie'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_126",
+    "source": "csv",
+    "question": "To są moje klucze. Gdzie ___ położyłeś?",
+    "options": [
+      {
+        "label": "A",
+        "text": "je"
+      },
+      {
+        "label": "C",
+        "text": "nimi"
+      },
+      {
+        "label": "D",
+        "text": "nie"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Для неодушевленных предметов во множественном числе (не мужско-личностная форма) в винительном падеже используется 'je'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_127",
+    "source": "csv",
+    "question": "Nie lubię ___ , kiedy tak na mnie patrzysz.",
+    "options": [
+      {
+        "label": "A",
+        "text": "tego"
+      },
+      {
+        "label": "B",
+        "text": "to"
+      },
+      {
+        "label": "C",
+        "text": "tym"
+      },
+      {
+        "label": "D",
+        "text": "temu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'lubić' в отрицании требует родительного падежа. Указательное местоимение 'to' в родительном падеже — 'tego'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_128",
+    "source": "csv",
+    "question": "Czy znasz ___ dziewczynę, która tam stoi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "tę"
+      },
+      {
+        "label": "B",
+        "text": "tą"
+      },
+      {
+        "label": "C",
+        "text": "tej"
+      },
+      {
+        "label": "D",
+        "text": "to"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Указательное местоимение 'ta' в винительном падеже (Biernik) имеет форму 'tę'. Форма 'tą' используется в творительном падеже.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_129",
+    "source": "csv",
+    "question": "Podaj ___ tę książkę, proszę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "mu"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "niego"
+      },
+      {
+        "label": "D",
+        "text": "go"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'podać' требует дательного падежа (кому?). Краткая форма для 'on' — 'mu'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_130",
+    "source": "csv",
+    "question": "Rozmawiałem z ___ wczoraj wieczorem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "nią"
+      },
+      {
+        "label": "B",
+        "text": "jej"
+      },
+      {
+        "label": "C",
+        "text": "niej"
+      },
+      {
+        "label": "D",
+        "text": "ją"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог 'z' (в значении 'с кем-то') требует творительного падежа. Форма для 'ona' — 'nią'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_131",
+    "source": "csv",
+    "question": "To jest ___ samochód, a tamten jest mój.",
+    "options": [
+      {
+        "label": "A",
+        "text": "twój"
+      },
+      {
+        "label": "B",
+        "text": "twojego"
+      },
+      {
+        "label": "C",
+        "text": "twoim"
+      },
+      {
+        "label": "D",
+        "text": "twojemu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Притяжательное местоимение в именительном падеже (Mianownik) для мужского рода — 'twój'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_132",
+    "source": "csv",
+    "question": "Nie mam ___ czasu na zabawę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "tyle"
+      },
+      {
+        "label": "B",
+        "text": "tylu"
+      },
+      {
+        "label": "D",
+        "text": "tylu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "С неисчисляемыми существительными (как 'czas') в родительном падеже используется форма 'tyle'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_133",
+    "source": "csv",
+    "question": "Wszyscy ___ zaprosili na to przyjęcie.",
+    "options": [
+      {
+        "label": "D",
+        "text": "my"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'zaprosić' требует винительного падежа. Форма для 'my' — 'nas'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_134",
+    "source": "csv",
+    "question": "Czy widziałeś ___ moje okulary?",
+    "options": [
+      {
+        "label": "A",
+        "text": "gdzieś"
+      },
+      {
+        "label": "B",
+        "text": "dokądś"
+      },
+      {
+        "label": "C",
+        "text": "skądś"
+      },
+      {
+        "label": "D",
+        "text": "kiedyś"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Неопределенное наречие места 'gdzieś' (где-то) подходит по смыслу для поиска потерянного предмета.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_135",
+    "source": "csv",
+    "question": "On zawsze robi wszystko ___ .",
+    "options": [
+      {
+        "label": "D",
+        "text": "самим"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Прилагательное-местоимение 'sam' согласуется с подлежащим 'on' в именительном падеже.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_136",
+    "source": "csv",
+    "question": "Daj ___ spokój, nie chcę o tym rozmawiać.",
+    "options": [
+      {
+        "label": "A",
+        "text": "mi"
+      },
+      {
+        "label": "B",
+        "text": "mnie"
+      },
+      {
+        "label": "C",
+        "text": "mną"
+      },
+      {
+        "label": "D",
+        "text": "mną"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Устойчивое выражение 'daj mi spokój' (оставь меня в покое) использует дательный падеж в краткой форме.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_137",
+    "source": "csv",
+    "question": "To jest dom ___ rodziców.",
+    "options": [
+      {
+        "label": "B",
+        "text": "moje"
+      },
+      {
+        "label": "C",
+        "text": "moim"
+      },
+      {
+        "label": "D",
+        "text": "moimi"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Родительный падеж множественного числа для притяжательного местоимения 'moi' — 'moich'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_138",
+    "source": "csv",
+    "question": "Nie znam ___ w tym mieście.",
+    "options": [
+      {
+        "label": "A",
+        "text": "nikogo"
+      },
+      {
+        "label": "B",
+        "text": "nikt"
+      },
+      {
+        "label": "C",
+        "text": "nikomu"
+      },
+      {
+        "label": "D",
+        "text": "nikim"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В отрицательных предложениях отрицательное местоимение 'nikt' ставится в родительный падеж — 'nikogo'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_139",
+    "source": "csv",
+    "question": "Czy chcesz ___ do picia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "czegoś"
+      },
+      {
+        "label": "B",
+        "text": "coś"
+      },
+      {
+        "label": "C",
+        "text": "czemuś"
+      },
+      {
+        "label": "D",
+        "text": "czymś"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После глагола 'chcieć' в значении 'чего-то немного' или в вопросах часто используется родительный падеж — 'czegoś'.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_140",
+    "source": "csv",
+    "question": "Oni bardzo się ___ kochają.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wzajemnie"
+      },
+      {
+        "label": "B",
+        "text": "siebie"
+      },
+      {
+        "label": "C",
+        "text": "sobie"
+      },
+      {
+        "label": "D",
+        "text": "sobą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Хотя 'się' указывает на возвратность, наречие 'wzajemnie' (взаимно) подчеркивает характер отношений между двумя людьми.",
+    "explanationPl": "",
+    "topic": "Zaimki",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_141",
+    "source": "csv",
+    "question": "Wczoraj przez cały wieczór ___ książkę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "czytałem"
+      },
+      {
+        "label": "B",
+        "text": "przeczytałem"
+      },
+      {
+        "label": "C",
+        "text": "czytałbym"
+      },
+      {
+        "label": "D",
+        "text": "przeczytałbym"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Фраза 'przez cały wieczór' указывает на длительность процесса, поэтому используется несовершенный вид (Aspekt niedokonany) — 'czytałem'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_142",
+    "source": "csv",
+    "question": "Kiedy w końcu ___ ten raport, wyślę go do szefa.",
+    "options": [
+      {
+        "label": "B",
+        "text": "piszę"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Контекст указывает на завершение действия в будущем. Используется совершенный вид (Aspekt dokonany) в будущем времени — 'napiszę'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_143",
+    "source": "csv",
+    "question": "Zawsze ___ zakupy w этом małym sklepiku obok domu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "robię"
+      },
+      {
+        "label": "B",
+        "text": "zrobię"
+      },
+      {
+        "label": "C",
+        "text": "robiłem"
+      },
+      {
+        "label": "D",
+        "text": "zrobiłem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Слово 'zawsze' указывает на повторяющееся, регулярное действие, что требует несовершенного вида (Aspekt niedokonany) — 'robię'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_144",
+    "source": "csv",
+    "question": "Czy możesz ___ mi tę historię jeszcze raz?",
+    "options": [
+      {
+        "label": "C",
+        "text": "opowiesz"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В просьбе совершить конкретное, разовое действие используется совершенный вид (Aspekt dokonany) — 'opowiedzieć'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_145",
+    "source": "csv",
+    "question": "On ___ do mnie codziennie, ale dzisiaj jeszcze nie zadzwonił.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dzwoni"
+      },
+      {
+        "label": "B",
+        "text": "zadzwoni"
+      },
+      {
+        "label": "C",
+        "text": "dzwonił"
+      },
+      {
+        "label": "D",
+        "text": "zadzwonił"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Слово 'codziennie' указывает на привычку или регулярность, что требует несовершенного вида (Aspekt niedokonany) — 'dzwoni'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_146",
+    "source": "csv",
+    "question": "Muszę ___ ten list przed wyjściem na pocztę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "skończyć"
+      },
+      {
+        "label": "B",
+        "text": "kończyć"
+      },
+      {
+        "label": "C",
+        "text": "skończę"
+      },
+      {
+        "label": "D",
+        "text": "kończę"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Модальный глагол 'muszę' в сочетании с целью завершить действие требует инфинитива совершенного вида — 'skończyć'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_147",
+    "source": "csv",
+    "question": "Często ___ o podróży dookoła świata.",
+    "options": [
+      {
+        "label": "A",
+        "text": "marzę"
+      },
+      {
+        "label": "B",
+        "text": "pomarzę"
+      },
+      {
+        "label": "C",
+        "text": "marzyłem"
+      },
+      {
+        "label": "D",
+        "text": "pomarzyłem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Слово 'często' указывает на повторяющееся состояние или действие, что требует несовершенного вида — 'marzę'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_148",
+    "source": "csv",
+    "question": "Wczoraj ___ się na spotkanie, bo autobus się spóźnił.",
+    "options": [
+      {
+        "label": "A",
+        "text": "spóźniłem"
+      },
+      {
+        "label": "C",
+        "text": "spóźnię"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Речь идет о конкретном факте в прошлом, который произошел один раз. Используется совершенный вид — 'spóźniłem'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_149",
+    "source": "csv",
+    "question": "Proszę nie ___ mi teraz, bo jestem bardzo zajęty.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przeszkadzać"
+      },
+      {
+        "label": "B",
+        "text": "przeszkodzić"
+      },
+      {
+        "label": "C",
+        "text": "przeszkadzasz"
+      },
+      {
+        "label": "D",
+        "text": "przeszkodzisz"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В запретах (после 'proszę nie' или 'nie wolno') почти всегда используется несовершенный вид — 'przeszkadzać'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_150",
+    "source": "csv",
+    "question": "Kiedy ___ do domu, od razu poszedłem spać.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wróciłem"
+      },
+      {
+        "label": "B",
+        "text": "wracałem"
+      },
+      {
+        "label": "C",
+        "text": "wrócę"
+      },
+      {
+        "label": "D",
+        "text": "wracam"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Действие 'wrócić' является моментом завершения, после которого последовало другое действие. Используется совершенный вид — 'wrócił'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_151",
+    "source": "csv",
+    "question": "Oni ___ ten dom przez ponad dwa lata.",
+    "options": [
+      {
+        "label": "A",
+        "text": "budowali"
+      },
+      {
+        "label": "B",
+        "text": "zbudowali"
+      },
+      {
+        "label": "C",
+        "text": "budują"
+      },
+      {
+        "label": "D",
+        "text": "zbudują"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Фраза 'przez ponad dwa lata' подчеркивает длительность процесса строительства в прошлом — 'budowali'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_152",
+    "source": "csv",
+    "question": "Czy udało ci się ___ bilet na koncert?",
+    "options": [
+      {
+        "label": "A",
+        "text": "kupić"
+      },
+      {
+        "label": "C",
+        "text": "kupisz"
+      },
+      {
+        "label": "D",
+        "text": "kupujesz"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол 'udać się' (удаться) требует результата, поэтому используется совершенный вид — 'kupić'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_153",
+    "source": "csv",
+    "question": "Zanim ___ obiad, muszę umyć ręce.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zjem"
+      },
+      {
+        "label": "B",
+        "text": "jem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Действие в будущем, которое произойдет после завершения другого. Используется совершенный вид — 'zjem'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_154",
+    "source": "csv",
+    "question": "Każdego ranka ___ kawę i czytam gazetę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "piję"
+      },
+      {
+        "label": "B",
+        "text": "wypiję"
+      },
+      {
+        "label": "C",
+        "text": "piłem"
+      },
+      {
+        "label": "D",
+        "text": "wypiłem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Регулярное утреннее действие требует настоящего времени несовершенного вида — 'piję'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_155",
+    "source": "csv",
+    "question": "Nareszcie ___ klucze, których szukałem od godziny!",
+    "options": [
+      {
+        "label": "A",
+        "text": "znalazłem"
+      },
+      {
+        "label": "B",
+        "text": "znajdowałem"
+      },
+      {
+        "label": "C",
+        "text": "znajdę"
+      },
+      {
+        "label": "D",
+        "text": "znajduję"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Слово 'nareszcie' (наконец-то) указывает на достижение результата после долгих поисков. Используется совершенный вид — 'znalazłem'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_156",
+    "source": "csv",
+    "question": "Nie wolno ___ śmieci na ulicy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wyrzucać"
+      },
+      {
+        "label": "B",
+        "text": "wyrzucić"
+      },
+      {
+        "label": "C",
+        "text": "wyrzucasz"
+      },
+      {
+        "label": "D",
+        "text": "wyrzucisz"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После запрета 'nie wolno' используется несовершенный вид, так как запрет носит общий, постоянный характер — 'wyrzucać'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_157",
+    "source": "csv",
+    "question": "Obiecuję, że ___ do ciebie jutro.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zadzwonię"
+      },
+      {
+        "label": "B",
+        "text": "dzwonię"
+      },
+      {
+        "label": "C",
+        "text": "dzwoniłem"
+      },
+      {
+        "label": "D",
+        "text": "zadzwoniłem"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Обещание касается конкретного действия в будущем. Используется совершенный вид — 'zadzwonię'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_158",
+    "source": "csv",
+    "question": "Kiedy ___ przez park, spotkałem starą znajomą.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przechodziłem"
+      },
+      {
+        "label": "B",
+        "text": "przeszedłem"
+      },
+      {
+        "label": "C",
+        "text": "przechodzę"
+      },
+      {
+        "label": "D",
+        "text": "przejdę"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Действие в прошлом, служившее фоном (процессом) для другого разового события. Используется несовершенный вид — 'przechodziłem'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_159",
+    "source": "csv",
+    "question": "Czy możesz ___ okno? Jest tu bardzo duszno.",
+    "options": [
+      {
+        "label": "A",
+        "text": "otworzyć"
+      },
+      {
+        "label": "C",
+        "text": "otworzysz"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Просьба о разовом результате требует совершенного вида — 'otworzyć'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_160",
+    "source": "csv",
+    "question": "On nigdy nie ___ swoich obietnic.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dotrzymuje"
+      },
+      {
+        "label": "B",
+        "text": "dotrzyma"
+      },
+      {
+        "label": "C",
+        "text": "dotrzymywał"
+      },
+      {
+        "label": "D",
+        "text": "dotrzymał"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Слово 'nigdy' в контексте постоянной характеристики человека требует несовершенного вида — 'dotrzymuje'.",
+    "explanationPl": "",
+    "topic": "Aspekt Czasownika",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_161",
+    "source": "csv",
+    "question": "Ten film był ___ niż ten, który oglądaliśmy w zeszłym tygodniu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ciekawszy"
+      },
+      {
+        "label": "B",
+        "text": "ciekawy"
+      },
+      {
+        "label": "C",
+        "text": "najciekawszy"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Для сравнения двух объектов используется сравнительная степень (Stopień wyższy). Прилагательное 'ciekawy' образует форму 'ciekawszy'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_162",
+    "source": "csv",
+    "question": "Mój brat jest ___ z całej rodziny.",
+    "options": [
+      {
+        "label": "B",
+        "text": "wyższy"
+      },
+      {
+        "label": "C",
+        "text": "wysoki"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "При сравнении одного объекта со всей группой используется превосходная степень (Stopień najwyższy) — 'najwyższy'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_163",
+    "source": "csv",
+    "question": "Dzisiaj czuję się znacznie ___ niż wczoraj.",
+    "options": [
+      {
+        "label": "A",
+        "text": "lepiej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Наречие 'dobrze' имеет неправильную форму сравнительной степени — 'lepiej'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_164",
+    "source": "csv",
+    "question": "To jest ___ książka, jaką kiedykolwiek czytałem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "najgorsza"
+      },
+      {
+        "label": "B",
+        "text": "gorsza"
+      },
+      {
+        "label": "C",
+        "text": "zła"
+      },
+      {
+        "label": "D",
+        "text": "najbardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Превосходная степень от прилагательного 'zły' — 'najgorsza'. Используется для выделения одного объекта из всех.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_165",
+    "source": "csv",
+    "question": "Czy możesz mówić trochę ___? Nic nie słyszę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "głośniej"
+      },
+      {
+        "label": "B",
+        "text": "głośno"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Просьба об изменении интенсивности действия требует сравнительной степени наречия — 'głośniej'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_166",
+    "source": "csv",
+    "question": "Ta sukienka jest ___ od tamtej, ale też droższa.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ładniejsza"
+      },
+      {
+        "label": "B",
+        "text": "ładna"
+      },
+      {
+        "label": "C",
+        "text": "najładniejsza"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень прилагательного 'ładny' — 'ładniejsza'. Используется при сравнении двух предметов с помощью предлога 'od'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_167",
+    "source": "csv",
+    "question": "On biega ___ ze wszystkich uczniów w klasie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "najszybciej"
+      },
+      {
+        "label": "B",
+        "text": "szybciej"
+      },
+      {
+        "label": "C",
+        "text": "szybko"
+      },
+      {
+        "label": "D",
+        "text": "najbardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Превосходная степень наречия 'szybko' — 'najszybciej'. Указывает на лучший результат в группе.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_168",
+    "source": "csv",
+    "question": "Zimą dni są ___ niż latem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "krótsze"
+      },
+      {
+        "label": "B",
+        "text": "krótki"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень прилагательного 'krótki' — 'krótsze'. Сравнение двух времен года.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_169",
+    "source": "csv",
+    "question": "To zadanie wydaje mi się ___ niż poprzednie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trudniejsze"
+      },
+      {
+        "label": "B",
+        "text": "trudne"
+      },
+      {
+        "label": "C",
+        "text": "najtrudniejsze"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень прилагательного 'trudny' — 'trudniejsze'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_170",
+    "source": "csv",
+    "question": "Które miasto w Polsce jest ___?",
+    "options": [
+      {
+        "label": "B",
+        "text": "większe"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Вопрос о лидере по какому-либо признаку требует превосходной степени — 'największe'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_171",
+    "source": "csv",
+    "question": "Musisz uczyć się ___ , jeśli chcesz zdać ten egzamin.",
+    "options": [
+      {
+        "label": "A",
+        "text": "więcej"
+      },
+      {
+        "label": "B",
+        "text": "dużo"
+      },
+      {
+        "label": "C",
+        "text": "najwięcej"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень наречия 'dużo' — 'więcej'. Указывает на необходимость увеличения усилий.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_172",
+    "source": "csv",
+    "question": "Ten samochód jest ___ ze wszystkich dostępnych w salonie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "najnowocześniejszy"
+      },
+      {
+        "label": "B",
+        "text": "nowocześniejszy"
+      },
+      {
+        "label": "C",
+        "text": "nowoczesny"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Превосходная степень для выделения одного объекта из множества — 'najnowocześniejszy'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_173",
+    "source": "csv",
+    "question": "Ona śpiewa ___ niż jej siostra.",
+    "options": [
+      {
+        "label": "A",
+        "text": "piękniej"
+      },
+      {
+        "label": "B",
+        "text": "pięknie"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень наречия 'pięknie' — 'piękniej'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_174",
+    "source": "csv",
+    "question": "To jest ___ droga do centrum miasta.",
+    "options": [
+      {
+        "label": "A",
+        "text": "najkrótsza"
+      },
+      {
+        "label": "B",
+        "text": "krótsza"
+      },
+      {
+        "label": "C",
+        "text": "krótka"
+      },
+      {
+        "label": "D",
+        "text": "najbardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Превосходная степень прилагательного 'krótki' — 'najkrótsza'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_175",
+    "source": "csv",
+    "question": "Mój nowy komputer pracuje ___ niż stary.",
+    "options": [
+      {
+        "label": "A",
+        "text": "szybciej"
+      },
+      {
+        "label": "B",
+        "text": "szybko"
+      },
+      {
+        "label": "C",
+        "text": "najszybciej"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень наречия 'szybko' — 'szybciej'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_176",
+    "source": "csv",
+    "question": "Ten problem jest ___ , niż myślałem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "poważniejszy"
+      },
+      {
+        "label": "B",
+        "text": "poważny"
+      },
+      {
+        "label": "C",
+        "text": "najpoważniejszy"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень прилагательного 'poważny' — 'poważniejszy'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_177",
+    "source": "csv",
+    "question": "On jest ___ studentem na całym uniwersytecie.",
+    "options": [
+      {
+        "label": "B",
+        "text": "lepszym"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Превосходная степень прилагательного 'dobry' — 'najlepszy'. В данном случае в форме творительного падежа — 'najlepszym'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_178",
+    "source": "csv",
+    "question": "Czy możesz przyjechać ___? Bardzo mi na tym zależy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wcześniej"
+      },
+      {
+        "label": "B",
+        "text": "wcześnie"
+      },
+      {
+        "label": "C",
+        "text": "najwcześniej"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень наречия 'wcześnie' — 'wcześniej'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_179",
+    "source": "csv",
+    "question": "Ta herbata jest ___ niż tamta.",
+    "options": [
+      {
+        "label": "A",
+        "text": "słodsza"
+      },
+      {
+        "label": "B",
+        "text": "słodka"
+      },
+      {
+        "label": "C",
+        "text": "najsłodsza"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Сравнительная степень прилагательного 'słodki' — 'słodsza'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "csv_180",
+    "source": "csv",
+    "question": "To był ___ dzień w moim życiu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "najszczęśliwszy"
+      },
+      {
+        "label": "B",
+        "text": "szczęśliwszy"
+      },
+      {
+        "label": "C",
+        "text": "szczęśliwy"
+      },
+      {
+        "label": "D",
+        "text": "najbardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Превосходная степень прилагательного 'szczęśliwy' — 'najszczęśliwszy'.",
+    "explanationPl": "",
+    "topic": "Stopniowanie",
+    "section": "POPRAWNOŚĆ GRAMATYCZNA",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pdf_B1_REKCJA_001",
+    "source": "pdf",
+    "question": "Moja decyzja _______ wynikow egzaminu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zalezy na"
+      },
+      {
+        "label": "B",
+        "text": "zalezy z"
+      },
+      {
+        "label": "C",
+        "text": "zalezy od"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Czasownik **zalezec** (zaviset') vsegda trebuet predloga **od** + roditel'nyj padez (dopelniacz).\n\nFormula: zalezec od kogo? / od czego?\n\nPrimery:\n- To zalezy od pogody. (Eto zavisit ot pogody.)\n- Sukces zalezy od ciezkiej pracy. (Uspekh zavisit ot tyazholoj raboty.)\n\nPochemu ne A: \"zalezy na\" - ne sushchestvuet takoj konstrukcii\nPochemu ne B: \"zalezy z\" - tozhe nepravil'no",
+    "explanationPl": "Czasownik **zalezec** laczy sie z przyimkiem **od** i wymaga dopelniacza.\n\nKonstrukcja: zalezec od kogo? / od czego?\n\nPrzyklad: To zalezy od ciebie.",
+    "topic": "Rekcja czasownikow",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pdf_B1_REKCJA_002",
+    "source": "pdf",
+    "question": "Moj brat bardzo _______ historia Polski.",
+    "options": [
+      {
+        "label": "A",
+        "text": "interesuje o"
+      },
+      {
+        "label": "B",
+        "text": "interesuje sie"
+      },
+      {
+        "label": "C",
+        "text": "interesuje"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Glagol **interesowac sie** (interesovat'sya) - eto vozvratnyj glagol, kotoryj trebuet tvoritel'nogo padezha (narzednik) BEZ predloga.\n\nFormula: interesowac sie kim? / czym?\n\nPrimery:\n- Interesuje sie muzyka. (Ya interesuys' muzykoj.)\n- Ona interesuje sie sportem. (Ona interesuetsya sportom.)\n\nPochemu ne A: \"interesuje o\" - grubaya oshibka\nPochemu ne C: \"interesuje\" bez \"sie\" oznachaet \"interesuet kogo-to\"",
+    "explanationPl": "Czasownik zwrotny **interesowac sie** wymaga narzednika (kim? czym?) bez przyimka.",
+    "topic": "Rekcja czasownikow",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "pdf_B1_NEGACJA_001",
+    "source": "pdf",
+    "question": "Wczoraj kupilem nowy telefon, ale dzisiaj nie mam juz _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "nowy telefon"
+      },
+      {
+        "label": "B",
+        "text": "nowego telefonu"
+      },
+      {
+        "label": "C",
+        "text": "nowym telefonem"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Pri otricanii v pol'skom yazyke vinitel'nyj padezh (biernik) menyaetsya na roditel'nyj (dopelniacz)!\n\nPravilo: NIE + glagol -> dopelniacz vmesto biernika\n\nSravni:\n- Mam nowy telefon. (Biernik - bez otricaniya)\n- Nie mam nowego telefonu. (Dopelniacz - s otricaniem)\n\nEto KLASSICHESKAYA lovushka na ekzamene B1!",
+    "explanationPl": "W zdaniach przeczacych biernik zmienia sie na dopelniacz.\n\nRegula: NIE + czasownik -> dopelniacz zamiast biernika",
+    "topic": "Negacja + dopelniacz",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pdf_B1_ZAIMKI_001",
+    "source": "pdf",
+    "question": "Widzialem Anne wczoraj. Dalem _______ ksiazke, ktora chciala.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ja"
+      },
+      {
+        "label": "B",
+        "text": "ona"
+      },
+      {
+        "label": "C",
+        "text": "jej"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Zdes' nuzhen mestoimenie v datel'nom padezhe (celownik), potomu chto glagol **dac** trebuet: dac KOMU? CO?\n\nFormy mestoimeniya \"ona\":\n- Mianownik (kto?): ona\n- Dopelniacz (kogo?): jej / niej\n- Celownik (komu?): **jej** / niej\n- Biernik (kogo?): ja / nia\n\nPochemu ne A: \"ja\" - eto biernik: \"Widze ja\" (Vizhu eyo)\nPochemu ne B: \"ona\" - eto imenitel'nyj padezh",
+    "explanationPl": "Czasownik **dac** wymaga celownika (komu?) i biernika (co?): dac KOMU ksiazke.",
+    "topic": "Zaimki osobowe",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "pdf_B1_ZEBY_001",
+    "source": "pdf",
+    "question": "Mama poprosila mnie, _______ wczesniej wrocil do domu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zeby"
+      },
+      {
+        "label": "B",
+        "text": "zebym"
+      },
+      {
+        "label": "C",
+        "text": "ze"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Posle glagola **prosic** (prosit'), kogda sub\"ekt glavnogo i pridatochnogo predlozheniya RAZNYJ, ispol'zuetsya konstrukciya **zeby + lichnaya forma glagola**.\n\nPravilo:\n- Odin sub\"ekt -> infinitiv: \"Chce wrocic\"\n- Raznye sub\"ekty -> zeby + lichnaya forma: \"Mama chce, zebym wrocil\"\n\nFormy zeby po licam:\n- ja -> zebym\n- ty -> zebys\n- on/ona -> zeby\n- my -> zebysmy",
+    "explanationPl": "Po czasowniku **prosic**, gdy podmiot zdania glownego i podrzednego jest rozny, uzywamy konstrukcji **zeby + forma osobowa**.",
+    "topic": "Infinityw vs zeby",
+    "difficulty": "high"
+  },
+  {
+    "id": "pdf_B1_WARUNEK_001",
+    "source": "pdf",
+    "question": "_______ mial wiecej czasu, pojechalybym na wakacje.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jesli"
+      },
+      {
+        "label": "B",
+        "text": "Kiedy"
+      },
+      {
+        "label": "C",
+        "text": "Gdybym"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Zdes' nuzhen soyuz dlya nereal'nogo usloviya (tryb warunkowy).\n\nRaznica mezhdu soyuzami:\n\n**GDYBY** - nereal'noe uslovie:\n- Gdybym mial pieniadze, kupilbym dom. (Esli by u menya byli den'gi...)\n\n**JESLI** - real'noe uslovie:\n- Jesli bede mial czas, przyjde. (Esli u menya budet vremya...)\n\n**KIEDY** - vremennoj soyuz (kogda)",
+    "explanationPl": "Potrzebujemy spojnika dla warunku nierealnego (tryb warunkowy).\n\nGDYBY - warunek nierealny\nJESLI - warunek realny",
+    "topic": "Zdania warunkowe",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "pdf_B1_SZYK_001",
+    "source": "pdf",
+    "question": "Ktora forma jest poprawna?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sie bardzo ciesze, ze przyjechales."
+      },
+      {
+        "label": "B",
+        "text": "Bardzo sie ciesze, ze przyjechales."
+      },
+      {
+        "label": "C",
+        "text": "Ciesze bardzo sie, ze przyjechales."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Chastica **sie** v pol'skom yazyke imeet strogie pravila raspolozheniya!\n\nGlavnoe pravilo: **sie** NIKOGDA ne stoit v nachale predlozheniya!\n\nPravil'nye pozicii:\n1. Posle pervogo udarnogo slova: \"Bardzo **sie** ciesze\"\n2. Posle glagola: \"Ciesze **sie** bardzo\"",
+    "explanationPl": "Partykula **sie** ma scisle reguly dotyczace miejsca w zdaniu.\n\nGlowna zasada: **sie** NIGDY nie stoi na poczatku zdania!",
+    "topic": "Szyk zdania",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pdf_B1_BEZOSOBOWE_001",
+    "source": "pdf",
+    "question": "W tym muzeum _______ fotografowac.",
+    "options": [
+      {
+        "label": "A",
+        "text": "sie nie wolno"
+      },
+      {
+        "label": "B",
+        "text": "nie mozna sie"
+      },
+      {
+        "label": "C",
+        "text": "nie wolno"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Bezlichnye konstrukcii - vazhnaya tema B1!\n\nOsnovnye bezlichnye vyrazheniya:\n- **wolno** - mozhno, razresheno\n- **nie wolno** - nel'zya, zapreshcheno\n- **mozna** - mozhno (vozmozhnost')\n- **trzeba** - nuzhno, nado\n\nStruktura: wolno/mozna/trzeba + bezokolicznik (infinitiv)\n\nPochemu ne A: \"sie\" ne mozhet stoyat' v nachale!\nPochemu ne B: \"sie\" zdes' lishnie, \"fotografowac\" ne vozvratnyj",
+    "explanationPl": "Konstrukcje bezosobowe to wazny temat na poziomie B1.\n\nStruktura: wolno/mozna/trzeba + bezokolicznik",
+    "topic": "Formy bezosobowe",
+    "difficulty": "high"
+  },
+  {
+    "id": "pdf_B1_REKCJA_TEKST_001",
+    "source": "pdf",
+    "question": "Moja siostra od dziecka marzyla _______ zostaniu lekarka. Teraz studiuje medycyne i jest bardzo szczesliwa.",
+    "options": [
+      {
+        "label": "A",
+        "text": "o"
+      },
+      {
+        "label": "B",
+        "text": "na"
+      },
+      {
+        "label": "C",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Glagol **marzyc** (mechtat') trebuet predloga **o** + miejscownik.\n\nFormula: marzyc o kim? / o czym?\n\nPrimery:\n- Marze o podrozy dookola swiata.\n- On marzy o nowym samochodzie.\n\nPokhozhie glagoly s \"o\": myslec o, pamietac o, zapomniec o",
+    "explanationPl": "Czasownik **marzyc** laczy sie z przyimkiem **o** i wymaga miejscownika.\n\nKonstrukcja: marzyc o kim? / o czym?",
+    "topic": "Rekcja czasownikow",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "pdf_B1_SPOJNIKI_001",
+    "source": "pdf",
+    "question": "_______ wyjdziesz z domu, sprawdz, czy zamknales okna.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chociaz"
+      },
+      {
+        "label": "B",
+        "text": "Dopoki"
+      },
+      {
+        "label": "C",
+        "text": "Zanim"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Zdes' nuzhen soyuz, kotoryj oznachaet \"prezhde chem\".\n\n**ZANIM** - prezhde chem, do togo kak:\n- Zanim zasniesz, przeczytaj ksiazke.\n\n**DOPOKI** - poka (ne):\n- Dopoki nie skonczysz, nie wyjdziesz.\n\n**CHOCIAZ** - khotya (ustupitel'nyj):\n- Chociaz pada deszcz, pojde na spacer.",
+    "explanationPl": "Potrzebujemy spojnika oznaczajacego \"przed tym, jak\".\n\nZANIM - przed tym, jak\nDOPOKI - tak dlugo, jak\nCHOCIAZ - mimo ze",
+    "topic": "Spojniki czasowe",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pdf_B1_ASPEKT_001",
+    "source": "pdf",
+    "question": "Wczoraj caly wieczor _______ te ksiazke, ale nie skonczylem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przeczytaiem"
+      },
+      {
+        "label": "B",
+        "text": "czytalem"
+      },
+      {
+        "label": "C",
+        "text": "przeczytam"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Zdes' nuzhen **nesovershenny vid** (aspekt niedokonany), potomu chto:\n1. Dejstvie dlilos' kakoe-to vremya (\"caly wieczor\" - ves' vecher)\n2. Dejstvie NE bylo zaversheno (\"nie skonczylem\" - ne zakonchil)\n\nNIEDOKONANY - czytac, pisac, robic:\n- Process, dlitel'nost'\n- Povtoryayushcheesya dejstvie\n- Nezavershyonnoe dejstvie\n\nDOKONANY - przeczytac, napisac, zrobic:\n- Rezul'tat, zavershennost'",
+    "explanationPl": "Potrzebujemy aspektu niedokonanego, poniewaz czynnosc trwala przez jakis czas i NIE zostala zakonczona.",
+    "topic": "Aspekt czasownika",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pdf_B1_ASPEKT_002",
+    "source": "pdf",
+    "question": "Nareszcie _______ ten trudny egzamin! Jestem bardzo szczesliwy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zdawalem"
+      },
+      {
+        "label": "B",
+        "text": "zdaje"
+      },
+      {
+        "label": "C",
+        "text": "zdalem"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Zdes' nuzhen **sovershennyj vid** (aspekt dokonany), potomu chto:\n1. Slovo \"nareszcie\" (nakonec-to) ukazyvaet na dostizhenie rezul'tata\n2. \"Jestem szczesliwy\" - rezul'tat uzhe est', ekzamen sdan!\n\nPara: zdawac (niedok.) vs zdac (dok.)\n\n**zdawac** - sdavat' (process):\n- \"Jutro zdaje egzamin\" - Zavtra sdayu ekzamen\n\n**zdac** - sdat' (uspeshnyj rezul'tat):\n- \"Zdalem egzamin!\" - Ya sdal ekzamen!",
+    "explanationPl": "Potrzebujemy aspektu dokonanego, poniewaz \"nareszcie\" wskazuje na osiagniecie rezultatu.",
+    "topic": "Aspekt czasownika",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "pdf_B1_PRZYIMKI_001",
+    "source": "pdf",
+    "question": "W tym roku jedziemy _______ wakacje do Wloch.",
+    "options": [
+      {
+        "label": "A",
+        "text": "na wakacjach"
+      },
+      {
+        "label": "B",
+        "text": "na wakacje"
+      },
+      {
+        "label": "C",
+        "text": "o wakacjach"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Zdes' nuzhen **biernik** (vinitel'nyj padezh), potomu chto glagol \"jechac\" ukazyvaet na DVIZHENIE, napravlenie.\n\nGlavnoe pravilo: DVIZHENIE vs MESTO\n\n**NA + BIERNIK** - kuda? (dvizhenie):\n- Jade **na wakacje**. (Edu NA kanikuly - kuda?)\n\n**NA + MIEJSCOWNIK** - gde? (mesto):\n- Jestem **na wakacjach**. (Ya NA kanikulakh - gde?)",
+    "explanationPl": "Potrzebujemy biernika, poniewaz czasownik \"jechac\" wskazuje na RUCH, kierunek.\n\nNA + BIERNIK - dokad? (ruch)\nNA + MIEJSCOWNIK - gdzie? (miejsce)",
+    "topic": "Przyimki",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pdf_B1_PRZYIMKI_002",
+    "source": "pdf",
+    "question": "Po pracy zawsze wracam prosto _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "w domu"
+      },
+      {
+        "label": "B",
+        "text": "do domu"
+      },
+      {
+        "label": "C",
+        "text": "na dom"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Glagol \"wracac\" (vozvrashchat'sya) ukazyvaet na DVIZHENIE -> nuzhen predlog napravleniya.\n\nPravilo dlya \"dom\":\n\n**DO domu** - domoj (kuda? - dvizhenie):\n- Ide do domu. (Idu domoj.)\n- Wracam do domu. (Vozvrashchayus' domoj.)\n\n**W domu** - doma (gde? - mesto):\n- Jestem w domu. (Ya doma.)\n- Zostane w domu. (Ostanus' doma.)",
+    "explanationPl": "Czasownik \"wracac\" wskazuje na RUCH -> potrzebujemy przyimka kierunku.\n\nDO domu - dokad? (ruch)\nW domu - gdzie? (miejsce)",
+    "topic": "Przyimki",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "pdf_B1_BIERNA_001",
+    "source": "pdf",
+    "question": "Ten most _______ zbudowany w XIX wieku.",
+    "options": [
+      {
+        "label": "A",
+        "text": "byl"
+      },
+      {
+        "label": "B",
+        "text": "zostal"
+      },
+      {
+        "label": "C",
+        "text": "jest"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Zdes' nuzhna forma stradatel'nogo zaloga dlya **zavershyonnogo dejstviya v proshlom**.\n\nDva tipa stradatel'nogo zaloga:\n\n**ZOSTAC + imieslow** - odnokratnoe, zavershyonnoe dejstvie:\n- Most zostal zbudowany. (Most byl postroen - odin raz, rezul'tat)\n\n**BYC + imieslow** - sostoyanie ili povtoryayushcheesya dejstvie:\n- Most byl zbudowany z drewna. (Most byl postroen iz dereva - opisanie)\n\nV kontekste \"w XIX wieku\" rech' idyot o konkretnom istoricheskom sobytii -> **zostal**.",
+    "explanationPl": "Potrzebujemy strony biernej dla czynnosci zakonczonej w przeszlosci.\n\nZOSTAC + imieslow - czynnosc jednorazowa, zakonczona\nBYC + imieslow - stan lub czynnosc powtarzajaca sie",
+    "topic": "Strona bierna",
+    "difficulty": "high"
+  },
+  {
+    "id": "pdf_B1_BIERNA_002",
+    "source": "pdf",
+    "question": "Kiedy weszlam do pokoju, okno _______ otwarte.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zostalo"
+      },
+      {
+        "label": "B",
+        "text": "bylo"
+      },
+      {
+        "label": "C",
+        "text": "bedzie"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Zdes' opisyvaetsya **sostoyanie** (okno bylo otkrytym), a ne dejstvie otkryvaniya.\n\n**BYLO otwarte** - sostoyanie:\n- \"Okno bylo otwarte\" = Okno bylo otkrytym (ya uvidel ego takim)\n\n**ZOSTALO otwarte** - dejstvie:\n- \"Okno zostalo otwarte przez Anne\" = Okno bylo otkryto Annoj\n\nV predlozhenii \"Kiedy weszlam...\" opisyvaetsya to, chto ya UVIDELA - sostoyanie okna.",
+    "explanationPl": "Opisujemy stan (okno bylo otwarte), nie czynnosc otwierania.\n\nBYLO otwarte - stan\nZOSTALO otwarte - czynnosc",
+    "topic": "Strona bierna",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "pdf_B1_SWOJ_001",
+    "source": "pdf",
+    "question": "Marek kocha _______ zone bardzo mocno.",
+    "options": [
+      {
+        "label": "A",
+        "text": "jego"
+      },
+      {
+        "label": "B",
+        "text": "jej"
+      },
+      {
+        "label": "C",
+        "text": "swoja"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Eto KLASSICHESKAYA lovushka na ekzamene B1!\n\nPravilo dlya \"swoj\":\n\n**SWOJ** ispol'zuetsya, kogda vladelets = podlezhashchee:\n- Marek kocha **swoja** zone. (Marek lyubit SVOYU zhenu - zhenu Mareka)\n\n**JEGO/JEJ** ispol'zuetsya, kogda vladelets =/= podlezhashchee:\n- Marek kocha **jego** zone. (Marek lyubit EGO zhenu - zhenu drugogo muzhchiny!)\n\nVAZHNO: V russkom \"svoj\" i \"ego\" chasto vzaimozamenyaemy. V pol'skom - eto RAZNYE veshchi!",
+    "explanationPl": "To KLASYCZNA pulapka na egzaminie B1!\n\nSWOJ - gdy wlasciciel = podmiot\nJEGO/JEJ - gdy wlasciciel =/= podmiot",
+    "topic": "Zaimki dzierzawcze",
+    "difficulty": "high"
+  },
+  {
+    "id": "pdf_B1_SWOJ_002",
+    "source": "pdf",
+    "question": "Anna rozmawiala z Piotrem. Potem wziela _______ ksiazke i wyszla.",
+    "options": [
+      {
+        "label": "A",
+        "text": "swoja"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "jej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Zdes' nuzhno ponyat', CH'YU knigu vzyala Anna.\n\nEsli Anna vzyala **SVOYU** knigu (knigu Anny):\n- \"Wziela **swoja** ksiazke\"\n\nEsli Anna vzyala knigu **PIOTRA**:\n- \"Wziela **jego** ksiazke\" (knigu Piotra)\n\nBez dopolnitel'nogo konteksta, estestvennaya interpretaciya - Anna vzyala SVOYU knigu (ona ukhodit so svoimi veshchami).\n\nNa ekzamene: esli net yavnogo ukazaniya na \"chuzhoe\", vybiraj \"swoj\"!",
+    "explanationPl": "Bez dodatkowego kontekstu, naturalna interpretacja - Anna wziela SWOJA ksiazke.\n\nNa egzaminie: jesli nie ma wyraznego wskazania na \"cudze\", wybierz \"swoj\"!",
+    "topic": "Zaimki dzierzawcze",
+    "difficulty": "high"
+  },
+  {
+    "id": "pdf_B1_ASPEKT_003",
+    "source": "pdf",
+    "question": "Jutro _______ list do babci.",
+    "options": [
+      {
+        "label": "A",
+        "text": "bede pisac"
+      },
+      {
+        "label": "B",
+        "text": "napiszd"
+      },
+      {
+        "label": "C",
+        "text": "pisalem"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Zdes' nuzhno budushchee vremya. Vybor mezhdu dvumya formami zavisit ot aspekta.\n\n**Sovershennyj vid (dokonany)** - prostaya forma:\n- napiszd, przeczytam, zrobie\n- Ukazyvaet na REZUL'TAT\n- \"Jutro napiszd list\" = Zavtra napishu pis'mo (i zakonchu)\n\n**Nesovershennyj vid (niedokonany)** - sostavnaya forma:\n- bede pisac / bede pisal(a)\n- Ukazyvaet na PROCESS\n- \"Jutro bede pisac list\" = Zavtra budu pisat' pis'mo (process)",
+    "explanationPl": "Potrzebujemy czasu przyszlego. Wybor formy zalezy od aspektu.\n\nAspekt dokonany - forma prosta: napiszd, przeczytam\nAspekt niedokonany - forma zlozona: bede pisac",
+    "topic": "Aspekt czasownika",
+    "difficulty": "medium"
+  },
+  {
+    "id": "pdf_B1_PRZYIMKI_003",
+    "source": "pdf",
+    "question": "Spotkamy sie _______ pracy, okolo godziny 18.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przez prace"
+      },
+      {
+        "label": "B",
+        "text": "za prace"
+      },
+      {
+        "label": "C",
+        "text": "po pracy"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Zdes' nuzhen predlog, oznachayushchij \"posle\".\n\nVremennye predlogi:\n\n**PO + miejscownik** - posle chego-to:\n- po pracy (posle raboty)\n- po obiedzie (posle obeda)\n\n**PRZEZ + biernik** - v techenie:\n- przez godzine (v techenie chasa)\n\n**ZA + biernik** - cherez (promezhutok vremeni):\n- za godzine (cherez chas)\n\nZapomni: PO = posle, PRZEZ = v techenie, ZA = cherez (vremya)",
+    "explanationPl": "Potrzebujemy przyimka oznaczajacego \"po zakonczeniu czegos\".\n\nPO + miejscownik - po zakonczeniu\nPRZEZ + biernik - w trakcie\nZA + biernik - po uplywie czasu",
+    "topic": "Przyimki",
+    "difficulty": "medium"
+  }
+]

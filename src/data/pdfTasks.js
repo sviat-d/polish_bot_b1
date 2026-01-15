@@ -1,0 +1,311 @@
+/**
+ * Tasks from PDF files (20 tasks total)
+ * - 10 from "DEMO_ZADANIA" (v2)
+ * - 10 from "b1_demo_tasks_additional"
+ */
+
+module.exports = [
+  // === FROM DEMO_ZADANIA v2 (10 tasks) ===
+  {
+    id: "pdf_B1_REKCJA_001",
+    source: "pdf",
+    question: "Moja decyzja _______ wynikow egzaminu.",
+    options: [
+      { label: "A", text: "zalezy na" },
+      { label: "B", text: "zalezy z" },
+      { label: "C", text: "zalezy od" }
+    ],
+    correctAnswer: "C",
+    explanationRu: "Czasownik **zalezec** (zaviset') vsegda trebuet predloga **od** + roditel'nyj padez (dopelniacz).\n\nFormula: zalezec od kogo? / od czego?\n\nPrimery:\n- To zalezy od pogody. (Eto zavisit ot pogody.)\n- Sukces zalezy od ciezkiej pracy. (Uspekh zavisit ot tyazholoj raboty.)\n\nPochemu ne A: \"zalezy na\" - ne sushchestvuet takoj konstrukcii\nPochemu ne B: \"zalezy z\" - tozhe nepravil'no",
+    explanationPl: "Czasownik **zalezec** laczy sie z przyimkiem **od** i wymaga dopelniacza.\n\nKonstrukcja: zalezec od kogo? / od czego?\n\nPrzyklad: To zalezy od ciebie.",
+    topic: "Rekcja czasownikow",
+    difficulty: "medium"
+  },
+  {
+    id: "pdf_B1_REKCJA_002",
+    source: "pdf",
+    question: "Moj brat bardzo _______ historia Polski.",
+    options: [
+      { label: "A", text: "interesuje o" },
+      { label: "B", text: "interesuje sie" },
+      { label: "C", text: "interesuje" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Glagol **interesowac sie** (interesovat'sya) - eto vozvratnyj glagol, kotoryj trebuet tvoritel'nogo padezha (narzednik) BEZ predloga.\n\nFormula: interesowac sie kim? / czym?\n\nPrimery:\n- Interesuje sie muzyka. (Ya interesuys' muzykoj.)\n- Ona interesuje sie sportem. (Ona interesuetsya sportom.)\n\nPochemu ne A: \"interesuje o\" - grubaya oshibka\nPochemu ne C: \"interesuje\" bez \"sie\" oznachaet \"interesuet kogo-to\"",
+    explanationPl: "Czasownik zwrotny **interesowac sie** wymaga narzednika (kim? czym?) bez przyimka.",
+    topic: "Rekcja czasownikow",
+    difficulty: "medium-high"
+  },
+  {
+    id: "pdf_B1_NEGACJA_001",
+    source: "pdf",
+    question: "Wczoraj kupilem nowy telefon, ale dzisiaj nie mam juz _______.",
+    options: [
+      { label: "A", text: "nowy telefon" },
+      { label: "B", text: "nowego telefonu" },
+      { label: "C", text: "nowym telefonem" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Pri otricanii v pol'skom yazyke vinitel'nyj padezh (biernik) menyaetsya na roditel'nyj (dopelniacz)!\n\nPravilo: NIE + glagol -> dopelniacz vmesto biernika\n\nSravni:\n- Mam nowy telefon. (Biernik - bez otricaniya)\n- Nie mam nowego telefonu. (Dopelniacz - s otricaniem)\n\nEto KLASSICHESKAYA lovushka na ekzamene B1!",
+    explanationPl: "W zdaniach przeczacych biernik zmienia sie na dopelniacz.\n\nRegula: NIE + czasownik -> dopelniacz zamiast biernika",
+    topic: "Negacja + dopelniacz",
+    difficulty: "medium"
+  },
+  {
+    id: "pdf_B1_ZAIMKI_001",
+    source: "pdf",
+    question: "Widzialem Anne wczoraj. Dalem _______ ksiazke, ktora chciala.",
+    options: [
+      { label: "A", text: "ja" },
+      { label: "B", text: "ona" },
+      { label: "C", text: "jej" }
+    ],
+    correctAnswer: "C",
+    explanationRu: "Zdes' nuzhen mestoimenie v datel'nom padezhe (celownik), potomu chto glagol **dac** trebuet: dac KOMU? CO?\n\nFormy mestoimeniya \"ona\":\n- Mianownik (kto?): ona\n- Dopelniacz (kogo?): jej / niej\n- Celownik (komu?): **jej** / niej\n- Biernik (kogo?): ja / nia\n\nPochemu ne A: \"ja\" - eto biernik: \"Widze ja\" (Vizhu eyo)\nPochemu ne B: \"ona\" - eto imenitel'nyj padezh",
+    explanationPl: "Czasownik **dac** wymaga celownika (komu?) i biernika (co?): dac KOMU ksiazke.",
+    topic: "Zaimki osobowe",
+    difficulty: "medium-high"
+  },
+  {
+    id: "pdf_B1_ZEBY_001",
+    source: "pdf",
+    question: "Mama poprosila mnie, _______ wczesniej wrocil do domu.",
+    options: [
+      { label: "A", text: "zeby" },
+      { label: "B", text: "zebym" },
+      { label: "C", text: "ze" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Posle glagola **prosic** (prosit'), kogda sub\"ekt glavnogo i pridatochnogo predlozheniya RAZNYJ, ispol'zuetsya konstrukciya **zeby + lichnaya forma glagola**.\n\nPravilo:\n- Odin sub\"ekt -> infinitiv: \"Chce wrocic\"\n- Raznye sub\"ekty -> zeby + lichnaya forma: \"Mama chce, zebym wrocil\"\n\nFormy zeby po licam:\n- ja -> zebym\n- ty -> zebys\n- on/ona -> zeby\n- my -> zebysmy",
+    explanationPl: "Po czasowniku **prosic**, gdy podmiot zdania glownego i podrzednego jest rozny, uzywamy konstrukcji **zeby + forma osobowa**.",
+    topic: "Infinityw vs zeby",
+    difficulty: "high"
+  },
+  {
+    id: "pdf_B1_WARUNEK_001",
+    source: "pdf",
+    question: "_______ mial wiecej czasu, pojechalybym na wakacje.",
+    options: [
+      { label: "A", text: "Jesli" },
+      { label: "B", text: "Kiedy" },
+      { label: "C", text: "Gdybym" }
+    ],
+    correctAnswer: "C",
+    explanationRu: "Zdes' nuzhen soyuz dlya nereal'nogo usloviya (tryb warunkowy).\n\nRaznica mezhdu soyuzami:\n\n**GDYBY** - nereal'noe uslovie:\n- Gdybym mial pieniadze, kupilbym dom. (Esli by u menya byli den'gi...)\n\n**JESLI** - real'noe uslovie:\n- Jesli bede mial czas, przyjde. (Esli u menya budet vremya...)\n\n**KIEDY** - vremennoj soyuz (kogda)",
+    explanationPl: "Potrzebujemy spojnika dla warunku nierealnego (tryb warunkowy).\n\nGDYBY - warunek nierealny\nJESLI - warunek realny",
+    topic: "Zdania warunkowe",
+    difficulty: "medium-high"
+  },
+  {
+    id: "pdf_B1_SZYK_001",
+    source: "pdf",
+    question: "Ktora forma jest poprawna?",
+    options: [
+      { label: "A", text: "Sie bardzo ciesze, ze przyjechales." },
+      { label: "B", text: "Bardzo sie ciesze, ze przyjechales." },
+      { label: "C", text: "Ciesze bardzo sie, ze przyjechales." }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Chastica **sie** v pol'skom yazyke imeet strogie pravila raspolozheniya!\n\nGlavnoe pravilo: **sie** NIKOGDA ne stoit v nachale predlozheniya!\n\nPravil'nye pozicii:\n1. Posle pervogo udarnogo slova: \"Bardzo **sie** ciesze\"\n2. Posle glagola: \"Ciesze **sie** bardzo\"",
+    explanationPl: "Partykula **sie** ma scisle reguly dotyczace miejsca w zdaniu.\n\nGlowna zasada: **sie** NIGDY nie stoi na poczatku zdania!",
+    topic: "Szyk zdania",
+    difficulty: "medium"
+  },
+  {
+    id: "pdf_B1_BEZOSOBOWE_001",
+    source: "pdf",
+    question: "W tym muzeum _______ fotografowac.",
+    options: [
+      { label: "A", text: "sie nie wolno" },
+      { label: "B", text: "nie mozna sie" },
+      { label: "C", text: "nie wolno" }
+    ],
+    correctAnswer: "C",
+    explanationRu: "Bezlichnye konstrukcii - vazhnaya tema B1!\n\nOsnovnye bezlichnye vyrazheniya:\n- **wolno** - mozhno, razresheno\n- **nie wolno** - nel'zya, zapreshcheno\n- **mozna** - mozhno (vozmozhnost')\n- **trzeba** - nuzhno, nado\n\nStruktura: wolno/mozna/trzeba + bezokolicznik (infinitiv)\n\nPochemu ne A: \"sie\" ne mozhet stoyat' v nachale!\nPochemu ne B: \"sie\" zdes' lishnie, \"fotografowac\" ne vozvratnyj",
+    explanationPl: "Konstrukcje bezosobowe to wazny temat na poziomie B1.\n\nStruktura: wolno/mozna/trzeba + bezokolicznik",
+    topic: "Formy bezosobowe",
+    difficulty: "high"
+  },
+  {
+    id: "pdf_B1_REKCJA_TEKST_001",
+    source: "pdf",
+    question: "Moja siostra od dziecka marzyla _______ zostaniu lekarka. Teraz studiuje medycyne i jest bardzo szczesliwa.",
+    options: [
+      { label: "A", text: "o" },
+      { label: "B", text: "na" },
+      { label: "C", text: "z" }
+    ],
+    correctAnswer: "A",
+    explanationRu: "Glagol **marzyc** (mechtat') trebuet predloga **o** + miejscownik.\n\nFormula: marzyc o kim? / o czym?\n\nPrimery:\n- Marze o podrozy dookola swiata.\n- On marzy o nowym samochodzie.\n\nPokhozhie glagoly s \"o\": myslec o, pamietac o, zapomniec o",
+    explanationPl: "Czasownik **marzyc** laczy sie z przyimkiem **o** i wymaga miejscownika.\n\nKonstrukcja: marzyc o kim? / o czym?",
+    topic: "Rekcja czasownikow",
+    difficulty: "medium-high"
+  },
+  {
+    id: "pdf_B1_SPOJNIKI_001",
+    source: "pdf",
+    question: "_______ wyjdziesz z domu, sprawdz, czy zamknales okna.",
+    options: [
+      { label: "A", text: "Chociaz" },
+      { label: "B", text: "Dopoki" },
+      { label: "C", text: "Zanim" }
+    ],
+    correctAnswer: "C",
+    explanationRu: "Zdes' nuzhen soyuz, kotoryj oznachaet \"prezhde chem\".\n\n**ZANIM** - prezhde chem, do togo kak:\n- Zanim zasniesz, przeczytaj ksiazke.\n\n**DOPOKI** - poka (ne):\n- Dopoki nie skonczysz, nie wyjdziesz.\n\n**CHOCIAZ** - khotya (ustupitel'nyj):\n- Chociaz pada deszcz, pojde na spacer.",
+    explanationPl: "Potrzebujemy spojnika oznaczajacego \"przed tym, jak\".\n\nZANIM - przed tym, jak\nDOPOKI - tak dlugo, jak\nCHOCIAZ - mimo ze",
+    topic: "Spojniki czasowe",
+    difficulty: "medium"
+  },
+
+  // === FROM b1_demo_tasks_additional (10 tasks) ===
+  {
+    id: "pdf_B1_ASPEKT_001",
+    source: "pdf",
+    question: "Wczoraj caly wieczor _______ te ksiazke, ale nie skonczylem.",
+    options: [
+      { label: "A", text: "przeczytaiem" },
+      { label: "B", text: "czytalem" },
+      { label: "C", text: "przeczytam" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Zdes' nuzhen **nesovershenny vid** (aspekt niedokonany), potomu chto:\n1. Dejstvie dlilos' kakoe-to vremya (\"caly wieczor\" - ves' vecher)\n2. Dejstvie NE bylo zaversheno (\"nie skonczylem\" - ne zakonchil)\n\nNIEDOKONANY - czytac, pisac, robic:\n- Process, dlitel'nost'\n- Povtoryayushcheesya dejstvie\n- Nezavershyonnoe dejstvie\n\nDOKONANY - przeczytac, napisac, zrobic:\n- Rezul'tat, zavershennost'",
+    explanationPl: "Potrzebujemy aspektu niedokonanego, poniewaz czynnosc trwala przez jakis czas i NIE zostala zakonczona.",
+    topic: "Aspekt czasownika",
+    difficulty: "medium"
+  },
+  {
+    id: "pdf_B1_ASPEKT_002",
+    source: "pdf",
+    question: "Nareszcie _______ ten trudny egzamin! Jestem bardzo szczesliwy.",
+    options: [
+      { label: "A", text: "zdawalem" },
+      { label: "B", text: "zdaje" },
+      { label: "C", text: "zdalem" }
+    ],
+    correctAnswer: "C",
+    explanationRu: "Zdes' nuzhen **sovershennyj vid** (aspekt dokonany), potomu chto:\n1. Slovo \"nareszcie\" (nakonec-to) ukazyvaet na dostizhenie rezul'tata\n2. \"Jestem szczesliwy\" - rezul'tat uzhe est', ekzamen sdan!\n\nPara: zdawac (niedok.) vs zdac (dok.)\n\n**zdawac** - sdavat' (process):\n- \"Jutro zdaje egzamin\" - Zavtra sdayu ekzamen\n\n**zdac** - sdat' (uspeshnyj rezul'tat):\n- \"Zdalem egzamin!\" - Ya sdal ekzamen!",
+    explanationPl: "Potrzebujemy aspektu dokonanego, poniewaz \"nareszcie\" wskazuje na osiagniecie rezultatu.",
+    topic: "Aspekt czasownika",
+    difficulty: "medium-high"
+  },
+  {
+    id: "pdf_B1_PRZYIMKI_001",
+    source: "pdf",
+    question: "W tym roku jedziemy _______ wakacje do Wloch.",
+    options: [
+      { label: "A", text: "na wakacjach" },
+      { label: "B", text: "na wakacje" },
+      { label: "C", text: "o wakacjach" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Zdes' nuzhen **biernik** (vinitel'nyj padezh), potomu chto glagol \"jechac\" ukazyvaet na DVIZHENIE, napravlenie.\n\nGlavnoe pravilo: DVIZHENIE vs MESTO\n\n**NA + BIERNIK** - kuda? (dvizhenie):\n- Jade **na wakacje**. (Edu NA kanikuly - kuda?)\n\n**NA + MIEJSCOWNIK** - gde? (mesto):\n- Jestem **na wakacjach**. (Ya NA kanikulakh - gde?)",
+    explanationPl: "Potrzebujemy biernika, poniewaz czasownik \"jechac\" wskazuje na RUCH, kierunek.\n\nNA + BIERNIK - dokad? (ruch)\nNA + MIEJSCOWNIK - gdzie? (miejsce)",
+    topic: "Przyimki",
+    difficulty: "medium"
+  },
+  {
+    id: "pdf_B1_PRZYIMKI_002",
+    source: "pdf",
+    question: "Po pracy zawsze wracam prosto _______.",
+    options: [
+      { label: "A", text: "w domu" },
+      { label: "B", text: "do domu" },
+      { label: "C", text: "na dom" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Glagol \"wracac\" (vozvrashchat'sya) ukazyvaet na DVIZHENIE -> nuzhen predlog napravleniya.\n\nPravilo dlya \"dom\":\n\n**DO domu** - domoj (kuda? - dvizhenie):\n- Ide do domu. (Idu domoj.)\n- Wracam do domu. (Vozvrashchayus' domoj.)\n\n**W domu** - doma (gde? - mesto):\n- Jestem w domu. (Ya doma.)\n- Zostane w domu. (Ostanus' doma.)",
+    explanationPl: "Czasownik \"wracac\" wskazuje na RUCH -> potrzebujemy przyimka kierunku.\n\nDO domu - dokad? (ruch)\nW domu - gdzie? (miejsce)",
+    topic: "Przyimki",
+    difficulty: "medium-high"
+  },
+  {
+    id: "pdf_B1_BIERNA_001",
+    source: "pdf",
+    question: "Ten most _______ zbudowany w XIX wieku.",
+    options: [
+      { label: "A", text: "byl" },
+      { label: "B", text: "zostal" },
+      { label: "C", text: "jest" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Zdes' nuzhna forma stradatel'nogo zaloga dlya **zavershyonnogo dejstviya v proshlom**.\n\nDva tipa stradatel'nogo zaloga:\n\n**ZOSTAC + imieslow** - odnokratnoe, zavershyonnoe dejstvie:\n- Most zostal zbudowany. (Most byl postroen - odin raz, rezul'tat)\n\n**BYC + imieslow** - sostoyanie ili povtoryayushcheesya dejstvie:\n- Most byl zbudowany z drewna. (Most byl postroen iz dereva - opisanie)\n\nV kontekste \"w XIX wieku\" rech' idyot o konkretnom istoricheskom sobytii -> **zostal**.",
+    explanationPl: "Potrzebujemy strony biernej dla czynnosci zakonczonej w przeszlosci.\n\nZOSTAC + imieslow - czynnosc jednorazowa, zakonczona\nBYC + imieslow - stan lub czynnosc powtarzajaca sie",
+    topic: "Strona bierna",
+    difficulty: "high"
+  },
+  {
+    id: "pdf_B1_BIERNA_002",
+    source: "pdf",
+    question: "Kiedy weszlam do pokoju, okno _______ otwarte.",
+    options: [
+      { label: "A", text: "zostalo" },
+      { label: "B", text: "bylo" },
+      { label: "C", text: "bedzie" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Zdes' opisyvaetsya **sostoyanie** (okno bylo otkrytym), a ne dejstvie otkryvaniya.\n\n**BYLO otwarte** - sostoyanie:\n- \"Okno bylo otwarte\" = Okno bylo otkrytym (ya uvidel ego takim)\n\n**ZOSTALO otwarte** - dejstvie:\n- \"Okno zostalo otwarte przez Anne\" = Okno bylo otkryto Annoj\n\nV predlozhenii \"Kiedy weszlam...\" opisyvaetsya to, chto ya UVIDELA - sostoyanie okna.",
+    explanationPl: "Opisujemy stan (okno bylo otwarte), nie czynnosc otwierania.\n\nBYLO otwarte - stan\nZOSTALO otwarte - czynnosc",
+    topic: "Strona bierna",
+    difficulty: "medium-high"
+  },
+  {
+    id: "pdf_B1_SWOJ_001",
+    source: "pdf",
+    question: "Marek kocha _______ zone bardzo mocno.",
+    options: [
+      { label: "A", text: "jego" },
+      { label: "B", text: "jej" },
+      { label: "C", text: "swoja" }
+    ],
+    correctAnswer: "C",
+    explanationRu: "Eto KLASSICHESKAYA lovushka na ekzamene B1!\n\nPravilo dlya \"swoj\":\n\n**SWOJ** ispol'zuetsya, kogda vladelets = podlezhashchee:\n- Marek kocha **swoja** zone. (Marek lyubit SVOYU zhenu - zhenu Mareka)\n\n**JEGO/JEJ** ispol'zuetsya, kogda vladelets =/= podlezhashchee:\n- Marek kocha **jego** zone. (Marek lyubit EGO zhenu - zhenu drugogo muzhchiny!)\n\nVAZHNO: V russkom \"svoj\" i \"ego\" chasto vzaimozamenyaemy. V pol'skom - eto RAZNYE veshchi!",
+    explanationPl: "To KLASYCZNA pulapka na egzaminie B1!\n\nSWOJ - gdy wlasciciel = podmiot\nJEGO/JEJ - gdy wlasciciel =/= podmiot",
+    topic: "Zaimki dzierzawcze",
+    difficulty: "high"
+  },
+  {
+    id: "pdf_B1_SWOJ_002",
+    source: "pdf",
+    question: "Anna rozmawiala z Piotrem. Potem wziela _______ ksiazke i wyszla.",
+    options: [
+      { label: "A", text: "swoja" },
+      { label: "B", text: "jego" },
+      { label: "C", text: "jej" }
+    ],
+    correctAnswer: "A",
+    explanationRu: "Zdes' nuzhno ponyat', CH'YU knigu vzyala Anna.\n\nEsli Anna vzyala **SVOYU** knigu (knigu Anny):\n- \"Wziela **swoja** ksiazke\"\n\nEsli Anna vzyala knigu **PIOTRA**:\n- \"Wziela **jego** ksiazke\" (knigu Piotra)\n\nBez dopolnitel'nogo konteksta, estestvennaya interpretaciya - Anna vzyala SVOYU knigu (ona ukhodit so svoimi veshchami).\n\nNa ekzamene: esli net yavnogo ukazaniya na \"chuzhoe\", vybiraj \"swoj\"!",
+    explanationPl: "Bez dodatkowego kontekstu, naturalna interpretacja - Anna wziela SWOJA ksiazke.\n\nNa egzaminie: jesli nie ma wyraznego wskazania na \"cudze\", wybierz \"swoj\"!",
+    topic: "Zaimki dzierzawcze",
+    difficulty: "high"
+  },
+  {
+    id: "pdf_B1_ASPEKT_003",
+    source: "pdf",
+    question: "Jutro _______ list do babci.",
+    options: [
+      { label: "A", text: "bede pisac" },
+      { label: "B", text: "napiszd" },
+      { label: "C", text: "pisalem" }
+    ],
+    correctAnswer: "B",
+    explanationRu: "Zdes' nuzhno budushchee vremya. Vybor mezhdu dvumya formami zavisit ot aspekta.\n\n**Sovershennyj vid (dokonany)** - prostaya forma:\n- napiszd, przeczytam, zrobie\n- Ukazyvaet na REZUL'TAT\n- \"Jutro napiszd list\" = Zavtra napishu pis'mo (i zakonchu)\n\n**Nesovershennyj vid (niedokonany)** - sostavnaya forma:\n- bede pisac / bede pisal(a)\n- Ukazyvaet na PROCESS\n- \"Jutro bede pisac list\" = Zavtra budu pisat' pis'mo (process)",
+    explanationPl: "Potrzebujemy czasu przyszlego. Wybor formy zalezy od aspektu.\n\nAspekt dokonany - forma prosta: napiszd, przeczytam\nAspekt niedokonany - forma zlozona: bede pisac",
+    topic: "Aspekt czasownika",
+    difficulty: "medium"
+  },
+  {
+    id: "pdf_B1_PRZYIMKI_003",
+    source: "pdf",
+    question: "Spotkamy sie _______ pracy, okolo godziny 18.",
+    options: [
+      { label: "A", text: "przez prace" },
+      { label: "B", text: "za prace" },
+      { label: "C", text: "po pracy" }
+    ],
+    correctAnswer: "C",
+    explanationRu: "Zdes' nuzhen predlog, oznachayushchij \"posle\".\n\nVremennye predlogi:\n\n**PO + miejscownik** - posle chego-to:\n- po pracy (posle raboty)\n- po obiedzie (posle obeda)\n\n**PRZEZ + biernik** - v techenie:\n- przez godzine (v techenie chasa)\n\n**ZA + biernik** - cherez (promezhutok vremeni):\n- za godzine (cherez chas)\n\nZapomni: PO = posle, PRZEZ = v techenie, ZA = cherez (vremya)",
+    explanationPl: "Potrzebujemy przyimka oznaczajacego \"po zakonczeniu czegos\".\n\nPO + miejscownik - po zakonczeniu\nPRZEZ + biernik - w trakcie\nZA + biernik - po uplywie czasu",
+    topic: "Przyimki",
+    difficulty: "medium"
+  }
+];
