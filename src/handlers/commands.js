@@ -93,7 +93,7 @@ async function handleStats(ctx) {
   const stats = userService.calculateStats(user);
   const totalTasks = taskService.getTotalTasksCount();
 
-  await ctx.reply(messages.stats(stats, totalTasks));
+  await ctx.reply(messages.stats(stats, totalTasks, user.language || 'ru'));
 }
 
 /**
@@ -152,6 +152,16 @@ async function handleReset(ctx) {
 }
 
 /**
+ * Handle /lang command - toggle language between RU and PL
+ */
+async function handleLang(ctx) {
+  const chatId = ctx.chat.id;
+  const user = userService.toggleLanguage(chatId);
+
+  await ctx.reply(messages.languageChanged(user.language));
+}
+
+/**
  * Register all command handlers
  */
 function registerCommands(bot) {
@@ -160,6 +170,7 @@ function registerCommands(bot) {
   bot.command('weak', handleWeak);
   bot.command('rating', handleRating);
   bot.command('reset', handleReset);
+  bot.command('lang', handleLang);
 
   // Text handler is registered in bot.js to avoid circular dependencies
 }

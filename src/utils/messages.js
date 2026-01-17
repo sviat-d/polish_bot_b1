@@ -61,7 +61,7 @@ const messages = {
     `Режим тренировки отключен. Продолжаем с обычным режимом.`,
 
   // Statistics
-  stats: (stats, totalTasks) => {
+  stats: (stats, totalTasks, language = 'ru') => {
     let text = `Твоя статистика:\n\n`;
     text += `Всего ответов: ${stats.totalAnswered}\n`;
     text += `Правильных: ${stats.totalCorrect}\n`;
@@ -71,6 +71,10 @@ const messages = {
       const percent = Math.round((stats.totalCorrect / stats.totalAnswered) * 100);
       text += `Точность: ${percent}%\n\n`;
     }
+
+    // Show current language
+    const langName = language === 'ru' ? 'Русский' : 'Polski';
+    text += `Язык объяснений: ${langName}\n\n`;
 
     if (Object.keys(stats.byTopic).length > 0) {
       text += `По темам:\n`;
@@ -141,6 +145,15 @@ const messages = {
 
   resetCancelled: () =>
     `Сброс отменен.`,
+
+  // Language switching
+  languageChanged: (language) => {
+    if (language === 'ru') {
+      return `Язык объяснений изменён на русский`;
+    } else {
+      return `Zmieniono język wyjaśnień na polski`;
+    }
+  },
 
   // Errors
   error: () =>

@@ -18,6 +18,9 @@ function createDefaultUser(chatId) {
     // Answer history
     answers: [],
 
+    // Language preference for explanations ('ru' or 'pl')
+    language: 'ru',
+
     // Rating feature
     ratingEnabled: false,
     ratingAskedAt: null,
@@ -199,6 +202,26 @@ function setWeakTopicMode(chatId, active, topic = null) {
 }
 
 /**
+ * Toggle language preference between 'ru' and 'pl'
+ */
+function toggleLanguage(chatId) {
+  const user = getOrCreateUser(chatId);
+  user.language = user.language === 'ru' ? 'pl' : 'ru';
+  saveUser(user);
+  return user;
+}
+
+/**
+ * Set language preference explicitly
+ */
+function setLanguage(chatId, language) {
+  const user = getOrCreateUser(chatId);
+  user.language = language;
+  saveUser(user);
+  return user;
+}
+
+/**
  * Reset user progress
  */
 function resetUser(chatId) {
@@ -306,6 +329,8 @@ module.exports = {
   disableRating,
   recordRatingAsked,
   setWeakTopicMode,
+  toggleLanguage,
+  setLanguage,
   resetUser,
   calculateStats,
   findWeakestTopic,
