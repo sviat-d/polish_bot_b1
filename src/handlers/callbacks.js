@@ -23,14 +23,14 @@ async function handleTextAnswer(ctx) {
 
   // Get current task
   if (!user.currentTaskId) {
-    await ctx.reply('Zadanie ne najdeno. Napishi /start', keyboard.removeKeyboard());
+    await ctx.reply('Задание не найдено. Напиши /start', keyboard.removeKeyboard());
     return true;
   }
 
   const task = taskService.getTaskById(user.currentTaskId);
 
   if (!task) {
-    await ctx.reply('Zadanie ne najdeno. Napishi /start', keyboard.removeKeyboard());
+    await ctx.reply('Задание не найдено. Напиши /start', keyboard.removeKeyboard());
     return true;
   }
 

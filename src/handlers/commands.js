@@ -106,7 +106,7 @@ async function handleWeak(ctx) {
   // If already in weak mode, show option to exit
   if (user.weakTopicMode?.active) {
     await ctx.reply(
-      `Ty uzhe v rezhime trenirovki temy "${user.weakTopicMode.topic}".`,
+      `Ты уже в режиме тренировки темы "${user.weakTopicMode.topic}".`,
       keyboard.exitWeakModeKeyboard()
     );
     return;
