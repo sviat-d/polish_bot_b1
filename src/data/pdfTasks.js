@@ -15,11 +15,11 @@ module.exports = [
       { label: "C", text: "zależy od" }
     ],
     correctAnswer: "C",
-    explanationRu: `Глагол **zależeć** (зависеть) всегда требует предлога **od** + родительный падеж (dopełniacz).
+    explanationRu: `Глагол zależeć (зависеть) всегда требует предлога od + родительный падеж (dopełniacz).
 
 Это одна из самых важных рекций для экзамена B1!
 
-🔑 Запомни формулу: **zależeć od kogo? / od czego?**
+🔑 Запомни формулу: zależeć od kogo? / od czego?
 
 Примеры:
 • To zależy od pogody. (Это зависит от погоды.)
@@ -32,9 +32,9 @@ module.exports = [
 • "zależy z" — тоже неправильно; предлог "z" не сочетается с этим глаголом
 
 💡 Сравни с русским: "зависеть ОТ чего-то" — здесь логика похожа!`,
-    explanationPl: `Czasownik **zależeć** łączy się z przyimkiem **od** i wymaga dopełniacza.
+    explanationPl: `Czasownik zależeć łączy się z przyimkiem od i wymaga dopełniacza.
 
-🔑 Konstrukcja: **zależeć od kogo? / od czego?**
+🔑 Konstrukcja: zależeć od kogo? / od czego?
 
 Przykłady:
 • To zależy od ciebie.
@@ -59,9 +59,9 @@ Przykłady:
       { label: "C", text: "interesuje" }
     ],
     correctAnswer: "B",
-    explanationRu: `Глагол **interesować się** (интересоваться) — это возвратный глагол, который требует творительного падежа (narzędnik) БЕЗ предлога.
+    explanationRu: `Глагол interesować się (интересоваться) — это возвратный глагол, который требует творительного падежа (narzędnik) БЕЗ предлога.
 
-🔑 Формула: **interesować się kim? / czym?**
+🔑 Формула: interesować się kim? / czym?
 
 Примеры:
 • Interesuję się muzyką. (Я интересуюсь музыкой.)
@@ -75,9 +75,9 @@ Przykłady:
   "Ta książka interesuje mnie" = Эта книга интересует меня.
 
 ⚠️ Типичная ошибка русскоязычных: путать "interesować" и "interesować się"!`,
-    explanationPl: `Czasownik zwrotny **interesować się** wymaga narzędnika (kim? czym?) bez przyimka.
+    explanationPl: `Czasownik zwrotny interesować się wymaga narzędnika (kim? czym?) bez przyimka.
 
-🔑 Konstrukcja: **interesować się + narzędnik**
+🔑 Konstrukcja: interesować się + narzędnik
 
 Przykłady:
 • Interesuję się sztuką.
@@ -107,7 +107,7 @@ Przykłady:
     correctAnswer: "B",
     explanationRu: `При отрицании в польском языке винительный падеж (biernik) меняется на родительный (dopełniacz)!
 
-🔑 Правило: **NIE + глагол → dopełniacz вместо biernika**
+🔑 Правило: NIE + глагол → dopełniacz вместо biernika
 
 Сравни:
 ✅ Mam nowy telefon. (Biernik — без отрицания)
@@ -124,7 +124,7 @@ Przykłady:
 💡 Работает с глаголами: nie mam, nie widzę, nie znam, nie lubię, nie chcę...`,
     explanationPl: `W zdaniach przeczących biernik zmienia się na dopełniacz.
 
-🔑 Reguła: **NIE + czasownik → dopełniacz zamiast biernika**
+🔑 Reguła: NIE + czasownik → dopełniacz zamiast biernika
 
 Porównaj:
 ✅ Widzę samochód. (biernik)
@@ -152,12 +152,12 @@ Porównaj:
       { label: "C", text: "jej" }
     ],
     correctAnswer: "C",
-    explanationRu: `Здесь нужен местоимение в дательном падеже (celownik), потому что глагол **dać** требует: dać KOMU? CO?
+    explanationRu: `Здесь нужен местоимение в дательном падеже (celownik), потому что глагол dać требует: dać KOMU? CO?
 
 🔑 Формы местоимения "ona":
 • Mianownik (кто?): ona
 • Dopełniacz (кого?): jej / niej
-• Celownik (кому?): **jej** / niej
+• Celownik (кому?): jej / niej
 • Biernik (кого?): ją / nią
 • Narzędnik (с кем?): nią
 • Miejscownik (о ком?): niej
@@ -170,12 +170,12 @@ Porównaj:
 • "ona" — это именительный падеж, используется только как подлежащее.
 
 ⚠️ Ловушка: "jej" может быть и dopełniaczem, и celownikiem! Контекст решает.`,
-    explanationPl: `Czasownik **dać** wymaga celownika (komu?) i biernika (co?): dać KOMU książkę.
+    explanationPl: `Czasownik dać wymaga celownika (komu?) i biernika (co?): dać KOMU książkę.
 
 🔑 Odmiana zaimka "ona":
 • Mianownik: ona
 • Dopełniacz: jej / niej
-• Celownik: **jej** / niej
+• Celownik: jej / niej
 • Biernik: ją / nią
 
 ❌ Dlaczego nie A:
@@ -200,7 +200,7 @@ Porównaj:
       { label: "C", text: "że" }
     ],
     correctAnswer: "B",
-    explanationRu: `После глагола **prosić** (просить), когда субъект главного и придаточного предложения РАЗНЫЙ, используется конструкция **żeby + личная форма глагола**.
+    explanationRu: `После глагола prosić (просить), когда субъект главного и придаточного предложения РАЗНЫЙ, используется конструкция żeby + личная форма глагола.
 
 🔑 Правило:
 • Один субъект → инфинитив: "Chcę wrócić" (Я хочу вернуться)
@@ -220,7 +220,7 @@ Porównaj:
 
 ❌ Почему не C:
 • "że" — это союз "что", не "чтобы". Он вводит факт, а не просьбу/желание.`,
-    explanationPl: `Po czasowniku **prosić**, gdy podmiot zdania głównego i podrzędnego jest różny, używamy konstrukcji **żeby + forma osobowa**.
+    explanationPl: `Po czasowniku prosić, gdy podmiot zdania głównego i podrzędnego jest różny, używamy konstrukcji żeby + forma osobowa.
 
 🔑 Reguła:
 • Ten sam podmiot → bezokolicznik: "Chcę wrócić"
@@ -259,15 +259,15 @@ Formy żeby:
 
 🔑 Разница между союзами:
 
-**GDYBY** — нереальное условие (сослагательное):
+GDYBY — нереальное условие (сослагательное):
 • Gdybym miał pieniądze, kupiłbym dom. (Если бы у меня были деньги...)
 • Используется с формами на -bym, -byś, -by...
 
-**JEŚLI / JEŻELI** — реальное условие (изъявительное):
+JEŚLI / JEŻELI — реальное условие (изъявительное):
 • Jeśli będę miał czas, przyjdę. (Если у меня будет время...)
 • Используется с обычными временами
 
-**KIEDY** — временной союз (когда):
+KIEDY — временной союз (когда):
 • Kiedy przyjdziesz, zadzwoń. (Когда придёшь, позвони.)
 
 ❌ Почему не A:
@@ -282,15 +282,15 @@ Formy żeby:
 
 🔑 Różnica między spójnikami:
 
-**GDYBY** — warunek nierealny:
+GDYBY — warunek nierealny:
 • Gdybym wiedział, powiedziałbym ci.
 • Łączy się z trybem warunkowym (-bym, -byś, -by...)
 
-**JEŚLI / JEŻELI** — warunek realny:
+JEŚLI / JEŻELI — warunek realny:
 • Jeśli będziesz chciał, pomogę ci.
 • Łączy się z trybem oznajmującym
 
-**KIEDY** — spójnik czasowy:
+KIEDY — spójnik czasowy:
 • Kiedy skończysz, zadzwoń.
 
 ❌ Dlaczego nie A:
@@ -312,13 +312,13 @@ Formy żeby:
       { label: "C", text: "Cieszę bardzo się, że przyjechałeś." }
     ],
     correctAnswer: "B",
-    explanationRu: `Частица **się** в польском языке имеет строгие правила расположения!
+    explanationRu: `Частица się в польском языке имеет строгие правила расположения!
 
-🔑 Главное правило: **się** НИКОГДА не стоит в начале предложения!
+🔑 Главное правило: się НИКОГДА не стоит в начале предложения!
 
 Правильные позиции:
-1. После первого ударного слова: "Bardzo **się** cieszę"
-2. После глагола: "Cieszę **się** bardzo" (тоже верно)
+1. После первого ударного слова: "Bardzo się cieszę"
+2. После глагола: "Cieszę się bardzo" (тоже верно)
 
 ❌ Почему не A:
 • "Się" в начале предложения — грубая ошибка!
@@ -329,13 +329,13 @@ Formy żeby:
 • "się" не должно стоять в конце фразы после наречия
 
 ⚠️ Запомни: если предложение начинается с наречия или другого слова, "się" идёт сразу после него!`,
-    explanationPl: `Partykuła **się** ma ścisłe reguły dotyczące miejsca w zdaniu.
+    explanationPl: `Partykuła się ma ścisłe reguły dotyczące miejsca w zdaniu.
 
-🔑 Główna zasada: **się** NIGDY nie stoi na początku zdania!
+🔑 Główna zasada: się NIGDY nie stoi na początku zdania!
 
 Poprawne pozycje:
-1. Po pierwszym wyrazie akcentowanym: "Bardzo **się** cieszę"
-2. Po czasowniku: "Cieszę **się** bardzo"
+1. Po pierwszym wyrazie akcentowanym: "Bardzo się cieszę"
+2. Po czasowniku: "Cieszę się bardzo"
 
 ❌ Dlaczego nie A:
 • "Się" na początku zdania to błąd!
@@ -362,14 +362,14 @@ Poprawne pozycje:
     explanationRu: `Безличные конструкции — важная тема B1!
 
 🔑 Основные безличные выражения:
-• **wolno** — можно, разрешено
-• **nie wolno** — нельзя, запрещено
-• **można** — можно (возможность)
-• **nie można** — нельзя (невозможность)
-• **trzeba** — нужно, надо
-• **warto** — стоит
+• wolno — можно, разрешено
+• nie wolno — нельзя, запрещено
+• można — можно (возможность)
+• nie można — нельзя (невозможность)
+• trzeba — нужно, надо
+• warto — стоит
 
-Структура: **wolno/można/trzeba + bezokolicznik (инфинитив)**
+Структура: wolno/można/trzeba + bezokolicznik (инфинитив)
 
 ✅ "Nie wolno fotografować" = Фотографировать запрещено
 
@@ -385,13 +385,13 @@ Poprawne pozycje:
     explanationPl: `Konstrukcje bezosobowe to ważny temat na poziomie B1.
 
 🔑 Podstawowe wyrażenia bezosobowe:
-• **wolno** — jest dozwolone
-• **nie wolno** — jest zabronione
-• **można** — jest możliwe
-• **trzeba** — jest konieczne
-• **warto** — jest wartościowe
+• wolno — jest dozwolone
+• nie wolno — jest zabronione
+• można — jest możliwe
+• trzeba — jest konieczne
+• warto — jest wartościowe
 
-Struktura: **wolno/można/trzeba + bezokolicznik**
+Struktura: wolno/można/trzeba + bezokolicznik
 
 ✅ "Nie wolno fotografować" = Fotografowanie jest zabronione
 
@@ -417,9 +417,9 @@ Struktura: **wolno/można/trzeba + bezokolicznik**
       { label: "C", text: "z" }
     ],
     correctAnswer: "A",
-    explanationRu: `Глагол **marzyć** (мечтать) требует предлога **o** + miejscownik (предложный падеж).
+    explanationRu: `Глагол marzyć (мечтать) требует предлога o + miejscownik (предложный падеж).
 
-🔑 Формула: **marzyć o kim? / o czym?**
+🔑 Формула: marzyć o kim? / o czym?
 
 Примеры:
 • Marzę o podróży dookoła świata. (Мечтаю о путешествии...)
@@ -438,9 +438,9 @@ Struktura: **wolno/można/trzeba + bezokolicznik**
 • pamiętać o (помнить о)
 • zapomnieć o (забыть о)
 • opowiadać o (рассказывать о)`,
-    explanationPl: `Czasownik **marzyć** łączy się z przyimkiem **o** i wymaga miejscownika.
+    explanationPl: `Czasownik marzyć łączy się z przyimkiem o i wymaga miejscownika.
 
-🔑 Konstrukcja: **marzyć o kim? / o czym?**
+🔑 Konstrukcja: marzyć o kim? / o czym?
 
 Przykłady:
 • Marzę o wakacjach.
@@ -470,15 +470,15 @@ Przykłady:
 
 🔑 Разница между союзами:
 
-**ZANIM** — прежде чем, до того как:
+ZANIM — прежде чем, до того как:
 • Zanim zaśniesz, przeczytaj książkę. (Прежде чем заснёшь...)
 • Действие в придаточном происходит РАНЬШЕ
 
-**DOPÓKI** — пока (не):
+DOPÓKI — пока (не):
 • Dopóki nie skończysz, nie wyjdziesz. (Пока не закончишь...)
 • Указывает на продолжительность
 
-**CHOCIAŻ** — хотя (уступительный):
+CHOCIAŻ — хотя (уступительный):
 • Chociaż pada deszcz, pójdę na spacer. (Хотя идёт дождь...)
 
 ❌ Почему не A:
@@ -493,15 +493,15 @@ Przykłady:
 
 🔑 Różnica między spójnikami:
 
-**ZANIM** — przed tym, jak:
+ZANIM — przed tym, jak:
 • Zanim wyjdziesz, zadzwoń do mamy.
 • Czynność w zdaniu podrzędnym następuje PÓŹNIEJ
 
-**DOPÓKI** — tak długo, jak:
+DOPÓKI — tak długo, jak:
 • Dopóki żyję, będę walczyć.
 • Wskazuje na trwanie
 
-**CHOCIAŻ** — mimo że (przyzwolenie):
+CHOCIAŻ — mimo że (przyzwolenie):
 • Chociaż jestem zmęczony, pójdę na trening.
 
 ❌ Dlaczego nie A:
@@ -526,18 +526,18 @@ Przykłady:
       { label: "C", text: "przeczytam" }
     ],
     correctAnswer: "B",
-    explanationRu: `Здесь нужен **несовершенный вид** (aspekt niedokonany), потому что:
+    explanationRu: `Здесь нужен несовершенный вид (aspekt niedokonany), потому что:
 1. Действие длилось какое-то время ("cały wieczór" — весь вечер)
 2. Действие НЕ было завершено ("nie skończyłem" — не закончил)
 
 🔑 Правило выбора аспекта:
 
-**NIEDOKONANY** (несовершенный) — czytać, pisać, robić:
+NIEDOKONANY (несовершенный) — czytać, pisać, robić:
 • Процесс, длительность: "Cały dzień czytałem"
 • Повторяющееся действие: "Codziennie czytam gazetę"
 • Незавершённое действие: "Czytałem, ale nie skończyłem"
 
-**DOKONANY** (совершенный) — przeczytać, napisać, zrobić:
+DOKONANY (совершенный) — przeczytać, napisać, zrobić:
 • Результат, завершённость: "Przeczytałem książkę" (= закончил читать)
 • Однократное завершённое действие
 
@@ -549,18 +549,18 @@ Przykłady:
 • "przeczytam" — это будущее время, а здесь "wczoraj" (вчера)
 
 ⚠️ Ключевые маркеры для niedokonany: cały dzień/wieczór, długo, zawsze, często, jeszcze nie...`,
-    explanationPl: `Potrzebujemy **aspektu niedokonanego**, ponieważ:
+    explanationPl: `Potrzebujemy aspektu niedokonanego, ponieważ:
 1. Czynność trwała przez jakiś czas ("cały wieczór")
 2. Czynność NIE została zakończona ("nie skończyłem")
 
 🔑 Zasada wyboru aspektu:
 
-**NIEDOKONANY** — czytać, pisać, robić:
+NIEDOKONANY — czytać, pisać, robić:
 • Proces, trwanie: "Cały dzień czytałem"
 • Czynność powtarzająca się: "Codziennie czytam"
 • Czynność niezakończona
 
-**DOKONANY** — przeczytać, napisać, zrobić:
+DOKONANY — przeczytać, napisać, zrobić:
 • Rezultat, zakończenie: "Przeczytałem książkę"
 • Czynność jednorazowa, zakończona
 
@@ -584,17 +584,17 @@ Przykłady:
       { label: "C", text: "zdałem" }
     ],
     correctAnswer: "C",
-    explanationRu: `Здесь нужен **совершенный вид** (aspekt dokonany), потому что:
+    explanationRu: `Здесь нужен совершенный вид (aspekt dokonany), потому что:
 1. Слово "nareszcie" (наконец-то) указывает на достижение результата
 2. "Jestem szczęśliwy" — результат уже есть, экзамен сдан!
 
 🔑 Пара: zdawać (niedok.) vs zdać (dok.)
 
-**zdawać** — сдавать (процесс, попытка):
+zdawać — сдавать (процесс, попытка):
 • "Jutro zdaję egzamin" — Завтра сдаю экзамен (буду пытаться)
 • "Wczoraj zdawałem egzamin" — Вчера сдавал (процесс, без указания результата)
 
-**zdać** — сдать (успешный результат):
+zdać — сдать (успешный результат):
 • "Zdałem egzamin!" — Я сдал экзамен! (успешно)
 • Внимание: "nie zdałem" = не сдал (провалил)
 
@@ -606,17 +606,17 @@ Przykłady:
 • "zdaję" — настоящее время, но контекст указывает на прошлое
 
 ⚠️ Ловушка: "zdawać egzamin" ≠ "сдать экзамен"! Это только "пытаться сдать".`,
-    explanationPl: `Potrzebujemy **aspektu dokonanego**, ponieważ:
+    explanationPl: `Potrzebujemy aspektu dokonanego, ponieważ:
 1. "Nareszcie" wskazuje na osiągnięcie rezultatu
 2. "Jestem szczęśliwy" — rezultat już jest, egzamin zdany!
 
 🔑 Para: zdawać (niedok.) vs zdać (dok.)
 
-**zdawać** — przystępować do egzaminu (proces):
+zdawać — przystępować do egzaminu (proces):
 • "Jutro zdaję egzamin" — będę próbował
 • "Wczoraj zdawałem" — proces, bez informacji o wyniku
 
-**zdać** — zaliczyć egzamin (sukces):
+zdać — zaliczyć egzamin (sukces):
 • "Zdałem egzamin!" — sukces!
 • "Nie zdałem" — porażka
 
@@ -640,17 +640,17 @@ Przykłady:
       { label: "C", text: "o wakacjach" }
     ],
     correctAnswer: "B",
-    explanationRu: `Здесь нужен **biernik** (винительный падеж), потому что глагол "jechać" указывает на ДВИЖЕНИЕ, направление.
+    explanationRu: `Здесь нужен biernik (винительный падеж), потому что глагол "jechać" указывает на ДВИЖЕНИЕ, направление.
 
 🔑 Главное правило: ДВИЖЕНИЕ vs МЕСТО
 
-**NA + BIERNIK** — куда? (движение, направление):
-• Jadę **na wakacje**. (Еду НА каникулы — куда?)
-• Idę **na pocztę**. (Иду НА почту — куда?)
+NA + BIERNIK — куда? (движение, направление):
+• Jadę na wakacje. (Еду НА каникулы — куда?)
+• Idę na pocztę. (Иду НА почту — куда?)
 
-**NA + MIEJSCOWNIK** — где? (место, положение):
-• Jestem **na wakacjach**. (Я НА каникулах — где?)
-• Jestem **na poczcie**. (Я НА почте — где?)
+NA + MIEJSCOWNIK — где? (место, положение):
+• Jestem na wakacjach. (Я НА каникулах — где?)
+• Jestem na poczcie. (Я НА почте — где?)
 
 ❌ Почему не A:
 • "na wakacjach" — это miejscownik, отвечает на вопрос "где?"
@@ -664,17 +664,17 @@ Przykłady:
 • jechać NA wakacje → być NA wakacjach
 • iść DO domu → być W domu
 • iść NA pocztę → być NA poczcie`,
-    explanationPl: `Potrzebujemy **biernika**, ponieważ czasownik "jechać" wskazuje na RUCH, kierunek.
+    explanationPl: `Potrzebujemy biernika, ponieważ czasownik "jechać" wskazuje na RUCH, kierunek.
 
 🔑 Główna zasada: RUCH vs MIEJSCE
 
-**NA + BIERNIK** — dokąd? (ruch):
-• Jadę **na wakacje**.
-• Idę **na pocztę**.
+NA + BIERNIK — dokąd? (ruch):
+• Jadę na wakacje.
+• Idę na pocztę.
 
-**NA + MIEJSCOWNIK** — gdzie? (miejsce):
-• Jestem **na wakacjach**.
-• Jestem **na poczcie**.
+NA + MIEJSCOWNIK — gdzie? (miejsce):
+• Jestem na wakacjach.
+• Jestem na poczcie.
 
 ❌ Dlaczego nie A:
 • "na wakacjach" to miejscownik — odpowiada na "gdzie?"
@@ -702,11 +702,11 @@ Przykłady:
 
 🔑 Правило для "дом":
 
-**DO domu** — домой (куда? — движение):
+DO domu — домой (куда? — движение):
 • Idę do domu. (Иду домой.)
 • Wracam do domu. (Возвращаюсь домой.)
 
-**W domu** — дома (где? — место):
+W domu — дома (где? — место):
 • Jestem w domu. (Я дома.)
 • Zostanę w domu. (Останусь дома.)
 
@@ -726,11 +726,11 @@ Przykłady:
 
 🔑 Zasada dla "dom":
 
-**DO domu** — dokąd? (ruch):
+DO domu — dokąd? (ruch):
 • Idę do domu.
 • Wracam do domu.
 
-**W domu** — gdzie? (miejsce):
+W domu — gdzie? (miejsce):
 • Jestem w domu.
 • Zostanę w domu.
 
@@ -759,19 +759,19 @@ Przykłady:
       { label: "C", text: "jest" }
     ],
     correctAnswer: "B",
-    explanationRu: `Здесь нужна форма страдательного залога для **завершённого действия в прошлом**.
+    explanationRu: `Здесь нужна форма страдательного залога для завершённого действия в прошлом.
 
 🔑 Два типа страдательного залога в польском:
 
-**ZOSTAĆ + imiesłów** — однократное, завершённое действие:
+ZOSTAĆ + imiesłów — однократное, завершённое действие:
 • Most został zbudowany. (Мост был построен — один раз, результат)
 • Okno zostało otwarte. (Окно было открыто — кто-то открыл)
 
-**BYĆ + imiesłów** — состояние или повторяющееся действие:
+BYĆ + imiesłów — состояние или повторяющееся действие:
 • Most był zbudowany z drewna. (Мост был построен из дерева — описание)
 • Okno było otwarte. (Окно было открытым — состояние)
 
-В контексте "w XIX wieku" речь идёт о конкретном историческом событии → **został**.
+В контексте "w XIX wieku" речь идёт о конкретном историческом событии → został.
 
 ❌ Почему не A:
 • "był zbudowany" — описывает состояние, а не акт строительства
@@ -783,19 +783,19 @@ Przykłady:
 
 ⚠️ Подсказка: если можно добавить "кем?" (przez kogo?), то скорее всего нужен "zostać":
 • Most został zbudowany przez inżynierów.`,
-    explanationPl: `Potrzebujemy strony biernej dla **czynności zakończonej w przeszłości**.
+    explanationPl: `Potrzebujemy strony biernej dla czynności zakończonej w przeszłości.
 
 🔑 Dwa typy strony biernej:
 
-**ZOSTAĆ + imiesłów** — czynność jednorazowa, zakończona:
+ZOSTAĆ + imiesłów — czynność jednorazowa, zakończona:
 • Most został zbudowany. (akt budowy)
 • List został wysłany. (akt wysłania)
 
-**BYĆ + imiesłów** — stan lub czynność powtarzająca się:
+BYĆ + imiesłów — stan lub czynność powtarzająca się:
 • Most był zbudowany z drewna. (opis stanu)
 • List był pisany przez godzinę. (proces)
 
-W kontekście "w XIX wieku" chodzi o konkretne wydarzenie → **został**.
+W kontekście "w XIX wieku" chodzi o konkretne wydarzenie → został.
 
 ❌ Dlaczego nie A:
 • "był zbudowany" opisuje stan, nie akt budowy
@@ -819,15 +819,15 @@ W kontekście "w XIX wieku" chodzi o konkretne wydarzenie → **został**.
       { label: "C", text: "będzie" }
     ],
     correctAnswer: "B",
-    explanationRu: `Здесь описывается **состояние** (окно было открытым), а не действие открывания.
+    explanationRu: `Здесь описывается состояние (окно было открытым), а не действие открывания.
 
 🔑 Разница в контексте:
 
-**BYŁO otwarte** — состояние:
+BYŁO otwarte — состояние:
 • "Okno było otwarte" = Окно было открытым (я увидел его таким)
 • Не важно, кто открыл — важно состояние
 
-**ZOSTAŁO otwarte** — действие:
+ZOSTAŁO otwarte — действие:
 • "Okno zostało otwarte przez Annę" = Окно было открыто Анной
 • Акцент на действии открывания
 
@@ -843,15 +843,15 @@ W kontekście "w XIX wieku" chodzi o konkretne wydarzenie → **został**.
 
 ⚠️ Тест: если можно заменить на прилагательное — используй "być":
 • Okno było otwarte ≈ Okno było duże (состояние/свойство)`,
-    explanationPl: `Opisujemy **stan** (okno było otwarte), nie czynność otwierania.
+    explanationPl: `Opisujemy stan (okno było otwarte), nie czynność otwierania.
 
 🔑 Różnica w kontekście:
 
-**BYŁO otwarte** — stan:
+BYŁO otwarte — stan:
 • "Okno było otwarte" = zobaczyłam je w takim stanie
 • Nie ważne, kto otworzył — ważny stan
 
-**ZOSTAŁO otwarte** — czynność:
+ZOSTAŁO otwarte — czynność:
 • "Okno zostało otwarte przez Annę" = Anna je otworzyła
 • Akcent na czynności
 
@@ -881,15 +881,15 @@ W zdaniu "Kiedy weszłam..." opisuję to, co ZOBACZYŁAM — stan okna.
 
 🔑 Правило для "swój":
 
-**SWÓJ** используется, когда владелец = подлежащее:
-• Marek kocha **swoją** żonę. (Марек любит СВОЮ жену — жену Марека)
-• Ja kocham **swoją** pracę. (Я люблю СВОЮ работу)
+SWÓJ используется, когда владелец = подлежащее:
+• Marek kocha swoją żonę. (Марек любит СВОЮ жену — жену Марека)
+• Ja kocham swoją pracę. (Я люблю СВОЮ работу)
 
-**JEGO/JEJ** используется, когда владелец ≠ подлежащее:
-• Marek kocha **jego** żonę. (Марек любит ЕГО жену — жену другого мужчины!)
-• Anna zna **jego** siostrę. (Анна знает ЕГО сестру — сестру кого-то другого)
+JEGO/JEJ используется, когда владелец ≠ подлежащее:
+• Marek kocha jego żonę. (Марек любит ЕГО жену — жену другого мужчины!)
+• Anna zna jego siostrę. (Анна знает ЕГО сестру — сестру кого-то другого)
 
-В предложении: Marek (подлежащее) + żona (принадлежит Мареку) → **swoją**
+В предложении: Marek (подлежащее) + żona (принадлежит Мареку) → swoją
 
 ❌ Почему не A:
 • "jego żonę" = жену ДРУГОГО мужчины, не Марека!
@@ -906,15 +906,15 @@ W zdaniu "Kiedy weszłam..." opisuję to, co ZOBACZYŁAM — stan okna.
 
 🔑 Zasada dla "swój":
 
-**SWÓJ** — gdy właściciel = podmiot:
-• Marek kocha **swoją** żonę. (żonę Marka)
-• Ja kocham **swoją** pracę.
+SWÓJ — gdy właściciel = podmiot:
+• Marek kocha swoją żonę. (żonę Marka)
+• Ja kocham swoją pracę.
 
-**JEGO/JEJ** — gdy właściciel ≠ podmiot:
-• Marek kocha **jego** żonę. (żonę INNEGO mężczyzny!)
-• Anna zna **jego** siostrę. (siostrę kogoś innego)
+JEGO/JEJ — gdy właściciel ≠ podmiot:
+• Marek kocha jego żonę. (żonę INNEGO mężczyzny!)
+• Anna zna jego siostrę. (siostrę kogoś innego)
 
-W zdaniu: Marek (podmiot) + żona (należy do Marka) → **swoją**
+W zdaniu: Marek (podmiot) + żona (należy do Marka) → swoją
 
 ❌ Dlaczego nie A:
 • "jego żonę" = żonę INNEGO mężczyzny!
@@ -943,11 +943,11 @@ W zdaniu: Marek (podmiot) + żona (należy do Marka) → **swoją**
 
 🔑 Анализ контекста:
 
-Если Анна взяла **СВОЮ** книгу (книгу Анны):
-• "Wzięła **swoją** książkę" ✅
+Если Анна взяла СВОЮ книгу (книгу Анны):
+• "Wzięła swoją książkę" ✅
 
-Если Анна взяла книгу **ПЁТРА**:
-• "Wzięła **jego** książkę" (книгу Пётра)
+Если Анна взяла книгу ПЁТРА:
+• "Wzięła jego książkę" (книгу Пётра)
 
 Без дополнительного контекста, естественная интерпретация — Анна взяла СВОЮ книгу (она уходит со своими вещами).
 
@@ -965,11 +965,11 @@ W zdaniu: Marek (podmiot) + żona (należy do Marka) → **swoją**
 
 🔑 Analiza kontekstu:
 
-Jeśli Anna wzięła **SWOJĄ** książkę (książkę Anny):
-• "Wzięła **swoją** książkę" ✅
+Jeśli Anna wzięła SWOJĄ książkę (książkę Anny):
+• "Wzięła swoją książkę" ✅
 
-Jeśli Anna wzięła książkę **PIOTRA**:
-• "Wzięła **jego** książkę"
+Jeśli Anna wzięła książkę PIOTRA:
+• "Wzięła jego książkę"
 
 Bez dodatkowego kontekstu, naturalna interpretacja — Anna wzięła SWOJĄ książkę (wychodzi ze swoimi rzeczami).
 
@@ -1001,12 +1001,12 @@ Bez dodatkowego kontekstu, naturalna interpretacja — Anna wzięła SWOJĄ ksi�
 
 🔑 Будущее время в польском:
 
-**Совершенный вид (dokonany)** — простая форма:
+Совершенный вид (dokonany) — простая форма:
 • napiszę, przeczytam, zrobię
 • Указывает на РЕЗУЛЬТАТ, завершённое действие
 • "Jutro napiszę list" = Завтра напишу письмо (и закончу)
 
-**Несовершенный вид (niedokonany)** — составная форма:
+Несовершенный вид (niedokonany) — составная форма:
 • będę pisać / będę pisał(a)
 • Указывает на ПРОЦЕСС, длительность
 • "Jutro będę pisać list" = Завтра буду писать письмо (процесс)
@@ -1026,12 +1026,12 @@ Bez dodatkowego kontekstu, naturalna interpretacja — Anna wzięła SWOJĄ ksi�
 
 🔑 Czas przyszły w polskim:
 
-**Aspekt dokonany** — forma prosta:
+Aspekt dokonany — forma prosta:
 • napiszę, przeczytam, zrobię
 • Wskazuje na REZULTAT
 • "Jutro napiszę list" = skończę pisać
 
-**Aspekt niedokonany** — forma złożona:
+Aspekt niedokonany — forma złożona:
 • będę pisać / będę pisał(a)
 • Wskazuje na PROCES
 • "Jutro będę pisać list" = będę zajmować się pisaniem
@@ -1064,16 +1064,16 @@ W kontekście "list do babci" naturalniej mówić o rezultacie.
 
 🔑 Временные предлоги:
 
-**PO + miejscownik** — после чего-то:
+PO + miejscownik — после чего-то:
 • po pracy (после работы)
 • po obiedzie (после обеда)
 • po lekcjach (после уроков)
 
-**PRZEZ + biernik** — в течение, на протяжении:
+PRZEZ + biernik — в течение, на протяжении:
 • przez godzinę (в течение часа)
 • przez cały dzień (весь день)
 
-**ZA + biernik** — через (промежуток времени):
+ZA + biernik — через (промежуток времени):
 • za godzinę (через час)
 • za tydzień (через неделю)
 
@@ -1090,13 +1090,13 @@ W kontekście "list do babci" naturalniej mówić o rezultacie.
 
 🔑 Przyimki czasowe:
 
-**PO + miejscownik** — po zakończeniu:
+PO + miejscownik — po zakończeniu:
 • po pracy, po obiedzie, po lekcjach
 
-**PRZEZ + biernik** — w trakcie, przez jakiś czas:
+PRZEZ + biernik — w trakcie, przez jakiś czas:
 • przez godzinę, przez cały dzień
 
-**ZA + biernik** — po upływie czasu:
+ZA + biernik — po upływie czasu:
 • za godzinę, za tydzień
 
 ❌ Dlaczego nie A:
