@@ -37,17 +37,69 @@ const messages = {
   },
 
   // Answer results
-  correctAnswer: (task) => {
+  correctAnswer: (task, userLanguage = 'ru') => {
     let text = `Правильно!\n\n`;
-    text += `Объяснение:\n${task.explanationRu || task.explanationPl || 'Нет объяснения'}`;
+
+    // Choose explanation based on user language preference
+    let explanation;
+    let fallbackNotice = '';
+
+    if (userLanguage === 'ru') {
+      explanation = task.explanationRu;
+      if (!explanation && task.explanationPl) {
+        console.warn(`Task ${task.id}: RU explanation missing, falling back to PL`);
+        explanation = task.explanationPl;
+        fallbackNotice = '(временно на польском, скоро будет на русском)\n\n';
+      }
+    } else {
+      explanation = task.explanationPl;
+      if (!explanation && task.explanationRu) {
+        console.warn(`Task ${task.id}: PL explanation missing, falling back to RU`);
+        explanation = task.explanationRu;
+        fallbackNotice = '(tymczasowo po rosyjsku, wkrótce będzie po polsku)\n\n';
+      }
+    }
+
+    if (!explanation) {
+      console.warn(`Task ${task.id}: No explanation available in any language`);
+      explanation = 'Нет объяснения / Brak wyjaśnienia';
+    }
+
+    text += `Объяснение:\n${fallbackNotice}${explanation}`;
     return text;
   },
 
-  incorrectAnswer: (task, userAnswer) => {
+  incorrectAnswer: (task, userAnswer, userLanguage = 'ru') => {
     const correctOption = task.options.find(o => o.label === task.correctAnswer);
     let text = `Неправильно.\n\n`;
     text += `Правильный ответ: ${task.correctAnswer}) ${correctOption?.text || ''}\n\n`;
-    text += `Объяснение:\n${task.explanationRu || task.explanationPl || 'Нет объяснения'}`;
+
+    // Choose explanation based on user language preference
+    let explanation;
+    let fallbackNotice = '';
+
+    if (userLanguage === 'ru') {
+      explanation = task.explanationRu;
+      if (!explanation && task.explanationPl) {
+        console.warn(`Task ${task.id}: RU explanation missing, falling back to PL`);
+        explanation = task.explanationPl;
+        fallbackNotice = '(временно на польском, скоро будет на русском)\n\n';
+      }
+    } else {
+      explanation = task.explanationPl;
+      if (!explanation && task.explanationRu) {
+        console.warn(`Task ${task.id}: PL explanation missing, falling back to RU`);
+        explanation = task.explanationRu;
+        fallbackNotice = '(tymczasowo po rosyjsku, wkrótce będzie po polsku)\n\n';
+      }
+    }
+
+    if (!explanation) {
+      console.warn(`Task ${task.id}: No explanation available in any language`);
+      explanation = 'Нет объяснения / Brak wyjaśnienia';
+    }
+
+    text += `Объяснение:\n${fallbackNotice}${explanation}`;
     return text;
   },
 

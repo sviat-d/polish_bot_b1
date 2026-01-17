@@ -45,10 +45,11 @@ async function handleTextAnswer(ctx) {
     answer
   );
 
-  // Show result
+  // Show result with user's language preference
+  const userLanguage = user.language || 'ru';
   const resultText = isCorrect
-    ? messages.correctAnswer(task)
-    : messages.incorrectAnswer(task, answer);
+    ? messages.correctAnswer(task, userLanguage)
+    : messages.incorrectAnswer(task, answer, userLanguage);
 
   await ctx.reply(resultText, keyboard.removeKeyboard());
 
