@@ -8,7 +8,6 @@ module.exports = {
     DATA_DIR: path.join(__dirname, '..', 'data'),
     USERS_DIR: path.join(__dirname, '..', 'data', 'users'),
     TASKS_FILE: path.join(__dirname, '..', 'data', 'tasks.json'),
-    CSV_FILE: path.join(__dirname, '..', 'PolskiExamTasks (1).csv'),
   },
 
   // Weak topic threshold
