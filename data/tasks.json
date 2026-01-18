@@ -458,7 +458,7 @@
   {
     "id": "pdf_B1_PRZYIMKI_003",
     "source": "pdf",
-    "question": "Spotkamy się _______ pracy, około godziny 18.",
+    "question": "Spotkamy się _______, około godziny 18.",
     "options": [
       {
         "label": "A",
@@ -1877,6 +1877,286 @@
     "explanationRu": "\"Przeczytać\" требует biernika (co?). \"Połowa\" (половина) в bierniku — połowę.\n\n🔑 Odmiana \"połowa\":\n• M: połowa\n• D: połowy\n• C: połowie\n• B: połowę\n• N: połową\n• Ms: połowie\n\n❌ Почему не A: \"połowa\" — mianownik, но после \"przeczytałem\" нужен biernik.\n❌ Почему не C: \"połowy\" — dopełniacz, не biernik.\n❌ Почему не D: \"półtora\" — полтора, не половина.",
     "explanationPl": "\"Przeczytać\" wymaga biernika (co?). \"Połowa\" w bierniku to połowę.\n\n🔑 Odmiana \"połowa\":\n• M: połowa\n• D: połowy\n• C: połowie\n• B: połowę\n• N: połową\n• Ms: połowie\n\n❌ Dlaczego nie A: \"połowa\" to mianownik — po \"przeczytałem\" potrzebny biernik.\n❌ Dlaczego nie C: \"połowy\" to dopełniacz.\n❌ Dlaczego nie D: \"półtora\" to półtora, nie połowa.",
     "topic": "Liczebniki ułamkowe — \"połowa\" odmiana",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_021",
+    "source": "pdf",
+    "question": "_______ uczniów w naszej klasie to dziewczyny.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jedna trzecia"
+      },
+      {
+        "label": "B",
+        "text": "Jednej trzeciej"
+      },
+      {
+        "label": "C",
+        "text": "Jedną trzecią"
+      },
+      {
+        "label": "D",
+        "text": "Jeden trzeci"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Дробные числительные в роли подлежащего стоят в mianowniku. \"Jedna trzecia\" (одна третья) — это mianownik.\n\n🔑 Odmiana \"jedna trzecia\":\n• M: jedna trzecia\n• D: jednej trzeciej\n• C: jednej trzeciej\n• B: jedną trzecią\n• N: jedną trzecią\n• Ms: jednej trzeciej\n\nЗдесь дробь — подлежащее (\"Jedna trzecia uczniów TO dziewczyny\"), поэтому mianownik.\n\n❌ Почему не B: \"jednej trzeciej\" — dopełniacz, но подлежащее требует mianownika.\n❌ Почему не C: \"jedną trzecią\" — biernik/narzędnik.\n❌ Почему не D: \"jeden trzeci\" — неправильная форма дроби (смешение родов: \"jeden\" м.р. + \"trzeci\" м.р., но дробь — ж.р.).",
+    "explanationPl": "Ułamki w roli podmiotu stoją w mianowniku. \"Jedna trzecia\" to mianownik.\n\n🔑 Odmiana \"jedna trzecia\":\n• M: jedna trzecia\n• D: jednej trzeciej\n• C: jednej trzeciej\n• B: jedną trzecią\n• N: jedną trzecią\n• Ms: jednej trzeciej\n\nTu ułamek to podmiot (\"Jedna trzecia uczniów TO dziewczyny\"), więc mianownik.\n\n❌ Dlaczego nie B: \"jednej trzeciej\" to dopełniacz.\n❌ Dlaczego nie C: \"jedną trzecią\" to biernik/narzędnik.\n❌ Dlaczego nie D: \"jeden trzeci\" — błędna forma ułamka (mieszanie rodzajów).",
+    "topic": "Liczebniki ułamkowe — jedna trzecia, dwie piąte",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_022",
+    "source": "pdf",
+    "question": "Na konferencji było _______ profesorów z całego świata.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wiele"
+      },
+      {
+        "label": "B",
+        "text": "wielu"
+      },
+      {
+        "label": "C",
+        "text": "wieloma"
+      },
+      {
+        "label": "D",
+        "text": "wielkich"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "\"Profesorowie\" — это męskoosobowe (мужской личный род). Для męskoosobowych используется форма wielu (не \"wiele\"!).\n\n🔑 Wiele vs wielu:\n• wiele — dla niemęskoosobowych: wiele książek, wiele problemów, wiele kobiet\n• wielu — dla męskoosobowych: wielu mężczyzn, wielu profesorów, wielu lekarzy\n\n❌ Почему не A: \"wiele\" — для niemęskoosobowych, но \"profesorowie\" — męskoosobowe.\n❌ Почему не C: \"wieloma\" — narzędnik, здесь неуместен (нет предлога \"z\").\n❌ Почему не D: \"wielkich\" — прилагательное \"wielki\" в dopełniaczu, не числительное.",
+    "explanationPl": "\"Profesorowie\" to męskoosobowe. Dla męskoosobowych używamy formy wielu (nie \"wiele\"!).\n\n🔑 Wiele vs wielu:\n• wiele — dla niemęskoosobowych: wiele spraw, wiele pytań\n• wielu — dla męskoosobowych: wielu ludzi, wielu specjalistów\n\n❌ Dlaczego nie A: \"wiele\" dla niemęskoosobowych — \"profesorowie\" to męskoosobowe.\n❌ Dlaczego nie C: \"wieloma\" to narzędnik — tu niepotrzebny.\n❌ Dlaczego nie D: \"wielkich\" to przymiotnik, nie liczebnik.",
+    "topic": "Liczebniki nieokreślone — wielu vs wiele + męskoosobowe",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_023",
+    "source": "pdf",
+    "question": "_______ studentów zdało ten trudny egzamin.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Niewiele"
+      },
+      {
+        "label": "B",
+        "text": "Niewielu"
+      },
+      {
+        "label": "C",
+        "text": "Niewielka"
+      },
+      {
+        "label": "D",
+        "text": "Nieliczni"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "\"Studenci\" — это męskoosobowe (мужской личный род). Для męskoosobowych используется форма niewielu (не \"niewiele\"!).\n\n🔑 Niewiele vs niewielu:\n• niewiele — dla niemęskoosobowych: niewiele książek, niewiele czasu\n• niewielu — dla męskoosobowych: niewielu studentów, niewielu chłopców\n\n❌ Почему не A: \"niewiele\" — для niemęskoosobowych, но \"studenci\" — męskoosobowe.\n❌ Почему не C: \"niewielka\" — прилагательное ж.р. (\"niewielka grupa\"), не числительное, не сочетается с \"studentów zdało\".\n❌ Почему не D: \"nieliczni\" — прилагательное, требует согласования: \"nieliczni studenci zdali\" (не \"studentów zdało\").",
+    "explanationPl": "\"Studenci\" to męskoosobowe. Dla męskoosobowych używamy formy niewielu (nie \"niewiele\"!).\n\n🔑 Niewiele vs niewielu:\n• niewiele — dla niemęskoosobowych: niewiele rzeczy\n• niewielu — dla męskoosobowych: niewielu kolegów\n\n❌ Dlaczego nie A: \"niewiele\" dla niemęskoosobowych — \"studenci\" to męskoosobowe.\n❌ Dlaczego nie C: \"niewielka\" to przymiotnik r. żeńskiego — nie pasuje do \"studentów zdało\".\n❌ Dlaczego nie D: \"nieliczni\" to przymiotnik — wymaga: \"nieliczni studenci zdali\" (nie \"studentów zdało\").",
+    "topic": "Liczebniki nieokreślone — niewielu vs niewiele + męskoosobowe",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_024",
+    "source": "pdf",
+    "question": "W bibliotece jest _______ książek.",
+    "options": [
+      {
+        "label": "A",
+        "text": "tysiąc dwieście trzydzieści pięć"
+      },
+      {
+        "label": "B",
+        "text": "tysiąca dwustu trzydziestu pięciu"
+      },
+      {
+        "label": "C",
+        "text": "tysiącem dwustu trzydziestu pięciu"
+      },
+      {
+        "label": "D",
+        "text": "tysiące dwieście trzydzieści pięć"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В этой конструкции числительное стоит в базовой форме (mianownik), а существительное после числительного 5+ — в dopełniaczu мн.ч. (\"książek\").\n\n🔑 Правило для составных числительных:\n• В mianowniku все части в mianowniku: tysiąc + dwieście + trzydzieści + pięć\n• Существительное после 5+ всегда в dopełniaczu мн.ч.: książek, osób, złotych\n• В dopełniaczu все части в dopełniaczu: tysiąca + dwustu + trzydziestu + pięciu\n\n❌ Почему не B: \"tysiąca dwustu...\" — dopełniacz, но здесь нужен mianownik.\n❌ Почему не C: \"tysiącem dwustu...\" — смешение падежей (narzędnik + dopełniacz).\n❌ Почему не D: \"tysiące\" — множественное число (2-4 tysiące), но здесь 1 tysiąc.",
+    "explanationPl": "W tej konstrukcji liczebnik stoi w formie bazowej (mianownik), a rzeczownik po liczebniku 5+ — w dopełniaczu l.mn. (\"książek\").\n\n🔑 Reguła dla liczebników złożonych:\n• W mianowniku wszystkie części w mianowniku: tysiąc + dwieście + trzydzieści + pięć\n• Rzeczownik po 5+ zawsze w dopełniaczu l.mn.: książek, osób, złotych\n• W dopełniaczu wszystkie części w dopełniaczu: tysiąca + dwustu + trzydziestu + pięciu\n\n❌ Dlaczego nie B: \"tysiąca dwustu...\" to dopełniacz.\n❌ Dlaczego nie C: \"tysiącem dwustu...\" — mieszanie przypadków.\n❌ Dlaczego nie D: \"tysiące\" to l.mn. (2-4 tysiące), tu 1 tysiąc.",
+    "topic": "Liczebniki główne — tysiąc + setki + dziesiątki",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_025",
+    "source": "pdf",
+    "question": "Sprawdziłem ten dokument _______ i nie znalazłem żadnych błędów.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzykrotnie"
+      },
+      {
+        "label": "B",
+        "text": "potrójnie"
+      },
+      {
+        "label": "C",
+        "text": "trzecio"
+      },
+      {
+        "label": "D",
+        "text": "trojakie"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Для выражения \"три раза\" (количество повторений действия) используется trzykrotnie.\n\n🔑 Różnica:\n• trzykrotnie — три раза (повторение действия): sprawdziłem trzykrotnie\n• potrójnie — тройным образом, в тройном размере: potrójnie zabezpieczony (защищённый тремя способами)\n\n❌ Почему не B: \"potrójnie\" — означает \"тройным образом/в тройном размере\", не \"три раза\".\n❌ Почему не C: \"trzecio\" — неправильная форма, не существует.\n❌ Почему не D: \"trojakie\" — прилагательное \"троякий\", не наречие.",
+    "explanationPl": "Dla wyrażenia \"trzy razy\" (powtórzenie czynności) używamy trzykrotnie.\n\n🔑 Różnica:\n• trzykrotnie — trzy razy (powtórzenie): przeczytałem trzykrotnie\n• potrójnie — w potrójny sposób: potrójnie wzmocniony\n\n❌ Dlaczego nie B: \"potrójnie\" oznacza \"w potrójny sposób\", nie \"trzy razy\".\n❌ Dlaczego nie C: \"trzecio\" — forma niepoprawna.\n❌ Dlaczego nie D: \"trojakie\" to przymiotnik, nie przysłówek.",
+    "topic": "Liczebniki wielokrotne — trzykrotnie vs potrójnie vs trzy razy",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_026",
+    "source": "pdf",
+    "question": "To już _______ raz, kiedy ci to mówię!",
+    "options": [
+      {
+        "label": "A",
+        "text": "setny"
+      },
+      {
+        "label": "B",
+        "text": "sto"
+      },
+      {
+        "label": "C",
+        "text": "setnego"
+      },
+      {
+        "label": "D",
+        "text": "stówy"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Здесь нужно порядковое числительное \"сотый\" (который по счёту), не количественное \"сто\".\n\n🔑 Główne vs porządkowe:\n• sto (количественное) — sto złotych, sto osób\n• setny (порядковое) — setny raz, setna rocznica\n\n\"Który raz?\" → setny (порядковое)\n\"Ile razy?\" → sto (количественное)\n\n❌ Почему не B: \"sto\" — количественное, но вопрос \"который раз?\" требует порядкового.\n❌ Почему не C: \"setnego\" — dopełniacz порядкового, но здесь нужен mianownik.\n❌ Почему не D: \"stówy\" — разговорное существительное, означающее \"сотня злотых\" (100 zł), не подходит в контексте \"raz\".",
+    "explanationPl": "Tu potrzebny liczebnik porządkowy \"setny\" (który z kolei), nie główny \"sto\".\n\n🔑 Główne vs porządkowe:\n• sto (główny) — sto książek\n• setny (porządkowy) — setny raz, setna strona\n\n\"Który raz?\" → setny (porządkowy)\n\"Ile razy?\" → sto (główny)\n\n❌ Dlaczego nie B: \"sto\" to główny — pytanie \"który raz?\" wymaga porządkowego.\n❌ Dlaczego nie C: \"setnego\" to dopełniacz — tu potrzebny mianownik.\n❌ Dlaczego nie D: \"stówy\" to potoczny rzeczownik oznaczający \"stuzłotówkę\" — nie pasuje do kontekstu \"raz\".",
+    "topic": "Liczebniki porządkowe — \"setny\" vs \"sto\" w kontekście",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_027",
+    "source": "pdf",
+    "question": "W rodzinie Kowalskich jest _______ rodzeństwa.",
+    "options": [
+      {
+        "label": "A",
+        "text": "cztery"
+      },
+      {
+        "label": "B",
+        "text": "czterech"
+      },
+      {
+        "label": "C",
+        "text": "czworo"
+      },
+      {
+        "label": "D",
+        "text": "czwarty"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "\"Rodzeństwo\" (братья и сёстры) требует собирательного числительного: dwoje, troje, czworo, pięcioro...\n\n🔑 Правило для \"rodzeństwo\":\n• Rodzeństwo — это собирательное существительное (как dzieci)\n• Требует собирательных числительных: czworo rodzeństwa\n\n❌ Почему не A: \"cztery\" — для niemęskoosobowych: cztery książki.\n❌ Почему не B: \"czterech\" — для męskoosobowych: czterech braci.\n❌ Почему не D: \"czwarty\" — порядковое числительное (четвёртый).",
+    "explanationPl": "\"Rodzeństwo\" wymaga liczebnika zbiorowego: dwoje, troje, czworo, pięcioro...\n\n🔑 Reguła dla \"rodzeństwo\":\n• Rodzeństwo to rzeczownik zbiorowy (jak dzieci)\n• Wymaga liczebników zbiorowych: czworo rodzeństwa\n\n❌ Dlaczego nie A: \"cztery\" dla niemęskoosobowych: cztery domy.\n❌ Dlaczego nie B: \"czterech\" dla męskoosobowych: czterech kolegów.\n❌ Dlaczego nie D: \"czwarty\" to liczebnik porządkowy.",
+    "topic": "Liczebniki główne — \"czworo\" vs \"cztery\" vs \"czterech\"",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_028",
+    "source": "pdf",
+    "question": "Nie widziałem _______ filmów, o których mówisz.",
+    "options": [
+      {
+        "label": "A",
+        "text": "obu"
+      },
+      {
+        "label": "B",
+        "text": "oba"
+      },
+      {
+        "label": "C",
+        "text": "obydwa"
+      },
+      {
+        "label": "D",
+        "text": "obydwóch"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После отрицания \"nie widziałem\" нужен dopełniacz. \"Filmy\" — niemęskoosobowe. Форма \"oba\" в dopełniaczu — obu.\n\n🔑 Odmiana \"oba\" (niemęskoosobowe):\n• M: oba (filmy)\n• D: obu (filmów)\n• C: obu (filmom)\n• B: oba (filmy)\n• N: oboma / obu (filmami)\n• Ms: obu (filmach)\n\n❌ Почему не B: \"oba\" — mianownik/biernik, но после \"nie widziałem\" нужен dopełniacz.\n❌ Почему не C: \"obydwa\" — mianownik/biernik, синоним \"oba\".\n❌ Почему не D: \"obydwóch\" — форма, употребляемая с męskoosobowymi (obydwóch mężczyzn), но \"filmy\" — niemęskoosobowe, поэтому нужна форма \"obu/obydwu\".",
+    "explanationPl": "Po przeczeniu \"nie widziałem\" wymagany jest dopełniacz. \"Filmy\" to niemęskoosobowe. Forma \"oba\" w dopełniaczu to obu.\n\n🔑 Odmiana \"oba\" (niemęskoosobowe):\n• M: oba\n• D: obu\n• C: obu\n• B: oba\n• N: oboma / obu\n• Ms: obu\n\n❌ Dlaczego nie B: \"oba\" to mianownik/biernik.\n❌ Dlaczego nie C: \"obydwa\" to mianownik/biernik.\n❌ Dlaczego nie D: \"obydwóch\" — forma używana z męskoosobowymi (obydwóch kolegów), ale \"filmy\" to niemęskoosobowe — potrzebna forma \"obu/obydwu\".",
+    "topic": "Liczebniki główne — \"oba\" odmiana w dopełniaczu",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_029",
+    "source": "pdf",
+    "question": "Pojechałem na wakacje z _______ dzieci.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pięcioro"
+      },
+      {
+        "label": "B",
+        "text": "pięciorgiem"
+      },
+      {
+        "label": "C",
+        "text": "pięcioma"
+      },
+      {
+        "label": "D",
+        "text": "pięciu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "\"Dzieci\" требует собирательного числительного. Предлог \"z\" требует narzędnika. Форма \"pięcioro\" в narzędniku — pięciorgiem.\n\n🔑 Odmiana \"pięcioro\":\n• M: pięcioro (dzieci)\n• D: pięciorga (dzieci)\n• C: pięciorgu (dzieciom)\n• B: pięcioro (dzieci)\n• N: pięciorgiem (dziećmi)\n• Ms: pięciorgu (dzieciach)\n\n❌ Почему не A: \"pięcioro\" — mianownik, но после \"z\" нужен narzędnik.\n❌ Почему не C: \"pięcioma\" — narzędnik от \"pięć\", но с \"dzieci\" нужно собирательное.\n❌ Почему не D: \"pięciu\" — форма для męskoosobowych, не для dzieci.",
+    "explanationPl": "\"Dzieci\" wymaga liczebnika zbiorowego. Przyimek \"z\" wymaga narzędnika. Forma \"pięcioro\" w narzędniku to pięciorgiem.\n\n🔑 Odmiana \"pięcioro\":\n• M: pięcioro\n• D: pięciorga\n• C: pięciorgu\n• B: pięcioro\n• N: pięciorgiem\n• Ms: pięciorgu\n\n❌ Dlaczego nie A: \"pięcioro\" to mianownik.\n❌ Dlaczego nie C: \"pięcioma\" to narzędnik od \"pięć\" — z \"dzieci\" potrzebny zbiorowy.\n❌ Dlaczego nie D: \"pięciu\" to forma męskoosobowa.",
+    "topic": "Liczebniki główne — \"pięcioro\" odmiana w narzędniku",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_030",
+    "source": "pdf",
+    "question": "Moja córka ma _______ lat.",
+    "options": [
+      {
+        "label": "A",
+        "text": "osiemnaście"
+      },
+      {
+        "label": "B",
+        "text": "osiemnastu"
+      },
+      {
+        "label": "C",
+        "text": "osiemnasty"
+      },
+      {
+        "label": "D",
+        "text": "osiemnastego"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "\"Mieć ... lat\" — устойчивая конструкция. Числительное стоит в mianowniku/bierniku, а \"lat\" — в dopełniaczu мн.ч.\n\n🔑 Конструкция \"mieć X lat\":\n• Mam osiemnaście lat. (18)\n• Mam dwadzieścia jeden lat. (21)\n• Mam trzydzieści dwa lata. (32 — lata, не lat!)\n\n❌ Почему не B: \"osiemnastu\" — dopełniacz/miejscownik, но в \"mieć ... lat\" нужен mianownik.\n❌ Почему не C: \"osiemnasty\" — порядковое (восемнадцатый), не количественное.\n❌ Почему не D: \"osiemnastego\" — dopełniacz порядкового.\n\n⚠️ Ловушка: \"osiemnastu\" выглядит логично (как \"pięciu studentów\"), но с \"lat\" используется mianownik!",
+    "explanationPl": "\"Mieć ... lat\" to stała konstrukcja. Liczebnik stoi w mianowniku/bierniku, a \"lat\" w dopełniaczu l.mn.\n\n🔑 Konstrukcja \"mieć X lat\":\n• Mam osiemnaście lat. (18)\n• Mam dwadzieścia jeden lat. (21)\n• Mam trzydzieści dwa lata. (32 — lata, nie lat!)\n\n❌ Dlaczego nie B: \"osiemnastu\" to dopełniacz/miejscownik — w \"mieć ... lat\" potrzebny mianownik.\n❌ Dlaczego nie C: \"osiemnasty\" to porządkowy (osiemnasty), nie główny.\n❌ Dlaczego nie D: \"osiemnastego\" to dopełniacz porządkowego.\n\n💡 Pułapka: \"osiemnastu\" wygląda logicznie (jak \"pięciu studentów\"), ale z \"lat\" używamy mianownika!",
+    "topic": "Liczebniki główne — \"osiemnaście\" vs \"osiemnastu\" + wiek",
     "difficulty": "high"
   }
 ]
