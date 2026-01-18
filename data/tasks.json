@@ -478,5 +478,1405 @@
     "explanationPl": "Potrzebujemy przyimka oznaczającego \"po zakończeniu czegoś\".\n\n🔑 Przyimki czasowe:\n\nPO + miejscownik — po zakończeniu:\n• po pracy, po obiedzie, po lekcjach\n\nPRZEZ + biernik — w trakcie, przez jakiś czas:\n• przez godzinę, przez cały dzień\n\nZA + biernik — po upływie czasu:\n• za godzinę, za tydzień\n\n❌ Dlaczego nie A:\n• \"przez pracę\" = w trakcie pracy / z powodu pracy\n\n❌ Dlaczego nie B:\n• \"za pracę\" = w zamian za pracę\n\n💡 Zapamiętaj: PO = po zakończeniu, PRZEZ = w trakcie, ZA = po upływie czasu",
     "topic": "Przyimki",
     "difficulty": "medium"
+  },
+  {
+    "id": "B1_REKCJA_003",
+    "source": "pdf",
+    "question": "Już pół godziny _______ autobus, ale wciąż go nie ma.",
+    "options": [
+      {
+        "label": "A",
+        "text": "czekam na"
+      },
+      {
+        "label": "B",
+        "text": "czekam o"
+      },
+      {
+        "label": "C",
+        "text": "czekam dla"
+      },
+      {
+        "label": "D",
+        "text": "czekam z"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол czekać (ждать) требует предлога na + винительный падеж (biernik).\n\n🔑 Формула: czekać na kogo? / na co?\n\nПримеры:\n• Czekam na autobus. (Жду автобус.)\n• Czekam na ciebie. (Жду тебя.)\n• Czekam na odpowiedź. (Жду ответа.)\n\n❌ Почему не B: \"czekać o\" — не существует такой конструкции.\n❌ Почему не C: \"czekać dla\" — неправильно; \"dla\" означает \"для кого-то\".\n❌ Почему не D: \"czekać z\" — неправильно; \"z\" означает \"с кем-то\".\n\n💡 Сравни с русским: \"ждать чего-то\" (родительный) — в польском логика другая: \"czekać NA coś\" (винительный с предлогом).",
+    "explanationPl": "Czasownik czekać łączy się z przyimkiem na i wymaga biernika.\n\n🔑 Konstrukcja: czekać na kogo? / na co?\n\nPrzykłady:\n• Czekam na tramwaj.\n• Czekam na wyniki egzaminu.\n\n❌ Dlaczego nie B, C, D:\n• \"czekać o/dla/z\" — błędne konstrukcje, nie istnieją w języku polskim.\n\n💡 Inne czasowniki z \"na + biernik\": patrzeć na, liczyć na, narzekać na.",
+    "topic": "Rekcja czasowników — czekać na + biernik",
+    "difficulty": "medium"
+  },
+  {
+    "id": "B1_ASPEKT_004",
+    "source": "pdf",
+    "question": "Kiedy byłem dzieckiem, co roku _______ na wakacje nad morze.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pojechałem"
+      },
+      {
+        "label": "B",
+        "text": "jeździłem"
+      },
+      {
+        "label": "C",
+        "text": "pojadę"
+      },
+      {
+        "label": "D",
+        "text": "jechałem"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Здесь нужен несовершенный вид (aspekt niedokonany) в форме, выражающей повторяющееся действие в прошлом.\n\n🔑 Разница между формами:\n\njeździłem (niedok., wielokrotny) — ездил многократно:\n• \"Co roku jeździłem nad morze\" = Каждый год ездил (повторялось)\n\njechałem (niedok., jednokrotny) — ехал (один раз, процесс):\n• \"Wczoraj jechałem do Krakowa\" = Вчера ехал (был в пути)\n\npojechałem (dok.) — поехал (однократно, результат):\n• \"W zeszłym roku pojechałem do Włoch\" = В прошлом году поехал\n\nМаркер \"co roku\" (каждый год) указывает на повторяемость → jeździłem.\n\n❌ Почему не A: \"pojechałem\" — однократное действие, не подходит к \"co roku\".\n❌ Почему не C: \"pojadę\" — будущее время, но контекст прошлого (\"byłem dzieckiem\").\n❌ Почему не D: \"jechałem\" — процесс одной поездки, не повторяемость.",
+    "explanationPl": "Potrzebujemy aspektu niedokonanego w formie wyrażającej czynność powtarzającą się.\n\n🔑 Różnica między formami:\n\njeździłem (niedok., wielokrotny) — powtarzające się podróże:\n• \"Co roku jeździłem\" = regularnie, wielokrotnie\n\njechałem (niedok., jednokrotny) — jedna podróż w trakcie:\n• \"Właśnie jechałem do pracy\" = byłem w drodze\n\npojechałem (dok.) — jedna zakończona podróż:\n• \"Pojechałem i wróciłem\"\n\nMarker \"co roku\" wskazuje na powtarzalność → jeździłem.\n\n💡 Podobne pary: chodzić/iść, latać/lecieć, pływać/płynąć.",
+    "topic": "Aspekt czasownika — powtarzalność vs jednorazowość",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "B1_PRZYIMKI_004",
+    "source": "pdf",
+    "question": "W weekend byłem _______ babci na obiedzie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "do babci"
+      },
+      {
+        "label": "B",
+        "text": "u babci"
+      },
+      {
+        "label": "C",
+        "text": "przy babci"
+      },
+      {
+        "label": "D",
+        "text": "z babcią"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Предлог u + родительный падеж (dopełniacz) означает \"у кого-то\" (в доме/у человека).\n\n🔑 Правило:\n\nU + dopełniacz — у кого-то (место):\n• Byłem u babci. (Был у бабушки — в её доме.)\n• Mieszkam u rodziców. (Живу у родителей.)\n• Byłem u lekarza. (Был у врача.)\n\n❌ Почему не A: \"do babci\" — направление (\"к бабушке\"), но \"byłem\" требует места, не направления.\n❌ Почему не C: \"przy babci\" — \"рядом с бабушкой\" (физически рядом), не \"в гостях\".\n❌ Почему не D: \"z babcią\" — \"с бабушкой\" (совместность), не место.\n\n💡 Запомни пару: iść DO babci (направление) → być U babci (место).",
+    "explanationPl": "Przyimek u + dopełniacz oznacza \"w domu kogoś\" lub \"w miejscu związanym z osobą\".\n\n🔑 Zasada:\n\nU + dopełniacz — u kogoś (miejsce):\n• Byłem u dentysty.\n• Nocowałem u kolegi.\n\n❌ Dlaczego nie A: \"do babci\" to kierunek, nie miejsce.\n❌ Dlaczego nie C: \"przy babci\" = obok babci (fizycznie blisko).\n❌ Dlaczego nie D: \"z babcią\" = razem z babcią (towarzyszenie).\n\n💡 Para: iść DO kogoś → być U kogoś.",
+    "topic": "Przyimki z przypadkami — u + dopełniacz (miejsce)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "B1_BIERNA_003",
+    "source": "pdf",
+    "question": "Ten budynek _______ teraz remontowany, dlatego nie można wejść do środka.",
+    "options": [
+      {
+        "label": "A",
+        "text": "został"
+      },
+      {
+        "label": "B",
+        "text": "będzie"
+      },
+      {
+        "label": "C",
+        "text": "jest"
+      },
+      {
+        "label": "D",
+        "text": "był"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Здесь нужен страдательный залог в настоящем времени, потому что ремонт происходит СЕЙЧАС (\"teraz\").\n\n🔑 Страдательный залог по временам:\n\nJEST + imiesłów — настоящее время (процесс сейчас):\n• Budynek jest remontowany. (Здание ремонтируется сейчас.)\n• List jest pisany. (Письмо пишется.)\n\nBYŁ + imiesłów — прошедшее (состояние/процесс в прошлом):\n• Budynek był remontowany w zeszłym roku.\n\nZOSTAŁ + imiesłów — прошедшее (завершённое действие):\n• Budynek został wyremontowany. (Здание было отремонтировано — закончено.)\n\nBĘDZIE + imiesłów — будущее:\n• Budynek będzie remontowany w przyszłym roku.\n\n❌ Почему не A: \"został\" — завершённое действие в прошлом, но ремонт ещё идёт.\n❌ Почему не B: \"będzie\" — будущее, но \"teraz\" = сейчас.\n❌ Почему не D: \"był\" — прошлое, но \"teraz\" = сейчас.",
+    "explanationPl": "Potrzebujemy strony biernej w czasie teraźniejszym, bo remont trwa TERAZ.\n\n🔑 Strona bierna według czasów:\n\nJEST + imiesłów — teraźniejszy (proces trwa):\n• Dom jest budowany.\n• Obiad jest przygotowywany.\n\nBYŁ — przeszły (stan/proces)\nZOSTAŁ — przeszły (czynność zakończona)\nBĘDZIE — przyszły\n\nMarker \"teraz\" wskazuje na czas teraźniejszy → jest.",
+    "topic": "Strona bierna — czas teraźniejszy (jest + imiesłów)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SWOJ_003",
+    "source": "pdf",
+    "question": "Powiedziałem Tomkowi, że lubię _______ nowe mieszkanie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "moje"
+      },
+      {
+        "label": "B",
+        "text": "swoje"
+      },
+      {
+        "label": "C",
+        "text": "jego"
+      },
+      {
+        "label": "D",
+        "text": "twoje"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Это сложное предложение с придаточным. Нужно определить, ЧЬЁ mieszkanie.\n\n🔑 Анализ:\n- Главное предложение: \"Powiedziałem Tomkowi\"\n- Придаточное: \"że lubię _______ mieszkanie\"\n- Подлежащее придаточного: JA (lubię)\n- Чьё mieszkanie? МОЕГО (говорящего)\n\nКогда владелец = подлежащее того же предложения → swoje.\n\n\"Lubię swoje mieszkanie\" = Я люблю СВОЁ (моё) жильё.\n\n❌ Почему не A: \"moje\" грамматически возможно, но в польском при совпадении владельца и подлежащего предпочтителен \"swój\". \"Moje\" звучит избыточно акцентированно.\n❌ Почему не C: \"jego mieszkanie\" = жильё Томка (другого человека).\n❌ Почему не D: \"twoje\" = твоё (обращение к собеседнику), не подходит по контексту.\n\n⚠️ Нюанс: \"moje\" не является ошибкой, но \"swoje\" — более естественный и правильный выбор.",
+    "explanationPl": "To zdanie złożone. Trzeba określić, CZYJE mieszkanie.\n\n🔑 Analiza:\n- Zdanie główne: \"Powiedziałem Tomkowi\"\n- Zdanie podrzędne: \"że lubię _______ mieszkanie\"\n- Podmiot zdania podrzędnego: JA\n- Czyje mieszkanie? MOJE (mówiącego)\n\nGdy właściciel = podmiot tego samego zdania → swoje.\n\n❌ Dlaczego nie A: \"moje\" jest możliwe, ale \"swoje\" jest bardziej naturalne i poprawne.\n❌ Dlaczego nie C: \"jego mieszkanie\" = mieszkanie Tomka.\n❌ Dlaczego nie D: \"twoje\" = mieszkanie rozmówcy.\n\n💡 Zasada: w zdaniach podrzędnych, gdy właściciel = podmiot zdania podrzędnego, używamy \"swój\".",
+    "topic": "Zaimki dzierżawcze — swój vs mój w zdaniach złożonych",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_NEGACJA_002",
+    "source": "pdf",
+    "question": "Przepraszam, ale nie mam _______ — zostawiłem go w domu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dowód osobisty"
+      },
+      {
+        "label": "B",
+        "text": "dowodu osobistego"
+      },
+      {
+        "label": "C",
+        "text": "dowodem osobistym"
+      },
+      {
+        "label": "D",
+        "text": "dowodzie osobistym"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "При отрицании глагол mieć требует родительного падежа (dopełniacz) вместо винительного (biernik).\n\n🔑 Правило:\n\n✅ Mam dowód osobisty. (Biernik — без отрицания)\n✅ Nie mam dowodu osobistego. (Dopełniacz — с отрицанием)\n\nСклонение \"dowód osobisty\" (м.р.):\n• Mianownik: dowód osobisty\n• Dopełniacz: dowodu osobistego\n• Biernik: dowód osobisty\n• Narzędnik: dowodem osobistym\n• Miejscownik: dowodzie osobistym\n\n❌ Почему не A: \"dowód osobisty\" — biernik, но после \"nie mam\" нужен dopełniacz.\n❌ Почему не C: \"dowodem osobistym\" — narzędnik, неправильный падеж.\n❌ Почему не D: \"dowodzie osobistym\" — miejscownik, неправильный падеж.",
+    "explanationPl": "Po przeczeniu czasownik mieć wymaga dopełniacza zamiast biernika.\n\n🔑 Reguła:\n\n✅ Mam paszport. (biernik)\n✅ Nie mam paszportu. (dopełniacz)\n\nOdmiana \"dowód osobisty\":\n• Mianownik: dowód osobisty\n• Dopełniacz: dowodu osobistego\n• Biernik: dowód osobisty\n\n❌ Dlaczego nie A: po \"nie mam\" wymagany jest dopełniacz, nie biernik.\n❌ Dlaczego nie C, D: narzędnik i miejscownik — złe przypadki.",
+    "topic": "Negacja — dopełniacz po przeczeniu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "B1_ZEBY_002",
+    "source": "pdf",
+    "question": "Chcę _______ lepiej po polsku.",
+    "options": [
+      {
+        "label": "A",
+        "text": "żebym mówił"
+      },
+      {
+        "label": "B",
+        "text": "żeby mówić"
+      },
+      {
+        "label": "C",
+        "text": "mówić"
+      },
+      {
+        "label": "D",
+        "text": "że mówię"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Когда подлежащее главного и зависимого действия ОДИНАКОВОЕ, используется инфинитив (bezokolicznik), а не конструкция с \"żeby\".\n\n🔑 Правило:\n\nОдин субъект → инфинитив:\n• Chcę mówić. (Я хочу говорить — я и хочу, и буду говорить)\n• Muszę pracować. (Я должен работать)\n• Lubię czytać. (Я люблю читать)\n\nРазные субъекты → żeby + личная форма:\n• Chcę, żebyś mówił. (Я хочу, чтобы ТЫ говорил)\n• Proszę, żeby pan usiadł. (Прошу, чтобы ВЫ сели)\n\n❌ Почему не A: \"żebym mówił\" — я хочу, чтобы я говорил — избыточно и неестественно.\n❌ Почему не B: \"żeby mówić\" — конструкция существует, но не после \"chcieć\" с одним субъектом.\n❌ Почему не D: \"że mówię\" — \"что я говорю\" (факт), не цель/желание.",
+    "explanationPl": "Gdy podmiot zdania głównego i czynności zależnej jest TEN SAM, używamy bezokolicznika.\n\n🔑 Reguła:\n\nTen sam podmiot → bezokolicznik:\n• Chcę jeść. (ja chcę, ja jem)\n• Muszę iść. (ja muszę, ja idę)\n\nRóżne podmioty → żeby + forma osobowa:\n• Chcę, żebyś przyszedł. (ja chcę, ty przyjdziesz)\n\n❌ Dlaczego nie A: \"żebym mówił\" po \"chcę\" jest nienaturalne.\n❌ Dlaczego nie B: \"żeby mówić\" nie łączy się z \"chcieć\" przy tym samym podmiocie.\n❌ Dlaczego nie D: \"że mówię\" wprowadza fakt, nie cel.",
+    "topic": "Infinityw vs żeby — ten sam podmiot",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNEK_002",
+    "source": "pdf",
+    "question": "_______ jutro będzie ładna pogoda, pójdziemy na spacer.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gdyby"
+      },
+      {
+        "label": "B",
+        "text": "Jeśli"
+      },
+      {
+        "label": "C",
+        "text": "Chociaż"
+      },
+      {
+        "label": "D",
+        "text": "Żeby"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Здесь нужен союз для реального условия (возможного в будущем).\n\n🔑 Разница:\n\nJEŚLI / JEŻELI — реальное условие:\n• Jeśli będzie padać, wezmę parasol. (Если будет дождь — возможно!)\n• Используется с изъявительным наклонением (czas przyszły, teraźniejszy)\n\nGDYBY — нереальное условие:\n• Gdyby padało, wziąłbym parasol. (Если бы шёл дождь — но не идёт)\n• Используется с условным наклонением (tryb warunkowy)\n\nВ предложении: \"będzie ładna pogoda\" — будущее время, реальная возможность → jeśli.\n\n❌ Почему не A: \"gdyby\" требует условного наклонения (\"gdyby była ładna pogoda, poszlibyśmy\").\n❌ Почему не C: \"chociaż\" = хотя (уступительный союз).\n❌ Почему не D: \"żeby\" = чтобы (цель).",
+    "explanationPl": "Potrzebujemy spójnika dla warunku realnego (możliwego w przyszłości).\n\n🔑 Różnica:\n\nJEŚLI — warunek realny:\n• Jeśli zdasz egzamin, dostaniesz nagrodę.\n• Łączy się z trybem oznajmującym\n\nGDYBY — warunek nierealny:\n• Gdybyś zdał egzamin, dostałbyś nagrodę.\n• Łączy się z trybem warunkowym\n\n\"Będzie ładna pogoda\" — czas przyszły, realna możliwość → jeśli.\n\n❌ Dlaczego nie A: \"gdyby\" wymaga trybu warunkowego.\n❌ Dlaczego nie C: \"chociaż\" to spójnik przyzwolenia.\n❌ Dlaczego nie D: \"żeby\" wprowadza cel.",
+    "topic": "Zdania warunkowe — jeśli vs gdyby (realny warunek)",
+    "difficulty": "medium-high"
+  },
+  {
+    "id": "B1_SZYK_002",
+    "source": "pdf",
+    "question": "Która forma jest poprawna?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kiedy się obudziłem, było już późno."
+      },
+      {
+        "label": "B",
+        "text": "Kiedy obudziłem się, było już późno."
+      },
+      {
+        "label": "C",
+        "text": "Się kiedy obudziłem, było już późno."
+      },
+      {
+        "label": "D",
+        "text": "Kiedy obudziłem, się było już późno."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После союза (kiedy, gdy, że, jeśli...) частица się обычно ставится сразу после союза, перед глаголом.\n\n🔑 Правило:\n\nВ придаточных предложениях после союза:\n• Spójnik + się + czasownik — предпочтительный порядок\n• \"Kiedy się obudziłem\" ✅\n• \"Gdy się dowiedziałem\" ✅\n\nАльтернатива (тоже допустима, но менее типична):\n• \"Kiedy obudziłem się\" — возможно, но звучит менее естественно\n\n❌ Почему не B: \"Kiedy obudziłem się\" — допустимо, но A более естественно.\n❌ Почему не C: \"Się\" в начале предложения — грубая ошибка!\n❌ Почему не D: \"się\" оторвано от своего глагола — неправильно.",
+    "explanationPl": "Po spójniku (kiedy, gdy, że, jeśli...) partykuła się zwykle stoi zaraz po spójniku.\n\n🔑 Zasada:\n\nW zdaniach podrzędnych:\n• Spójnik + się + czasownik — preferowany szyk\n• \"Kiedy się obudziłem\" ✅\n• \"Gdy się spotkaliśmy\" ✅\n\n❌ Dlaczego nie B: możliwe, ale mniej naturalne.\n❌ Dlaczego nie C: \"się\" na początku zdania to błąd!\n❌ Dlaczego nie D: \"się\" oderwane od czasownika — błąd.",
+    "topic": "Szyk zdania — miejsce zaimka \"się\" po spójniku",
+    "difficulty": "medium"
+  },
+  {
+    "id": "B1_SPOJNIKI_002",
+    "source": "pdf",
+    "question": "_______ pada deszcz, pójdę na spacer — lubię chodzić w deszczu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dlatego że"
+      },
+      {
+        "label": "B",
+        "text": "Ponieważ"
+      },
+      {
+        "label": "C",
+        "text": "Chociaż"
+      },
+      {
+        "label": "D",
+        "text": "Żeby"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Здесь нужен уступительный союз (хотя), потому что действие происходит ВОПРЕКИ обстоятельствам.\n\n🔑 Разница между союзами:\n\nCHOCIAŻ / MIMO ŻE — хотя, несмотря на то что (уступка):\n• Chociaż pada, pójdę. (Хотя идёт дождь, пойду — вопреки!)\n• Логика: препятствие есть, но действие всё равно произойдёт\n\nDLATEGO ŻE / PONIEWAŻ — потому что (причина):\n• Nie pójdę, ponieważ pada. (Не пойду, потому что дождь)\n• Логика: причина → следствие\n\nВ предложении: дождь идёт, НО человек всё равно пойдёт → уступка → chociaż.\n\n❌ Почему не A, B: \"dlatego że\" и \"ponieważ\" = причина, но здесь уступка.\n❌ Почему не D: \"żeby\" = чтобы (цель), не подходит по смыслу.",
+    "explanationPl": "Potrzebujemy spójnika przyzwolenia, bo czynność dzieje się WBREW okolicznościom.\n\n🔑 Różnica:\n\nCHOCIAŻ / MIMO ŻE — przyzwolenie:\n• Chociaż jestem zmęczony, pójdę na trening.\n• Logika: przeszkoda jest, ale czynność i tak nastąpi\n\nDLATEGO ŻE / PONIEWAŻ — przyczyna:\n• Nie pójdę, ponieważ jestem zmęczony.\n• Logika: przyczyna → skutek\n\nPada deszcz, ALE pójdę → przyzwolenie → chociaż.\n\n❌ Dlaczego nie A, B: to spójniki przyczyny, nie przyzwolenia.\n❌ Dlaczego nie D: \"żeby\" wprowadza cel.",
+    "topic": "Spójniki — chociaż vs dlatego że (przyzwolenie vs przyczyna)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "B1_REKCJA_004",
+    "source": "pdf",
+    "question": "Babcia jest już stara i nie może sama chodzić, dlatego codziennie _______ nią moja mama.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dba o"
+      },
+      {
+        "label": "B",
+        "text": "troszczy się o"
+      },
+      {
+        "label": "C",
+        "text": "opiekuje się"
+      },
+      {
+        "label": "D",
+        "text": "martwi się o"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Три похожих глагола с разными значениями и рекциями — 🔑 Разница:\n\nopiekować się + narzędnik (KIM?) — ухаживать, заботиться физически:\n• Opiekuję się babcią. (Ухаживаю за бабушкой — помогаю, кормлю, вожу)\n• Opiekuję się dziećmi. (Присматриваю за детьми)\n\ndbać o + biernik (O KOGO/CO?) — заботиться, следить (более абстрактно):\n• Dbam o zdrowie. (Забочусь о здоровье — слежу за ним)\n• Dbam o rodzinę. (Забочусь о семье — обеспечиваю)\n\ntroszczyć się o + biernik — беспокоиться, проявлять заботу:\n• Troszczę się o przyszłość. (Беспокоюсь о будущем)\n\nmartwić się o + biernik — волноваться, переживать:\n• Martwię się o ciebie. (Волнуюсь за тебя)\n\nКонтекст: бабушка не может ходить → нужен ФИЗИЧЕСКИЙ уход → opiekować się.\n\n❌ Почему не A, B: \"dbać o\" и \"troszczyć się o\" — более абстрактная забота, не физический уход.\n❌ Почему не D: \"martwić się\" — волноваться, а не ухаживать.\n\n⚠️ ВАЖНО: \"opiekować się\" + NARZĘDNIK (без предлога!), остальные + O + BIERNIK.",
+    "explanationPl": "Trzy podobne czasowniki z różnymi znaczeniami i rekcjami — 🔑 Różnica:\n\nopiekować się + narzędnik — fizyczna opieka:\n• Opiekuję się chorym ojcem.\n• Opiekuję się zwierzętami.\n\ndbać o + biernik — troska bardziej abstrakcyjna:\n• Dbam o środowisko.\n• Dbam o wygląd.\n\ntroszczyć się o + biernik — okazywanie troski:\n• Troszczę się o rodzinę.\n\nmartwić się o + biernik — niepokój:\n• Martwię się o wyniki.\n\nKontekst: babcia nie może chodzić → potrzebna FIZYCZNA opieka → opiekować się.\n\n⚠️ UWAGA: \"opiekować się\" + NARZĘDNIK (bez przyimka!), pozostałe + O + BIERNIK.",
+    "topic": "Rekcja czasowników — dbać o vs troszczyć się o vs opiekować się",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ASPEKT_005",
+    "source": "pdf",
+    "question": "Jeśli będzie padać, _______ parasol.",
+    "options": [
+      {
+        "label": "A",
+        "text": "będę brać"
+      },
+      {
+        "label": "B",
+        "text": "wezmę"
+      },
+      {
+        "label": "C",
+        "text": "brałem"
+      },
+      {
+        "label": "D",
+        "text": "biorę"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "выбор аспекта в условном предложении о будущем.\n\n🔑 Анализ:\n\nУсловие: \"Jeśli będzie padać\" — если будет дождь (будущее, реальное)\nСледствие: возьму зонт — однократное, конкретное действие\n\nwezmę (dok., przyszły) — возьму (один раз, результат):\n• Wezmę parasol i wyjdę. (Возьму зонт и выйду)\n• Конкретное действие в будущем\n\nbędę brać (niedok., przyszły) — буду брать (процесс/повторение):\n• Zawsze będę brać parasol, gdy pada. (Всегда буду брать — привычка)\n• Звучит странно для одного конкретного случая\n\nВ контексте одного дождя и одного зонта → wezmę.\n\n❌ Почему не A: \"będę brać\" — процесс/привычка, не одно действие.\n❌ Почему не C: \"brałem\" — прошедшее время, но условие о будущем.\n❌ Почему не D: \"biorę\" — настоящее время, не будущее.\n\n⚠️ Ловушка: после \"jeśli\" в главном предложении нужно БУДУЩЕЕ время!",
+    "explanationPl": "wybór aspektu w zdaniu warunkowym o przyszłości.\n\n🔑 Analiza:\n\nWarunek: \"Jeśli będzie padać\" — przyszłość, realny warunek\nSkutek: wezmę parasol — jednorazowa, konkretna czynność\n\nwezmę (dok.) — jedna czynność zakończona:\n• Wezmę i pójdę.\n\nbędę brać (niedok.) — proces lub powtarzanie:\n• Zawsze będę brać witaminy. (nawyk)\n\nW kontekście jednego deszczu i jednego parasola → wezmę.\n\n❌ Dlaczego nie A: \"będę brać\" sugeruje powtarzalność.\n❌ Dlaczego nie C: \"brałem\" to przeszłość.\n❌ Dlaczego nie D: \"biorę\" to teraźniejszość.",
+    "topic": "Aspekt czasownika — brać vs wziąć w kontekście przyszłym",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SWOJ_004",
+    "source": "pdf",
+    "question": "Piotr spotkał Marka i oddał mu _______ książkę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "swoją"
+      },
+      {
+        "label": "B",
+        "text": "jego"
+      },
+      {
+        "label": "C",
+        "text": "jej"
+      },
+      {
+        "label": "D",
+        "text": "moją"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "с двумя людьми в предложении!\n\n🔑 Анализ:\n- Подлежащее: Piotr (он совершает действие)\n- Piotr oddał książkę — ЧЬЮ книгу?\n- Если книга ПЁТРА (подлежащего) → swoją\n- Если книга МАРЕКА (другого человека) → jego\n\nБез дополнительного контекста, естественная интерпретация:\nПётр вернул книгу, которую брал у Марека = книга Пётра (которую он должен был вернуть) → swoją\n\nНО! Это задание с ловушкой:\n- \"oddał mu swoją książkę\" = отдал ему СВОЮ книгу (книгу Пётра)\n- \"oddał mu jego książkę\" = вернул ему ЕГО книгу (книгу Марека)\n\nОба варианта грамматически правильны, но меняют смысл!\n\nВ контексте \"oddać\" (вернуть/отдать) + \"mu\" (ему) естественнее: Пётр отдал Мареку что-то своё → swoją.\n\n❌ Почему B тоже может быть верным: \"jego książkę\" = книгу Марека — возможно, если Пётр возвращает чужую книгу. Но без контекста \"своя\" — базовый выбор.\n❌ Почему не C: \"jej\" = её (женский род) — нет женщины в предложении.\n❌ Почему не D: \"moją\" = мою — говорящий не участвует в действии.",
+    "explanationPl": "z dwiema osobami w zdaniu!\n\n🔑 Analiza:\n- Podmiot: Piotr\n- Piotr oddał książkę — CZYJĄ?\n- Jeśli książka PIOTRA (podmiotu) → swoją\n- Jeśli książka MARKA (innej osoby) → jego\n\nOba warianty są poprawne gramatycznie, ale zmieniają sens!\n\n- \"oddał mu swoją książkę\" = oddał swoją własną książkę\n- \"oddał mu jego książkę\" = zwrócił książkę należącą do Marka\n\nBez dodatkowego kontekstu, \"swoją\" jest bardziej naturalnym wyborem.\n\n❌ Dlaczego nie C: \"jej\" = rodzaj żeński, brak kobiety w zdaniu.\n❌ Dlaczego nie D: \"moją\" = mówiący nie uczestniczy w czynności.",
+    "topic": "Zaimki dzierżawcze — swój vs jego w zdaniu z dwoma osobami",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_004",
+    "source": "pdf",
+    "question": "W tym hotelu _______ kiedyś gościem sam prezydent.",
+    "options": [
+      {
+        "label": "A",
+        "text": "został"
+      },
+      {
+        "label": "B",
+        "text": "był"
+      },
+      {
+        "label": "C",
+        "text": "bywał"
+      },
+      {
+        "label": "D",
+        "text": "zostanie"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Это НЕ страдательный залог, а ловушка на понимание разницы между \"być\" и \"zostać\"!\n\n🔑 Анализ:\n\nЗдесь \"gościem\" — это ORZECZNIK (именная часть сказуемого), не imiesłów bierny!\n\nbyć + narzędnik — быть кем-то (состояние, факт):\n• Był gościem. (Был гостем — факт)\n• Jestem studentem. (Я студент)\n\nzostać + narzędnik — стать кем-то (изменение состояния):\n• Został lekarzem. (Стал врачом — изменение)\n• Zostanę nauczycielem. (Стану учителем)\n\nbywać — бывать (многократно):\n• Bywał tu często. (Бывал здесь часто)\n\nКонтекст: президент был гостем (однократный факт в прошлом) → był.\n\n❌ Почему не A: \"został gościem\" = стал гостем — звучит странно, гостем не \"становятся\".\n❌ Почему не C: \"bywał gościem\" — бывал гостем многократно, но \"kiedyś\" указывает на один случай.\n❌ Почему не D: \"zostanie\" — будущее время, но \"kiedyś\" = когда-то (прошлое).\n\n⚠️ Ловушка: это НЕ strona bierna! \"Gościem\" — это narzędnik в функции orzecznika.",
+    "explanationPl": "To NIE strona bierna, ale pułapka na rozumienie różnicy między \"być\" a \"zostać\"!\n\n🔑 Analiza:\n\n\"Gościem\" to ORZECZNIK (część imienna orzeczenia), nie imiesłów bierny!\n\nbyć + narzędnik — bycie kimś (stan, fakt):\n• Był gościem. (fakt)\n• Jest studentem.\n\nzostać + narzędnik — stanie się kimś (zmiana stanu):\n• Został lekarzem. (zmiana)\n\nbywać — wielokrotne bycie:\n• Bywał tu często.\n\nKontekst: prezydent był gościem (jednorazowy fakt) → był.\n\n❌ Dlaczego nie A: \"został gościem\" brzmi nienaturalnie.\n❌ Dlaczego nie C: \"bywał\" sugeruje wielokrotność, ale \"kiedyś\" wskazuje na jeden raz.\n❌ Dlaczego nie D: \"zostanie\" to przyszłość, ale \"kiedyś\" = przeszłość.",
+    "topic": "Strona bierna — został vs był vs bywał",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZEBY_003",
+    "source": "pdf",
+    "question": "Proszę, _______ pan usiadł i poczekał chwilę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "żebyś"
+      },
+      {
+        "label": "B",
+        "text": "żeby"
+      },
+      {
+        "label": "C",
+        "text": "abyś"
+      },
+      {
+        "label": "D",
+        "text": "że"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "форма вежливости (pan/pani) + żeby.\n\n🔑 Правило:\n\nПри обращении на \"pan/pani\" (вежливая форма) используется żeby БЕЗ личного окончания, потому что \"pan\" грамматически = 3-е лицо!\n\n• Proszę, żeby pan usiadł. (Прошу, чтобы Вы сели) ✅\n• Proszę, żebyś usiadł. (Прошу, чтобы ты сел) — на \"ты\"!\n\nФормы żeby по лицам:\n• ja → żebym\n• ty → żebyś\n• pan/pani → żeby (3-е лицо!)\n• on/ona → żeby\n• my → żebyśmy\n• wy → żebyście\n• państwo → żeby\n\n❌ Почему не A: \"żebyś\" — форма на \"ты\", но здесь \"pan\" (Вы).\n❌ Почему не C: \"abyś\" — тоже форма на \"ты\" (aby = żeby, более книжный вариант).\n❌ Почему не D: \"że\" — союз \"что\", не \"чтобы\".\n\n⚠️ Ловушка для русскоязычных: \"Вы\" в русском = 2-е лицо мн.ч., но \"pan\" в польском = 3-е лицо ед.ч.!",
+    "explanationPl": "forma grzecznościowa (pan/pani) + żeby.\n\n🔑 Zasada:\n\nPrzy zwrocie grzecznościowym \"pan/pani\" używamy żeby BEZ końcówki osobowej, bo \"pan\" gramatycznie = 3. osoba!\n\n• Proszę, żeby pan poczekał. ✅\n• Proszę, żebyś poczekał. — forma na \"ty\"!\n\nFormy żeby:\n• ja → żebym\n• ty → żebyś\n• pan/pani → żeby (3. osoba!)\n• on/ona → żeby\n\n❌ Dlaczego nie A, C: \"żebyś/abyś\" to formy dla \"ty\", nie dla \"pan\".\n❌ Dlaczego nie D: \"że\" wprowadza fakt, nie prośbę.\n\n💡 Pamiętaj: \"pan/pani\" = 3. osoba gramatycznie!",
+    "topic": "Żeby vs aby vs by — różnice stylistyczne i gramatyczne",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_005",
+    "source": "pdf",
+    "question": "Bardzo ci dziękuję _______ — bez ciebie bym sobie nie poradził.",
+    "options": [
+      {
+        "label": "A",
+        "text": "za pomocą"
+      },
+      {
+        "label": "B",
+        "text": "za pomoc"
+      },
+      {
+        "label": "C",
+        "text": "dla pomocy"
+      },
+      {
+        "label": "D",
+        "text": "o pomoc"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Глагол dziękować требует конструкции za + biernik.\n\n🔑 Формула: dziękować za co?\n\n• Dziękuję za pomoc. (Благодарю за помощь.)\n• Dziękuję za prezent. (Благодарю за подарок.)\n• Dziękuję za wszystko. (Благодарю за всё.)\n\nТакже: dziękować komu? (celownik) — кому благодарить:\n• Dziękuję ci za pomoc. (Благодарю тебя за помощь.)\n\n❌ Почему не A: \"za pomocą\" — это narzędnik, означает \"с помощью чего-то\" (инструмент), не благодарность.\n❌ Почему не C: \"dla pomocy\" — \"для помощи\", не сочетается с \"dziękować\".\n❌ Почему не D: \"o pomoc\" — \"о помощи\" или \"просить о помощи\" (prosić o pomoc), не благодарить.\n\n⚠️ Ловушка: \"za pomocą\" vs \"za pomoc\" — разные падежи, разные значения!\n• za pomocą komputera = с помощью компьютера (narzędnik)\n• dziękuję za pomoc = благодарю за помощь (biernik)",
+    "explanationPl": "Czasownik dziękować wymaga konstrukcji za + biernik.\n\n🔑 Konstrukcja: dziękować za co?\n\n• Dziękuję za zaproszenie.\n• Dziękuję za miłe słowa.\n\nRównież: dziękować komu? (celownik):\n• Dziękuję panu za pomoc.\n\n❌ Dlaczego nie A: \"za pomocą\" to narzędnik = \"przy użyciu czegoś\".\n❌ Dlaczego nie C: \"dla pomocy\" — błędna konstrukcja z \"dziękować\".\n❌ Dlaczego nie D: \"o pomoc\" — \"prosić o pomoc\", nie \"dziękować\".\n\n⚠️ Pułapka: \"za pomocą\" vs \"za pomoc\" — różne przypadki, różne znaczenia!",
+    "topic": "Przyimki — za + biernik vs za + dopełniacz vs za + narzędnik",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_NEGACJA_003",
+    "source": "pdf",
+    "question": "Nigdy nie widziałem _______ tak pięknego.",
+    "options": [
+      {
+        "label": "A",
+        "text": "nic"
+      },
+      {
+        "label": "B",
+        "text": "niczego"
+      },
+      {
+        "label": "C",
+        "text": "coś"
+      },
+      {
+        "label": "D",
+        "text": "cokolwiek"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Двойное отрицание + родительный падеж — сложная комбинация!\n\n🔑 Правило:\n\n1. Двойное отрицание обязательно: nigdy + nie, nikt + nie, nic + nie\n2. После отрицания — dopełniacz: nie widziałem CZEGO?\n\nСклонение \"nic\":\n• Mianownik: nic\n• Dopełniacz: niczego\n• Biernik: nic\n\n\"Nie widziałem\" требует dopełniacza → niczego (не \"nic\"!)\n\nПолная конструкция:\n• Nigdy nie widziałem niczego tak pięknego.\n• (Никогда не видел ничего такого красивого.)\n\n❌ Почему не A: \"nic\" — mianownik/biernik, но после \"nie widziałem\" нужен dopełniacz.\n❌ Почему не C: \"coś\" — что-то (утвердительное), но здесь отрицание.\n❌ Почему не D: \"cokolwiek\" — что угодно, не подходит к отрицательному контексту.\n\n⚠️ Типичная ошибка: \"nie widziałem nic\" вместо \"nie widziałem niczego\"!",
+    "explanationPl": "Podwójne przeczenie + dopełniacz — trudna kombinacja!\n\n🔑 Zasada:\n\n1. Podwójne przeczenie obowiązkowe: nigdy + nie, nikt + nie, nic + nie\n2. Po przeczeniu — dopełniacz: nie widziałem CZEGO?\n\nOdmiana \"nic\":\n• Mianownik: nic\n• Dopełniacz: niczego\n• Biernik: nic\n\n\"Nie widziałem\" wymaga dopełniacza → niczego.\n\n❌ Dlaczego nie A: \"nic\" to mianownik/biernik, potrzebujemy dopełniacza.\n❌ Dlaczego nie C, D: \"coś/cokolwiek\" to formy twierdzące, nie przeczące.\n\n⚠️ Częsty błąd: \"nie widziałem nic\" zamiast \"nie widziałem niczego\"!",
+    "topic": "Negacja — podwójne przeczenie i dopełniacz",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNEK_003",
+    "source": "pdf",
+    "question": "_______ wcześniej, zdążyłbyś na pociąg.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gdybyś wyszedł"
+      },
+      {
+        "label": "B",
+        "text": "Jeśli wyjdziesz"
+      },
+      {
+        "label": "C",
+        "text": "Kiedy wyszedłeś"
+      },
+      {
+        "label": "D",
+        "text": "Że wyszedłeś"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Это III тип условного предложения — нереальное условие в прошлом (то, что уже не произошло).\n\n🔑 Структура III типа:\n\nGdyby + прошедшее время, ... + tryb warunkowy\n• Gdybyś wyszedł wcześniej, zdążyłbyś. (Если бы ты вышел раньше, успел бы.)\n• Gdybym wiedział, powiedziałbym ci. (Если бы я знал, сказал бы тебе.)\n\nЭто условие НЕРЕАЛЬНОЕ — человек НЕ вышел раньше и НЕ успел на поезд.\n\n❌ Почему не B: \"Jeśli wyjdziesz\" — реальное условие в будущем, но \"zdążyłbyś\" — условное наклонение (нереальное).\n❌ Почему не C: \"Kiedy wyszedłeś\" — временной союз \"когда\", не условный.\n❌ Почему не D: \"Że wyszedłeś\" — союз \"что\", не условный.\n\n⚠️ Согласование: gdyby + прошедшее → главное предложение в trybie warunkowym!",
+    "explanationPl": "To III typ zdania warunkowego — warunek nierealny w przeszłości.\n\n🔑 Struktura III typu:\n\nGdyby + czas przeszły, ... + tryb warunkowy\n• Gdybyś przyszedł, zobaczyłbyś.\n• Gdybym miał czas, pojechałbym.\n\nWarunek NIEREALNY — osoba NIE wyszła wcześniej i NIE zdążyła.\n\n❌ Dlaczego nie B: \"Jeśli wyjdziesz\" to warunek realny w przyszłości.\n❌ Dlaczego nie C: \"Kiedy\" to spójnik czasowy, nie warunkowy.\n❌ Dlaczego nie D: \"Że\" wprowadza fakt, nie warunek.\n\n💡 Zgodność: gdyby + przeszły → zdanie główne w trybie warunkowym!",
+    "topic": "Zdania warunkowe — gdyby w czasie przeszłym (III tryb warunkowy)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_002",
+    "source": "pdf",
+    "question": "Kogo zapraszasz na imprezę? — Zapraszam _______, nie jego.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ją"
+      },
+      {
+        "label": "B",
+        "text": "nią"
+      },
+      {
+        "label": "C",
+        "text": "jej"
+      },
+      {
+        "label": "D",
+        "text": "ona"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Здесь нужна акцентированная (długa) форма местоимения, потому что есть противопоставление!\n\n🔑 Правило:\n\nФормы короткие (nieakcentowane): go, ją, mu, jej...\n• Используются в нейтральном контексте\n• Widzę ją. (Вижу её — нейтрально)\n\nФормы длинные (akcentowane): jego, nią, jemu, niej...\n• Используются при АКЦЕНТЕ, противопоставлении, после предлогов\n• Widzę NIĄ, nie jego! (Вижу ЕЁ, не его! — акцент)\n• Idę z nią. (Иду с ней — после предлога)\n\nВ предложении: \"_______, nie jego\" — противопоставление → нужна акцентированная форма → nią.\n\n❌ Почему не A: \"ją\" — короткая форма, не подходит для акцента.\n❌ Почему не C: \"jej\" — dopełniacz/celownik, но \"zapraszać\" требует biernika.\n❌ Почему не D: \"ona\" — mianownik, только для подлежащего.",
+    "explanationPl": "Potrzebujemy formy akcentowanej (długiej), bo jest przeciwstawienie!\n\n🔑 Zasada:\n\nFormy krótkie (nieakcentowane): go, ją, mu...\n• Neutralny kontekst\n• Widzę ją.\n\nFormy długie (akcentowane): jego, nią, jemu...\n• AKCENT, przeciwstawienie, po przyimkach\n• Widzę NIĄ, nie jego!\n• Idę z nią.\n\n\"_______, nie jego\" — przeciwstawienie → forma akcentowana → nią.\n\n❌ Dlaczego nie A: \"ją\" to forma krótka, nieakcentowana.\n❌ Dlaczego nie C: \"jej\" to dopełniacz/celownik, nie biernik.\n❌ Dlaczego nie D: \"ona\" to mianownik.",
+    "topic": "Zaimki osobowe — formy akcentowane vs nieakcentowane",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_003",
+    "source": "pdf",
+    "question": "Ja ciężko pracuję, _______ ty tylko siedzisz i nic nie robisz.",
+    "options": [
+      {
+        "label": "A",
+        "text": "kiedy"
+      },
+      {
+        "label": "B",
+        "text": "gdy"
+      },
+      {
+        "label": "C",
+        "text": "podczas gdy"
+      },
+      {
+        "label": "D",
+        "text": "dopóki"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Здесь нужен союз, выражающий контраст (противопоставление), а не просто время.\n\n🔑 Разница:\n\nPODCZAS GDY — в то время как, тогда как (КОНТРАСТ):\n• Ja pracuję, podczas gdy ty odpoczywasz. (Я работаю, тогда как ты отдыхаешь)\n• Подчёркивает противопоставление двух действий/ситуаций\n\nGDY / KIEDY — когда (ВРЕМЯ):\n• Gdy przyszedłem, ona już spała. (Когда я пришёл, она уже спала)\n• Просто указывает на время\n\nDOPÓKI — пока (не):\n• Dopóki nie skończysz, nie wyjdziesz.\n\nВ предложении: \"Я работаю\" vs \"ты ничего не делаешь\" — явный контраст → podczas gdy.\n\n❌ Почему не A, B: \"kiedy/gdy\" — временные союзы, не выражают контраст так явно.\n❌ Почему не D: \"dopóki\" — \"пока\", не подходит по смыслу.\n\n⚠️ \"Podczas gdy\" — единственный союз, который ЯВНО выражает контраст!",
+    "explanationPl": "Potrzebujemy spójnika wyrażającego kontrast, nie tylko czas.\n\n🔑 Różnica:\n\nPODCZAS GDY — tymczasem, w przeciwieństwie (KONTRAST):\n• On się bawi, podczas gdy inni pracują.\n• Podkreśla przeciwstawienie\n\nGDY / KIEDY — wskazuje na czas:\n• Gdy wróciłem, było ciemno.\n\nDOPÓKI — do momentu, gdy:\n• Dopóki żyję, będę walczyć.\n\n\"Ja pracuję\" vs \"ty nic nie robisz\" — wyraźny kontrast → podczas gdy.\n\n❌ Dlaczego nie A, B: \"kiedy/gdy\" to spójniki czasowe, nie kontrastowe.\n❌ Dlaczego nie D: \"dopóki\" nie pasuje znaczeniowo.\n\n💡 \"Podczas gdy\" to jedyny spójnik WYRAŹNIE wyrażający kontrast!",
+    "topic": "Spójniki — podczas gdy vs gdy vs kiedy (kontrast vs czas)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_REKCJA_005",
+    "source": "pdf",
+    "question": "Mama bardzo _______ mojego zdrowia, dlatego ciągle mi przypomina o lekarstwach.",
+    "options": [
+      {
+        "label": "A",
+        "text": "boi się"
+      },
+      {
+        "label": "B",
+        "text": "boi się o"
+      },
+      {
+        "label": "C",
+        "text": "martwi"
+      },
+      {
+        "label": "D",
+        "text": "obawia"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Глагол bać się имеет ДВЕ разные конструкции с разными значениями!\n\n🔑 Разница:\n\nbać się + dopełniacz (KOGO? CZEGO?) — бояться чего-то/кого-то:\n• Boję się pająków. (Боюсь пауков.)\n• Boję się ciemności. (Боюсь темноты.)\n• Объект страха — то, что пугает\n\nbać się O + biernik (O KOGO? O CO?) — бояться ЗА кого-то/что-то:\n• Boję się o zdrowie. (Боюсь за здоровье — переживаю о нём.)\n• Boję się o ciebie. (Боюсь за тебя — волнуюсь.)\n• Объект заботы — то, о чём переживаешь\n\nКонтекст: мама переживает о здоровье сына → boi się o.\n\n❌ Почему не A: \"boi się mojego zdrowia\" = боится здоровья (как будто здоровье пугает) — абсурд!\n❌ Почему не C: \"martwi\" без \"się\" — неполная форма, нужно \"martwi się o\".\n❌ Почему не D: \"obawia\" без \"się\" — неполная форма, нужно \"obawia się\".\n\n⚠️ \"Bać się czegoś\" ≠ \"bać się o coś\"!",
+    "explanationPl": "Czasownik bać się ma DWA różne znaczenia z różnymi konstrukcjami!\n\n🔑 Różnica:\n\nbać się + dopełniacz — odczuwać strach przed czymś:\n• Boję się burzy. (burza mnie przeraża)\n• Boję się egzaminu.\n\nbać się O + biernik — martwić się o kogoś/coś:\n• Boję się o zdrowie. (martwię się o nie)\n• Boję się o przyszłość.\n\nKontekst: mama martwi się o zdrowie syna → boi się o.\n\n❌ Dlaczego nie A: \"boi się zdrowia\" = zdrowie ją przeraża — absurd!\n❌ Dlaczego nie C, D: \"martwi/obawia\" bez \"się\" to błąd.\n\n💡 Pułapka: \"bać się czegoś\" ≠ \"bać się o coś\"!",
+    "topic": "Rekcja czasowników — bać się + dopełniacz vs bać się o + biernik",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ASPEKT_006",
+    "source": "pdf",
+    "question": "Zawsze _______ o jej urodzinach! W tym roku znowu nie kupiłem prezentu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zapomniałem"
+      },
+      {
+        "label": "B",
+        "text": "zapominam"
+      },
+      {
+        "label": "C",
+        "text": "zapomnę"
+      },
+      {
+        "label": "D",
+        "text": "zapomniałbym"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Здесь нужен несовершенный вид в настоящем времени, потому что действие ПОВТОРЯЕТСЯ регулярно.\n\n🔑 Анализ:\n\nМаркер \"zawsze\" (всегда) указывает на повторяющееся действие → aspekt niedokonany + czas teraźniejszy.\n\nzapominam (niedok., teraźniejszy) — забываю (регулярно):\n• Zawsze zapominam o urodzinach. (Всегда забываю — это моя привычка)\n\nzapomniałem (dok., przeszły) — забыл (один раз):\n• Wczoraj zapomniałem o spotkaniu. (Вчера забыл — один случай)\n\nzapomnę (dok., przyszły) — забуду:\n• Nie zapomnę o tym. (Не забуду)\n\nКонтекст: \"zawsze\" + \"znowu\" (опять) → регулярная проблема → zapominam.\n\n❌ Почему не A: \"zapomniałem\" — однократное действие в прошлом, но \"zawsze\" указывает на привычку.\n❌ Почему не C: \"zapomnę\" — будущее время, не подходит.\n❌ Почему не D: \"zapomniałbym\" — условное наклонение, не подходит.",
+    "explanationPl": "Potrzebujemy aspektu niedokonanego w czasie teraźniejszym, bo czynność POWTARZA SIĘ regularnie.\n\n🔑 Analiza:\n\nMarker \"zawsze\" wskazuje na powtarzalność → aspekt niedokonany + czas teraźniejszy.\n\nzapominam (niedok., teraźniejszy) — regularnie:\n• Zawsze zapominam klucze.\n\nzapomniałem (dok., przeszły) — jednorazowo:\n• Wczoraj zapomniałem portfela.\n\nKontekst: \"zawsze\" + \"znowu\" → regularna sytuacja → zapominam.\n\n❌ Dlaczego nie A: \"zapomniałem\" to jednorazowa czynność, nie nawyk.",
+    "topic": "Aspekt czasownika — zapominać vs zapomnieć + kontekst",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_006",
+    "source": "pdf",
+    "question": "Spotkajmy się _______ o godzinie 19.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przed teatr"
+      },
+      {
+        "label": "B",
+        "text": "przed teatrem"
+      },
+      {
+        "label": "C",
+        "text": "do teatru"
+      },
+      {
+        "label": "D",
+        "text": "przy teatrze"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Предлог przed + narzędnik означает \"перед\" (место) или \"до\" (время).\n\n🔑 Правило:\n\nPRZED + narzędnik — перед чем-то (место/время):\n• Stoimy przed teatrem. (Стоим перед театром — место)\n• Przed obiadem. (Перед обедом — время)\n\nЗдесь \"przed teatrem\" = перед зданием театра (место встречи).\n\n❌ Почему не A: \"przed teatr\" — biernik после \"przed\" не используется! Это грубая ошибка.\n❌ Почему не C: \"do teatru\" — \"в театр\" (направление), не \"перед театром\".\n❌ Почему не D: \"przy teatrze\" — \"у театра, рядом с театром\" — возможно по смыслу, но менее точно.\n\n⚠️ Ловушка для русскоязычных: в русском \"перед\" + винительный, в польском \"przed\" + narzędnik!",
+    "explanationPl": "Przyimek przed + narzędnik oznacza \"przed czymś\" (miejsce lub czas).\n\n🔑 Zasada:\n\nPRZED + narzędnik:\n• Stoimy przed teatrem. (miejsce)\n• Przed wyjściem. (czas)\n\n\"Przed teatrem\" = przed budynkiem teatru (miejsce spotkania).\n\n❌ Dlaczego nie A: \"przed teatr\" — biernik po \"przed\" to błąd!\n❌ Dlaczego nie C: \"do teatru\" = kierunek, nie miejsce.\n❌ Dlaczego nie D: \"przy teatrze\" — możliwe, ale mniej precyzyjne.\n\n💡 Pamiętaj: PRZED + narzędnik (przed domem, przed szkołą, przed teatrem).",
+    "topic": "Przyimki — przed + narzędnik vs przed + biernik (czas vs miejsce)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_005",
+    "source": "pdf",
+    "question": "Wszystkie okna w domu _______ przez burzę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "zostały wybite"
+      },
+      {
+        "label": "B",
+        "text": "został wybity"
+      },
+      {
+        "label": "C",
+        "text": "została wybita"
+      },
+      {
+        "label": "D",
+        "text": "zostało wybite"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В страдательном залоге imiesłów bierny должен согласовываться с подлежащим в РОДЕ и ЧИСЛЕ!\n\n🔑 Анализ:\n\nПодлежащее: wszystkie okna (все окна)\n• \"okno\" — rodzaj nijaki (средний род)\n• \"okna\" — liczba mnoga (множественное число)\n• Форма: zostały + wybite (мн.ч., ср.р. → -e)\n\nСогласование imiesłowu biernego:\n• rodzaj męski, l.poj.: został wybity\n• rodzaj żeński, l.poj.: została wybita\n• rodzaj nijaki, l.poj.: zostało wybite\n• liczba mnoga (niemęskoosobowa): zostały wybite ✅\n\n❌ Почему не B: \"został wybity\" — м.р., ед.ч., но \"okna\" — мн.ч.\n❌ Почему не C: \"została wybita\" — ж.р., ед.ч.\n❌ Почему не D: \"zostało wybite\" — ср.р., ед.ч., но \"okna\" — мн.ч.\n\n⚠️ Ключ: \"okna\" (мн.ч.) → \"zostały\" (мн.ч.) + \"wybite\" (мн.ч., niemęskoosobowa)!",
+    "explanationPl": "W stronie biernej imiesłów bierny musi zgadzać się z podmiotem w RODZAJU i LICZBIE!\n\n🔑 Analiza:\n\nPodmiot: wszystkie okna\n• \"okno\" — rodzaj nijaki\n• \"okna\" — liczba mnoga\n• Forma: zostały + wybite (l.mn., niemęskoosobowa)\n\nZgodność imiesłowu:\n• r. męski, l.poj.: został wybity\n• r. żeński, l.poj.: została wybita\n• r. nijaki, l.poj.: zostało wybite\n• l.mn. (niemęskoosobowa): zostały wybite ✅\n\n❌ Dlaczego nie B, C, D: złe formy rodzaju lub liczby.\n\n💡 Klucz: \"okna\" (l.mn.) → \"zostały\" (l.mn.) + \"wybite\" (l.mn.)!",
+    "topic": "Strona bierna — imiesłów bierny: rodzaj i liczba",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SWOJ_005",
+    "source": "pdf",
+    "question": "Trzeba dbać o _______ zdrowie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "swoje"
+      },
+      {
+        "label": "B",
+        "text": "moje"
+      },
+      {
+        "label": "C",
+        "text": "twoje"
+      },
+      {
+        "label": "D",
+        "text": "jego"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "swój используется даже при БЕЗЛИЧНЫХ конструкциях!\n\n🔑 Правило:\n\nВ безличных конструкциях (trzeba, można, warto, należy...) swój относится к подразумеваемому субъекту — \"каждый\", \"человек вообще\".\n\n• Trzeba dbać o swoje zdrowie. (Нужно заботиться о СВОЁМ здоровье — о здоровье каждого)\n• Warto kochać swoją pracę. (Стоит любить СВОЮ работу)\n• Należy szanować swoich rodziców. (Следует уважать СВОИХ родителей)\n\nЭто универсальное высказывание, не о конкретном \"моём\" или \"твоём\".\n\n❌ Почему не B: \"moje\" — конкретно моё, но здесь общее правило для всех.\n❌ Почему не C: \"twoje\" — конкретно твоё.\n❌ Почему не D: \"jego\" — конкретно его (чьё-то чужое).\n\n⚠️ \"Swój\" в безличных конструкциях = универсальный притяжательный!",
+    "explanationPl": "swój używamy nawet w konstrukcjach BEZOSOBOWYCH!\n\n🔑 Zasada:\n\nW konstrukcjach bezosobowych (trzeba, można, warto, należy...) swój odnosi się do domyślnego podmiotu — \"każdy\", \"człowiek w ogóle\".\n\n• Trzeba dbać o swoje zdrowie. (o zdrowie każdego)\n• Warto kochać swoją pracę.\n• Należy szanować swoich rodziców.\n\nTo uniwersalne stwierdzenie, nie o konkretnym \"moim\" czy \"twoim\".\n\n❌ Dlaczego nie B, C, D: to formy konkretne, a tu chodzi o ogólną zasadę.\n\n💡 \"Swój\" w konstrukcjach bezosobowych = uniwersalny zaimek dzierżawczy!",
+    "topic": "Zaimki dzierżawcze — swój w bezokoliczniku",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_NEGACJA_004",
+    "source": "pdf",
+    "question": "Nie mam _______ pomysłu, co jej kupić na urodziny.",
+    "options": [
+      {
+        "label": "A",
+        "text": "żaden"
+      },
+      {
+        "label": "B",
+        "text": "żadnego"
+      },
+      {
+        "label": "C",
+        "text": "jakiś"
+      },
+      {
+        "label": "D",
+        "text": "jakiegoś"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "отрицание требует dopełniacza + \"żaden\" должен согласовываться!\n\n🔑 Анализ:\n\n1. \"Nie mam\" → требует dopełniacza (не biernika!)\n2. \"pomysł\" (м.р.) в dopełniaczu → \"pomysłu\"\n3. \"żaden\" в dopełniaczu м.р. → \"żadnego\"\n\nПолная форма: \"Nie mam żadnego pomysłu.\"\n\nСклонение \"żaden\" (м.р.):\n• Mianownik: żaden\n• Dopełniacz: żadnego\n• Biernik: żaden / żadnego (одуш.)\n• Narzędnik: żadnym\n\n❌ Почему не A: \"żaden\" — mianownik, но после \"nie mam\" нужен dopełniacz.\n❌ Почему не C: \"jakiś\" — \"какой-то\" (утвердительное), но здесь отрицание.\n❌ Почему не D: \"jakiegoś\" — тоже утвердительное, не подходит к отрицанию.\n\n⚠️ Правило: NIE + żaden/żadna/żadne (не jakiś/jakaś/jakieś!)",
+    "explanationPl": "przeczenie wymaga dopełniacza + \"żaden\" musi się zgadzać!\n\n🔑 Analiza:\n\n1. \"Nie mam\" → wymaga dopełniacza\n2. \"pomysł\" (r.m.) w dopełniaczu → \"pomysłu\"\n3. \"żaden\" w dopełniaczu r.m. → \"żadnego\"\n\nPełna forma: \"Nie mam żadnego pomysłu.\"\n\nOdmiana \"żaden\" (r.m.):\n• Mianownik: żaden\n• Dopełniacz: żadnego\n\n❌ Dlaczego nie A: \"żaden\" to mianownik, potrzebujemy dopełniacza.\n❌ Dlaczego nie C, D: \"jakiś/jakiegoś\" to formy twierdzące, nie przeczące.\n\n💡 Zasada: NIE + żaden (nie jakiś!)",
+    "topic": "Negacja — żaden vs żadnego (przypadek po przeczeniu)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZEBY_004",
+    "source": "pdf",
+    "question": "Powiedział mi, _______ jutro nie przyjdzie do pracy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "żeby"
+      },
+      {
+        "label": "B",
+        "text": "żebym"
+      },
+      {
+        "label": "C",
+        "text": "że"
+      },
+      {
+        "label": "D",
+        "text": "aby"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "После глаголов СООБЩЕНИЯ (powiedzieć, mówić, napisać...) используется że (что), а не żeby (чтобы)!\n\n🔑 Разница:\n\nŻE — вводит ФАКТ, информацию:\n• Powiedział, że jest chory. (Сказал, ЧТО болен — информация)\n• Wiem, że masz rację. (Знаю, ЧТО ты прав)\n\nŻEBY — вводит ПРОСЬБУ, желание, цель:\n• Powiedział, żebym przyszedł. (Сказал, ЧТОБЫ я пришёл — просьба)\n• Chcę, żebyś został. (Хочу, ЧТОБЫ ты остался)\n\nКонтекст: \"nie przyjdzie\" — это ФАКТ (он сообщает информацию), не просьба → że.\n\n❌ Почему не A: \"żeby\" вводит просьбу/цель, но здесь информация.\n❌ Почему не B: \"żebym\" — просьба ко мне, но он говорит о СЕБЕ.\n❌ Почему не D: \"aby\" = żeby (более книжный), тоже для просьбы/цели.\n\n⚠️ Ловушка: \"Powiedział, że...\" (факт) vs \"Powiedział, żebym...\" (просьба)!",
+    "explanationPl": "Po czasownikach MÓWIENIA (powiedzieć, mówić, napisać...) używamy że (fakt), nie żeby (prośba)!\n\n🔑 Różnica:\n\nŻE — wprowadza FAKT, informację:\n• Powiedział, że jest zmęczony. (informacja)\n• Wiem, że to prawda.\n\nŻEBY — wprowadza PROŚBĘ, życzenie, cel:\n• Powiedział, żebym poczekał. (prośba)\n• Chcę, żebyś przyszedł.\n\nKontekst: \"nie przyjdzie\" — to FAKT (informuje o sobie) → że.\n\n❌ Dlaczego nie A, D: \"żeby/aby\" wprowadzają prośbę, nie fakt.\n❌ Dlaczego nie B: \"żebym\" to prośba do mnie, ale on mówi o SOBIE.\n\n💡 Pułapka: \"Powiedział, że...\" (fakt) vs \"Powiedział, żebym...\" (prośba)!",
+    "topic": "Żeby vs że — po czasownikach mówienia",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNEK_004",
+    "source": "pdf",
+    "question": "Pójdę na spacer, _______ będzie padać.",
+    "options": [
+      {
+        "label": "A",
+        "text": "jeśli"
+      },
+      {
+        "label": "B",
+        "text": "chyba że"
+      },
+      {
+        "label": "C",
+        "text": "gdyby"
+      },
+      {
+        "label": "D",
+        "text": "dlatego że"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Здесь нужен союз, выражающий ИСКЛЮЧЕНИЕ из условия — \"если только не\", \"разве что\".\n\n🔑 Разница:\n\nCHYBA ŻE — если только не, разве что (исключение):\n• Pójdę, chyba że będzie padać. (Пойду, если только не будет дождя)\n• Przyjdę, chyba że coś mi wypadnie. (Приду, разве что что-то случится)\n• Логика: действие произойдёт, КРОМЕ случая X\n\nJEŚLI — если (обычное условие):\n• Pójdę, jeśli będzie ładna pogoda. (Пойду, если будет хорошая погода)\n• Логика: действие произойдёт ПРИ условии X\n\nGDYBY — если бы (нереальное):\n• Poszedłbym, gdyby nie padało.\n\nКонтекст: \"Pójdę\" (пойду — намерение) + дождь как исключение → chyba że.\n\n❌ Почему не A: \"jeśli będzie padać\" = если будет дождь, пойду — противоположный смысл!\n❌ Почему не C: \"gdyby\" требует условного наклонения.\n❌ Почему не D: \"dlatego że\" = потому что — не подходит по смыслу.",
+    "explanationPl": "Potrzebujemy spójnika wyrażającego WYJĄTEK od warunku — \"o ile nie\", \"pod warunkiem, że nie\".\n\n🔑 Różnica:\n\nCHYBA ŻE — o ile nie, pod warunkiem, że nie (wyjątek):\n• Pójdę, chyba że będzie padać. (pójdę, O ILE NIE będzie padać)\n• Przyjdę, chyba że będę zajęty.\n• Logika: czynność nastąpi, Z WYJĄTKIEM sytuacji X\n\nJEŚLI — zwykły warunek:\n• Pójdę, jeśli będzie słońce.\n• Logika: czynność nastąpi POD WARUNKIEM X\n\nKontekst: \"Pójdę\" (zamiar) + deszcz jako wyjątek → chyba że.\n\n❌ Dlaczego nie A: \"jeśli będzie padać\" = pójdę, gdy będzie padać — odwrotny sens!",
+    "topic": "Zdania warunkowe — chyba że (wyjątek od warunku)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_003",
+    "source": "pdf",
+    "question": "Kup coś dla _______ — zasługujesz na prezent!",
+    "options": [
+      {
+        "label": "A",
+        "text": "się"
+      },
+      {
+        "label": "B",
+        "text": "siebie"
+      },
+      {
+        "label": "C",
+        "text": "sobie"
+      },
+      {
+        "label": "D",
+        "text": "sobą"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "После предлога нужна ПОЛНАЯ (акцентированная) форма местоимения, не \"się\"!\n\n🔑 Правило:\n\nSIĘ — краткая форма, используется с глаголами:\n• Myję się. (Моюсь.)\n• Cieszę się. (Радуюсь.)\n• НИКОГДА после предлогов!\n\nSIEBIE / SOBIE / SOBĄ — полные формы, используются после предлогов:\n• dla siebie (для себя) — dopełniacz\n• o sobie (о себе) — miejscownik\n• z sobą (с собой) — narzędnik\n• przed sobą (перед собой) — narzędnik\n\n\"Dla\" требует dopełniacza → dla siebie.\n\n❌ Почему не A: \"się\" не используется после предлогов!\n❌ Почему не C: \"sobie\" — celownik/miejscownik, но \"dla\" требует dopełniacza.\n❌ Почему не D: \"sobą\" — narzędnik, но \"dla\" требует dopełniacza.\n\n⚠️ Запомни: после предлога ВСЕГДА полная форма (siebie/sobie/sobą), НИКОГДА \"się\"!",
+    "explanationPl": "Po przyimku potrzebujemy PEŁNEJ formy zaimka, nie \"się\"!\n\n🔑 Zasada:\n\nSIĘ — forma krótka, tylko z czasownikami:\n• Myję się.\n• Cieszę się.\n• NIGDY po przyimkach!\n\nSIEBIE / SOBIE / SOBĄ — formy pełne, po przyimkach:\n• dla siebie — dopełniacz\n• o sobie — miejscownik\n• z sobą — narzędnik\n\n\"Dla\" wymaga dopełniacza → dla siebie.\n\n❌ Dlaczego nie A: \"się\" nie występuje po przyimkach!\n❌ Dlaczego nie C: \"sobie\" to celownik/miejscownik, nie dopełniacz.\n❌ Dlaczego nie D: \"sobą\" to narzędnik, nie dopełniacz.\n\n💡 Zapamiętaj: po przyimku ZAWSZE pełna forma!",
+    "topic": "Zaimki osobowe — siebie vs się (forma akcentowana)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_004",
+    "source": "pdf",
+    "question": "Nie lubię _______ kawy, _______ herbaty — piję tylko wodę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "albo... albo"
+      },
+      {
+        "label": "B",
+        "text": "ani... ani"
+      },
+      {
+        "label": "C",
+        "text": "i... i"
+      },
+      {
+        "label": "D",
+        "text": "lub... lub"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "В ОТРИЦАТЕЛЬНЫХ предложениях используется ani...ani (ни...ни), а не \"albo...albo\" (или...или)!\n\n🔑 Правило:\n\nANI...ANI — ни...ни (отрицание):\n• Nie lubię ani kawy, ani herbaty. (Не люблю НИ кофе, НИ чай.)\n• Nie mam ani czasu, ani pieniędzy.\n• Используется ТОЛЬКО в отрицательных предложениях!\n\nALBO...ALBO — или...или (выбор):\n• Wybieram albo kawę, albo herbatę. (Выбираю ИЛИ кофе, ИЛИ чай.)\n• Используется в утвердительных предложениях\n\nI...I — и...и (добавление):\n• Lubię i kawę, i herbatę. (Люблю И кофе, И чай.)\n\nКонтекст: \"Nie lubię\" → отрицание → ani...ani.\n\n❌ Почему не A: \"albo...albo\" — для выбора, не для отрицания.\n❌ Почему не C: \"i...i\" — для утверждения (\"люблю и то, и то\").\n❌ Почему не D: \"lub...lub\" — то же, что \"albo...albo\".",
+    "explanationPl": "W zdaniach PRZECZĄCYCH używamy ani...ani, nie \"albo...albo\"!\n\n🔑 Zasada:\n\nANI...ANI — przeczenie:\n• Nie lubię ani mięsa, ani ryb.\n• Nie mam ani czasu, ani ochoty.\n• TYLKO w zdaniach przeczących!\n\nALBO...ALBO — wybór:\n• Wybieram albo to, albo tamto.\n• W zdaniach twierdzących\n\nI...I — dodawanie:\n• Lubię i to, i tamto.\n\nKontekst: \"Nie lubię\" → przeczenie → ani...ani.\n\n❌ Dlaczego nie A, D: \"albo/lub\" to wybór, nie przeczenie.\n❌ Dlaczego nie C: \"i...i\" to twierdzenie.",
+    "topic": "Spójniki — ani...ani vs albo...albo (przeczenie vs wybór)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_001",
+    "source": "pdf",
+    "question": "Na imprezie było _______ chłopców z naszej klasy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pięć"
+      },
+      {
+        "label": "B",
+        "text": "pięciu"
+      },
+      {
+        "label": "C",
+        "text": "pięcioro"
+      },
+      {
+        "label": "D",
+        "text": "piąty"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Числительные от 5 и выше с существительными мужского личного рода (męskoosobowe) требуют формы на -u + dopełniacz множественного числа.\n\n🔑 Правило для męskoosobowe (ТОЛЬКО мужчины):\n• 2, 3, 4 → dwóch/dwaj, trzech/trzej, czterech/czterej\n• 5+ → pięciu, sześciu, siedmiu... + dopełniacz l.mn.\n\nЗдесь \"chłopców\" — это явно мужчины, поэтому используем pięciu.\n\nПримеры:\n• Pięciu mężczyzn pracuje w tej firmie.\n• Widzę sześciu chłopców na boisku.\n\n❌ Почему не A: \"pięć\" используется с niemęskoosobowymi: pięć książek, pięć kobiet, pięć domów.\n❌ Почему не C: \"pięcioro\" — собирательное для смешанных групп или детей: pięcioro dzieci.\n❌ Почему не D: \"piąty\" — порядковое числительное (пятый), не количественное.",
+    "explanationPl": "Liczebniki od 5 wzwyż z rzeczownikami męskoosobowymi wymagają formy na -u + dopełniacz liczby mnogiej.\n\n🔑 Reguła dla męskoosobowych (TYLKO mężczyźni):\n• 5+ → pięciu, sześciu, siedmiu... + dopełniacz l.mn.\n\n\"Chłopców\" to wyraźnie mężczyźni, więc używamy pięciu.\n\n❌ Dlaczego nie A: \"pięć\" to forma dla niemęskoosobowych: pięć domów, pięć kobiet.\n❌ Dlaczego nie C: \"pięcioro\" to liczebnik zbiorowy: pięcioro dzieci.\n❌ Dlaczego nie D: \"piąty\" to liczebnik porządkowy, nie główny.",
+    "topic": "Liczebniki główne — odmiana z rzeczownikami męskoosobowymi",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_002",
+    "source": "pdf",
+    "question": "W pokoju siedziało _______ — mężczyzna i kobieta.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dwa"
+      },
+      {
+        "label": "B",
+        "text": "dwóch"
+      },
+      {
+        "label": "C",
+        "text": "dwoje"
+      },
+      {
+        "label": "D",
+        "text": "dwie"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Когда речь идёт о смешанной группе (мужчина + женщина), используется собирательное числительное dwoje.\n\n🔑 Формы числительного \"два\":\n• dwa — для мужского неличного и среднего рода: dwa domy, dwa okna\n• dwie — для женского рода: dwie kobiety, dwie książki\n• dwóch/dwaj — для мужского личного (ТОЛЬКО мужчины): dwóch mężczyzn\n• dwoje — для смешанных групп или детей: dwoje ludzi, dwoje dzieci\n\n❌ Почему не A: \"dwa\" — для неодушевлённых м.р. и среднего рода.\n❌ Почему не B: \"dwóch\" — только для группы исключительно мужчин.\n❌ Почему не D: \"dwie\" — только для женского рода.",
+    "explanationPl": "Gdy mówimy o grupie mieszanej (mężczyzna + kobieta), używamy liczebnika zbiorowego dwoje.\n\n🔑 Formy liczebnika \"dwa\":\n• dwa — rodzaj męski nieżywotny i nijaki: dwa stoły, dwa krzesła\n• dwie — rodzaj żeński: dwie dziewczyny\n• dwóch/dwaj — rodzaj męskoosobowy (TYLKO mężczyźni): dwóch chłopców\n• dwoje — grupy mieszane lub dzieci: dwoje przyjaciół\n\n❌ Dlaczego nie A: \"dwa\" nie pasuje do osób.\n❌ Dlaczego nie B: \"dwóch\" tylko dla samych mężczyzn.\n❌ Dlaczego nie D: \"dwie\" tylko dla samych kobiet.",
+    "topic": "Liczebniki główne — \"dwa\" vs \"dwóch\" vs \"dwoje\"",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_003",
+    "source": "pdf",
+    "question": "Nie widziałem _______ moich braci od tygodnia.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzech"
+      },
+      {
+        "label": "B",
+        "text": "trzy"
+      },
+      {
+        "label": "C",
+        "text": "trzej"
+      },
+      {
+        "label": "D",
+        "text": "troje"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После отрицания \"nie widziałem\" нужен dopełniacz. \"Bracia\" (братья) — это męskoosobowe, форма числительного \"три\" в dopełniaczu — trzech.\n\n🔑 Odmiana \"trzy\" dla męskoosobowych:\n• Mianownik: trzej / trzech (braci)\n• Dopełniacz: trzech (braci)\n• Celownik: trzem (braciom)\n• Biernik: trzech (braci)\n• Narzędnik: trzema (braćmi)\n• Miejscownik: trzech (braciach)\n\n❌ Почему не B: \"trzy\" — для niemęskoosobowych: trzy domy, trzy kobiety.\n❌ Почему не C: \"trzej\" — mianownik, не dopełniacz.\n❌ Почему не D: \"troje\" — собирательное: troje dzieci.",
+    "explanationPl": "Po przeczeniu \"nie widziałem\" wymagany jest dopełniacz. \"Bracia\" to męskoosobowe, forma \"trzy\" w dopełniaczu to trzech.\n\n🔑 Odmiana \"trzy\" (męskoosobowe):\n• M: trzej / trzech\n• D: trzech\n• C: trzem\n• B: trzech\n• N: trzema\n• Ms: trzech\n\n❌ Dlaczego nie B: \"trzy\" to forma niemęskoosobowa.\n❌ Dlaczego nie C: \"trzej\" to mianownik.\n❌ Dlaczego nie D: \"troje\" to liczebnik zbiorowy.",
+    "topic": "Liczebniki główne — odmiana w dopełniaczu",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_004",
+    "source": "pdf",
+    "question": "W Warszawie mieszka około _______ ludzi.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dwa miliony"
+      },
+      {
+        "label": "B",
+        "text": "dwóch milionów"
+      },
+      {
+        "label": "C",
+        "text": "dwa milionów"
+      },
+      {
+        "label": "D",
+        "text": "dwoma milionami"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "После \"około\" (около) требуется dopełniacz. Числительное \"dwa\" в dopełniaczu для \"milion\" (м.р.) — dwóch, а \"milion\" в dopełniaczu мн.ч. — milionów.\n\n🔑 Правило для \"milion\" (rodzaj męski):\n• Mianownik: dwa miliony (ludzi)\n• Dopełniacz: dwóch milionów (ludzi)\n• Narzędnik: dwoma milionami (ludzi)\n\nПосле \"około\", \"do\", \"od\", \"bez\" → dopełniacz!\n\n❌ Почему не A: \"dwa miliony\" — mianownik, но после \"około\" нужен dopełniacz.\n❌ Почему не C: \"dwa milionów\" — неправильная комбинация падежей.\n❌ Почему не D: \"dwoma milionami\" — narzędnik, здесь неуместен.",
+    "explanationPl": "Po \"około\" wymagany jest dopełniacz. Liczebnik \"dwa\" w dopełniaczu dla \"milion\" (r. męski) to dwóch, a \"milion\" w dopełniaczu l.mn. to milionów.\n\n🔑 Reguła dla \"milion\" (r. męski):\n• M: dwa miliony\n• D: dwóch milionów\n• N: dwoma milionami\n\nPo \"około\", \"do\", \"od\", \"bez\" → dopełniacz!\n\n❌ Dlaczego nie A: \"dwa miliony\" to mianownik — po \"około\" potrzebny dopełniacz.\n❌ Dlaczego nie C: \"dwa milionów\" — błędna kombinacja przypadków.\n❌ Dlaczego nie D: \"dwoma milionami\" to narzędnik.",
+    "topic": "Liczebniki główne — tysiąc, milion + przypadek",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_005",
+    "source": "pdf",
+    "question": "Mieszkam na _______ piętrze w nowym bloku.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzecim"
+      },
+      {
+        "label": "B",
+        "text": "trzeci"
+      },
+      {
+        "label": "C",
+        "text": "trzecia"
+      },
+      {
+        "label": "D",
+        "text": "trzeciego"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Предлог \"na\" + miejscownik для обозначения этажа. Порядковое числительное \"trzeci\" (третий) согласуется с \"piętro\" (средний род) в miejscowniku.\n\n🔑 Odmiana \"trzeci\" (rodzaj nijaki):\n• M: trzecie (piętro)\n• D: trzeciego (piętra)\n• C: trzeciemu (piętru)\n• B: trzecie (piętro)\n• N: trzecim (piętrem)\n• Ms: trzecim (piętrze)\n\n❌ Почему не B: \"trzeci\" — м.р., mianownik.\n❌ Почему не C: \"trzecia\" — ж.р., mianownik.\n❌ Почему не D: \"trzeciego\" — dopełniacz, не miejscownik.",
+    "explanationPl": "Przyimek \"na\" + miejscownik dla określenia piętra. Liczebnik porządkowy \"trzeci\" zgadza się z \"piętro\" (rodzaj nijaki) w miejscowniku.\n\n🔑 Odmiana \"trzeci\" (r. nijaki):\n• M: trzecie\n• D: trzeciego\n• C: trzeciemu\n• B: trzecie\n• N: trzecim\n• Ms: trzecim\n\n❌ Dlaczego nie B: \"trzeci\" to r. męski, mianownik.\n❌ Dlaczego nie C: \"trzecia\" to r. żeński.\n❌ Dlaczego nie D: \"trzeciego\" to dopełniacz.",
+    "topic": "Liczebniki porządkowe — odmiana w miejscowniku",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_006",
+    "source": "pdf",
+    "question": "Moja siostra ma _______ małych dzieci.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzy"
+      },
+      {
+        "label": "B",
+        "text": "trzech"
+      },
+      {
+        "label": "C",
+        "text": "troje"
+      },
+      {
+        "label": "D",
+        "text": "trzej"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Со словом \"dzieci\" (дети) используются собирательные числительные: dwoje, troje, czworo, pięcioro...\n\n🔑 Правило для \"dzieci\":\n• Dzieci — это plurale tantum (только мн.ч.), требует собирательных числительных\n• dwoje dzieci, troje dzieci, czworo dzieci, pięcioro dzieci...\n\n❌ Почему не A: \"trzy\" — для niemęskoosobowych: trzy książki, trzy koty.\n❌ Почему не B: \"trzech\" — для męskoosobowych: trzech mężczyzn.\n❌ Почему не D: \"trzej\" — mianownik męskoosobowy: trzej panowie.\n\n💡 Также собирательные используются с: ludzie, osoby (в некоторых контекстах), rodzeństwo.",
+    "explanationPl": "Z rzeczownikiem \"dzieci\" używamy liczebników zbiorowych: dwoje, troje, czworo, pięcioro...\n\n🔑 Reguła dla \"dzieci\":\n• \"Dzieci\" to plurale tantum — wymaga liczebników zbiorowych\n• dwoje dzieci, troje dzieci, czworo dzieci...\n\n❌ Dlaczego nie A: \"trzy\" dla niemęskoosobowych: trzy jabłka.\n❌ Dlaczego nie B: \"trzech\" dla męskoosobowych: trzech studentów.\n❌ Dlaczego nie D: \"trzej\" to mianownik męskoosobowy.\n\n💡 Liczebniki zbiorowe także z: ludzie, osoby, rodzeństwo.",
+    "topic": "Liczebniki zbiorowe — dwoje, troje, czworo + dzieci",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_007",
+    "source": "pdf",
+    "question": "W tej szkole uczy się około _______ uczniów.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzysta"
+      },
+      {
+        "label": "B",
+        "text": "trzystu"
+      },
+      {
+        "label": "C",
+        "text": "trzechset"
+      },
+      {
+        "label": "D",
+        "text": "trzema setkami"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "После \"około\" (около) требуется dopełniacz. Форма \"trzysta\" в dopełniaczu — trzystu.\n\n🔑 Odmiana \"trzysta\" (300):\n• M: trzysta\n• D: trzystu\n• C: trzystu\n• B: trzysta\n• N: trzema setkami / trzystu\n• Ms: trzystu\n\n❌ Почему не A: \"trzysta\" — mianownik, но после \"około\" нужен dopełniacz.\n❌ Почему не C: \"trzechset\" — неправильная форма, не существует.\n❌ Почему не D: \"trzema setkami\" — narzędnik, здесь неуместен.",
+    "explanationPl": "Po \"około\" wymagany jest dopełniacz. Forma \"trzysta\" w dopełniaczu to trzystu.\n\n🔑 Odmiana \"trzysta\" (300):\n• M: trzysta\n• D: trzystu\n• C: trzystu\n• B: trzysta\n• N: trzema setkami / trzystu\n• Ms: trzystu\n\n❌ Dlaczego nie A: \"trzysta\" to mianownik — po \"około\" potrzebny dopełniacz.\n❌ Dlaczego nie C: \"trzechset\" — forma niepoprawna.\n❌ Dlaczego nie D: \"trzema setkami\" to narzędnik.",
+    "topic": "Liczebniki główne — sto, dwieście, trzysta + odmiana",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_008",
+    "source": "pdf",
+    "question": "Zostałam sama — nie mam ani _______ przyjaciółki w tym mieście.",
+    "options": [
+      {
+        "label": "A",
+        "text": "jednej"
+      },
+      {
+        "label": "B",
+        "text": "jedna"
+      },
+      {
+        "label": "C",
+        "text": "jednego"
+      },
+      {
+        "label": "D",
+        "text": "jednym"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После отрицания \"nie mam\" + \"ani\" нужен dopełniacz. \"Przyjaciółka\" — женский род, поэтому \"jeden\" в dopełniaczu ж.р. — jednej.\n\n🔑 Odmiana \"jeden\" (rodzaj żeński):\n• M: jedna (przyjaciółka)\n• D: jednej (przyjaciółki)\n• C: jednej (przyjaciółce)\n• B: jedną (przyjaciółkę)\n• N: jedną (przyjaciółką)\n• Ms: jednej (przyjaciółce)\n\n❌ Почему не B: \"jedna\" — mianownik, но после \"nie mam\" нужен dopełniacz.\n❌ Почему не C: \"jednego\" — dopełniacz мужского/среднего рода.\n❌ Почему не D: \"jednym\" — narzędnik/miejscownik мужского рода.",
+    "explanationPl": "Po przeczeniu \"nie mam\" + \"ani\" wymagany jest dopełniacz. \"Przyjaciółka\" to rodzaj żeński, więc \"jeden\" w dopełniaczu r.ż. to jednej.\n\n🔑 Odmiana \"jeden\" (r. żeński):\n• M: jedna\n• D: jednej\n• C: jednej\n• B: jedną\n• N: jedną\n• Ms: jednej\n\n❌ Dlaczego nie B: \"jedna\" to mianownik.\n❌ Dlaczego nie C: \"jednego\" to dopełniacz r. męskiego/nijakiego.\n❌ Dlaczego nie D: \"jednym\" to narzędnik/miejscownik r. męskiego.",
+    "topic": "Liczebniki główne — \"jeden\" odmiana z rzeczownikiem żeńskim",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_009",
+    "source": "pdf",
+    "question": "Rozmawiałem z _______ kolegami z pracy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "cztery"
+      },
+      {
+        "label": "B",
+        "text": "czterema"
+      },
+      {
+        "label": "C",
+        "text": "czterech"
+      },
+      {
+        "label": "D",
+        "text": "czterej"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Предлог \"z\" требует narzędnika. Форма \"cztery\" в narzędniku — czterema (для всех родов).\n\n🔑 Odmiana \"cztery\":\n• M: cztery / czterej (męskoosobowe)\n• D: czterech\n• C: czterem\n• B: cztery / czterech (męskoosobowe)\n• N: czterema\n• Ms: czterech\n\n❌ Почему не A: \"cztery\" — mianownik/biernik, но после \"z\" нужен narzędnik.\n❌ Почему не C: \"czterech\" — dopełniacz/biernik/miejscownik.\n❌ Почему не D: \"czterej\" — mianownik męskoosobowy.",
+    "explanationPl": "Przyimek \"z\" wymaga narzędnika. Forma \"cztery\" w narzędniku to czterema (dla wszystkich rodzajów).\n\n🔑 Odmiana \"cztery\":\n• M: cztery / czterej (męskoosobowe)\n• D: czterech\n• C: czterem\n• B: cztery / czterech (męskoosobowe)\n• N: czterema\n• Ms: czterech\n\n❌ Dlaczego nie A: \"cztery\" to mianownik/biernik — po \"z\" potrzebny narzędnik.\n❌ Dlaczego nie C: \"czterech\" to dopełniacz/biernik/miejscownik.\n❌ Dlaczego nie D: \"czterej\" to mianownik męskoosobowy.",
+    "topic": "Liczebniki główne — \"cztery\" odmiana z męskoosobowymi",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_010",
+    "source": "pdf",
+    "question": "Spotkanie odbędzie się _______ marca.",
+    "options": [
+      {
+        "label": "A",
+        "text": "piątego"
+      },
+      {
+        "label": "B",
+        "text": "piąty"
+      },
+      {
+        "label": "C",
+        "text": "pięć"
+      },
+      {
+        "label": "D",
+        "text": "piątym"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Даты в польском языке выражаются порядковым числительным в dopełniaczu + название месяца в dopełniaczu.\n\n🔑 Формула даты:\n• [liczebnik porządkowy w D] + [miesiąc w D]\n• piątego marca, dziesiątego kwietnia, dwudziestego pierwszego maja\n\n❌ Почему не B: \"piąty\" — mianownik, но для даты нужен dopełniacz.\n❌ Почему не C: \"pięć\" — количественное числительное, не порядковое.\n❌ Почему не D: \"piątym\" — narzędnik/miejscownik.\n\n💡 Запомни: \"Którego jest dzisiaj?\" — \"Piątego.\" (dopełniacz!)",
+    "explanationPl": "Daty w języku polskim wyrażamy liczebnikiem porządkowym w dopełniaczu + nazwa miesiąca w dopełniaczu.\n\n🔑 Formuła daty:\n• [liczebnik porządkowy w D] + [miesiąc w D]\n• trzeciego stycznia, piętnastego lutego, trzydziestego grudnia\n\n❌ Dlaczego nie B: \"piąty\" to mianownik — dla daty potrzebny dopełniacz.\n❌ Dlaczego nie C: \"pięć\" to liczebnik główny, nie porządkowy.\n❌ Dlaczego nie D: \"piątym\" to narzędnik/miejscownik.\n\n💡 Pamiętaj: \"Którego?\" — \"Piątego.\" (dopełniacz!)",
+    "topic": "Liczebniki porządkowe — data w dopełniaczu",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_011",
+    "source": "pdf",
+    "question": "_______ bracia przyjechali na święta.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Oba"
+      },
+      {
+        "label": "B",
+        "text": "Obaj"
+      },
+      {
+        "label": "C",
+        "text": "Obie"
+      },
+      {
+        "label": "D",
+        "text": "Oboje"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "\"Bracia\" (братья) — это męskoosobowe (мужской личный род). Для męskoosobowych используется форма obaj.\n\n🔑 Формы \"oba/obaj/obie/oboje\":\n• obaj — męskoosobowe: obaj panowie, obaj bracia, obaj chłopcy\n• oba — męski nieżywotny + nijaki: oba domy, oba okna\n• obie — żeński: obie kobiety, obie siostry\n• oboje — grupy mieszane lub dzieci: oboje rodzice, oboje dzieci\n\n❌ Почему не A: \"oba\" — для неодушевлённого м.р. и среднего: oba samochody.\n❌ Почему не C: \"obie\" — для женского рода: obie dziewczyny.\n❌ Почему не D: \"oboje\" — для смешанных групп (мужчина + женщина): oboje rodzice.",
+    "explanationPl": "\"Bracia\" to męskoosobowe. Dla męskoosobowych używamy formy obaj.\n\n🔑 Formy \"oba/obaj/obie/oboje\":\n• obaj — męskoosobowe: obaj koledzy, obaj synowie\n• oba — męski nieżywotny + nijaki: oba krzesła\n• obie — żeński: obie książki\n• oboje — grupy mieszane lub dzieci: oboje rodzice, oboje dzieci\n\n❌ Dlaczego nie A: \"oba\" dla nieżywotnych: oba telefony.\n❌ Dlaczego nie C: \"obie\" dla żeńskich: obie córki.\n❌ Dlaczego nie D: \"oboje\" dla mieszanych grup (mężczyzna + kobieta).",
+    "topic": "Liczebniki główne — \"oba\" vs \"obaj\" vs \"obie\" vs \"oboje\"",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_012",
+    "source": "pdf",
+    "question": "Czekałem na nią _______ godziny.",
+    "options": [
+      {
+        "label": "A",
+        "text": "półtora"
+      },
+      {
+        "label": "B",
+        "text": "półtorej"
+      },
+      {
+        "label": "C",
+        "text": "półtory"
+      },
+      {
+        "label": "D",
+        "text": "pół tora"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "\"Godzina\" — женский род. Числительное \"полтора\" для женского рода — półtorej + dopełniacz единственного числа.\n\n🔑 Формы \"półtora\":\n• półtora + D l.poj. — для м.р. и ср.р.: półtora roku, półtora litra\n• półtorej + D l.poj. — для ж.р.: półtorej godziny, półtorej tony\n\n❌ Почему не A: \"półtora\" — для мужского и среднего рода: półtora dnia.\n❌ Почему не C: \"półtory\" — неправильная форма, не существует.\n❌ Почему не D: \"pół tora\" — раздельное написание неверно.",
+    "explanationPl": "\"Godzina\" to rodzaj żeński. Liczebnik \"półtora\" dla żeńskiego to półtorej + dopełniacz l.poj.\n\n🔑 Formy \"półtora\":\n• półtora + D l.poj. — dla r. męskiego i nijakiego: półtora metra\n• półtorej + D l.poj. — dla r. żeńskiego: półtorej minuty\n\n❌ Dlaczego nie A: \"półtora\" dla męskiego/nijakiego: półtora kilometra.\n❌ Dlaczego nie C: \"półtory\" — forma niepoprawna.\n❌ Dlaczego nie D: \"pół tora\" — błędna pisownia.",
+    "topic": "Liczebniki główne — \"półtora\" vs \"półtorej\" + przypadek",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_013",
+    "source": "pdf",
+    "question": "Urodziłam się _______ stycznia tysiąc dziewięćset dziewięćdziesiątego roku.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pierwszego"
+      },
+      {
+        "label": "B",
+        "text": "jeden"
+      },
+      {
+        "label": "C",
+        "text": "jednego"
+      },
+      {
+        "label": "D",
+        "text": "pierwszym"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В датах используются ПОРЯДКОВЫЕ числительные в dopełniaczu, не количественные!\n\n🔑 Правило для дат:\n• День = liczebnik porządkowy w dopełniaczu\n• \"1 января\" = pierwszego stycznia (не \"jednego\"!)\n\n❌ Почему не B: \"jeden\" — количественное в mianowniku, в датах не используется.\n❌ Почему не C: \"jednego\" — количественное в dopełniaczu, но в датах нужно ПОРЯДКОВОЕ.\n❌ Почему не D: \"pierwszym\" — narzędnik/miejscownik, но нужен dopełniacz.\n\n⚠️ Ловушка: \"jednego\" выглядит логично (dopełniacz от \"jeden\"), но в датах ВСЕГДА порядковые!",
+    "explanationPl": "W datach używamy liczebników PORZĄDKOWYCH w dopełniaczu, nie głównych!\n\n🔑 Reguła dla dat:\n• Dzień = liczebnik porządkowy w dopełniaczu\n• \"1 stycznia\" = pierwszego stycznia (nie \"jednego\"!)\n\n❌ Dlaczego nie B: \"jeden\" to liczebnik główny w mianowniku.\n❌ Dlaczego nie C: \"jednego\" to liczebnik główny — w datach potrzebny PORZĄDKOWY.\n❌ Dlaczego nie D: \"pierwszym\" to narzędnik/miejscownik.\n\n💡 Pułapka: \"jednego\" wygląda logicznie, ale w datach ZAWSZE porządkowe!",
+    "topic": "Liczebniki porządkowe — \"pierwszy\" vs \"jedna\" w datach",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_014",
+    "source": "pdf",
+    "question": "Kupiłem prezenty dla _______ rodziców.",
+    "options": [
+      {
+        "label": "A",
+        "text": "obojga"
+      },
+      {
+        "label": "B",
+        "text": "oboje"
+      },
+      {
+        "label": "C",
+        "text": "obydwu"
+      },
+      {
+        "label": "D",
+        "text": "obu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "\"Rodzice\" — это смешанная группа (отец + мать), требует собирательного числительного. После \"dla\" нужен dopełniacz. Форма \"oboje\" в dopełniaczu — obojga.\n\n🔑 Odmiana \"oboje\":\n• M: oboje\n• D: obojga\n• C: obojgu\n• B: oboje / obojga\n• N: obojgiem\n• Ms: obojgu\n\n❌ Почему не B: \"oboje\" — mianownik, но после \"dla\" нужен dopełniacz.\n❌ Почему не C: \"obydwu\" — форма от \"obydwa\", не от \"oboje\".\n❌ Почему не D: \"obu\" — dopełniacz от \"oba/obaj\", не от \"oboje\".",
+    "explanationPl": "\"Rodzice\" to grupa mieszana (ojciec + matka), wymaga liczebnika zbiorowego. Po \"dla\" potrzebny dopełniacz. Forma \"oboje\" w dopełniaczu to obojga.\n\n🔑 Odmiana \"oboje\":\n• M: oboje\n• D: obojga\n• C: obojgu\n• B: oboje / obojga\n• N: obojgiem\n• Ms: obojgu\n\n❌ Dlaczego nie B: \"oboje\" to mianownik — po \"dla\" potrzebny dopełniacz.\n❌ Dlaczego nie C: \"obydwu\" to forma od \"obydwa\", nie od \"oboje\".\n❌ Dlaczego nie D: \"obu\" to dopełniacz od \"oba/obaj\".",
+    "topic": "Liczebniki zbiorowe — \"oboje\" vs \"obydwoje\" + odmiana",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_015",
+    "source": "pdf",
+    "question": "W klasie jest dwadzieścia _______ uczeń.",
+    "options": [
+      {
+        "label": "A",
+        "text": "jeden"
+      },
+      {
+        "label": "B",
+        "text": "jednego"
+      },
+      {
+        "label": "C",
+        "text": "pierwszego"
+      },
+      {
+        "label": "D",
+        "text": "jedna"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Составные числительные с \"jeden\" на конце (21, 31, 41...) требуют существительного в mianowniku единственного числа.\n\n🔑 Правило для 21, 31, 41...:\n• dwadzieścia jeden + rzeczownik w M l.poj.\n• dwadzieścia jeden uczeń, trzydzieści jeden rok, czterdzieści jeden grosz\n\n❌ Почему не B: \"jednego\" — dopełniacz, но здесь нужен mianownik.\n❌ Почему не C: \"pierwszego\" — порядковое числительное, здесь нужно количественное.\n❌ Почему не D: \"jedna\" — женский род, но \"uczeń\" — мужской.",
+    "explanationPl": "Liczebniki złożone z \"jeden\" na końcu (21, 31, 41...) wymagają rzeczownika w mianowniku liczby pojedynczej.\n\n🔑 Reguła dla 21, 31, 41...:\n• dwadzieścia jeden + rzeczownik w M l.poj.\n• dwadzieścia jeden student, trzydzieści jeden dzień\n\n❌ Dlaczego nie B: \"jednego\" to dopełniacz — tu potrzebny mianownik.\n❌ Dlaczego nie C: \"pierwszego\" to liczebnik porządkowy — tu potrzebny główny.\n❌ Dlaczego nie D: \"jedna\" to r. żeński — \"uczeń\" to r. męski.",
+    "topic": "Liczebniki główne — \"dwadzieścia jeden\" + rzeczownik",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_016",
+    "source": "pdf",
+    "question": "Rozmawiałem z _______ kolegami z pracy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "kilka"
+      },
+      {
+        "label": "B",
+        "text": "kilku"
+      },
+      {
+        "label": "C",
+        "text": "kilkoma"
+      },
+      {
+        "label": "D",
+        "text": "kilkoro"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Предлог \"z\" требует narzędnika. Форма \"kilka\" в narzędniku — kilkoma.\n\n🔑 Odmiana \"kilka\":\n• M: kilka\n• D: kilku\n• C: kilku\n• B: kilka\n• N: kilkoma\n• Ms: kilku\n\nPo \"z\" używamy narzędnika: z kilkoma kolegami.\n\n❌ Почему не A: \"kilka\" — mianownik/biernik, но после \"z\" нужен narzędnik.\n❌ Почему не B: \"kilku\" — dopełniacz/celownik/miejscownik, не narzędnik.\n❌ Почему не D: \"kilkoro\" — собирательное для детей: kilkoro dzieci.",
+    "explanationPl": "Przyimek \"z\" wymaga narzędnika. Forma \"kilka\" w narzędniku to kilkoma.\n\n🔑 Odmiana \"kilka\":\n• M: kilka\n• D: kilku\n• C: kilku\n• B: kilka\n• N: kilkoma\n• Ms: kilku\n\nPo \"z\" używamy narzędnika: z kilkoma kolegami.\n\n❌ Dlaczego nie A: \"kilka\" to mianownik/biernik.\n❌ Dlaczego nie B: \"kilku\" to dopełniacz/celownik/miejscownik.\n❌ Dlaczego nie D: \"kilkoro\" to liczebnik zbiorowy: kilkoro dzieci.",
+    "topic": "Liczebniki główne — \"kilka\" odmiana w narzędniku",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_017",
+    "source": "pdf",
+    "question": "Dałem klucze _______ sąsiadom — mężowi i żonie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dwoje"
+      },
+      {
+        "label": "B",
+        "text": "dwóm"
+      },
+      {
+        "label": "C",
+        "text": "dwojgu"
+      },
+      {
+        "label": "D",
+        "text": "dwom"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "\"Mąż i żona\" — смешанная группа, требует собирательного числительного \"dwoje\". После \"dałem\" (кому?) нужен celownik. Форма \"dwoje\" в celowniku — dwojgu.\n\n🔑 Odmiana \"dwoje\":\n• M: dwoje\n• D: dwojga\n• C: dwojgu\n• B: dwoje / dwojga\n• N: dwojgiem\n• Ms: dwojgu\n\n❌ Почему не A: \"dwoje\" — mianownik, но нужен celownik.\n❌ Почему не B: \"dwóm\" — celownik от \"dwa/dwie\", не от \"dwoje\".\n❌ Почему не D: \"dwom\" — неправильная форма.",
+    "explanationPl": "\"Mąż i żona\" to grupa mieszana, wymaga liczebnika zbiorowego \"dwoje\". Po \"dałem\" (komu?) potrzebny celownik. Forma \"dwoje\" w celowniku to dwojgu.\n\n🔑 Odmiana \"dwoje\":\n• M: dwoje\n• D: dwojga\n• C: dwojgu\n• B: dwoje / dwojga\n• N: dwojgiem\n• Ms: dwojgu\n\n❌ Dlaczego nie A: \"dwoje\" to mianownik.\n❌ Dlaczego nie B: \"dwóm\" to celownik od \"dwa/dwie\", nie od \"dwoje\".\n❌ Dlaczego nie D: \"dwom\" — forma niepoprawna.",
+    "topic": "Liczebniki główne — \"dwoje\" odmiana w celowniku",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_018",
+    "source": "pdf",
+    "question": "Mieszkam w Polsce od _______ roku.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dwa tysiące dziesiątego"
+      },
+      {
+        "label": "B",
+        "text": "dwutysięcznego dziesiątego"
+      },
+      {
+        "label": "C",
+        "text": "dwa tysiące dziesiąty"
+      },
+      {
+        "label": "D",
+        "text": "dwutysięcznym dziesiątym"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После \"od\" нужен dopełniacz. Год выражается порядковым числительным. \"2010 rok\" в dopełniaczu — dwa tysiące dziesiątego roku.\n\n🔑 Правило для годов:\n• Mianownik: rok dwa tysiące dziesiąty\n• Dopełniacz: (od) dwa tysiące dziesiątego (roku)\n• Miejscownik: (w) dwa tysiące dziesiątym (roku)\n\nОбратите внимание: \"dwa tysiące\" не склоняется в составе года!\n\n❌ Почему не B: \"dwutysięcznego\" — неправильная форма года.\n❌ Почему не C: \"dwa tysiące dziesiąty\" — mianownik, но после \"od\" нужен dopełniacz.\n❌ Почему не D: \"dwutysięcznym dziesiątym\" — miejscownik, но после \"od\" нужен dopełniacz.",
+    "explanationPl": "Po \"od\" wymagany jest dopełniacz. Rok wyrażamy liczebnikiem porządkowym. \"2010 rok\" w dopełniaczu to dwa tysiące dziesiątego roku.\n\n🔑 Reguła dla lat:\n• M: rok dwa tysiące dziesiąty\n• D: (od) dwa tysiące dziesiątego (roku)\n• Ms: (w) dwa tysiące dziesiątym (roku)\n\nUwaga: \"dwa tysiące\" nie odmienia się w składzie roku!\n\n❌ Dlaczego nie B: \"dwutysięcznego\" — błędna forma roku.\n❌ Dlaczego nie C: \"dwa tysiące dziesiąty\" to mianownik.\n❌ Dlaczego nie D: \"dwutysięcznym dziesiątym\" to miejscownik — po \"od\" potrzebny dopełniacz.",
+    "topic": "Liczebniki porządkowe — rok w dopełniaczu",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_019",
+    "source": "pdf",
+    "question": "Do egzaminu przystąpiło około _______ osób.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pięćset"
+      },
+      {
+        "label": "B",
+        "text": "pięciuset"
+      },
+      {
+        "label": "C",
+        "text": "pięcioma setkami"
+      },
+      {
+        "label": "D",
+        "text": "pięćsetów"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "После \"około\" нужен dopełniacz. Форма \"pięćset\" (500) в dopełniaczu — pięciuset.\n\n🔑 Odmiana \"pięćset\":\n• M: pięćset\n• D: pięciuset\n• C: pięciuset\n• B: pięćset\n• N: pięciuset / pięcioma setkami\n• Ms: pięciuset\n\n❌ Почему не A: \"pięćset\" — mianownik, но после \"około\" нужен dopełniacz.\n❌ Почему не C: \"pięcioma setkami\" — narzędnik, здесь неуместен.\n❌ Почему не D: \"pięćsetów\" — неправильная форма, не существует.",
+    "explanationPl": "Po \"około\" wymagany jest dopełniacz. Forma \"pięćset\" (500) w dopełniaczu to pięciuset.\n\n🔑 Odmiana \"pięćset\":\n• M: pięćset\n• D: pięciuset\n• C: pięciuset\n• B: pięćset\n• N: pięciuset / pięcioma setkami\n• Ms: pięciuset\n\n❌ Dlaczego nie A: \"pięćset\" to mianownik — po \"około\" potrzebny dopełniacz.\n❌ Dlaczego nie C: \"pięcioma setkami\" to narzędnik.\n❌ Dlaczego nie D: \"pięćsetów\" — forma niepoprawna.",
+    "topic": "Liczebniki główne — \"pięćset\" vs \"pięciuset\" + odmiana",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_020",
+    "source": "pdf",
+    "question": "Przeczytałem już _______ tej książki.",
+    "options": [
+      {
+        "label": "A",
+        "text": "połowa"
+      },
+      {
+        "label": "B",
+        "text": "połowę"
+      },
+      {
+        "label": "C",
+        "text": "połowy"
+      },
+      {
+        "label": "D",
+        "text": "półtora"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "\"Przeczytać\" требует biernika (co?). \"Połowa\" (половина) в bierniku — połowę.\n\n🔑 Odmiana \"połowa\":\n• M: połowa\n• D: połowy\n• C: połowie\n• B: połowę\n• N: połową\n• Ms: połowie\n\n❌ Почему не A: \"połowa\" — mianownik, но после \"przeczytałem\" нужен biernik.\n❌ Почему не C: \"połowy\" — dopełniacz, не biernik.\n❌ Почему не D: \"półtora\" — полтора, не половина.",
+    "explanationPl": "\"Przeczytać\" wymaga biernika (co?). \"Połowa\" w bierniku to połowę.\n\n🔑 Odmiana \"połowa\":\n• M: połowa\n• D: połowy\n• C: połowie\n• B: połowę\n• N: połową\n• Ms: połowie\n\n❌ Dlaczego nie A: \"połowa\" to mianownik — po \"przeczytałem\" potrzebny biernik.\n❌ Dlaczego nie C: \"połowy\" to dopełniacz.\n❌ Dlaczego nie D: \"półtora\" to półtora, nie połowa.",
+    "topic": "Liczebniki ułamkowe — \"połowa\" odmiana",
+    "difficulty": "high"
   }
 ]
