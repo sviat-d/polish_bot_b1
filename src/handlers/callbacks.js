@@ -10,7 +10,7 @@ const config = require('../config');
  */
 async function handleTextAnswer(ctx) {
   const chatId = ctx.chat.id;
-  const user = userService.getOrCreateUser(chatId);
+  const user = userService.getOrCreateUser(chatId, ctx.from);
   const text = ctx.message.text;
 
   // Extract answer letter from text like "A) option text"
@@ -54,7 +54,7 @@ async function handleTextAnswer(ctx) {
   await ctx.reply(resultText, keyboard.removeKeyboard());
 
   // Get updated user
-  const updatedUser = userService.getOrCreateUser(chatId);
+  const updatedUser = userService.getOrCreateUser(chatId, ctx.from);
 
   // Check if should suggest weak topic training
   const weakest = userService.findWeakestTopic(updatedUser);
@@ -116,7 +116,7 @@ async function handleRate(ctx) {
   }
 
   // Send next task
-  const user = userService.getOrCreateUser(chatId);
+  const user = userService.getOrCreateUser(chatId, ctx.from);
   await sendNextTask(ctx, user);
 }
 
@@ -144,7 +144,7 @@ async function handleRatingEnable(ctx) {
   }
 
   // Send first task
-  const user = userService.getOrCreateUser(chatId);
+  const user = userService.getOrCreateUser(chatId, ctx.from);
   await sendNextTask(ctx, user);
 }
 
@@ -164,7 +164,7 @@ async function handleWeak(ctx) {
     // Ignore
   }
 
-  const user = userService.getOrCreateUser(chatId);
+  const user = userService.getOrCreateUser(chatId, ctx.from);
 
   if (action === 'start') {
     const weakest = userService.findWeakestTopic(user);
@@ -173,14 +173,14 @@ async function handleWeak(ctx) {
       userService.setWeakTopicMode(chatId, true, weakest.topic);
       await ctx.reply(messages.weakTopicStart(weakest.topic));
 
-      const updatedUser = userService.getOrCreateUser(chatId);
+      const updatedUser = userService.getOrCreateUser(chatId, ctx.from);
       await sendNextTask(ctx, updatedUser);
     }
   } else if (action === 'exit') {
     userService.setWeakTopicMode(chatId, false);
     await ctx.reply(messages.weakTopicExit());
 
-    const updatedUser = userService.getOrCreateUser(chatId);
+    const updatedUser = userService.getOrCreateUser(chatId, ctx.from);
     await sendNextTask(ctx, updatedUser);
   } else {
     // Skip - continue normal

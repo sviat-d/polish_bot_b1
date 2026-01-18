@@ -4,6 +4,11 @@ const path = require('path');
 module.exports = {
   BOT_TOKEN: process.env.TELEGRAM_BOT,
 
+  // Admin chat IDs (comma-separated list in env)
+  ADMIN_CHAT_IDS: process.env.ADMIN_CHAT_IDS
+    ? process.env.ADMIN_CHAT_IDS.split(',').map(id => parseInt(id.trim()))
+    : [],
+
   PATHS: {
     DATA_DIR: path.join(__dirname, '..', 'data'),
     USERS_DIR: path.join(__dirname, '..', 'data', 'users'),

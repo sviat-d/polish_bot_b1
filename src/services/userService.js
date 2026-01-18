@@ -4,12 +4,21 @@ const config = require('../config');
 
 /**
  * Create default user progress object
+ * @param {number} chatId - Telegram chat ID
+ * @param {object} telegramUser - Telegram user object (from ctx.from)
  */
-function createDefaultUser(chatId) {
+function createDefaultUser(chatId, telegramUser = null) {
   return {
     chatId: chatId,
     createdAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),
+
+    // Telegram user info (for analytics)
+    username: telegramUser?.username || null,
+    firstName: telegramUser?.first_name || null,
+    lastName: telegramUser?.last_name || null,
+    languageCode: telegramUser?.language_code || null,
+    isBot: telegramUser?.is_bot || false,
 
     // Task tracking
     completedTasks: [],
@@ -90,13 +99,43 @@ function saveUser(user) {
 
 /**
  * Get or create user
+ * @param {number} chatId - Telegram chat ID
+ * @param {object} telegramUser - Telegram user object (from ctx.from), optional
  */
-function getOrCreateUser(chatId) {
+function getOrCreateUser(chatId, telegramUser = null) {
   let user = loadUser(chatId);
 
   if (!user) {
-    user = createDefaultUser(chatId);
+    // Create new user with Telegram info
+    user = createDefaultUser(chatId, telegramUser);
     saveUser(user);
+  } else if (telegramUser) {
+    // Update Telegram info for existing users (in case username/name changed)
+    let updated = false;
+
+    if (telegramUser.username && user.username !== telegramUser.username) {
+      user.username = telegramUser.username;
+      updated = true;
+    }
+
+    if (telegramUser.first_name && user.firstName !== telegramUser.first_name) {
+      user.firstName = telegramUser.first_name;
+      updated = true;
+    }
+
+    if (telegramUser.last_name && user.lastName !== telegramUser.last_name) {
+      user.lastName = telegramUser.last_name;
+      updated = true;
+    }
+
+    if (telegramUser.language_code && user.languageCode !== telegramUser.language_code) {
+      user.languageCode = telegramUser.language_code;
+      updated = true;
+    }
+
+    if (updated) {
+      saveUser(user);
+    }
   }
 
   return user;
