@@ -3839,4 +3839,1011 @@ Tu ułamek to podmiot ("Jedna trzecia uczniów TO dziewczyny"), więc mianownik.
     topic: "Liczebniki główne — \"osiemnaście\" vs \"osiemnastu\" + wiek",
     difficulty: "high"
   }
+  ,
+  // ========================================================================
+  // TASKS 81-90: TRANSFORMACJE (Sentence Transformations)
+  // Batch 7 — High difficulty
+  // ========================================================================
+  {
+    id: "B1_TRANSFORMACJE_001",
+    source: "pdf",
+    question: "Zdanie \"Policja zatrzymała złodzieja\" można przekształcić na:",
+    options: [
+      { label: "A", text: "Złodziej został zatrzymany przez policję." },
+      { label: "B", text: "Złodziej był zatrzymany przez policję." },
+      { label: "C", text: "Złodziej zatrzymał się przez policję." },
+      { label: "D", text: "Złodzieja zatrzymała policja." }
+    ],
+    correctAnswer: "A",
+    explanationRu: `Трансформация из активного залога в пассивный: подлежащее становится дополнением с "przez", а дополнение — подлежащим. Для выражения завершённого действия в прошлом используется zostać + imiesłów bierny.
+
+🔑 Strona bierna:
+• Действие завершённое → zostać + imiesłów: został zatrzymany
+• Состояние/результат → być + imiesłów: był zatrzymany (но это означает "находился в состоянии задержания")
+
+❌ Почему не B: "był zatrzymany" — описывает состояние, а не действие. Здесь нужно действие (zatrzymała → został zatrzymany).
+❌ Почему не C: "zatrzymał się" — возвратный глагол, означает "остановился сам", не пассив.
+❌ Почему не D: Это просто инверсия (OVS), а не пассивный залог.`,
+    explanationPl: `Transformacja ze strony czynnej na bierną: podmiot staje się dopełnieniem z "przez", a dopełnienie — podmiotem. Dla wyrażenia czynności dokonanej w przeszłości używamy zostać + imiesłów bierny.
+
+🔑 Strona bierna:
+• Czynność dokonana → zostać + imiesłów: został zatrzymany
+• Stan/rezultat → być + imiesłów: był zatrzymany (ale to oznacza "znajdował się w stanie zatrzymania")
+
+❌ Dlaczego nie B: "był zatrzymany" opisuje stan, nie czynność.
+❌ Dlaczego nie C: "zatrzymał się" to czasownik zwrotny — "sam się zatrzymał".
+❌ Dlaczego nie D: To tylko inwersja (OVS), nie strona bierna.`,
+    topic: "Transformacje — strona czynna → strona bierna",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_002",
+    source: "pdf",
+    question: "Marek powiedział wczoraj: \"Jutro pójdę do lekarza.\" → Marek powiedział, że _______.",
+    options: [
+      { label: "A", text: "jutro pójdzie do lekarza" },
+      { label: "B", text: "następnego dnia pójdzie do lekarza" },
+      { label: "C", text: "jutro poszedł do lekarza" },
+      { label: "D", text: "następnego dnia poszedłby do lekarza" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `В косвенной речи (mowa zależna) меняются указатели времени: "jutro" → następnego dnia. Время глагола остаётся будущим (pójdzie), так как в польском языке нет строгого правила согласования времён как в английском.
+
+🔑 Изменения в mowa zależna:
+• jutro → następnego dnia
+• wczoraj → poprzedniego dnia / dzień wcześniej
+• dziś/dzisiaj → tego dnia / tamtego dnia
+• tu/tutaj → tam
+
+❌ Почему не A: Поскольку Марек говорил вчера, "jutro" уже прошло — нужно "następnego dnia".
+❌ Почему не C: "poszedł" — прошедшее время, но действие планировалось на будущее.
+❌ Почему не D: "poszedłby" — условное наклонение, здесь неуместно.`,
+    explanationPl: `W mowie zależnej zmieniają się wskaźniki czasu: "jutro" → następnego dnia. Czas czasownika pozostaje przyszły (pójdzie).
+
+🔑 Zmiany w mowie zależnej:
+• jutro → następnego dnia
+• wczoraj → poprzedniego dnia
+• dziś → tego/tamtego dnia
+• tu → tam
+
+❌ Dlaczego nie A: Skoro Marek mówił wczoraj, "jutro" już minęło — potrzebne "następnego dnia".
+❌ Dlaczego nie C: "poszedł" to czas przeszły — czynność była planowana na przyszłość.
+❌ Dlaczego nie D: "poszedłby" to tryb warunkowy — tu niepotrzebny.`,
+    topic: "Transformacje — mowa zależna (czas przeszły)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_003",
+    source: "pdf",
+    question: "Zdanie \"Musisz to zrobić\" można przekształcić na:",
+    options: [
+      { label: "A", text: "Trzeba to zrobić." },
+      { label: "B", text: "Trzeba ci to zrobić." },
+      { label: "C", text: "Trzeba, żebyś to zrobił." },
+      { label: "D", text: "Trzeba tobie to zrobić." }
+    ],
+    correctAnswer: "C",
+    explanationRu: `"Musieć" (личный глагол) → "trzeba" (безличная конструкция). При трансформации нужно сохранить указание на лицо. "Trzeba" + żeby + forma osobowa сохраняет информацию о том, КТО должен это сделать.
+
+🔑 Trzeba + лицо:
+• Trzeba, żebym to zrobił. (ja)
+• Trzeba, żebyś to zrobił. (ty)
+• Trzeba, żeby on to zrobił. (on)
+
+❌ Почему не A: "Trzeba to zrobić" — теряется информация о лице (кто должен?).
+❌ Почему не B: "Trzeba ci to zrobić" — неправильная конструкция (celownik здесь не работает).
+❌ Почему не D: "Trzeba tobie to zrobić" — то же самое, неправильная конструкция.`,
+    explanationPl: `"Musieć" (czasownik osobowy) → "trzeba" (konstrukcja bezosobowa). Przy transformacji trzeba zachować wskazanie na osobę. "Trzeba" + żeby + forma osobowa zachowuje informację o tym, KTO ma to zrobić.
+
+🔑 Trzeba + osoba:
+• Trzeba, żebym to zrobił. (ja)
+• Trzeba, żebyś to zrobił. (ty)
+• Trzeba, żeby on to zrobił. (on)
+
+❌ Dlaczego nie A: "Trzeba to zrobić" — gubi się informacja o osobie.
+❌ Dlaczego nie B: "Trzeba ci to zrobić" — błędna konstrukcja.
+❌ Dlaczego nie D: "Trzeba tobie to zrobić" — błędna konstrukcja.`,
+    topic: "Transformacje — zdanie z \"musieć\" → zdanie z \"trzeba\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_004",
+    source: "pdf",
+    question: "Zdanie \"Wszyscy przyszli na spotkanie\" w formie przeczącej to:",
+    options: [
+      { label: "A", text: "Wszyscy nie przyszli na spotkanie." },
+      { label: "B", text: "Nikt nie przyszedł na spotkanie." },
+      { label: "C", text: "Nie wszyscy przyszli na spotkanie." },
+      { label: "D", text: "Żaden nie przyszedł na spotkanie." }
+    ],
+    correctAnswer: "B",
+    explanationRu: `Полное отрицание "wszyscy" (все) → nikt (никто). Обратите внимание на двойное отрицание в польском: "nikt NIE przyszedł".
+
+🔑 Антонимы при отрицании:
+• wszyscy → nikt (nie)
+• wszystko → nic (nie)
+• zawsze → nigdy (nie)
+• wszędzie → nigdzie (nie)
+
+❌ Почему не A: "Wszyscy nie przyszli" — грамматически неестественно, не используется.
+❌ Почему не C: "Nie wszyscy przyszli" — означает "не все пришли" (частичное отрицание), а не полное.
+❌ Почему не D: "Żaden nie przyszedł" — требует существительного: "Żaden student nie przyszedł".`,
+    explanationPl: `Pełne zaprzeczenie "wszyscy" (wszyscy) → nikt (nikt). Uwaga na podwójne przeczenie: "nikt NIE przyszedł".
+
+🔑 Antonimy przy przeczeniu:
+• wszyscy → nikt (nie)
+• wszystko → nic (nie)
+• zawsze → nigdy (nie)
+• wszędzie → nigdzie (nie)
+
+❌ Dlaczego nie A: "Wszyscy nie przyszli" — nienaturalne, nie używa się.
+❌ Dlaczego nie C: "Nie wszyscy przyszli" — oznacza częściowe zaprzeczenie ("nie wszyscy").
+❌ Dlaczego nie D: "Żaden nie przyszedł" — wymaga rzeczownika: "Żaden student nie przyszedł".`,
+    topic: "Transformacje — przeczenie z \"nikt\" / \"nic\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_005",
+    source: "pdf",
+    question: "Zdanie \"Jan jest wyższy od Piotra\" można przekształcić na zdanie ze stopniem najwyższym:",
+    options: [
+      { label: "A", text: "Jan jest najwyższy z Piotra." },
+      { label: "B", text: "Jan jest najwyższym z nich dwóch." },
+      { label: "C", text: "Jan jest wyższy najwyżej." },
+      { label: "D", text: "Jan jest najwyższy niż Piotr." }
+    ],
+    correctAnswer: "B",
+    explanationRu: `При трансформации из сравнительной степени в превосходную нужно указать группу сравнения. "Z nich dwóch" (из них двоих) — корректная конструкция.
+
+🔑 Stopień najwyższy + группа:
+• najwyższy z + dopełniacz: najwyższy z nich, najwyższy z grupy
+• najwyższy w + miejscownik: najwyższy w klasie
+
+❌ Почему не A: "z Piotra" — неправильно, нужна группа, а не один человек.
+❌ Почему не C: "wyższy najwyżej" — бессмысленная комбинация.
+❌ Почему не D: "najwyższy niż" — после превосходной степени не используется "niż".`,
+    explanationPl: `Przy transformacji ze stopnia wyższego na najwyższy trzeba wskazać grupę porównania. "Z nich dwóch" — poprawna konstrukcja.
+
+🔑 Stopień najwyższy + grupa:
+• najwyższy z + dopełniacz: najwyższy z kolegów
+• najwyższy w + miejscownik: najwyższy w klasie
+
+❌ Dlaczego nie A: "z Piotra" — błędnie, potrzebna grupa, nie jedna osoba.
+❌ Dlaczego nie C: "wyższy najwyżej" — bezsensowna kombinacja.
+❌ Dlaczego nie D: "najwyższy niż" — po stopniu najwyższym nie używa się "niż".`,
+    topic: "Transformacje — stopień wyższy → stopień najwyższy",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_006",
+    source: "pdf",
+    question: "Zdanie \"Jeśli będzie ładna pogoda, pójdziemy na spacer\" w formie nierealnej to:",
+    options: [
+      { label: "A", text: "Gdyby była ładna pogoda, poszlibyśmy na spacer." },
+      { label: "B", text: "Jeśliby była ładna pogoda, poszlibyśmy na spacer." },
+      { label: "C", text: "Gdyby będzie ładna pogoda, pójdziemy na spacer." },
+      { label: "D", text: "Jak była ładna pogoda, poszliśmy na spacer." }
+    ],
+    correctAnswer: "A",
+    explanationRu: `Реальное условие (jeśli + будущее) → нереальное условие (gdyby + tryb warunkowy). Это нереальное условие настоящего/будущего (гипотетическая ситуация).
+
+🔑 Типы условных:
+• Реальное: Jeśli będzie..., pójdziemy... (возможно)
+• Нереальное (наст./буд.): Gdyby była..., poszlibyśmy... (гипотетически)
+• Нереальное (прошлое): Gdyby była..., bylibyśmy poszli... (несбывшееся)
+
+❌ Почему не B: "Jeśliby" — устаревшая/редкая форма, стандартно используется "gdyby".
+❌ Почему не C: "Gdyby będzie" — смешение: gdyby требует trybu warunkowego, не будущего времени.
+❌ Почему не D: "Jak była..., poszliśmy" — это реальное прошлое (факт), не нереальное условие.`,
+    explanationPl: `Warunek realny (jeśli + przyszły) → warunek nierealny (gdyby + tryb warunkowy). To warunek nierealny teraźniejszy/przyszły (sytuacja hipotetyczna).
+
+🔑 Typy warunków:
+• Realny: Jeśli będzie..., pójdziemy... (możliwe)
+• Nierealny (teraźn./przyszł.): Gdyby była..., poszlibyśmy... (hipotetycznie)
+• Nierealny (przeszły): Gdyby była..., bylibyśmy poszli... (niespełnione)
+
+❌ Dlaczego nie B: "Jeśliby" — forma archaiczna/rzadka, standardowo "gdyby".
+❌ Dlaczego nie C: "Gdyby będzie" — mieszanie: gdyby wymaga trybu warunkowego.
+❌ Dlaczego nie D: "Jak była..., poszliśmy" — to realna przeszłość (fakt), nie warunek nierealny.`,
+    topic: "Transformacje — zdanie warunkowe realne → nierealne",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_007",
+    source: "pdf",
+    question: "Zdanie \"Chcę, żebyś mi pomógł\" można przekształcić na zdanie z bezokolicznikiem, jeśli:",
+    options: [
+      { label: "A", text: "Podmiot jest ten sam: \"Chcę ci pomóc.\"" },
+      { label: "B", text: "Podmiot jest inny: \"Chcę pomóc ci.\"" },
+      { label: "C", text: "Nie można przekształcić na bezokolicznik." },
+      { label: "D", text: "Podmiot jest ten sam: \"Chcę, żebym ci pomógł.\"" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `Конструкция "chcieć + żeby" используется, когда подлежащие разные (я хочу, чтобы ТЫ помог). Трансформация в инфинитив возможна только при одинаковом подлежащем: "Chcę pomóc" (я хочу помочь — я сам).
+
+🔑 Правило:
+• Один субъект → инфинитив: Chcę iść. (я хочу идти — я сам)
+• Разные субъекты → żeby: Chcę, żebyś poszedł. (я хочу, чтобы ты пошёл)
+
+В данном случае подлежащие разные (ja chcę, ty pomagasz), поэтому нельзя использовать инфинитив.
+
+❌ Почему не A: "Chcę ci pomóc" — меняет смысл: "Я хочу тебе помочь" ≠ "Я хочу, чтобы ты мне помог".
+❌ Почему не B: То же самое — смысл меняется.
+❌ Почему не D: "Chcę, żebym ci pomógł" — грамматически неверно (chcę + żebym = один субъект, тогда нужен инфинитив).`,
+    explanationPl: `Konstrukcja "chcieć + żeby" używana jest, gdy podmioty są różne (ja chcę, żebyś TY pomógł). Transformacja na bezokolicznik możliwa tylko przy tym samym podmiocie.
+
+🔑 Reguła:
+• Ten sam podmiot → bezokolicznik: Chcę iść.
+• Różne podmioty → żeby: Chcę, żebyś poszedł.
+
+Tu podmioty są różne (ja chcę, ty pomagasz), więc nie można użyć bezokolicznika.
+
+❌ Dlaczego nie A: "Chcę ci pomóc" zmienia sens: "Chcę ci pomóc" ≠ "Chcę, żebyś mi pomógł".
+❌ Dlaczego nie B: To samo — sens się zmienia.
+❌ Dlaczego nie D: "Chcę, żebym ci pomógł" — błędne (chcę + żebym = ten sam podmiot → bezokolicznik).`,
+    topic: "Transformacje — zdanie z \"chcieć\" → zdanie z \"żeby\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_008",
+    source: "pdf",
+    question: "Zdanie \"Kiedy skończę pracę, zadzwonię do ciebie\" można przekształcić na:",
+    options: [
+      { label: "A", text: "Po skończeniu pracy zadzwonię do ciebie." },
+      { label: "B", text: "Po skończyć pracę zadzwonię do ciebie." },
+      { label: "C", text: "Po tym skończę pracę, zadzwonię do ciebie." },
+      { label: "D", text: "Po pracy skończonej zadzwonię do ciebie." }
+    ],
+    correctAnswer: "A",
+    explanationRu: `Придаточное времени с "kiedy" можно заменить предложной конструкцией "po + rzeczownik odsłowny" (отглагольное существительное в miejscowniku).
+
+🔑 Трансформация:
+• Kiedy skończę... → Po skończeniu...
+• Kiedy wrócę... → Po powrocie...
+• Kiedy przyjadę... → Po przyjeździe...
+
+❌ Почему не B: "Po skończyć" — после "po" нужен rzeczownik, не bezokolicznik.
+❌ Почему не C: "Po tym skończę" — неправильная конструкция.
+❌ Почему не D: "Po pracy skończonej" — неестественный порядок слов и форма.`,
+    explanationPl: `Zdanie czasowe z "kiedy" można zastąpić konstrukcją przyimkową "po + rzeczownik odsłowny" (w miejscowniku).
+
+🔑 Transformacja:
+• Kiedy skończę... → Po skończeniu...
+• Kiedy wrócę... → Po powrocie...
+• Kiedy przyjadę... → Po przyjeździe...
+
+❌ Dlaczego nie B: "Po skończyć" — po "po" potrzebny rzeczownik, nie bezokolicznik.
+❌ Dlaczego nie C: "Po tym skończę" — błędna konstrukcja.
+❌ Dlaczego nie D: "Po pracy skończonej" — nienaturalny szyk i forma.`,
+    topic: "Transformacje — zdanie czasowe z \"kiedy\" → z \"po\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_009",
+    source: "pdf",
+    question: "Zdanie \"Ten film jest bardzo interesujący\" można przekształcić na zdanie z rzeczownikiem:",
+    options: [
+      { label: "A", text: "Ten film ma dużo interesowania." },
+      { label: "B", text: "Ten film budzi duże zainteresowanie." },
+      { label: "C", text: "Ten film jest z interesem." },
+      { label: "D", text: "Ten film interesuje bardzo." }
+    ],
+    correctAnswer: "B",
+    explanationRu: `Прилагательное "interesujący" можно заменить конструкцией с отглагольным существительным "zainteresowanie". Глагол "budzić" (вызывать) + существительное — типичная трансформация.
+
+🔑 Типичные пары:
+• interesujący → budzi zainteresowanie
+• smutny → wywołuje smutek
+• radosny → sprawia radość
+
+❌ Почему не A: "interesowanie" — неправильная форма существительного (правильно: zainteresowanie).
+❌ Почему не C: "z interesem" — "interes" означает "дело/бизнес", не связано с "интересный".
+❌ Почему не D: "interesuje bardzo" — это глагол, а не существительное; также неполное предложение (кого интересует?).`,
+    explanationPl: `Przymiotnik "interesujący" można zastąpić konstrukcją z rzeczownikiem odsłownym "zainteresowanie". Czasownik "budzić" + rzeczownik — typowa transformacja.
+
+🔑 Typowe pary:
+• interesujący → budzi zainteresowanie
+• smutny → wywołuje smutek
+• radosny → sprawia radość
+
+❌ Dlaczego nie A: "interesowanie" — błędna forma (poprawnie: zainteresowanie).
+❌ Dlaczego nie C: "z interesem" — "interes" to "biznes", nie związane z "interesujący".
+❌ Dlaczego nie D: "interesuje bardzo" — to czasownik, nie rzeczownik; też niepełne zdanie.`,
+    topic: "Transformacje — zdanie z przymiotnikiem → z rzeczownikiem",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_010",
+    source: "pdf",
+    question: "Zdanie \"On lubi kawę\" w formie pytania pośredniego (po \"Nie wiem...\") to:",
+    options: [
+      { label: "A", text: "Nie wiem, on lubi kawę?" },
+      { label: "B", text: "Nie wiem, czy on lubi kawę." },
+      { label: "C", text: "Nie wiem, że on lubi kawę." },
+      { label: "D", text: "Nie wiem, lub on lubi kawę." }
+    ],
+    correctAnswer: "B",
+    explanationRu: `Косвенный вопрос (pytanie zależne) вводится союзом czy. Порядок слов остаётся как в утвердительном предложении.
+
+🔑 Pytanie zależne:
+• Прямой вопрос: Czy on lubi kawę?
+• Косвенный вопрос: Nie wiem, czy on lubi kawę.
+
+❌ Почему не A: Нельзя просто поставить вопросительный знак — нужен союз "czy".
+❌ Почему не C: "że" вводит утверждение, не вопрос: "Wiem, że on lubi kawę" (я знаю, что...).
+❌ Почему не D: "lub" — союз "или" для альтернативы, не для вопросов.`,
+    explanationPl: `Pytanie zależne wprowadza się spójnikiem czy. Szyk wyrazów pozostaje jak w zdaniu twierdzącym.
+
+🔑 Pytanie zależne:
+• Pytanie bezpośrednie: Czy on lubi kawę?
+• Pytanie zależne: Nie wiem, czy on lubi kawę.
+
+❌ Dlaczego nie A: Nie można po prostu postawić znaku zapytania — potrzebny spójnik "czy".
+❌ Dlaczego nie C: "że" wprowadza twierdzenie, nie pytanie: "Wiem, że on lubi kawę".
+❌ Dlaczego nie D: "lub" to spójnik alternatywy, nie do pytań.`,
+    topic: "Transformacje — zdanie twierdzące → pytanie z \"czy\"",
+    difficulty: "high"
+  }
+  ,
+  // ========================================================================
+  // TASKS 91-100: TRANSFORMACJE (Sentence Transformations) — Part 2
+  // Batch 8 — High difficulty
+  // ========================================================================
+  {
+    id: "B1_TRANSFORMACJE_011",
+    source: "pdf",
+    question: "Która forma jest BŁĘDNA jako transformacja zdania \"Można to naprawić\"?",
+    options: [
+      { label: "A", text: "Da się to naprawić." },
+      { label: "B", text: "To da się naprawić." },
+      { label: "C", text: "To daje się naprawić." },
+      { label: "D", text: "To się da naprawić." }
+    ],
+    correctAnswer: "C",
+    explanationRu: `Конструкция da się — это застывшая безличная форма. Нельзя её изменять на "daje się" в значении "можно".
+
+🔑 Poprawne formy:
+• Da się to naprawić. ✓
+• To da się naprawić. ✓
+• To się da naprawić. ✓
+
+❌ Почему C неправильно: "daje się" — грамматическая ошибка. Форма "da się" не спрягается, это застывшая конструкция.`,
+    explanationPl: `Konstrukcja da się to zleksykalizowana forma bezosobowa. Nie można jej odmieniać na "daje się" w znaczeniu "można".
+
+🔑 Poprawne formy:
+• Da się to naprawić. ✓
+• To da się naprawić. ✓
+• To się da naprawić. ✓
+
+❌ Dlaczego C błędne: "daje się" — błąd gramatyczny. Forma "da się" nie podlega odmianie.`,
+    topic: "Transformacje — zdanie z \"można\" → zdanie z \"da się\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_012",
+    source: "pdf",
+    question: "Zdanie \"Ponieważ padał deszcz, zostaliśmy w domu\" można przekształcić na:",
+    options: [
+      { label: "A", text: "Zostaliśmy w domu, dlatego padał deszcz." },
+      { label: "B", text: "Padał deszcz, więc zostaliśmy w domu." },
+      { label: "C", text: "Padał deszcz, bo zostaliśmy w domu." },
+      { label: "D", text: "Padał deszcz, żeby zostać w domu." }
+    ],
+    correctAnswer: "B",
+    explanationRu: `Причинное предложение (ponieważ = потому что) → следственное предложение (więc = поэтому). Порядок частей меняется: причина идёт первой, затем следствие с "więc".
+
+🔑 Причина → Следствие:
+• Ponieważ X, Y. → X, więc Y.
+• Ponieważ X, Y. → X, dlatego Y.
+
+❌ Почему не A: Логика перевёрнута — дождь не шёл потому, что мы остались дома.
+❌ Почему не C: "bo" вводит причину, а не следствие — смысл меняется на противоположный.
+❌ Почему не D: "żeby" — цель, а не причина/следствие.`,
+    explanationPl: `Zdanie przyczynowe (ponieważ) → zdanie skutkowe (więc). Kolejność części się zmienia: przyczyna najpierw, potem skutek z "więc".
+
+🔑 Przyczyna → Skutek:
+• Ponieważ X, Y. → X, więc Y.
+• Ponieważ X, Y. → X, dlatego Y.
+
+❌ Dlaczego nie A: Logika odwrócona — deszcz nie padał dlatego, że zostaliśmy w domu.
+❌ Dlaczego nie C: "bo" wprowadza przyczynę, nie skutek — sens się odwraca.
+❌ Dlaczego nie D: "żeby" — cel, nie przyczyna/skutek.`,
+    topic: "Transformacje — zdanie przyczynowe → zdanie skutkowe",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_013",
+    source: "pdf",
+    question: "Zdanie \"Chociaż był zmęczony, poszedł na trening\" można przekształcić NA ZDANIE ZE SPÓJNIKIEM:",
+    options: [
+      { label: "A", text: "Mimo był zmęczony, poszedł na trening." },
+      { label: "B", text: "Mimo to zmęczony, poszedł na trening." },
+      { label: "C", text: "Mimo tego był zmęczony, poszedł na trening." },
+      { label: "D", text: "Mimo że był zmęczony, poszedł na trening." }
+    ],
+    correctAnswer: "D",
+    explanationRu: `"Chociaż" (хотя) = "mimo że" (несмотря на то что). Оба союза требуют после себя полного предложения с глаголом.
+
+🔑 Синонимы (spójniki):
+• chociaż = mimo że = pomimo że (+ zdanie)
+
+❌ Почему не A: "Mimo" без "że" требует существительного (mimo zmęczenia), не предложения.
+❌ Почему не B: "Mimo to" — это "тем не менее", ставится между двумя предложениями.
+❌ Почему не C: "Mimo tego" требует существительного, не предложения.`,
+    explanationPl: `"Chociaż" = "mimo że". Oba spójniki wymagają pełnego zdania z czasownikiem.
+
+🔑 Synonimy (spójniki):
+• chociaż = mimo że = pomimo że (+ zdanie)
+
+❌ Dlaczego nie A: "Mimo" bez "że" wymaga rzeczownika (mimo zmęczenia), nie zdania.
+❌ Dlaczego nie B: "Mimo to" — "niemniej jednak", stoi między dwoma zdaniami.
+❌ Dlaczego nie C: "Mimo tego" wymaga rzeczownika, nie zdania.`,
+    topic: "Transformacje — zdanie z \"chociaż\" → zdanie z \"mimo że\" (z użyciem spójnika)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_014",
+    source: "pdf",
+    question: "Zdanie \"List został wysłany przez sekretarkę\" w stronie czynnej to:",
+    options: [
+      { label: "A", text: "Sekretarka została wysłana listem." },
+      { label: "B", text: "List wysłał sekretarkę." },
+      { label: "C", text: "Sekretarka wysłała list." },
+      { label: "D", text: "Sekretarka wysyłała list." }
+    ],
+    correctAnswer: "C",
+    explanationRu: `Пассив → актив: дополнение с "przez" становится подлежащим, а подлежащее пассива — дополнением. "Został wysłany" (совершённое действие) → "wysłała" (czas przeszły dokonany).
+
+🔑 Strona bierna → czynna:
+• X został zrobiony przez Y. → Y zrobił X.
+• Аспект сохраняется: został (dok.) → wysłała (док.)
+
+❌ Почему не A: Смысл перевёрнут — секретарку не отправляли.
+❌ Почему не B: Смысл перевёрнут — письмо не отправляло секретаршу.
+❌ Почему не D: "wysyłała" — niedokonany, а "został wysłany" — dokonany.`,
+    explanationPl: `Strona bierna → czynna: dopełnienie z "przez" staje się podmiotem, a podmiot strony biernej — dopełnieniem. "Został wysłany" (czynność dokonana) → "wysłała" (czas przeszły dokonany).
+
+🔑 Strona bierna → czynna:
+• X został zrobiony przez Y. → Y zrobił X.
+• Aspekt się zachowuje: został (dok.) → wysłała (dok.)
+
+❌ Dlaczego nie A: Sens odwrócony — sekretarka nie została wysłana.
+❌ Dlaczego nie B: Sens odwrócony — list nie wysłał sekretarki.
+❌ Dlaczego nie D: "wysyłała" — niedokonany, a "został wysłany" — dokonany.`,
+    topic: "Transformacje — strona bierna → strona czynna",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_015",
+    source: "pdf",
+    question: "Zdanie \"Zanim wyszedłem, sprawdziłem pogodę\" można przekształcić na:",
+    options: [
+      { label: "A", text: "Przed wyszedłem sprawdziłem pogodę." },
+      { label: "B", text: "Przed wyjściem sprawdziłem pogodę." },
+      { label: "C", text: "Przed tym wyszedłem, sprawdziłem pogodę." },
+      { label: "D", text: "Przed wychodzeniem sprawdziłem pogodę." }
+    ],
+    correctAnswer: "B",
+    explanationRu: `"Zanim" + zdanie → "przed" + rzeczownik odsłowny. Глагол "wyszedłem" (dokonany) → существительное "wyjście" (от wyjść).
+
+🔑 Zanim + zdanie → Przed + rzeczownik:
+• zanim wyszedłem → przed wyjściem
+• zanim zjadłem → przed jedzeniem / przed posiłkiem
+
+❌ Почему не A: "Przed" требует существительного, не глагола.
+❌ Почему не C: "Przed tym" — неправильная конструкция в этом контексте.
+❌ Почему не D: "wychodzenie" — от niedokonany "wychodzić", а "wyszedłem" — dokonany. Нужно "wyjście".`,
+    explanationPl: `"Zanim" + zdanie → "przed" + rzeczownik odsłowny. Czasownik "wyszedłem" (dokonany) → rzeczownik "wyjście" (od wyjść).
+
+🔑 Zanim + zdanie → Przed + rzeczownik:
+• zanim wyszedłem → przed wyjściem
+• zanim zjadłem → przed jedzeniem / przed posiłkiem
+
+❌ Dlaczego nie A: "Przed" wymaga rzeczownika, nie czasownika.
+❌ Dlaczego nie C: "Przed tym" — błędna konstrukcja w tym kontekście.
+❌ Dlaczego nie D: "wychodzenie" — od niedokonanego "wychodzić", a "wyszedłem" — dokonany. Potrzebne "wyjście".`,
+    topic: "Transformacje — zdanie z \"zanim\" → zdanie z \"przed\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_016",
+    source: "pdf",
+    question: "Zdanie \"Jego odpowiedź była szybka\" można przekształcić na:",
+    options: [
+      { label: "A", text: "On odpowiedział szybko." },
+      { label: "B", text: "On odpowiedział szybki." },
+      { label: "C", text: "On szybko był odpowiedź." },
+      { label: "D", text: "On odpowiadał szybką." }
+    ],
+    correctAnswer: "A",
+    explanationRu: `Прилагательное (przymiotnik) → наречие (przysłówek). "Szybka" (прил., ж.р.) → "szybko" (наречие). Наречие описывает глагол, а не существительное.
+
+🔑 Przymiotnik → Przysłówek:
+• szybki/szybka/szybkie → szybko
+• głośny → głośno
+• cichy → cicho
+
+❌ Почему не B: "szybki" — прилагательное, не может описывать глагол.
+❌ Почему не C: Бессмысленная конструкция.
+❌ Почему не D: "szybką" — прилагательное в biernik, не подходит.`,
+    explanationPl: `Przymiotnik → przysłówek. "Szybka" (przym., r. żeński) → "szybko" (przysłówek). Przysłówek opisuje czasownik, nie rzeczownik.
+
+🔑 Przymiotnik → Przysłówek:
+• szybki/szybka/szybkie → szybko
+• głośny → głośno
+• cichy → cicho
+
+❌ Dlaczego nie B: "szybki" — przymiotnik, nie może opisywać czasownika.
+❌ Dlaczego nie C: Bezsensowna konstrukcja.
+❌ Dlaczego nie D: "szybką" — przymiotnik w bierniku, nie pasuje.`,
+    topic: "Transformacje — zdanie z przymiotnikiem → zdanie z przysłówkiem",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_017",
+    source: "pdf",
+    question: "Zdanie \"Mówi nie tylko po polsku, ale też po angielsku\" można przekształcić na:",
+    options: [
+      { label: "A", text: "Mówi zarówno po polsku, oraz po angielsku." },
+      { label: "B", text: "Mówi zarówno po polsku, ale i po angielsku." },
+      { label: "C", text: "Mówi zarówno po polsku, jak i po angielsku." },
+      { label: "D", text: "Mówi zarówno po polsku, a także po angielsku." }
+    ],
+    correctAnswer: "C",
+    explanationRu: `"Nie tylko X, ale też Y" = "zarówno X, jak i Y". Обе конструкции выражают соединение двух равноценных элементов.
+
+🔑 Парные союзы:
+• nie tylko... ale też/także = zarówno... jak i
+• Важно: "zarówno" требует именно "jak i" — это устойчивая пара
+
+❌ Почему не A: "zarówno... oraz" — неправильная пара, нужно "jak i".
+❌ Почему не B: "zarówno... ale i" — неправильная пара.
+❌ Почему не D: "zarówno... a także" — неправильная пара, нужно "jak i".`,
+    explanationPl: `"Nie tylko X, ale też Y" = "zarówno X, jak i Y". Obie konstrukcje wyrażają połączenie dwóch równorzędnych elementów.
+
+🔑 Spójniki skorelowane:
+• nie tylko... ale też/także = zarówno... jak i
+• Ważne: "zarówno" wymaga "jak i" — to stała para
+
+❌ Dlaczego nie A: "zarówno... oraz" — błędna para, potrzebne "jak i".
+❌ Dlaczego nie B: "zarówno... ale i" — błędna para.
+❌ Dlaczego nie D: "zarówno... a także" — błędna para, potrzebne "jak i".`,
+    topic: "Transformacje — zdanie z \"nie tylko... ale też\" → zdanie z \"zarówno... jak i\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_018",
+    source: "pdf",
+    question: "Zdanie \"Dni stają się coraz krótsze\" można przekształcić na:",
+    options: [
+      { label: "A", text: "Dni są najkrótsze." },
+      { label: "B", text: "Dni stają się krótkie." },
+      { label: "C", text: "Dni są bardziej krótsze." },
+      { label: "D", text: "Dni są krótsze i krótsze." }
+    ],
+    correctAnswer: "D",
+    explanationRu: `"Coraz + stopień wyższy" (всё более) = "stopień wyższy + i + stopień wyższy" (короче и короче). Обе конструкции выражают постепенное нарастание качества.
+
+🔑 Coraz + wyższy = wyższy i wyższy:
+• coraz lepszy = lepszy i lepszy
+• coraz większy = większy i większy
+
+❌ Почему не A: "najkrótsze" — превосходная степень, означает максимум, а не процесс.
+❌ Почему не B: "krótkie" — положительная степень, теряется идея нарастания.
+❌ Почему не C: "bardziej krótsze" — двойное сравнение, грамматическая ошибка.`,
+    explanationPl: `"Coraz + stopień wyższy" = "stopień wyższy + i + stopień wyższy". Obie konstrukcje wyrażają stopniowe narastanie cechy.
+
+🔑 Coraz + wyższy = wyższy i wyższy:
+• coraz lepszy = lepszy i lepszy
+• coraz większy = większy i większy
+
+❌ Dlaczego nie A: "najkrótsze" — stopień najwyższy, oznacza maksimum, nie proces.
+❌ Dlaczego nie B: "krótkie" — stopień równy, gubi się idea narastania.
+❌ Dlaczego nie C: "bardziej krótsze" — podwójne stopniowanie, błąd gramatyczny.`,
+    topic: "Transformacje — zdanie z \"coraz\" → zdanie ze stopniem wyższym",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_019",
+    source: "pdf",
+    question: "Która forma jest poprawną konstrukcją bezosobową na -no/-to dla zdania \"Ktoś ukradł mój rower\"?",
+    options: [
+      { label: "A", text: "Mój rower został ukradziony." },
+      { label: "B", text: "Ukradziono mój rower." },
+      { label: "C", text: "Mój rower ukradł się." },
+      { label: "D", text: "Mój rower się ukradł." }
+    ],
+    correctAnswer: "B",
+    explanationRu: `"Ktoś + czasownik" → безличная конструкция с "-no/-to". Форма "ukradziono" — безличная форма прошедшего времени от "ukraść".
+
+🔑 Formy bezosobowe na -no/-to:
+• ktoś zrobił → zrobiono
+• ktoś ukradł → ukradziono
+• ktoś powiedział → powiedziano
+
+❌ Почему не A: "został ukradziony" — это strona bierna, не forma bezosobowa на -no/-to.
+❌ Почему не C: "ukradł się" — грамматически неверно, "ukraść" не образует возвратной формы.
+❌ Почему не D: "się ukradł" — грамматически неверно.`,
+    explanationPl: `"Ktoś + czasownik" → konstrukcja bezosobowa z "-no/-to". Forma "ukradziono" — bezosobowa forma czasu przeszłego od "ukraść".
+
+🔑 Formy bezosobowe na -no/-to:
+• ktoś zrobił → zrobiono
+• ktoś ukradł → ukradziono
+• ktoś powiedział → powiedziano
+
+❌ Dlaczego nie A: "został ukradziony" — to strona bierna, nie forma bezosobowa na -no/-to.
+❌ Dlaczego nie C: "ukradł się" — błąd gramatyczny, "ukraść" nie tworzy formy zwrotnej.
+❌ Dlaczego nie D: "się ukradł" — błąd gramatyczny.`,
+    topic: "Transformacje — zdanie z \"ktoś\" → zdanie bezosobowe (-no/-to)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_TRANSFORMACJE_020",
+    source: "pdf",
+    question: "Zdanie \"Jest tak zmęczony, że nie może pracować\" można przekształcić na:",
+    options: [
+      { label: "A", text: "Jest zbyt zmęczony, żeby pracować." },
+      { label: "B", text: "Jest zbyt zmęczony, żeby nie pracować." },
+      { label: "C", text: "Jest za zmęczony, że pracować." },
+      { label: "D", text: "Jest zbyt zmęczony, aby nie pracować." }
+    ],
+    correctAnswer: "A",
+    explanationRu: `"Tak + przymiotnik + że nie może" → "zbyt + przymiotnik + żeby/aby + bezokolicznik". Конструкция "zbyt... żeby" уже содержит отрицание в значении (слишком... чтобы = не может).
+
+🔑 Tak... że nie → Zbyt... żeby:
+• tak zmęczony, że nie może → zbyt zmęczony, żeby móc
+• Важно: после "żeby" НЕ нужно отрицание!
+
+❌ Почему не B: Двойное отрицание меняет смысл — "слишком устал, чтобы НЕ работать" = должен работать.
+❌ Почему не C: "za" вместо "zbyt" — разговорно; "że" вместо "żeby" — неправильно.
+❌ Почему не D: "aby nie pracować" — двойное отрицание, смысл меняется.`,
+    explanationPl: `"Tak + przymiotnik + że nie może" → "zbyt + przymiotnik + żeby/aby + bezokolicznik". Konstrukcja "zbyt... żeby" już zawiera negację w znaczeniu.
+
+🔑 Tak... że nie → Zbyt... żeby:
+• tak zmęczony, że nie może → zbyt zmęczony, żeby móc
+• Ważne: po "żeby" NIE potrzeba przeczenia!
+
+❌ Dlaczego nie B: Podwójne przeczenie zmienia sens — "zbyt zmęczony, żeby NIE pracować" = musi pracować.
+❌ Dlaczego nie C: "za" zamiast "zbyt" — potocznie; "że" zamiast "żeby" — błędnie.
+❌ Dlaczego nie D: "aby nie pracować" — podwójne przeczenie, sens się zmienia.`,
+    topic: "Transformacje — zdanie z \"tak... że\" → zdanie z \"zbyt... żeby\"",
+    difficulty: "high"
+  }
+  ,
+  // ========================================================================
+  // TASKS 101-110: STOPNIOWANIE (Degrees of Comparison)
+  // Batch 9 — High difficulty
+  // ========================================================================
+  {
+    id: "B1_STOPNIOWANIE_001",
+    source: "pdf",
+    question: "Ten film jest _______ od poprzedniego.",
+    options: [
+      { label: "A", text: "dobrzejszy" },
+      { label: "B", text: "lepszy" },
+      { label: "C", text: "bardziej dobry" },
+      { label: "D", text: "lepiej" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `Прилагательное dobry (хороший) имеет неправильную сравнительную степень: lepszy (лучший). Форма "dobrzejszy" не существует.
+
+🔑 Nieregularne stopniowanie:
+• dobry → lepszy → najlepszy
+• zły → gorszy → najgorszy
+• duży → większy → największy
+
+❌ Почему не A: "dobrzejszy" — не существует, это выдуманная форма.
+❌ Почему не C: "bardziej dobry" — грамматически неверно для неправильных прилагательных.
+❌ Почему не D: "lepiej" — это наречие, а нужно прилагательное (opisuje "film").`,
+    explanationPl: `Przymiotnik dobry ma nieregularny stopień wyższy: lepszy. Forma "dobrzejszy" nie istnieje.
+
+🔑 Nieregularne stopniowanie:
+• dobry → lepszy → najlepszy
+• zły → gorszy → najgorszy
+• duży → większy → największy
+
+❌ Dlaczego nie A: "dobrzejszy" — nie istnieje, to forma wymyślona.
+❌ Dlaczego nie C: "bardziej dobry" — błąd gramatyczny dla przymiotników nieregularnych.
+❌ Dlaczego nie D: "lepiej" — to przysłówek, a potrzebny przymiotnik (opisuje "film").`,
+    topic: "Stopniowanie — nieregularne przymiotniki (dobry → lepszy)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_002",
+    source: "pdf",
+    question: "Dzisiaj czuję się _______ niż wczoraj.",
+    options: [
+      { label: "A", text: "lepszy" },
+      { label: "B", text: "dobrziej" },
+      { label: "C", text: "bardziej dobrze" },
+      { label: "D", text: "lepiej" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `Наречие dobrze (хорошо) имеет неправильную сравнительную степень: lepiej (лучше). "Czuć się" требует наречия, не прилагательного.
+
+🔑 Nieregularne stopniowanie przysłówków:
+• dobrze → lepiej → najlepiej
+• źle → gorzej → najgorzej
+• dużo → więcej → najwięcej
+
+❌ Почему не A: "lepszy" — это прилагательное, а "czuć się" требует наречия.
+❌ Почему не B: "dobrziej" — не существует.
+❌ Почему не C: "bardziej dobrze" — грамматически неверно для неправильных наречий.`,
+    explanationPl: `Przysłówek dobrze ma nieregularny stopień wyższy: lepiej. "Czuć się" wymaga przysłówka, nie przymiotnika.
+
+🔑 Nieregularne stopniowanie przysłówków:
+• dobrze → lepiej → najlepiej
+• źle → gorzej → najgorzej
+• dużo → więcej → najwięcej
+
+❌ Dlaczego nie A: "lepszy" — to przymiotnik, a "czuć się" wymaga przysłówka.
+❌ Dlaczego nie B: "dobrziej" — nie istnieje.
+❌ Dlaczego nie C: "bardziej dobrze" — błąd gramatyczny dla przysłówków nieregularnych.`,
+    topic: "Stopniowanie — nieregularne przysłówki (dobrze → lepiej)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_003",
+    source: "pdf",
+    question: "Ta książka jest _______ od tamtej.",
+    options: [
+      { label: "A", text: "interesująciejsza" },
+      { label: "B", text: "interesującsza" },
+      { label: "C", text: "bardziej interesująca" },
+      { label: "D", text: "więcej interesująca" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `Длинные прилагательные (особенно причастия типа "interesujący") образуют сравнительную степень с помощью bardziej, а не суффикса -szy. В стандартном языке на уровне B1 причастия не образуют форм на -szy.
+
+🔑 Stopniowanie opisowe (z "bardziej"):
+• interesujący → bardziej interesujący → najbardziej interesujący
+• skomplikowany → bardziej skomplikowany
+• zmęczony → bardziej zmęczony
+
+❌ Почему не A: "interesująciejsza" — не существует, причастия в стандартном языке B1 не образуют форм на -szy.
+❌ Почему не B: "interesującsza" — не существует.
+❌ Почему не D: "więcej" используется с существительными (więcej książek), не с прилагательными.`,
+    explanationPl: `Długie przymiotniki (szczególnie imiesłowy jak "interesujący") tworzą stopień wyższy z bardziej, nie z sufiksem -szy. W języku standardowym na poziomie B1 imiesłowy nie tworzą form na -szy.
+
+🔑 Stopniowanie opisowe (z "bardziej"):
+• interesujący → bardziej interesujący → najbardziej interesujący
+• skomplikowany → bardziej skomplikowany
+• zmęczony → bardziej zmęczony
+
+❌ Dlaczego nie A: "interesująciejsza" — nie istnieje, imiesłowy w języku standardowym B1 nie tworzą form na -szy.
+❌ Dlaczego nie B: "interesującsza" — nie istnieje.
+❌ Dlaczego nie D: "więcej" używa się z rzeczownikami (więcej książek), nie z przymiotnikami.`,
+    topic: "Stopniowanie — przymiotniki z \"bardziej\" (interesujący)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_004",
+    source: "pdf",
+    question: "Ona jest _______ studentką ze wszystkich.",
+    options: [
+      { label: "A", text: "lepszą" },
+      { label: "B", text: "najlepszy" },
+      { label: "C", text: "najlepsza" },
+      { label: "D", text: "najlepszą" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `После "jest" с существительным в narzędnik нужна форма прилагательного в narzędnik. "Studentką" — narzędnik ж.р., поэтому "najlepszą" (narzędnik ж.р.).
+
+🔑 Być + narzędnik:
+• Ona jest studentką. → Ona jest najlepszą studentką.
+• On jest studentem. → On jest najlepszym studentem.
+
+❌ Почему не A: "lepszą" — сравнительная степень, а "ze wszystkich" требует превосходной.
+❌ Почему не B: "najlepszy" — м.р., а "studentką" — ж.р.
+❌ Почему не C: "najlepsza" — mianownik, а нужен narzędnik.`,
+    explanationPl: `Po "jest" z rzeczownikiem w narzędniku potrzebna forma przymiotnika w narzędniku. "Studentką" — narzędnik r. żeńskiego, więc "najlepszą" (narzędnik r. żeńskiego).
+
+🔑 Być + narzędnik:
+• Ona jest studentką. → Ona jest najlepszą studentką.
+• On jest studentem. → On jest najlepszym studentem.
+
+❌ Dlaczego nie A: "lepszą" — stopień wyższy, a "ze wszystkich" wymaga najwyższego.
+❌ Dlaczego nie B: "najlepszy" — r. męski, a "studentką" — r. żeński.
+❌ Dlaczego nie C: "najlepsza" — mianownik, a potrzebny narzędnik.`,
+    topic: "Stopniowanie — stopień najwyższy z \"ze wszystkich\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_005",
+    source: "pdf",
+    question: "Moje mieszkanie jest _______ od twojego.",
+    options: [
+      { label: "A", text: "mniejsze" },
+      { label: "B", text: "małsze" },
+      { label: "C", text: "bardziej małe" },
+      { label: "D", text: "mniej" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `Прилагательное mały (маленький) имеет неправильную сравнительную степень: mniejszy (меньший). "Mieszkanie" — nijaki род, поэтому "mniejsze".
+
+🔑 Nieregularne stopniowanie:
+• mały → mniejszy → najmniejszy
+• wielki → większy → największy
+
+❌ Почему не B: "małszy" — не существует.
+❌ Почему не C: "bardziej małe" — грамматически неверно для неправильных прилагательных.
+❌ Почему не D: "mniej" — это наречие/числительное, не прилагательное.`,
+    explanationPl: `Przymiotnik mały ma nieregularny stopień wyższy: mniejszy. "Mieszkanie" — rodzaj nijaki, więc "mniejsze".
+
+🔑 Nieregularne stopniowanie:
+• mały → mniejszy → najmniejszy
+• wielki → większy → największy
+
+❌ Dlaczego nie B: "małszy" — nie istnieje.
+❌ Dlaczego nie C: "bardziej małe" — błąd gramatyczny dla przymiotników nieregularnych.
+❌ Dlaczego nie D: "mniej" — to przysłówek/liczebnik, nie przymiotnik.`,
+    topic: "Stopniowanie — nieregularne (mały → mniejszy)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_006",
+    source: "pdf",
+    question: "Ona ubiera się _______ niż jej siostra.",
+    options: [
+      { label: "A", text: "eleganckiej" },
+      { label: "B", text: "bardziej elegancko" },
+      { label: "C", text: "elegancziej" },
+      { label: "D", text: "więcej elegancko" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `Наречие elegancko образует сравнительную степень с помощью bardziej, а не суффикса. Форма "elegancziej" не существует.
+
+🔑 Stopniowanie opisowe przysłówków:
+• elegancko → bardziej elegancko → najbardziej elegancko
+• interesująco → bardziej interesująco
+• skomplikowanie → bardziej skomplikowanie
+
+❌ Почему не A: "eleganckiej" — это форма прилагательного в dopełniaczu, не наречие.
+❌ Почему не C: "elegancziej" — не существует.
+❌ Почему не D: "więcej" не используется для степенирования качественных наречий.`,
+    explanationPl: `Przysłówek elegancko tworzy stopień wyższy z bardziej, nie z sufiksem. Forma "elegancziej" nie istnieje.
+
+🔑 Stopniowanie opisowe przysłówków:
+• elegancko → bardziej elegancko → najbardziej elegancko
+• interesująco → bardziej interesująco
+• skomplikowanie → bardziej skomplikowanie
+
+❌ Dlaczego nie A: "eleganckiej" — to forma przymiotnika w dopełniaczu, nie przysłówek.
+❌ Dlaczego nie C: "elegancziej" — nie istnieje.
+❌ Dlaczego nie D: "więcej" nie służy do stopniowania przysłówków jakościowych.`,
+    topic: "Stopniowanie — przysłówki z \"bardziej\" (elegancko)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_007",
+    source: "pdf",
+    question: "Mój brat jest _______ ode mnie o trzy lata.",
+    options: [
+      { label: "A", text: "młodniejszy" },
+      { label: "B", text: "bardziej młody" },
+      { label: "C", text: "młodszy" },
+      { label: "D", text: "młodziej" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `Прилагательное młody (молодой) образует сравнительную степень регулярно: młodszy. Обратите внимание на чередование d → dz.
+
+🔑 Regularne stopniowanie z alternacją:
+• młody → młodszy (d → dz)
+• stary → starszy
+• wysoki → wyższy (k → ż)
+
+❌ Почему не A: "młodniejszy" — не существует, это выдуманная форма.
+❌ Почему не B: "bardziej młody" — неправильно, "młody" имеет простую форму.
+❌ Почему не D: "młodziej" — не существует как наречие в этом значении.`,
+    explanationPl: `Przymiotnik młody tworzy stopień wyższy regularnie: młodszy. Zwróć uwagę na alternację d → dz.
+
+🔑 Regularne stopniowanie z alternacją:
+• młody → młodszy (d → dz)
+• stary → starszy
+• wysoki → wyższy (k → ż)
+
+❌ Dlaczego nie A: "młodniejszy" — nie istnieje, to forma wymyślona.
+❌ Dlaczego nie B: "bardziej młody" — błędnie, "młody" ma prostą formę.
+❌ Dlaczego nie D: "młodziej" — nie istnieje jako przysłówek w tym znaczeniu.`,
+    topic: "Stopniowanie — regularne przymiotniki (młody → młodszy)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_008",
+    source: "pdf",
+    question: "Z całej klasy on biega _______.",
+    options: [
+      { label: "A", text: "najszybszy" },
+      { label: "B", text: "szybciej" },
+      { label: "C", text: "najbardziej szybko" },
+      { label: "D", text: "najszybciej" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `Наречие szybko (быстро) образует превосходную степень: najszybciej. "Biegać" требует наречия, не прилагательного.
+
+🔑 Stopniowanie przysłówków:
+• szybko → szybciej → najszybciej
+• wolno → wolniej → najwolniej
+• wysoko → wyżej → najwyżej
+
+❌ Почему не A: "najszybszy" — это прилагательное, а "biegać" требует наречия.
+❌ Почему не B: "szybciej" — сравнительная степень, а "z całej klasy" требует превосходной.
+❌ Почему не C: "najbardziej szybko" — неправильно, "szybko" имеет простую форму.`,
+    explanationPl: `Przysłówek szybko tworzy stopień najwyższy: najszybciej. "Biegać" wymaga przysłówka, nie przymiotnika.
+
+🔑 Stopniowanie przysłówków:
+• szybko → szybciej → najszybciej
+• wolno → wolniej → najwolniej
+• wysoko → wyżej → najwyżej
+
+❌ Dlaczego nie A: "najszybszy" — to przymiotnik, a "biegać" wymaga przysłówka.
+❌ Dlaczego nie B: "szybciej" — stopień wyższy, a "z całej klasy" wymaga najwyższego.
+❌ Dlaczego nie C: "najbardziej szybko" — błędnie, "szybko" ma prostą formę.`,
+    topic: "Stopniowanie — stopień najwyższy przysłówka (szybko)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_009",
+    source: "pdf",
+    question: "Pogoda dzisiaj jest _______ niż wczoraj.",
+    options: [
+      { label: "A", text: "zlejsza" },
+      { label: "B", text: "gorsza" },
+      { label: "C", text: "bardziej zła" },
+      { label: "D", text: "źlej" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `Прилагательное zły (плохой) имеет неправильную сравнительную степень: gorszy. "Pogoda" — ж.р., поэтому "gorsza".
+
+🔑 Nieregularne stopniowanie:
+• zły → gorszy → najgorszy
+• dobry → lepszy → najlepszy
+
+❌ Почему не A: "zlejsza" — не существует.
+❌ Почему не C: "bardziej zła" — грамматически неверно для неправильных прилагательных.
+❌ Почему не D: "źlej" — не существует; наречие от "zły" — "źle → gorzej".`,
+    explanationPl: `Przymiotnik zły ma nieregularny stopień wyższy: gorszy. "Pogoda" — r. żeński, więc "gorsza".
+
+🔑 Nieregularne stopniowanie:
+• zły → gorszy → najgorszy
+• dobry → lepszy → najlepszy
+
+❌ Dlaczego nie A: "zlejsza" — nie istnieje.
+❌ Dlaczego nie C: "bardziej zła" — błąd gramatyczny dla przymiotników nieregularnych.
+❌ Dlaczego nie D: "źlej" — nie istnieje; przysłówek od "zły" — "źle → gorzej".`,
+    topic: "Stopniowanie — nieregularne (zły → gorszy)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_STOPNIOWANIE_010",
+    source: "pdf",
+    question: "Ten budynek jest _______ od tamtego.",
+    options: [
+      { label: "A", text: "wyżej" },
+      { label: "B", text: "wysoczejszy" },
+      { label: "C", text: "wyższy" },
+      { label: "D", text: "bardziej wysoki" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `"Budynek" — существительное, поэтому нужно прилагательное wyższy (выше), а не наречие "wyżej".
+
+🔑 Przymiotnik vs Przysłówek:
+• wysoki (przym.) → wyższy → najwyższy
+• wysoko (przysł.) → wyżej → najwyżej
+
+❌ Почему не A: "wyżej" — это наречие, а "budynek jest" требует прилагательного.
+❌ Почему не B: "wysoczejszy" — не существует.
+❌ Почему не D: "bardziej wysoki" — неправильно, "wysoki" имеет простую форму.`,
+    explanationPl: `"Budynek" — rzeczownik, więc potrzebny przymiotnik wyższy, nie przysłówek "wyżej".
+
+🔑 Przymiotnik vs Przysłówek:
+• wysoki (przym.) → wyższy → najwyższy
+• wysoko (przysł.) → wyżej → najwyżej
+
+❌ Dlaczego nie A: "wyżej" — to przysłówek, a "budynek jest" wymaga przymiotnika.
+❌ Dlaczego nie B: "wysoczejszy" — nie istnieje.
+❌ Dlaczego nie D: "bardziej wysoki" — błędnie, "wysoki" ma prostą formę.`,
+    topic: "Stopniowanie — przymiotnik vs przysłówek (wysoki/wysoko)",
+    difficulty: "high"
+  }
 ];
