@@ -164,6 +164,21 @@ async function handleLang(ctx) {
 }
 
 /**
+ * Handle /chatid command - show user's chat ID
+ */
+async function handleChatId(ctx) {
+  const chatId = ctx.chat.id;
+  const username = ctx.from.username ? `@${ctx.from.username}` : ctx.from.first_name;
+
+  await ctx.reply(
+    `🆔 <b>Твой Chat ID:</b> <code>${chatId}</code>\n\n` +
+    `👤 <b>Имя:</b> ${username}\n\n` +
+    `💡 Скопируй этот Chat ID и добавь в переменную окружения ADMIN_CHAT_IDS на Railway, чтобы получить доступ к админским командам.`,
+    { parse_mode: 'HTML' }
+  );
+}
+
+/**
  * Handle /admin command - show admin statistics
  */
 async function handleAdmin(ctx) {
@@ -249,6 +264,7 @@ function registerCommands(bot) {
   bot.command('rating', handleRating);
   bot.command('reset', handleReset);
   bot.command('lang', handleLang);
+  bot.command('chatid', handleChatId);
   bot.command('admin', handleAdmin);
 
   // Text handler is registered in bot.js to avoid circular dependencies
