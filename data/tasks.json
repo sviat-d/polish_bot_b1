@@ -2998,5 +2998,1405 @@
     "explanationPl": "\"Budynek\" — rzeczownik, więc potrzebny przymiotnik wyższy, nie przysłówek \"wyżej\".\n\n🔑 Przymiotnik vs Przysłówek:\n• wysoki (przym.) → wyższy → najwyższy\n• wysoko (przysł.) → wyżej → najwyżej\n\n❌ Dlaczego nie A: \"wyżej\" — to przysłówek, a \"budynek jest\" wymaga przymiotnika.\n❌ Dlaczego nie B: \"wysoczejszy\" — nie istnieje.\n❌ Dlaczego nie D: \"bardziej wysoki\" — błędnie, \"wysoki\" ma prostą formę.",
     "topic": "Stopniowanie — przymiotnik vs przysłówek (wysoki/wysoko)",
     "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_011",
+    "source": "pdf",
+    "question": "W tym roku mamy _______ śniegu niż w zeszłym.",
+    "options": [
+      {
+        "label": "A",
+        "text": "bardziej więcej"
+      },
+      {
+        "label": "B",
+        "text": "więcej"
+      },
+      {
+        "label": "C",
+        "text": "najwięcej"
+      },
+      {
+        "label": "D",
+        "text": "bardziej dużo"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Наречие dużo имеет неправильные степени сравнения: dużo → więcej → najwięcej.\n\n🔑 Формула: więcej + dopełniacz (śniegu) + niż\n\n• A) \"bardziej więcej\" — не существует, \"więcej\" уже является stopniem wyższym\n• C) \"najwięcej\" — najwyższy stopień, но здесь сравнение двух периодов (niż)\n• D) \"bardziej dużo\" — не существует, dużo степенируется нерегулярно",
+    "explanationPl": "Przysłówek dużo stopniuje się nieregularnie: dużo → więcej → najwięcej.\n\n🔑 Konstrukcja: więcej + dopełniacz + niż\n\n• A) \"bardziej więcej\" — forma niepoprawna, \"więcej\" już jest stopniem wyższym\n• C) \"najwięcej\" — stopień najwyższy, ale tu porównujemy dwa okresy\n• D) \"bardziej dużo\" — forma niepoprawna",
+    "topic": "Stopniowanie — nieregularne: dużo → więcej → najwięcej",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_012",
+    "source": "pdf",
+    "question": "Mieszkam _______ od centrum niż moja siostra.",
+    "options": [
+      {
+        "label": "A",
+        "text": "daleko"
+      },
+      {
+        "label": "B",
+        "text": "najdalej"
+      },
+      {
+        "label": "C",
+        "text": "bardziej daleko"
+      },
+      {
+        "label": "D",
+        "text": "dalej"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Наречие daleko имеет неправильные степени сравнения: daleko → dalej → najdalej.\n\n🔑 Конструкция сравнения: dalej + od + dopełniacz + niż\n\n• A) \"daleko\" — stopień równy, не подходит для сравнения с \"niż\"\n• B) \"najdalej\" — stopień najwyższy, но здесь сравнение двух людей\n• C) \"bardziej daleko\" — не существует",
+    "explanationPl": "Przysłówek daleko stopniuje się nieregularnie: daleko → dalej → najdalej.\n\n🔑 Konstrukcja: dalej od + dopełniacz + niż\n\n• A) \"daleko\" — stopień równy, nie pasuje do porównania z \"niż\"\n• B) \"najdalej\" — stopień najwyższy, ale porównujemy dwie osoby\n• C) \"bardziej daleko\" — forma niepoprawna",
+    "topic": "Stopniowanie — nieregularne przysłówki: daleko → dalej → najdalej",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_013",
+    "source": "pdf",
+    "question": "To budynek _______ jakości w całym mieście.",
+    "options": [
+      {
+        "label": "A",
+        "text": "najwyższy"
+      },
+      {
+        "label": "B",
+        "text": "najwyższa"
+      },
+      {
+        "label": "C",
+        "text": "najwyższej"
+      },
+      {
+        "label": "D",
+        "text": "najwyższą"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Существительное jakość (ж.р.) стоит в dopełniaczu: \"jakości\". Прилагательное должно согласоваться: najwyższej (dopełniacz, ż.r.).\n\n🔑 Конструкция: rzeczownik + przymiotnik w dopełniaczu + rzeczownik w dopełniaczu\n\n• A) \"najwyższy\" — mianownik м.р.\n• B) \"najwyższa\" — mianownik ж.р.\n• D) \"najwyższą\" — biernik/narzędnik ж.р.",
+    "explanationPl": "Rzeczownik jakość (r. żeński) jest w dopełniaczu: \"jakości\". Przymiotnik musi się zgadzać: najwyższej (dopełniacz, r.ż.).\n\n🔑 Konstrukcja: rzeczownik + przymiotnik w dopełniaczu + rzeczownik w dopełniaczu\n\n• A) \"najwyższy\" — mianownik r.m.\n• B) \"najwyższa\" — mianownik r.ż.\n• D) \"najwyższą\" — biernik/narzędnik r.ż.",
+    "topic": "Stopniowanie — przymiotnik w dopełniaczu: najwyższego vs najwyższy",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_014",
+    "source": "pdf",
+    "question": "Ceny mieszkań są _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "coraz wyższe"
+      },
+      {
+        "label": "B",
+        "text": "coraz wysokie"
+      },
+      {
+        "label": "C",
+        "text": "coraz najwyższe"
+      },
+      {
+        "label": "D",
+        "text": "coraz najbardziej wysokie"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Конструкция coraz + stopień wyższy означает постепенное увеличение.\n\n🔑 Формула: coraz + stopień wyższy\n\n• B) \"coraz wysokie\" — stopień równy после \"coraz\" невозможен\n• C) \"coraz najwyższe\" — stopień najwyższy после \"coraz\" невозможен\n• D) \"coraz najbardziej wysokie\" — двойной суперлатив, форма неправильная",
+    "explanationPl": "Konstrukcja coraz + stopień wyższy wyraża stopniowy wzrost.\n\n🔑 Formuła: coraz + stopień wyższy\n\n• B) \"coraz wysokie\" — stopień równy po \"coraz\" jest niepoprawny\n• C) \"coraz najwyższe\" — stopień najwyższy po \"coraz\" jest niepoprawny\n• D) \"coraz najbardziej wysokie\" — podwójny superlatyw, forma niepoprawna",
+    "topic": "Stopniowanie — coraz + wyższy stopień",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_015",
+    "source": "pdf",
+    "question": "_______ więcej pracuję, tym jestem bardziej zmęczony.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Im"
+      },
+      {
+        "label": "B",
+        "text": "Jak"
+      },
+      {
+        "label": "C",
+        "text": "Kiedy"
+      },
+      {
+        "label": "D",
+        "text": "Że"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Конструкция im + stopień wyższy..., tym + stopień wyższy выражает пропорциональную зависимость.\n\n🔑 Формула: Im więcej..., tym bardziej...\n\n• B) \"Jak\" — не используется в этой конструкции\n• C) \"Kiedy\" — временной союз, меняет смысл\n• D) \"Że\" — подчинительный союз, не подходит",
+    "explanationPl": "Konstrukcja im + stopień wyższy..., tym + stopień wyższy wyraża zależność proporcjonalną.\n\n🔑 Formuła: Im więcej..., tym bardziej...\n\n• B) \"Jak\" — nie używa się w tej konstrukcji\n• C) \"Kiedy\" — spójnik czasowy, zmienia sens\n• D) \"Że\" — spójnik podrzędny, nie pasuje",
+    "topic": "Stopniowanie — im... tym + wyższy stopień",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_016",
+    "source": "pdf",
+    "question": "Proszę przyjść _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "szybko"
+      },
+      {
+        "label": "B",
+        "text": "jak najszybciej"
+      },
+      {
+        "label": "C",
+        "text": "szybciej"
+      },
+      {
+        "label": "D",
+        "text": "bardzo szybko"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Конструкция jak + stopień najwyższy означает \"как можно + превосходная степень\".\n\n🔑 Формула: jak najszybciej = как можно быстрее\n\n• A) \"szybko\" — нейтрально, без акцента на максимум\n• C) \"szybciej\" — сравнительная степень, требует \"niż\"\n• D) \"bardzo szybko\" — усиление, но не максимум",
+    "explanationPl": "Konstrukcja jak + stopień najwyższy oznacza \"możliwie najbardziej\".\n\n🔑 Formuła: jak najszybciej = możliwie najszybciej\n\n• A) \"szybko\" — neutralnie, bez akcentu na maksimum\n• C) \"szybciej\" — stopień wyższy, wymaga \"niż\"\n• D) \"bardzo szybko\" — wzmocnienie, ale nie maksimum",
+    "topic": "Stopniowanie — jak najszybciej (możliwie najwyższy stopień)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_017",
+    "source": "pdf",
+    "question": "Wróciłem do domu _______ niż zwykle.",
+    "options": [
+      {
+        "label": "A",
+        "text": "późno"
+      },
+      {
+        "label": "B",
+        "text": "najpóźniej"
+      },
+      {
+        "label": "C",
+        "text": "bardziej późno"
+      },
+      {
+        "label": "D",
+        "text": "później"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Наречие późno имеет неправильные степени сравнения: późno → później → najpóźniej.\n\n🔑 Конструкция: później + niż (сравнение)\n\n• A) \"późno\" — stopień równy, не подходит с \"niż\"\n• B) \"najpóźniej\" — stopień najwyższy, но здесь сравнение\n• C) \"bardziej późno\" — не существует",
+    "explanationPl": "Przysłówek późno stopniuje się nieregularnie: późno → później → najpóźniej.\n\n🔑 Konstrukcja: później + niż (porównanie)\n\n• A) \"późno\" — stopień równy, nie pasuje z \"niż\"\n• B) \"najpóźniej\" — stopień najwyższy, ale tu porównanie\n• C) \"bardziej późno\" — forma niepoprawna",
+    "topic": "Stopniowanie — nieregularne: późno → później → najpóźniej",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_018",
+    "source": "pdf",
+    "question": "Ten film podobał mi się _______ ze wszystkich.",
+    "options": [
+      {
+        "label": "A",
+        "text": "najlepszy"
+      },
+      {
+        "label": "B",
+        "text": "lepiej"
+      },
+      {
+        "label": "C",
+        "text": "najlepiej"
+      },
+      {
+        "label": "D",
+        "text": "lepszy"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Глагол podobać się требует наречия, а не прилагательного. \"Ze wszystkich\" указывает на stopień najwyższy.\n\n🔑 Правило: после глагола — przysłówek (najlepiej), не przymiotnik (najlepszy)\n\n• A) \"najlepszy\" — przymiotnik, не сочетается с глаголом\n• B) \"lepiej\" — stopień wyższy, но \"ze wszystkich\" требует najwyższy\n• D) \"lepszy\" — przymiotnik в stopień wyższy",
+    "explanationPl": "Czasownik podobać się wymaga przysłówka, nie przymiotnika. \"Ze wszystkich\" wskazuje na stopień najwyższy.\n\n🔑 Zasada: po czasowniku — przysłówek (najlepiej), nie przymiotnik (najlepszy)\n\n• A) \"najlepszy\" — przymiotnik, nie łączy się z czasownikiem\n• B) \"lepiej\" — stopień wyższy, ale \"ze wszystkich\" wymaga najwyższego\n• D) \"lepszy\" — przymiotnik w stopniu wyższym",
+    "topic": "Stopniowanie — przymiotnik vs przysłówek: najlepszy vs najlepiej",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_STOPNIOWANIE_001",
+    "source": "pdf",
+    "question": "Byłem _______ zadowolony z wyniku egzaminu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "najbardziej"
+      },
+      {
+        "label": "B",
+        "text": "jak najbardziej"
+      },
+      {
+        "label": "C",
+        "text": "najzupełniej"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Elativus (абсолютная превосходная степень) выражает высшую степень качества БЕЗ сравнения с другими.\n\n🔑 Формула: najzupełniej / najpełniej / najdoskonalej + przymiotnik/przysłówek\n\n• A) \"najbardziej\" — требует сравнения или контекста \"ze wszystkich\"\n• B) \"jak najbardziej\" — означает \"конечно, безусловно\", не степень\n• D) \"bardziej\" — stopień wyższy, требует \"niż\"\n\nElativus часто используется с: najzupełniej, najpełniej, najdoskonalej, najświętiej.",
+    "explanationPl": "Elativus (absolutny stopień najwyższy) wyraża najwyższy stopień cechy BEZ porównania z innymi.\n\n🔑 Formuła: najzupełniej / najpełniej / najdoskonalej + przymiotnik/przysłówek\n\n• A) \"najbardziej\" — wymaga porównania lub kontekstu \"ze wszystkich\"\n• B) \"jak najbardziej\" — oznacza \"oczywiście, zdecydowanie\", nie stopień\n• D) \"bardziej\" — stopień wyższy, wymaga \"niż\"\n\nElativus często występuje z: najzupełniej, najpełniej, najdoskonalej, najświętszy.",
+    "topic": "Stopniowanie — absolutny stopień najwyższy (elativus)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_STOPNIOWANIE_002",
+    "source": "pdf",
+    "question": "Ta wersja programu jest _______ lepsza od poprzedniej.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dużo"
+      },
+      {
+        "label": "B",
+        "text": "znacznie"
+      },
+      {
+        "label": "C",
+        "text": "o wiele"
+      },
+      {
+        "label": "D",
+        "text": "wszystkie odpowiedzi są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Все три варианта (A, B, C) грамматически верны для усиления stopnia wyższego:\n\n🔑 Усилители stopnia wyższego:\n• dużo + lepszy/lepiej — разговорный стиль\n• znacznie + lepszy/lepiej — нейтральный/формальный стиль\n• o wiele + lepszy/lepiej — нейтральный стиль\n\nТакже возможны: zdecydowanie, nieporównanie, nieporównywalnie, nieskończenie.",
+    "explanationPl": "Wszystkie trzy warianty (A, B, C) są gramatycznie poprawne jako wzmocnienie stopnia wyższego:\n\n🔑 Wzmacniacze stopnia wyższego:\n• dużo + lepszy/lepiej — styl potoczny\n• znacznie + lepszy/lepiej — styl neutralny/formalny\n• o wiele + lepszy/lepiej — styl neutralny\n\nMożliwe też: zdecydowanie, nieporównanie, nieporównywalnie, nieskończenie.",
+    "topic": "Stopniowanie — stopień wyższy z przyimkiem \"o\" (o ile więcej/mniej)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_019",
+    "source": "pdf",
+    "question": "Nowy sklep jest _______ mojego domu niż stary.",
+    "options": [
+      {
+        "label": "A",
+        "text": "blisko"
+      },
+      {
+        "label": "B",
+        "text": "najbliżej"
+      },
+      {
+        "label": "C",
+        "text": "bliżej"
+      },
+      {
+        "label": "D",
+        "text": "bardziej blisko"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Наречие blisko имеет неправильные степени сравнения: blisko → bliżej → najbliżej.\n\n🔑 Конструкция: bliżej + dopełniacz (mojego domu) + niż\n\n• A) \"blisko\" — stopień równy, не подходит с \"niż\"\n• B) \"najbliżej\" — stopień najwyższy, но здесь сравнение двух объектов\n• D) \"bardziej blisko\" — не существует",
+    "explanationPl": "Przysłówek blisko stopniuje się nieregularnie: blisko → bliżej → najbliżej.\n\n🔑 Konstrukcja: bliżej + dopełniacz + niż\n\n• A) \"blisko\" — stopień równy, nie pasuje z \"niż\"\n• B) \"najbliżej\" — stopień najwyższy, ale tu porównanie dwóch obiektów\n• D) \"bardziej blisko\" — forma niepoprawna",
+    "topic": "Stopniowanie — nieregularne: blisko → bliżej → najbliżej",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_020",
+    "source": "pdf",
+    "question": "W tym roku zarobiłem _______ niż w zeszłym.",
+    "options": [
+      {
+        "label": "A",
+        "text": "mało"
+      },
+      {
+        "label": "B",
+        "text": "mniej"
+      },
+      {
+        "label": "C",
+        "text": "najmniej"
+      },
+      {
+        "label": "D",
+        "text": "bardziej mało"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Наречие mało имеет неправильные степени сравнения: mało → mniej → najmniej.\n\n🔑 Конструкция: mniej + niż (сравнение двух периодов)\n\n• A) \"mało\" — stopień równy, не подходит с \"niż\"\n• C) \"najmniej\" — stopień najwyższy, но здесь сравнение\n• D) \"bardziej mało\" — не существует",
+    "explanationPl": "Przysłówek mało stopniuje się nieregularnie: mało → mniej → najmniej.\n\n🔑 Konstrukcja: mniej + niż (porównanie dwóch okresów)\n\n• A) \"mało\" — stopień równy, nie pasuje z \"niż\"\n• C) \"najmniej\" — stopień najwyższy, ale tu porównanie\n• D) \"bardziej mało\" — forma niepoprawna",
+    "topic": "Stopniowanie — nieregularne: mało → mniej → najmniej",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_021",
+    "source": "pdf",
+    "question": "Ta walizka jest _______ od tamtej.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ciężka"
+      },
+      {
+        "label": "B",
+        "text": "cięższy"
+      },
+      {
+        "label": "C",
+        "text": "cięższa"
+      },
+      {
+        "label": "D",
+        "text": "najcięższa"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Прилагательное ciężki (м.р.) → cięższy (м.р.) / cięższa (ж.р.). \"Walizka\" — ж.р., поэтому нужна форма cięższa.\n\n🔑 Правило: согласование в роде: walizka (ж.р.) → cięższa\n\n• A) \"ciężka\" — stopień równy, не подходит с \"od\"\n• B) \"cięższy\" — м.р., не согласуется с \"walizka\"\n• D) \"najcięższa\" — stopień najwyższy, но здесь сравнение двух",
+    "explanationPl": "Przymiotnik ciężki (r.m.) → cięższy (r.m.) / cięższa (r.ż.). \"Walizka\" — r.ż., więc potrzebna forma cięższa.\n\n🔑 Zasada: zgodność w rodzaju: walizka (r.ż.) → cięższa\n\n• A) \"ciężka\" — stopień równy, nie pasuje z \"od\"\n• B) \"cięższy\" — r.m., nie zgadza się z \"walizka\"\n• D) \"najcięższa\" — stopień najwyższy, ale tu porównanie dwóch",
+    "topic": "Stopniowanie — regularne z alternacją: ciężki → cięższy",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_022",
+    "source": "pdf",
+    "question": "Benzyna jest teraz _______ niż rok temu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "droga"
+      },
+      {
+        "label": "B",
+        "text": "droższa"
+      },
+      {
+        "label": "C",
+        "text": "najdroższa"
+      },
+      {
+        "label": "D",
+        "text": "bardziej droga"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Прилагательное drogi степенируется регулярно с чередованием: drogi → droższy / droższa (ж.р.) → najdroższy.\n\n🔑 \"Benzyna\" — ж.р., поэтому droższa + niż\n\n• A) \"droga\" — stopień równy, не подходит с \"niż\"\n• C) \"najdroższa\" — stopień najwyższy, но здесь сравнение\n• D) \"bardziej droga\" — допустимо разговорно, но не стандартно для B1",
+    "explanationPl": "Przymiotnik drogi stopniuje się regularnie z alternacją: drogi → droższy / droższa (r.ż.) → najdroższy.\n\n🔑 \"Benzyna\" — r.ż., więc droższa + niż\n\n• A) \"droga\" — stopień równy, nie pasuje z \"niż\"\n• C) \"najdroższa\" — stopień najwyższy, ale tu porównanie\n• D) \"bardziej droga\" — dopuszczalne potocznie, ale niestandardowe",
+    "topic": "Stopniowanie — regularne z alternacją: drogi → droższy",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_023",
+    "source": "pdf",
+    "question": "Ta rzeka jest _______ od tamtej.",
+    "options": [
+      {
+        "label": "A",
+        "text": "szeroka"
+      },
+      {
+        "label": "B",
+        "text": "szerokszy"
+      },
+      {
+        "label": "C",
+        "text": "szersza"
+      },
+      {
+        "label": "D",
+        "text": "najszersza"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Прилагательное szeroki имеет неправильную форму stopnia wyższego: szeroki → szerszy / szersza (ж.р.), НЕ \"szerokszy\".\n\n🔑 \"Rzeka\" — ж.р., поэтому szersza + od\n\n• A) \"szeroka\" — stopień równy, не подходит с \"od\"\n• B) \"szerokszy\" — НЕ СУЩЕСТВУЕТ, ошибка\n• D) \"najszersza\" — stopień najwyższy, но здесь сравнение",
+    "explanationPl": "Przymiotnik szeroki ma nieregularną formę stopnia wyższego: szeroki → szerszy / szersza (r.ż.), NIE \"szerokszy\".\n\n🔑 \"Rzeka\" — r.ż., więc szersza + od\n\n• A) \"szeroka\" — stopień równy, nie pasuje z \"od\"\n• B) \"szerokszy\" — NIE ISTNIEJE, błąd\n• D) \"najszersza\" — stopień najwyższy, ale tu porównanie",
+    "topic": "Stopniowanie — nieregularne: szeroki → szerszy (nie \"szerokszy\")",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_024",
+    "source": "pdf",
+    "question": "Ten laptop jest _______ od mojego starego komputera.",
+    "options": [
+      {
+        "label": "A",
+        "text": "lekki"
+      },
+      {
+        "label": "B",
+        "text": "lekkszy"
+      },
+      {
+        "label": "C",
+        "text": "najlżejszy"
+      },
+      {
+        "label": "D",
+        "text": "lżejszy"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Прилагательное lekki имеет неправильную форму: lekki → lżejszy, НЕ \"lekkszy\".\n\n🔑 Конструкция: lżejszy + od + dopełniacz\n\n• A) \"lekki\" — stopień równy, не подходит с \"od\"\n• B) \"lekkszy\" — НЕ СУЩЕСТВУЕТ, ошибка\n• C) \"najlżejszy\" — stopień najwyższy, но здесь сравнение",
+    "explanationPl": "Przymiotnik lekki ma nieregularną formę: lekki → lżejszy, NIE \"lekkszy\".\n\n🔑 Konstrukcja: lżejszy + od + dopełniacz\n\n• A) \"lekki\" — stopień równy, nie pasuje z \"od\"\n• B) \"lekkszy\" — NIE ISTNIEJE, błąd\n• C) \"najlżejszy\" — stopień najwyższy, ale tu porównanie",
+    "topic": "Stopniowanie — nieregularne: lekki → lżejszy (nie \"lekkszy\")",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_025",
+    "source": "pdf",
+    "question": "Mój brat jest _______ wysoki jak ja.",
+    "options": [
+      {
+        "label": "A",
+        "text": "tak samo"
+      },
+      {
+        "label": "B",
+        "text": "bardziej"
+      },
+      {
+        "label": "C",
+        "text": "więcej"
+      },
+      {
+        "label": "D",
+        "text": "najbardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Конструкция tak samo + przymiotnik + jak выражает равенство (не сравнение).\n\n🔑 Формула: tak samo + przymiotnik + jak = такой же... как\n\n• B) \"bardziej\" — stopień wyższy, требует \"niż\", не \"jak\"\n• C) \"więcej\" — для илości, не для качества\n• D) \"najbardziej\" — stopień najwyższy, не подходит с \"jak\"",
+    "explanationPl": "Konstrukcja tak samo + przymiotnik + jak wyraża równość (nie porównanie).\n\n🔑 Formuła: tak samo + przymiotnik + jak = równie... jak\n\n• B) \"bardziej\" — stopień wyższy, wymaga \"niż\", nie \"jak\"\n• C) \"więcej\" — dla ilości, nie dla cechy\n• D) \"najbardziej\" — stopień najwyższy, nie pasuje z \"jak\"",
+    "topic": "Stopniowanie — tak samo... jak (równość, nie porównanie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_STOPNIOWANIE_026",
+    "source": "pdf",
+    "question": "Ta książka jest _______ interesująca niż tamta.",
+    "options": [
+      {
+        "label": "A",
+        "text": "mniej"
+      },
+      {
+        "label": "B",
+        "text": "więcej"
+      },
+      {
+        "label": "C",
+        "text": "najmniej"
+      },
+      {
+        "label": "D",
+        "text": "bardziej"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Конструкция mniej + przymiotnik выражает меньшую степень качества (stopień niższy).\n\n🔑 Формула: mniej + przymiotnik + niż = менее... чем\n\n• B) \"więcej\" — для илości, не для качества\n• C) \"najmniej\" — stopień najwyższy (najniższy), но здесь сравнение двух\n• D) \"bardziej\" — противоположное значение (больше, а не меньше)",
+    "explanationPl": "Konstrukcja mniej + przymiotnik wyraża niższy stopień cechy (stopień niższy).\n\n🔑 Formuła: mniej + przymiotnik + niż = mniej... niż\n\n• B) \"więcej\" — dla ilości, nie dla cechy\n• C) \"najmniej\" — stopień najwyższy (najniższy), ale tu porównanie dwóch\n• D) \"bardziej\" — przeciwne znaczenie (więcej, nie mniej)",
+    "topic": "Stopniowanie — mniej + przymiotnik (stopień niższy)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_STOPNIOWANIE_003",
+    "source": "pdf",
+    "question": "Która forma jest stylistycznie NAJBARDZIEJ formalna?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jest mądrzejszy niż brat."
+      },
+      {
+        "label": "B",
+        "text": "Jest mądrzejszy od brata."
+      },
+      {
+        "label": "C",
+        "text": "Jest bardziej mądry niż brat."
+      },
+      {
+        "label": "D",
+        "text": "Jest bardziej mądry od brata."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "В формальном польском языке конструкция stopień wyższy + od + dopełniacz считается более литературной и формальной, чем + niż + mianownik.\n\n🔑 Шкала формальности:\n1. od + dopełниacz — наиболее формально (B)\n2. niż + mianownik — нейтрально (A)\n3. bardziej + niż — менее стандартно для простых прилагательных (C, D)\n\n• A) Нейтральный стиль\n• C, D) \"Bardziej mądry\" — избыточно для простого прилагательного",
+    "explanationPl": "W formalnej polszczyźnie konstrukcja stopień wyższy + od + dopełniacz jest uważana za bardziej literacką i formalną niż + niż + mianownik.\n\n🔑 Skala formalności:\n1. od + dopełniacz — najbardziej formalnie (B)\n2. niż + mianownik — neutralnie (A)\n3. bardziej + niż — mniej standardowo dla prostych przymiotników (C, D)\n\n• A) Styl neutralny\n• C, D) \"Bardziej mądry\" — redundantne dla prostego przymiotnika",
+    "topic": "Stopniowanie — stopień wyższy z \"od\" vs \"niż\" (różnice stylistyczne)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_STOPNIOWANIE_004",
+    "source": "pdf",
+    "question": "Które zdanie jest NIEPOPRAWNE?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ta sukienka jest bardziej czerwona."
+      },
+      {
+        "label": "B",
+        "text": "Ten kształt jest bardziej okrągły."
+      },
+      {
+        "label": "C",
+        "text": "Ta odpowiedź jest bardziej poprawna."
+      },
+      {
+        "label": "D",
+        "text": "Ten metal jest bardziej żelazny."
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Некоторые прилагательные не степенируются (przymiotniki niestopniowalne), потому что обозначают абсолютные качества:\n\n🔑 Niestopniowalne: żelazny, drewniany, kamienny, martwy, żywy, pusty, pełny (в абсолютном значении), jedyny, główny.\n\n• A) \"bardziej czerwona\" — допустимо (оттенок цвета)\n• B) \"bardziej okrągły\" — допустимо (степень округлости)\n• C) \"bardziej poprawna\" — допустимо (степень правильности)\n• D) \"bardziej żelazny\" — НЕВОЗМОЖНО, \"żelazny\" = из железа (абсолютное качество)",
+    "explanationPl": "Niektóre przymiotniki nie stopniują się (przymiotniki niestopniowalne), bo oznaczają cechy absolutne:\n\n🔑 Niestopniowalne: żelazny, drewniany, kamienny, martwy, żywy, pusty, pełny (w znaczeniu absolutnym), jedyny, główny.\n\n• A) \"bardziej czerwona\" — dopuszczalne (odcień koloru)\n• B) \"bardziej okrągły\" — dopuszczalne (stopień okrągłości)\n• C) \"bardziej poprawna\" — dopuszczalne (stopień poprawności)\n• D) \"bardziej żelazny\" — NIEMOŻLIWE, \"żelazny\" = zrobiony z żelaza (cecha absolutna)",
+    "topic": "Stopniowanie — przymiotniki niestopniowalne (absolutne)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_001",
+    "source": "pdf",
+    "question": "_______ się boisz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kto"
+      },
+      {
+        "label": "B",
+        "text": "Czego"
+      },
+      {
+        "label": "C",
+        "text": "Co"
+      },
+      {
+        "label": "D",
+        "text": "Kogo"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Глагол bać się требует dopełniacza: bać się kogo/czego.\n\n🔑 Формула: bać się + dopełniacz (czego? kogo?)\n\nВ общем вопросе без указания на человека чаще используется czego (чего боишься?)\n\n• A) \"Kto\" — mianownik, не подходит после \"bać się\"\n• C) \"Co\" — biernik/mianownik, не подходит после \"bać się\"\n• D) \"Kogo\" — dopełniacz, но для людей; здесь общий вопрос",
+    "explanationPl": "Czasownik bać się wymaga dopełniacza: bać się kogo/czego.\n\n🔑 Formuła: bać się + dopełniacz (czego? kogo?)\n\nW ogólnym pytaniu bez wskazania osoby najczęściej używa się czego (czego się boisz?)\n\n• A) \"Kto\" — mianownik, nie pasuje po \"bać się\"\n• C) \"Co\" — biernik/mianownik, nie pasuje po \"bać się\"\n• D) \"Kogo\" — dopełniacz, ale dla osób; tu ogólne pytanie",
+    "topic": "Zaimki pytające — kogo vs czego (dopełniacz)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_002",
+    "source": "pdf",
+    "question": "_______ zawdzięczasz swój sukces?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Komu"
+      },
+      {
+        "label": "B",
+        "text": "Kto"
+      },
+      {
+        "label": "C",
+        "text": "Czemu"
+      },
+      {
+        "label": "D",
+        "text": "Co"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол zawdzięczać требует celownika: zawdzięczać komu/czemu.\n\n🔑 Формула: zawdzięczać coś + celownik (komu? czemu?)\n\nВопрос о человеке → komu (кому обязан?)\n\n• B) \"Kto\" — mianownik, не подходит\n• C) \"Czemu\" — celownik, но для вещей/причин, не людей\n• D) \"Co\" — biernik/mianownik, не подходит",
+    "explanationPl": "Czasownik zawdzięczać wymaga celownika: zawdzięczać komu/czemu.\n\n🔑 Formuła: zawdzięczać coś + celownik (komu? czemu?)\n\nPytanie o osobę → komu (komu zawdzięczasz?)\n\n• B) \"Kto\" — mianownik, nie pasuje\n• C) \"Czemu\" — celownik, ale dla rzeczy/przyczyn, nie osób\n• D) \"Co\" — biernik/mianownik, nie pasuje",
+    "topic": "Zaimki pytające — komu vs czemu (celownik)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_003",
+    "source": "pdf",
+    "question": "_______ rozmawiałeś przez telefon?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Z kim"
+      },
+      {
+        "label": "B",
+        "text": "Z czym"
+      },
+      {
+        "label": "C",
+        "text": "Kogo"
+      },
+      {
+        "label": "D",
+        "text": "O czym"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол rozmawiać требует narzędnika с предлогом \"z\": rozmawiać z kim/z czym.\n\n🔑 Формула: rozmawiać z + narzędnik (z kim? z czym?)\n\nРазговор по телефону — с человеком → z kim\n\n• B) \"Z czym\" — narzędnik, но для вещей\n• C) \"Kogo\" — dopełniacz/biernik без предлога\n• D) \"O czym\" — miejscownik, \"rozmawiać o czymś\" = о чём, не с кем",
+    "explanationPl": "Czasownik rozmawiać wymaga narzędnika z przyimkiem \"z\": rozmawiać z kim/z czym.\n\n🔑 Formuła: rozmawiać z + narzędnik (z kim? z czym?)\n\nRozmowa przez telefon — z osobą → z kim\n\n• B) \"Z czym\" — narzędnik, ale dla rzeczy\n• C) \"Kogo\" — dopełniacz/biernik bez przyimka\n• D) \"O czym\" — miejscownik, \"rozmawiać o czymś\" = o czym, nie z kim",
+    "topic": "Zaimki pytające — z kim vs z czym (narzędnik)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_004",
+    "source": "pdf",
+    "question": "_______ myślisz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Co"
+      },
+      {
+        "label": "B",
+        "text": "O kim"
+      },
+      {
+        "label": "C",
+        "text": "Kogo"
+      },
+      {
+        "label": "D",
+        "text": "O czym"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Глагол myśleć требует miejscownika с предлогом \"o\": myśleć o kim/o czym.\n\n🔑 Формула: myśleć o + miejscownik (o kim? o czym?)\n\nОбщий вопрос без указания на человека → o czym (о чём думаешь?)\n\n• A) \"Co\" — biernik/mianownik без предлога\n• B) \"O kim\" — miejscownik, но для людей\n• C) \"Kogo\" — dopełniacz/biernik без предлога",
+    "explanationPl": "Czasownik myśleć wymaga miejscownika z przyimkiem \"o\": myśleć o kim/o czym.\n\n🔑 Formuła: myśleć o + miejscownik (o kim? o czym?)\n\nOgólne pytanie bez wskazania na osobę → o czym (o czym myślisz?)\n\n• A) \"Co\" — biernik/mianownik bez przyimka\n• B) \"O kim\" — miejscownik, ale dla osób\n• C) \"Kogo\" — dopełniacz/biernik bez przyimka",
+    "topic": "Zaimki pytające — o kim vs o czym (miejscownik)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_005",
+    "source": "pdf",
+    "question": "_______ to jest samochód? — To jest Volkswagen.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Który"
+      },
+      {
+        "label": "B",
+        "text": "Co za"
+      },
+      {
+        "label": "C",
+        "text": "Jaki"
+      },
+      {
+        "label": "D",
+        "text": "Jakiego"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Jaki спрашивает о качестве/типе/марке (какой?).\nKtóry спрашивает о выборе из известного множества (который из?).\nCo za — разговорное \"что за\".\n\n🔑 Вопрос о марке/типе → Jaki (Jaki to samochód? — Volkswagen)\n\n• A) \"Który\" — требует контекста выбора (Który z tych samochodów?)\n• B) \"Co za\" — используется в восклицательных предложениях (Co za samochód!), не в вопросах\n• D) \"Jakiego\" — dopełniacz, не подходит к \"to jest\"",
+    "explanationPl": "Jaki pyta o cechę/typ/markę (jaki?).\nKtóry pyta o wybór ze znanego zbioru (który z?).\nCo za — potoczne \"co za\".\n\n🔑 Pytanie o markę/typ → Jaki (Jaki to samochód? — Volkswagen)\n\n• A) \"Który\" — wymaga kontekstu wyboru (Który z tych samochodów?)\n• B) \"Co za\" — używane głównie w zdaniach wykrzyknikowych (Co za samochód!), nie w pytaniach\n• D) \"Jakiego\" — dopełniacz, nie pasuje do \"to jest\"",
+    "topic": "Zaimki pytające — jaki vs który vs co za (wybór)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_006",
+    "source": "pdf",
+    "question": "_______ to jest torebka?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kogo"
+      },
+      {
+        "label": "B",
+        "text": "Która"
+      },
+      {
+        "label": "C",
+        "text": "Jaka"
+      },
+      {
+        "label": "D",
+        "text": "Czyja"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Czyj/czyja/czyje спрашивает о принадлежности (чей/чья/чьё).\nKogo — dopełniacz от \"kto\", не используется для принадлежности.\n\n🔑 Вопрос о принадлежности: Czyja (ж.р., согласуется с \"torebka\")\n\n• A) \"Kogo\" — dopełniacz, не для принадлежности\n• B) \"Która\" — выбор из множества, не принадлежность\n• C) \"Jaka\" — качество/тип, не принадлежность",
+    "explanationPl": "Czyj/czyja/czyje pyta o przynależność (czyj/czyja/czyje).\nKogo — dopełniacz od \"kto\", nie używa się dla przynależności.\n\n🔑 Pytanie o przynależność: Czyja (r.ż., zgadza się z \"torebka\")\n\n• A) \"Kogo\" — dopełniacz, nie dla przynależności\n• B) \"Która\" — wybór ze zbioru, nie przynależność\n• C) \"Jaka\" — cecha/typ, nie przynależność",
+    "topic": "Zaimki pytające — czyj vs kogo (przynależność)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_007",
+    "source": "pdf",
+    "question": "_______ studentów zdało egzamin?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ile"
+      },
+      {
+        "label": "B",
+        "text": "Który"
+      },
+      {
+        "label": "C",
+        "text": "Ilu"
+      },
+      {
+        "label": "D",
+        "text": "Ile z"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Ile — для niemęskoosobowych (ile książek, ile kobiet).\nIlu — для męskoosobowych (ilu studentów, ilu mężczyzn).\n\n🔑 \"Studentów\" — męskoosobowe → Ilu studentów?\n\n• A) \"Ile\" — для niemęskoosobowych\n• B) \"Który\" — выбор, не количество\n• D) \"Ile z\" — неполная конструкция",
+    "explanationPl": "Ile — dla niemęskoosobowych (ile książek, ile kobiet).\nIlu — dla męskoosobowych (ilu studentów, ilu mężczyzn).\n\n🔑 \"Studentów\" — męskoosobowe → Ilu studentów?\n\n• A) \"Ile\" — dla niemęskoosobowych\n• B) \"Który\" — wybór, nie ilość\n• D) \"Ile z\" — niepełna konstrukcja",
+    "topic": "Zaimki pytające — ile vs ilu (liczebniki pytające)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_008",
+    "source": "pdf",
+    "question": "_______ jedziesz na wakacje?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gdzie"
+      },
+      {
+        "label": "B",
+        "text": "Dokąd"
+      },
+      {
+        "label": "C",
+        "text": "Skąd"
+      },
+      {
+        "label": "D",
+        "text": "Którędy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Gdzie — место (где?).\nDokąd — направление движения (куда?).\nSkąd — источник движения (откуда?).\n\n🔑 Глагол jechać + направление → Dokąd (куда едешь?)\n\n• A) \"Gdzie\" — место, не направление\n• C) \"Skąd\" — откуда, противоположное направление\n• D) \"Którędy\" — каким путём, не конечная точка",
+    "explanationPl": "Gdzie — miejsce (gdzie?).\nDokąd — kierunek ruchu (dokąd?).\nSkąd — źródło ruchu (skąd?).\n\n🔑 Czasownik jechać + kierunek → Dokąd (dokąd jedziesz?)\n\n• A) \"Gdzie\" — miejsce, nie kierunek\n• C) \"Skąd\" — skąd, przeciwny kierunek\n• D) \"Którędy\" — jaką drogą, nie punkt docelowy",
+    "topic": "Zaimki pytające — dokąd vs gdzie vs skąd (kierunek)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_ZAIMKI_PYT_001",
+    "source": "pdf",
+    "question": "Nie wiem, _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "co on chce"
+      },
+      {
+        "label": "B",
+        "text": "co chce on"
+      },
+      {
+        "label": "C",
+        "text": "on co chce"
+      },
+      {
+        "label": "D",
+        "text": "chce co on"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В pytaniach zależnych (косвенных вопросах) порядок слов — как в утвердительном предложении: zaimek pytający + podmiot + orzeczenie.\n\n🔑 Формула: Nie wiem, co + on + chce (не \"co chce on\")\n\n• B) \"co chce on\" — инверсия, как в прямом вопросе (неправильно)\n• C) \"on co chce\" — неправильный порядок\n• D) \"chce co on\" — неправильный порядок",
+    "explanationPl": "W pytaniach zależnych szyk zdania jest jak w zdaniu oznajmującym: zaimek pytający + podmiot + orzeczenie.\n\n🔑 Formuła: Nie wiem, co + on + chce (nie \"co chce on\")\n\n• B) \"co chce on\" — inwersja jak w pytaniu bezpośrednim (niepoprawnie)\n• C) \"on co chce\" — niepoprawny szyk\n• D) \"chce co on\" — niepoprawny szyk",
+    "topic": "Zaimki pytające — pytania zależne (szyk zdania)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_ZAIMKI_PYT_002",
+    "source": "pdf",
+    "question": "Zrobię _______, co będzie potrzebne, żeby ci pomóc.",
+    "options": [
+      {
+        "label": "A",
+        "text": "cokolwiek"
+      },
+      {
+        "label": "B",
+        "text": "ktokolwiek"
+      },
+      {
+        "label": "C",
+        "text": "coś"
+      },
+      {
+        "label": "D",
+        "text": "wszystko"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Wszystko, co będzie potrzebne — устойчивая конструкция, означающая \"всё, что понадобится\".\n\n🔑 Формула: wszystko, co... (полнота действий)\n\n• A) \"cokolwiek\" — не сочетается с \"co będzie potrzebne\" (избыточно)\n• B) \"ktokolwiek\" — для людей, не для действий\n• C) \"coś\" — что-то неопределённое, слишком слабо для этого контекста",
+    "explanationPl": "Wszystko, co będzie potrzebne — stała konstrukcja oznaczająca \"wszystko, co się przyda\".\n\n🔑 Formuła: wszystko, co... (pełnia działań)\n\n• A) \"cokolwiek\" — nie łączy się z \"co będzie potrzebne\" (redundancja)\n• B) \"ktokolwiek\" — dla osób, nie dla działań\n• C) \"coś\" — coś nieokreślonego, zbyt słabe dla tego kontekstu",
+    "topic": "Zaimki pytające — cokolwiek vs ktokolwiek vs jakikolwiek",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_009",
+    "source": "pdf",
+    "question": "_______ głosujesz w wyborach?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kogo"
+      },
+      {
+        "label": "B",
+        "text": "Za kogo"
+      },
+      {
+        "label": "C",
+        "text": "O kogo"
+      },
+      {
+        "label": "D",
+        "text": "Na kogo"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Глагол głosować требует конструкции na + biernik: głosować na kogo/na co.\n\n🔑 Формула: głosować na + biernik (на кого голосуешь?)\n\n• A) \"Kogo\" — biernik без предлога, не подходит\n• B) \"Za kogo\" — другое значение (вместо кого)\n• C) \"O kogo\" — неправильный предлог",
+    "explanationPl": "Czasownik głosować wymaga konstrukcji na + biernik: głosować na kogo/na co.\n\n🔑 Formuła: głosować na + biernik (na kogo głosujesz?)\n\n• A) \"Kogo\" — biernik bez przyimka, nie pasuje\n• B) \"Za kogo\" — inne znaczenie (w zastępstwie)\n• C) \"O kogo\" — niepoprawny przyimek",
+    "topic": "Zaimki pytające — na kogo vs za kogo (biernik z przyimkiem)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_010",
+    "source": "pdf",
+    "question": "_______ uczysz się polskiego?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kiedy"
+      },
+      {
+        "label": "B",
+        "text": "Od kiedy"
+      },
+      {
+        "label": "C",
+        "text": "Do kiedy"
+      },
+      {
+        "label": "D",
+        "text": "Jak długo"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Od kiedy — с какого момента (начало действия).\nDo kiedy — до какого момента (конец действия).\nJak długo — как долго (продолжительность).\n\n🔑 Вопрос о начале продолжающегося действия → Od kiedy (с каких пор?)\n\n• A) \"Kiedy\" — когда (точный момент), не период\n• C) \"Do kiedy\" — до какого момента, не начало\n• D) \"Jak długo\" — продолжительность, но без указания начала",
+    "explanationPl": "Od kiedy — od jakiego momentu (początek działania).\nDo kiedy — do jakiego momentu (koniec działania).\nJak długo — jak długo (czas trwania).\n\n🔑 Pytanie o początek trwającego działania → Od kiedy (od kiedy?)\n\n• A) \"Kiedy\" — kiedy (konkretny moment), nie okres\n• C) \"Do kiedy\" — do jakiego momentu, nie początek\n• D) \"Jak długo\" — czas trwania, ale bez wskazania początku",
+    "topic": "Zaimki pytające — od kiedy vs do kiedy vs jak długo",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_011",
+    "source": "pdf",
+    "question": "_______ kupiłeś tyle jedzenia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Po co"
+      },
+      {
+        "label": "B",
+        "text": "Dlaczego"
+      },
+      {
+        "label": "C",
+        "text": "Na co"
+      },
+      {
+        "label": "D",
+        "text": "Czemu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Po co — зачем, для какой цели (cel).\nDlaczego/Czemu — почему, по какой причине (przyczyna).\n\n🔑 Вопрос о цели покупки → Po co (зачем купил?)\n\n• B) \"Dlaczego\" — причина, не цель\n• C) \"Na co\" — на что (другое значение)\n• D) \"Czemu\" — почему (= dlaczego), причина",
+    "explanationPl": "Po co — po co, w jakim celu (cel).\nDlaczego/Czemu — dlaczego, z jakiej przyczyny (przyczyna).\n\n🔑 Pytanie o cel zakupu → Po co (po co kupiłeś?)\n\n• B) \"Dlaczego\" — przyczyna, nie cel\n• C) \"Na co\" — na co (inne znaczenie)\n• D) \"Czemu\" — dlaczego (= dlaczego), przyczyna",
+    "topic": "Zaimki pytające — po co vs dlaczego vs na co (cel)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_012",
+    "source": "pdf",
+    "question": "_______ przyjechałeś do pracy?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Z czym"
+      },
+      {
+        "label": "B",
+        "text": "Na czym"
+      },
+      {
+        "label": "C",
+        "text": "Czym"
+      },
+      {
+        "label": "D",
+        "text": "W czym"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Czym (narzędnik без предлога) — каким средством передвижения.\n\n🔑 Формула: jechać/przyjechać + czym (чем приехал? — autobusem, samochodem)\n\n• A) \"Z czym\" — с чем (сопровождение)\n• B) \"Na czym\" — на чём (поверхность)\n• D) \"W czym\" — в чём (внутри)",
+    "explanationPl": "Czym (narzędnik bez przyimka) — jakim środkiem transportu.\n\n🔑 Formuła: jechać/przyjechać + czym (czym przyjechałeś? — autobusem, samochodem)\n\n• A) \"Z czym\" — z czym (towarzyszenie)\n• B) \"Na czym\" — na czym (powierzchnia)\n• D) \"W czym\" — w czym (wewnątrz)",
+    "topic": "Zaimki pytające — czym vs z czym vs na czym (narzędnik)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_013",
+    "source": "pdf",
+    "question": "_______ koloru jest twój nowy samochód?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jaki"
+      },
+      {
+        "label": "B",
+        "text": "Który"
+      },
+      {
+        "label": "C",
+        "text": "Jakiego"
+      },
+      {
+        "label": "D",
+        "text": "Którego"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Конструкция być + dopełniacz (jakiego koloru?) требует dopełniacza.\n\n🔑 Формула: Jakiego + rzeczownik w dopełniaczu + jest...?\n\n• A) \"Jaki\" — mianownik, не подходит\n• B) \"Który\" — выбор из множества, не качество\n• D) \"Którego\" — dopełniacz, но для выбора, не качества",
+    "explanationPl": "Konstrukcja być + dopełniacz (jakiego koloru?) wymaga dopełniacza.\n\n🔑 Formuła: Jakiego + rzeczownik w dopełniaczu + jest...?\n\n• A) \"Jaki\" — mianownik, nie pasuje\n• B) \"Który\" — wybór ze zbioru, nie cecha\n• D) \"Którego\" — dopełniacz, ale dla wyboru, nie cechy",
+    "topic": "Zaimki pytające — jakiego vs którego (dopełniacz)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_014",
+    "source": "pdf",
+    "question": "_______ samochodem przyjechałeś?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Czyj"
+      },
+      {
+        "label": "B",
+        "text": "Czyim"
+      },
+      {
+        "label": "C",
+        "text": "Czyjego"
+      },
+      {
+        "label": "D",
+        "text": "Czyją"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Czyj склоняется как прилагательное. \"Samochodem\" — narzędnik м.р., поэтому нужен czyim.\n\n🔑 Склонение: czyj (mian.) → czyjego (dop.) → czyjemu (cel.) → czyim (narz.)\n\n• A) \"Czyj\" — mianownik\n• C) \"Czyjego\" — dopełniacz\n• D) \"Czyją\" — biernik/narzędnik ж.р.",
+    "explanationPl": "Czyj odmienia się jak przymiotnik. \"Samochodem\" — narzędnik r.m., więc potrzebny czyim.\n\n🔑 Odmiana: czyj (mian.) → czyjego (dop.) → czyjemu (cel.) → czyim (narz.)\n\n• A) \"Czyj\" — mianownik\n• C) \"Czyjego\" — dopełniacz\n• D) \"Czyją\" — biernik/narzędnik r.ż.",
+    "topic": "Zaimki pytające — czyim vs czyją vs czyjego (odmiana)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_015",
+    "source": "pdf",
+    "question": "_______ języku mówisz w domu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jaki"
+      },
+      {
+        "label": "B",
+        "text": "W jakim"
+      },
+      {
+        "label": "C",
+        "text": "Na jakim"
+      },
+      {
+        "label": "D",
+        "text": "Jakiego"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Конструкция mówić w + miejscownik: mówić w jakim języku.\n\n🔑 Формула: mówić w + miejscownik (в каком языке = на каком языке)\n\n• A) \"Jaki\" — mianownik, не подходит\n• C) \"Na jakim\" — неправильный предлог для \"język\"\n• D) \"Jakiego\" — dopełniacz",
+    "explanationPl": "Konstrukcja mówić w + miejscownik: mówić w jakim języku.\n\n🔑 Formuła: mówić w + miejscownik (w jakim języku)\n\n• A) \"Jaki\" — mianownik, nie pasuje\n• C) \"Na jakim\" — niepoprawny przyimek dla \"język\"\n• D) \"Jakiego\" — dopełniacz",
+    "topic": "Zaimki pytające — w jakim vs na jakim (miejscownik)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_016",
+    "source": "pdf",
+    "question": "_______ kupujesz ten prezent?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Komu"
+      },
+      {
+        "label": "B",
+        "text": "Kogo"
+      },
+      {
+        "label": "C",
+        "text": "Do kogo"
+      },
+      {
+        "label": "D",
+        "text": "Dla kogo"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Kupować dla + dopełniacz — покупать для кого-то.\n\n🔑 В экзаменационной норме предпочитается: kupować coś dla kogo (для кого покупаешь?)\n\n• A) \"Komu\" — celownik, разговорный вариант, не стандартный\n• B) \"Kogo\" — biernik, не подходит\n• C) \"Do kogo\" — направление, не получатель",
+    "explanationPl": "Kupować dla + dopełniacz — kupować dla kogoś.\n\n🔑 W normie egzaminacyjnej preferuje się: kupować coś dla kogo (dla kogo kupujesz?)\n\n• A) \"Komu\" — celownik, wariant potoczny, niestandardowy\n• B) \"Kogo\" — biernik, nie pasuje\n• C) \"Do kogo\" — kierunek, nie odbiorca",
+    "topic": "Zaimki pytające — dla kogo vs komu (cel vs odbiorca)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_ZAIMKI_PYT_003",
+    "source": "pdf",
+    "question": "Która forma jest bardziej typowa dla języka mówionego?\n\"Nie rozumiem, _______ się tak denerwujesz.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "co"
+      },
+      {
+        "label": "B",
+        "text": "czego"
+      },
+      {
+        "label": "C",
+        "text": "czemu"
+      },
+      {
+        "label": "D",
+        "text": "dlaczego"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Czemu — разговорный синоним \"dlaczego\", типичный для устной речи.\nDlaczego — нейтральный/формальный вариант.\n\n🔑 Вопрос о регистре: разговорный → czemu\n\n• A) \"co\" — что (объект), не причина\n• B) \"czego\" — dopełniacz, не подходит для вопроса о причине\n• D) \"dlaczego\" — грамматически верно, но более формально",
+    "explanationPl": "Czemu — potoczny synonim \"dlaczego\", typowy dla języka mówionego.\nDlaczego — wariant neutralny/formalny.\n\n🔑 Pytanie o rejestr: język mówiony → czemu\n\n• A) \"co\" — co (obiekt), nie przyczyna\n• B) \"czego\" — dopełniacz, nie pasuje do pytania o przyczynę\n• D) \"dlaczego\" — gramatycznie poprawne, ale bardziej formalne",
+    "topic": "Zaimki pytające — czemu vs dlaczego (rejestr językowy)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_ZAIMKI_PYT_004",
+    "source": "pdf",
+    "question": "Jeśli _______ z biura zadzwoni, powiedz, że wracam za godzinę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ktoś"
+      },
+      {
+        "label": "B",
+        "text": "ktokolwiek"
+      },
+      {
+        "label": "C",
+        "text": "każdy"
+      },
+      {
+        "label": "D",
+        "text": "nikt"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Ktoś z biura — кто-то из офиса (конкретная, хотя и неизвестная особа из определённого круга).\n\n🔑 Формула: ktoś z + dopełniacz (кто-то из...)\n\n• B) \"ktokolwiek\" — не сочетается с \"z biura\" (ограниченный круг ≠ любой)\n• C) \"każdy\" — каждый (все по отдельности), не подходит семантически\n• D) \"nikt\" — никто (отрицание)",
+    "explanationPl": "Ktoś z biura — ktoś z biura (konkretna, choć nieznana osoba z określonego kręgu).\n\n🔑 Formuła: ktoś z + dopełniacz (ktoś z...)\n\n• B) \"ktokolwiek\" — nie łączy się z \"z biura\" (ograniczony krąg ≠ dowolny)\n• C) \"każdy\" — każdy (wszyscy z osobna), nie pasuje semantycznie\n• D) \"nikt\" — nikt (negacja)",
+    "topic": "Zaimki pytające — zaimki nieokreślone (ktoś vs ktokolwiek)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_017",
+    "source": "pdf",
+    "question": "_______ uciekasz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Od kogo"
+      },
+      {
+        "label": "B",
+        "text": "Z kim"
+      },
+      {
+        "label": "C",
+        "text": "Za kim"
+      },
+      {
+        "label": "D",
+        "text": "Przed kim"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Глагол uciekać требует конструкции przed + narzędnik: uciekać przed kim/przed czym.\n\n🔑 Формула: uciekać przed + narzędnik (от кого/чего убегаешь?)\n\n• A) \"Od kogo\" — dopełniacz, другая конструкция с иным оттенком значения (отдаление, а не избегание)\n• B) \"Z kim\" — с кем, не от кого\n• C) \"Za kim\" — за кем (преследование)",
+    "explanationPl": "Czasownik uciekać wymaga konstrukcji przed + narzędnik: uciekać przed kim/przed czym.\n\n🔑 Formuła: uciekać przed + narzędnik (przed kim/czym uciekasz?)\n\n• A) \"Od kogo\" — dopełniacz, inna konstrukcja o innym odcieniu znaczeniowym (oddalenie, nie unikanie)\n• B) \"Z kim\" — z kim, nie od kogo\n• C) \"Za kim\" — za kim (pościg)",
+    "topic": "Zaimki pytające — przed kim vs przed czym (narzędnik z przyimkiem)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_018",
+    "source": "pdf",
+    "question": "_______ byłeś wczoraj wieczorem?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Do kogo"
+      },
+      {
+        "label": "B",
+        "text": "U kogo"
+      },
+      {
+        "label": "C",
+        "text": "Z kim"
+      },
+      {
+        "label": "D",
+        "text": "Kogo"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "U kogo — у кого (место, где находился).\nDo kogo — к кому (направление движения).\n\n🔑 Глагол być + место → u kogo (у кого был?)\n\n• A) \"Do kogo\" — направление, не место\n• C) \"Z kim\" — с кем (сопровождение)\n• D) \"Kogo\" — biernik/dopełniacz без предлога",
+    "explanationPl": "U kogo — u kogo (miejsce, gdzie przebywał).\nDo kogo — do kogo (kierunek ruchu).\n\n🔑 Czasownik być + miejsce → u kogo (u kogo byłeś?)\n\n• A) \"Do kogo\" — kierunek, nie miejsce\n• C) \"Z kim\" — z kim (towarzyszenie)\n• D) \"Kogo\" — biernik/dopełniacz bez przyimka",
+    "topic": "Zaimki pytające — u kogo vs do kogo (miejscownik vs kierunek)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_019",
+    "source": "pdf",
+    "question": "_______ odziedziczyłeś ten zegarek?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Od kogo"
+      },
+      {
+        "label": "B",
+        "text": "Z kim"
+      },
+      {
+        "label": "C",
+        "text": "Po kim"
+      },
+      {
+        "label": "D",
+        "text": "Dla kogo"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Глагол odziedziczyć требует конструкции po + miejscownik: odziedziczyć po kim.\n\n🔑 Формула: odziedziczyć coś po + miejscownik (после кого унаследовал?)\n\n• A) \"Od kogo\" — от кого (получить), но не наследство\n• B) \"Z kim\" — с кем\n• D) \"Dla kogo\" — для кого",
+    "explanationPl": "Czasownik odziedziczyć wymaga konstrukcji po + miejscownik: odziedziczyć po kim.\n\n🔑 Formuła: odziedziczyć coś po + miejscownik (po kim odziedziczyłeś?)\n\n• A) \"Od kogo\" — od kogo (otrzymać), ale nie dziedzictwo\n• B) \"Z kim\" — z kim\n• D) \"Dla kogo\" — dla kogo",
+    "topic": "Zaimki pytające — po kim vs po czym (miejscownik z \"po\")",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_020",
+    "source": "pdf",
+    "question": "_______ musisz wybierać?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Między kim"
+      },
+      {
+        "label": "B",
+        "text": "Z kim"
+      },
+      {
+        "label": "C",
+        "text": "Od kogo"
+      },
+      {
+        "label": "D",
+        "text": "Kogo"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Глагол wybierać требует конструкции między + narzędnik: wybierać między kim/między czym.\n\n🔑 Формула: wybierać między + narzędnik (между кем/чем выбираешь?)\n\n• B) \"Z kim\" — с кем (сопровождение)\n• C) \"Od kogo\" — от кого\n• D) \"Kogo\" — biernik, прямой объект",
+    "explanationPl": "Czasownik wybierać wymaga konstrukcji między + narzędnik: wybierać między kim/między czym.\n\n🔑 Formuła: wybierać między + narzędnik (między kim/czym wybierasz?)\n\n• B) \"Z kim\" — z kim (towarzyszenie)\n• C) \"Od kogo\" — od kogo\n• D) \"Kogo\" — biernik, dopełnienie bliższe",
+    "topic": "Zaimki pytające — między kim vs między czym (narzędnik z \"między\")",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_021",
+    "source": "pdf",
+    "question": "_______ oceniasz swoje szanse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ile"
+      },
+      {
+        "label": "B",
+        "text": "Jak"
+      },
+      {
+        "label": "C",
+        "text": "Na ile"
+      },
+      {
+        "label": "D",
+        "text": "Jakie"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Конструкция oceniać na + biernik — оценивать на сколько (по шкале).\n\n🔑 Формула: oceniać coś na ile (на сколько оцениваешь?)\n\n• A) \"Ile\" — сколько (количество)\n• B) \"Jak\" — как (способ)\n• D) \"Jakie\" — какие (качество)",
+    "explanationPl": "Konstrukcja oceniać na + biernik — oceniać na ile (w skali).\n\n🔑 Formuła: oceniać coś na ile (na ile oceniasz?)\n\n• A) \"Ile\" — ile (ilość)\n• B) \"Jak\" — jak (sposób)\n• D) \"Jakie\" — jakie (cecha)",
+    "topic": "Zaimki pytające — na ile vs ile (ocena)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_022",
+    "source": "pdf",
+    "question": "_______ godzinie zaczyna się film?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kiedy"
+      },
+      {
+        "label": "B",
+        "text": "Która"
+      },
+      {
+        "label": "C",
+        "text": "Jakiej"
+      },
+      {
+        "label": "D",
+        "text": "O której"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Конструкция o + miejscownik для указания точного времени: o której godzinie.\n\n🔑 Формула: O której (godzinie)...? (в котором часу?)\n\n• A) \"Kiedy\" — когда (общий вопрос о времени)\n• B) \"Która\" — которая (mianownik)\n• C) \"Jakiej\" — какой (dopełniacz)",
+    "explanationPl": "Konstrukcja o + miejscownik dla wskazania dokładnego czasu: o której godzinie.\n\n🔑 Formuła: O której (godzinie)...? (o której godzinie?)\n\n• A) \"Kiedy\" — kiedy (ogólne pytanie o czas)\n• B) \"Która\" — która (mianownik)\n• C) \"Jakiej\" — jakiej (dopełniacz)",
+    "topic": "Zaimki pytające — o której vs kiedy (czas)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_023",
+    "source": "pdf",
+    "question": "_______ kupiłeś ten telefon?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ile"
+      },
+      {
+        "label": "B",
+        "text": "Za ile"
+      },
+      {
+        "label": "C",
+        "text": "Na ile"
+      },
+      {
+        "label": "D",
+        "text": "Po ile"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Конструкция kupić za + biernik — купить за сколько (цена).\n\n🔑 Формула: kupić coś za ile (за сколько купил?)\n\n• A) \"Ile\" — сколько (количество)\n• C) \"Na ile\" — на сколько (оценка)\n• D) \"Po ile\" — по сколько (цена за единицу)",
+    "explanationPl": "Konstrukcja kupić za + biernik — kupić za ile (cena).\n\n🔑 Formuła: kupić coś za ile (za ile kupiłeś?)\n\n• A) \"Ile\" — ile (ilość)\n• C) \"Na ile\" — na ile (ocena)\n• D) \"Po ile\" — po ile (cena za sztukę)",
+    "topic": "Zaimki pytające — za ile vs ile (cena)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZAIMKI_PYT_024",
+    "source": "pdf",
+    "question": "_______ domu mieszkasz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Czyj"
+      },
+      {
+        "label": "B",
+        "text": "Czyjego"
+      },
+      {
+        "label": "C",
+        "text": "W czyim"
+      },
+      {
+        "label": "D",
+        "text": "Czyim"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Конструкция mieszkać w + miejscownik: mieszkać w czyim domu.\n\n🔑 Формула: mieszkać w + miejscownik (w czyim domu?)\n\n• A) \"Czyj\" — mianownik\n• B) \"Czyjego\" — dopełniacz\n• D) \"Czyim\" — narzędnik без предлога",
+    "explanationPl": "Konstrukcja mieszkać w + miejscownik: mieszkać w czyim domu.\n\n🔑 Formuła: mieszkać w + miejscownik (w czyim domu?)\n\n• A) \"Czyj\" — mianownik\n• B) \"Czyjego\" — dopełniacz\n• D) \"Czyim\" — narzędnik bez przyimka",
+    "topic": "Zaimki pytające — w czyim vs czyim (miejscownik)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_ZAIMKI_PYT_005",
+    "source": "pdf",
+    "question": "To jest człowiek, _______ zawdzięczam wszystko.",
+    "options": [
+      {
+        "label": "A",
+        "text": "który"
+      },
+      {
+        "label": "B",
+        "text": "któremu"
+      },
+      {
+        "label": "C",
+        "text": "którego"
+      },
+      {
+        "label": "D",
+        "text": "z którym"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "В придаточном предложении zawdzięczać требует celownika: zawdzięczać komu.\n\n🔑 Формула: zawdzięczać coś + celownik → zaimek względny któremu\n\n• A) \"który\" — mianownik\n• C) \"którego\" — dopełniacz/biernik\n• D) \"z którym\" — narzędnik с предлогом",
+    "explanationPl": "W zdaniu podrzędnym zawdzięczać wymaga celownika: zawdzięczać komu.\n\n🔑 Formuła: zawdzięczać coś + celownik → zaimek względny któremu\n\n• A) \"który\" — mianownik\n• C) \"którego\" — dopełniacz/biernik\n• D) \"z którym\" — narzędnik z przyimkiem",
+    "topic": "Zaimki pytające — zaimki względne w zdaniach złożonych",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_ZAIMKI_PYT_006",
+    "source": "pdf",
+    "question": "Która forma oznacza osobę konkretną, choć nieznaną?\n\"Szukam _______, kto mógłby mi pomóc.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "kogoś"
+      },
+      {
+        "label": "B",
+        "text": "kogokolwiek"
+      },
+      {
+        "label": "C",
+        "text": "nikogo"
+      },
+      {
+        "label": "D",
+        "text": "każdego"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Kogoś — кого-то конкретного, хотя и неизвестного.\nKogokolwiek — кого угодно, любого без исключения.\n\n🔑 Вопрос о конкретности: конкретный, но неизвестный → kogoś\n\n• B) \"kogokolwiek\" — означает \"любого\", не \"конкретного\"\n• C) \"nikogo\" — никого (отрицание)\n• D) \"każdego\" — каждого (всех по отдельности)",
+    "explanationPl": "Kogoś — kogoś konkretnego, choć nieznanego.\nKogokolwiek — kogokolwiek, dowolnego bez wyjątku.\n\n🔑 Pytanie o konkretność: konkretny, ale nieznany → kogoś\n\n• B) \"kogokolwiek\" — oznacza \"dowolnego\", nie \"konkretnego\"\n• C) \"nikogo\" — nikogo (negacja)\n• D) \"każdego\" — każdego (wszyscy z osobna)",
+    "topic": "Zaimki pytające — zaimki nieokreślone z \"-ś\" vs \"-kolwiek\"",
+    "difficulty": "very high"
   }
 ]
