@@ -19,7 +19,7 @@ async function sendNextTask(ctx, user) {
       await ctx.reply(messages.topicCompleted(user.weakTopicMode.topic));
 
       // Try to get next task from all topics
-      const updatedUser = userService.getOrCreateUser(ctx.chat.id);
+      const updatedUser = userService.getOrCreateUser(ctx.chat.id, ctx.from);
       const nextTask = taskService.getNextTask(updatedUser);
 
       if (nextTask) {
