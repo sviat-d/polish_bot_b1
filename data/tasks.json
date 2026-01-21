@@ -4398,5 +4398,1405 @@
     "explanationPl": "Kogoś — kogoś konkretnego, choć nieznanego.\nKogokolwiek — kogokolwiek, dowolnego bez wyjątku.\n\n🔑 Pytanie o konkretność: konkretny, ale nieznany → kogoś\n\n• B) \"kogokolwiek\" — oznacza \"dowolnego\", nie \"konkretnego\"\n• C) \"nikogo\" — nikogo (negacja)\n• D) \"każdego\" — każdego (wszyscy z osobna)",
     "topic": "Zaimki pytające — zaimki nieokreślone z \"-ś\" vs \"-kolwiek\"",
     "difficulty": "very high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_001",
+    "source": "pdf",
+    "question": "W pokoju siedzi _______ studentów.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dwa"
+      },
+      {
+        "label": "B",
+        "text": "dwaj"
+      },
+      {
+        "label": "C",
+        "text": "dwie"
+      },
+      {
+        "label": "D",
+        "text": "dwóch"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Числительные 2-4 имеют разные формы для męskoosobowych и niemęskoosobowych. \"Studentów\" — dopełniacz l.mn. męskoosobowych, поэтому нужна форма dwóch (+ dopełniacz).\n\n🔑 Формы для męskoosobowych (2-4):\n• dwóch/dwaj studentów (dop./mian.)\n• trzech/trzej studentów\n• czterech/czterej studentów\n\n• A) \"dwa\" — для niemęskoosobowych (dwa stoły)\n• B) \"dwaj\" — mianownik, но \"siedzi\" требует dopełniacza\n• C) \"dwie\" — для ж.р. (dwie kobiety)",
+    "explanationPl": "Liczebniki 2-4 mają różne formy dla męskoosobowych i niemęskoosobowych. \"Studentów\" — dopełniacz l.mn. męskoosobowych, więc potrzebna forma dwóch (+ dopełniacz).\n\n🔑 Formy dla męskoosobowych (2-4):\n• dwóch/dwaj studentów (dop./mian.)\n• trzech/trzej studentów\n• czterech/czterej studentów\n\n• A) \"dwa\" — dla niemęskoosobowych (dwa stoły)\n• B) \"dwaj\" — mianownik, ale \"siedzi\" wymaga dopełniacza\n• C) \"dwie\" — dla r.ż. (dwie kobiety)",
+    "topic": "Liczebniki główne — męskoosobowe vs niemęskoosobowe (2-4)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_002",
+    "source": "pdf",
+    "question": "Na przyjęciu było _______ gości.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pięciu"
+      },
+      {
+        "label": "B",
+        "text": "pięć"
+      },
+      {
+        "label": "C",
+        "text": "pięcioro"
+      },
+      {
+        "label": "D",
+        "text": "piąty"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После числительных 5+ существительное стоит в dopełniaczu l.mn. \"Gości\" — męskoosobowe, поэтому нужна форма pięciu (не \"pięć\").\n\n🔑 Liczebniki 5+ с męskoosobowymi:\n• pięciu panów (не \"pięć panów\")\n• sześciu studentów\n• siedmiu mężczyzn\n\n• B) \"pięć\" — для niemęskoosobowych (pięć książek)\n• C) \"pięcioro\" — для zbiorowych (pięcioro dzieci)\n• D) \"piąty\" — liczebnik porządkowy (пятый)",
+    "explanationPl": "Po liczebnikach 5+ rzeczownik stoi w dopełniaczu l.mn. \"Gości\" — męskoosobowe, więc potrzebna forma pięciu (nie \"pięć\").\n\n🔑 Liczebniki 5+ z męskoosobowymi:\n• pięciu panów (nie \"pięć panów\")\n• sześciu studentów\n• siedmiu mężczyzn\n\n• B) \"pięć\" — dla niemęskoosobowych (pięć książek)\n• C) \"pięcioro\" — dla zbiorowych (pięcioro dzieci)\n• D) \"piąty\" — liczebnik porządkowy",
+    "topic": "Liczebniki główne — forma rzeczownika po 5+",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_003",
+    "source": "pdf",
+    "question": "W rodzinie jest _______ dzieci.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzy"
+      },
+      {
+        "label": "B",
+        "text": "trzech"
+      },
+      {
+        "label": "C",
+        "text": "troje"
+      },
+      {
+        "label": "D",
+        "text": "trzej"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Для слова dzieci используются liczebniki zbiorowe: dwoje, troje, czworo, pięcioro... Это особая группа существительных (pluralia tantum + дети).\n\n🔑 Liczebniki zbiorowe используются с:\n• dzieci → troje dzieci\n• osoby mieszane (м+ж) → czworo przyjaciół\n• pluralia tantum (drzwi, okulary) → dwoje drzwi\n\n• A) \"trzy\" — для niemęskoosobowych (trzy książki)\n• B) \"trzech\" — для męskoosobowych (trzech mężczyzn)\n• D) \"trzej\" — mianownik męskoosobowych (trzej panowie)",
+    "explanationPl": "Dla słowa dzieci używa się liczebników zbiorowych: dwoje, troje, czworo, pięcioro... To szczególna grupa rzeczowników.\n\n🔑 Liczebniki zbiorowe używa się z:\n• dzieci → troje dzieci\n• osoby mieszane (m+k) → czworo przyjaciół\n• pluralia tantum (drzwi, okulary) → dwoje drzwi\n\n• A) \"trzy\" — dla niemęskoosobowych (trzy książki)\n• B) \"trzech\" — dla męskoosobowych (trzech mężczyzn)\n• D) \"trzej\" — mianownik męskoosobowych (trzej panowie)",
+    "topic": "Liczebniki zbiorowe — dzieci, osoby mieszane",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_004",
+    "source": "pdf",
+    "question": "Mieszkam na _______ piętrze.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzecim"
+      },
+      {
+        "label": "B",
+        "text": "trzeci"
+      },
+      {
+        "label": "C",
+        "text": "trzeciego"
+      },
+      {
+        "label": "D",
+        "text": "trzecia"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Конструкция na + miejscownik: na którym piętrze? → na trzecim piętrze. Liczebnik porządkowy склоняется как прилагательное.\n\n🔑 Odmiana \"trzeci\" (м.р.):\n• mianownik: trzeci\n• dopełniacz: trzeciego\n• celownik: trzeciemu\n• biernik: trzeci\n• narzędnik: trzecim\n• miejscownik: trzecim\n\n• B) \"trzeci\" — mianownik\n• C) \"trzeciego\" — dopełniacz\n• D) \"trzecia\" — ж.р.",
+    "explanationPl": "Konstrukcja na + miejscownik: na którym piętrze? → na trzecim piętrze. Liczebnik porządkowy odmienia się jak przymiotnik.\n\n🔑 Odmiana \"trzeci\" (r.m.):\n• mianownik: trzeci\n• dopełniacz: trzeciego\n• celownik: trzeciemu\n• biernik: trzeci\n• narzędnik: trzecim\n• miejscownik: trzecim\n\n• B) \"trzeci\" — mianownik\n• C) \"trzeciego\" — dopełniacz\n• D) \"trzecia\" — r.ż.",
+    "topic": "Liczebniki porządkowe — odmiana (miejscownik)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_005",
+    "source": "pdf",
+    "question": "Dałem prezenty _______ kolegom.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzech"
+      },
+      {
+        "label": "B",
+        "text": "trzy"
+      },
+      {
+        "label": "C",
+        "text": "trzema"
+      },
+      {
+        "label": "D",
+        "text": "trzem"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Celownik от \"trzech/trzy\" → trzem. \"Dać komu?\" требует celownika.\n\n🔑 Odmiana liczebników w celowniku:\n• dwóm (kolegom)\n• trzem (kolegom)\n• czterem (kolegom)\n• pięciu (kolegom) — для 5+ форма совпадает\n\n• A) \"trzech\" — dopełniacz\n• B) \"trzy\" — mianownik/biernik niemęskoosobowych\n• C) \"trzema\" — narzędnik",
+    "explanationPl": "Celownik od \"trzech/trzy\" → trzem. \"Dać komu?\" wymaga celownika.\n\n🔑 Odmiana liczebników w celowniku:\n• dwóm (kolegom)\n• trzem (kolegom)\n• czterem (kolegom)\n• pięciu (kolegom) — dla 5+ forma się pokrywa\n\n• A) \"trzech\" — dopełniacz\n• B) \"trzy\" — mianownik/biernik niemęskoosobowych\n• C) \"trzema\" — narzędnik",
+    "topic": "Liczebniki główne — odmiana w celowniku",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_006",
+    "source": "pdf",
+    "question": "Pojechałem na wycieczkę z _______ przyjaciółmi.",
+    "options": [
+      {
+        "label": "A",
+        "text": "czterech"
+      },
+      {
+        "label": "B",
+        "text": "czterem"
+      },
+      {
+        "label": "C",
+        "text": "czterema"
+      },
+      {
+        "label": "D",
+        "text": "cztery"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Narzędnik от \"cztery/czterech\" → czterema. \"Z kim?\" требует narzędnika.\n\n🔑 Odmiana liczebników w narzędniku:\n• dwoma (przyjaciółmi)\n• trzema (przyjaciółmi)\n• czterema (przyjaciółmi)\n• pięcioma/pięciu (przyjaciółmi)\n\n• A) \"czterech\" — dopełniacz\n• B) \"czterem\" — celownik\n• D) \"cztery\" — mianownik/biernik",
+    "explanationPl": "Narzędnik od \"cztery/czterech\" → czterema. \"Z kim?\" wymaga narzędnika.\n\n🔑 Odmiana liczebników w narzędniku:\n• dwoma (przyjaciółmi)\n• trzema (przyjaciółmi)\n• czterema (przyjaciółmi)\n• pięcioma/pięciu (przyjaciółmi)\n\n• A) \"czterech\" — dopełniacz\n• B) \"czterem\" — celownik\n• D) \"cztery\" — mianownik/biernik",
+    "topic": "Liczebniki główne — odmiana w narzędniku",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_007",
+    "source": "pdf",
+    "question": "W mieście mieszka milion _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "ludzie"
+      },
+      {
+        "label": "B",
+        "text": "ludzi"
+      },
+      {
+        "label": "C",
+        "text": "ludziom"
+      },
+      {
+        "label": "D",
+        "text": "ludziach"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "После \"tysiąc\", \"milion\", \"miliard\" существительное стоит в dopełniaczu l.mn.: milion ludzi (не \"ludzie\").\n\n🔑 Tysiąc/milion + dopełniacz:\n• tysiąc złotych\n• milion ludzi\n• miliard dolarów\n\n• A) \"ludzie\" — mianownik\n• C) \"ludziom\" — celownik\n• D) \"ludziach\" — miejscownik",
+    "explanationPl": "Po \"tysiąc\", \"milion\", \"miliard\" rzeczownik stoi w dopełniaczu l.mn.: milion ludzi (nie \"ludzie\").\n\n🔑 Tysiąc/milion + dopełniacz:\n• tysiąc złotych\n• milion ludzi\n• miliard dolarów\n\n• A) \"ludzie\" — mianownik\n• C) \"ludziom\" — celownik\n• D) \"ludziach\" — miejscownik",
+    "topic": "Liczebniki — tysiąc, milion (forma rzeczownika)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_008",
+    "source": "pdf",
+    "question": "Czekałem _______ godziny.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pół"
+      },
+      {
+        "label": "B",
+        "text": "półtora"
+      },
+      {
+        "label": "C",
+        "text": "półtorej"
+      },
+      {
+        "label": "D",
+        "text": "połowę"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Półtora (1,5) имеет разные формы по роду: półtora (м.р./с.р.) vs półtorej (ж.р.). \"Godzina\" — ж.р., поэтому półtorej godziny.\n\n🔑 Półtora/półtorej:\n• półtora metra (м.р.)\n• półtora litra (м.р.)\n• półtorej godziny (ж.р.)\n• półtorej minuty (ж.р.)\n\n• A) \"pół\" — половина (pół godziny = 30 мин)\n• B) \"półtora\" — для м.р./с.р.\n• D) \"połowę\" — biernik от \"połowa\" (половина)",
+    "explanationPl": "Półtora (1,5) ma różne formy według rodzaju: półtora (r.m./r.n.) vs półtorej (r.ż.). \"Godzina\" — r.ż., więc półtorej godziny.\n\n🔑 Półtora/półtorej:\n• półtora metra (r.m.)\n• półtora litra (r.m.)\n• półtorej godziny (r.ż.)\n• półtorej minuty (r.ż.)\n\n• A) \"pół\" — połowa (pół godziny = 30 min)\n• B) \"półtora\" — dla r.m./r.n.\n• D) \"połowę\" — biernik od \"połowa\"",
+    "topic": "Liczebniki — ułamki (pół, półtora)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_LICZEBNIKI_001",
+    "source": "pdf",
+    "question": "Na konferencji wystąpiło _______ prelegentów.",
+    "options": [
+      {
+        "label": "A",
+        "text": "dwadzieścia trzy"
+      },
+      {
+        "label": "B",
+        "text": "dwudziestu trzech"
+      },
+      {
+        "label": "C",
+        "text": "dwadzieścia trzech"
+      },
+      {
+        "label": "D",
+        "text": "dwudziestu trzy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Złożone liczebniki (21-99) с męskoosobowymi: обе части склоняются. \"Prelegentów\" — dopełniacz męskoosobowych, поэтому dwudziestu trzech (dop. + dop.).\n\n🔑 Złożone liczebniki + męskoosobowe:\n• 23 prelegentów → dwudziestu trzech prelegentów\n• 45 studentów → czterdziestu pięciu studentów\n• 67 pracowników → sześćdziesięciu siedmiu pracowników\n\n• A) \"dwadzieścia trzy\" — dla niemęskoosobowych (23 książki)\n• C) \"dwadzieścia trzech\" — смешение форм\n• D) \"dwudziestu trzy\" — смешение форм",
+    "explanationPl": "Złożone liczebniki (21-99) z męskoosobowymi: obie części się odmieniają. \"Prelegentów\" — dopełniacz męskoosobowych, więc dwudziestu trzech (dop. + dop.).\n\n🔑 Złożone liczebniki + męskoosobowe:\n• 23 prelegentów → dwudziestu trzech prelegentów\n• 45 studentów → czterdziestu pięciu studentów\n• 67 pracowników → sześćdziesięciu siedmiu pracowników\n\n• A) \"dwadzieścia trzy\" — dla niemęskoosobowych (23 książki)\n• C) \"dwadzieścia trzech\" — mieszanie form\n• D) \"dwudziestu trzy\" — mieszanie form",
+    "topic": "Liczebniki — złożone formy (dwudziestu trzech)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_LICZEBNIKI_002",
+    "source": "pdf",
+    "question": "_______ bracia studiują medycynę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Oba"
+      },
+      {
+        "label": "B",
+        "text": "Obie"
+      },
+      {
+        "label": "C",
+        "text": "Oboje"
+      },
+      {
+        "label": "D",
+        "text": "Obaj"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Obaj/obydwaj — для męskoosobowych (двое мужчин/мальчиков).\nOba/obydwa — для niemęskoosobowych (два предмета).\n\"Bracia\" — męskoosobowe, поэтому obaj.\n\n🔑 Oba vs obaj:\n• obaj bracia, obaj panowie (męskoosobowe)\n• oba domy, oba samochody (niemęskoosobowe м.р.)\n• obie siostry, obie książki (ж.р.)\n• oboje rodziców (mieszane/zbiorowe)\n\n• A) \"Oba\" — dla niemęskoosobowych м.р.\n• B) \"Obie\" — dla ж.р.\n• C) \"Oboje\" — dla mieszanych/zbiorowych",
+    "explanationPl": "Obaj/obydwaj — dla męskoosobowych (dwóch mężczyzn/chłopców).\nOba/obydwa — dla niemęskoosobowych (dwa przedmioty).\n\"Bracia\" — męskoosobowe, więc obaj.\n\n🔑 Oba vs obaj:\n• obaj bracia, obaj panowie (męskoosobowe)\n• oba domy, oba samochody (niemęskoosobowe r.m.)\n• obie siostry, obie książki (r.ż.)\n• oboje rodziców (mieszane/zbiorowe)\n\n• A) \"Oba\" — dla niemęskoosobowych r.m.\n• B) \"Obie\" — dla r.ż.\n• C) \"Oboje\" — dla mieszanych/zbiorowych",
+    "topic": "Liczebniki — obaj/obydwaj vs oba/obydwa",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_009",
+    "source": "pdf",
+    "question": "Urodziłem się w _______ roku.",
+    "options": [
+      {
+        "label": "A",
+        "text": "tysiąc dziewięćset dziewięćdziesiąty"
+      },
+      {
+        "label": "B",
+        "text": "tysiąc dziewięćset dziewięćdziesiątym"
+      },
+      {
+        "label": "C",
+        "text": "tysiąc dziewięćset dziewięćdziesiąt"
+      },
+      {
+        "label": "D",
+        "text": "tysiącu dziewięćset dziewięćdziesiątym"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Конструкция w + miejscownik: w którym roku? → w tysiącu dziewięćset dziewięćdziesiątym roku. Обе части склоняются: tysiąc → tysiącu, dziewięćdziesiąty → dziewięćdziesiątym.\n\n🔑 Rok w miejscowniku:\n• w tysiącu dziewięćset... (1900-1999)\n• w dwutysięcznym... (2000+)\n• w dwa tysiące dwudziestym piątym roku (2025)\n\n• A) \"dziewięćdziesiąty\" — mianownik\n• B) \"dziewięćdziesiątym\" — только последняя часть в miejscowniku\n• C) \"dziewięćdziesiąt\" — liczebnik główny, не porządkowy",
+    "explanationPl": "Konstrukcja w + miejscownik: w którym roku? → w tysiącu dziewięćset dziewięćdziesiątym roku. Obie części się odmieniają: tysiąc → tysiącu, dziewięćdziesiąty → dziewięćdziesiątym.\n\n🔑 Rok w miejscowniku:\n• w tysiącu dziewięćset... (1900-1999)\n• w dwutysięcznym... (2000+)\n• w dwa tysiące dwudziestym piątym roku (2025)\n\n• A) \"dziewięćdziesiąty\" — mianownik\n• B) \"dziewięćdziesiątym\" — tylko ostatnia część w miejscowniku\n• C) \"dziewięćdziesiąt\" — liczebnik główny, nie porządkowy",
+    "topic": "Liczebniki — rok (w którym roku)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_010",
+    "source": "pdf",
+    "question": "Spotkanie odbędzie się _______ maja.",
+    "options": [
+      {
+        "label": "A",
+        "text": "piąty"
+      },
+      {
+        "label": "B",
+        "text": "piątego"
+      },
+      {
+        "label": "C",
+        "text": "piąte"
+      },
+      {
+        "label": "D",
+        "text": "piątemu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Дата в dopełniaczu: którego? → piątego maja. Liczebnik porządkowy согласуется с подразумеваемым \"dnia\" (м.р.).\n\n🔑 Data w dopełniaczu:\n• pierwszego stycznia\n• drugiego lutego\n• piątego maja\n• trzydziestego pierwszego grudnia\n\n• A) \"piąty\" — mianownik\n• C) \"piąte\" — с.р.\n• D) \"piątemu\" — celownik",
+    "explanationPl": "Data w dopełniaczu: którego? → piątego maja. Liczebnik porządkowy zgadza się z domyślnym \"dnia\" (r.m.).\n\n🔑 Data w dopełniaczu:\n• pierwszego stycznia\n• drugiego lutego\n• piątego maja\n• trzydziestego pierwszego grudnia\n\n• A) \"piąty\" — mianownik\n• C) \"piąte\" — r.n.\n• D) \"piątemu\" — celownik",
+    "topic": "Liczebniki — data (którego)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_011",
+    "source": "pdf",
+    "question": "Pociąg odjeżdża o _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "piętnaście trzydzieści"
+      },
+      {
+        "label": "B",
+        "text": "piętnastej trzydzieści"
+      },
+      {
+        "label": "C",
+        "text": "piętnaście i trzydzieści"
+      },
+      {
+        "label": "D",
+        "text": "godzina piętnasta trzydzieści"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Конструкция o + miejscownik: o której? → o piętnastej trzydzieści. Только первая часть (час) склоняется, минуты остаются без изменений.\n\n🔑 Godzina w miejscowniku:\n• o pierwszej (1:00)\n• o dwunastej piętnaście (12:15)\n• o piętnastej trzydzieści (15:30)\n• o dwudziestej trzeciej (23:00)\n\n• A) \"piętnaście trzydzieści\" — без предлога, mianownik\n• C) \"piętnaście i trzydzieści\" — неправильная конструкция\n• D) \"godzina piętnasta\" — mianownik",
+    "explanationPl": "Konstrukcja o + miejscownik: o której? → o piętnastej trzydzieści. Tylko pierwsza część (godzina) się odmienia, minuty pozostają bez zmian.\n\n🔑 Godzina w miejscowniku:\n• o pierwszej (1:00)\n• o dwunastej piętnaście (12:15)\n• o piętnastej trzydzieści (15:30)\n• o dwudziestej trzeciej (23:00)\n\n• A) \"piętnaście trzydzieści\" — bez przyimka, mianownik\n• C) \"piętnaście i trzydzieści\" — błędna konstrukcja\n• D) \"godzina piętnasta\" — mianownik",
+    "topic": "Liczebniki — godzina (o której)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_012",
+    "source": "pdf",
+    "question": "Moja babcia ma _______ lat.",
+    "options": [
+      {
+        "label": "A",
+        "text": "siedemdziesiąt pięć"
+      },
+      {
+        "label": "B",
+        "text": "siedemdziesiąciu pięciu"
+      },
+      {
+        "label": "C",
+        "text": "siedemdziesiąt piąty"
+      },
+      {
+        "label": "D",
+        "text": "siedemdziesięciopięcioletni"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Конструкция mieć + biernik: ile lat? → siedemdziesiąt pięć lat. После числительных 5+ существительное \"lat\" стоит в dopełniaczu, но само числительное в biernik = mianownik.\n\n🔑 Wiek (ile lat):\n• mam dwadzieścia lat\n• mam siedemdziesiąt pięć lat\n• mam sto lat\n\n• B) \"siedemdziesiąciu pięciu\" — dopełniacz, не подходит после \"mieć\"\n• C) \"siedemdziesiąt piąty\" — liczebnik porządkowy (75-й)\n• D) \"siedemdziesięciopięcioletni\" — przymiotnik (75-летний)",
+    "explanationPl": "Konstrukcja mieć + biernik: ile lat? → siedemdziesiąt pięć lat. Po liczebnikach 5+ rzeczownik \"lat\" stoi w dopełniaczu, ale sam liczebnik w bierniku = mianownik.\n\n🔑 Wiek (ile lat):\n• mam dwadzieścia lat\n• mam siedemdziesiąt pięć lat\n• mam sto lat\n\n• B) \"siedemdziesiąciu pięciu\" — dopełniacz, nie pasuje po \"mieć\"\n• C) \"siedemdziesiąt piąty\" — liczebnik porządkowy (75.)\n• D) \"siedemdziesięciopięcioletni\" — przymiotnik (75-letni)",
+    "topic": "Liczebniki — wiek (ile lat)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_013",
+    "source": "pdf",
+    "question": "Kupiłem tę książkę za _______ złotych.",
+    "options": [
+      {
+        "label": "A",
+        "text": "czterdzieści dwa"
+      },
+      {
+        "label": "B",
+        "text": "czterdziestu dwóch"
+      },
+      {
+        "label": "C",
+        "text": "czterdzieści dwóch"
+      },
+      {
+        "label": "D",
+        "text": "czterdzieści druga"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Конструкция za + biernik: za ile? → za czterdzieści dwa złotych. \"Złotych\" — dopełniacz l.mn. (после 5+), но числительное в biernik = mianownik.\n\n🔑 Cena (za ile):\n• za dwa złote (2)\n• za pięć złotych (5)\n• za czterdzieści dwa złote (42 — форма как для 2)\n\n⚠️ Внимание: 42 złote (не \"złotych\"), потому что последняя цифра 2.\n\n• B) \"czterdziestu dwóch\" — dopełniacz męskoosobowych\n• C) \"czterdzieści dwóch\" — смешение форм\n• D) \"czterdzieści druga\" — смешение główny + porządkowy",
+    "explanationPl": "Konstrukcja za + biernik: za ile? → za czterdzieści dwa złotych. \"Złotych\" — dopełniacz l.mn. (po 5+), ale liczebnik w bierniku = mianownik.\n\n🔑 Cena (za ile):\n• za dwa złote (2)\n• za pięć złotych (5)\n• za czterdzieści dwa złote (42 — forma jak dla 2)\n\n⚠️ Uwaga: 42 złote (nie \"złotych\"), bo ostatnia cyfra to 2.\n\n• B) \"czterdziestu dwóch\" — dopełniacz męskoosobowych\n• C) \"czterdzieści dwóch\" — mieszanie form\n• D) \"czterdzieści druga\" — mieszanie główny + porządkowy",
+    "topic": "Liczebniki — cena (za ile złotych)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_014",
+    "source": "pdf",
+    "question": "_______ ankietowanych popiera tę decyzję.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sześćdziesięciu procent"
+      },
+      {
+        "label": "B",
+        "text": "Sześćdziesiąt procentów"
+      },
+      {
+        "label": "C",
+        "text": "Sześćdziesiąt procent"
+      },
+      {
+        "label": "D",
+        "text": "Sześćdziesiąty procent"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "После процентов глагол в 3 л. ед.ч., а \"procent\" стоит в dopełniaczu l.mn.: sześćdziesiąt procent (не \"procentów\").\n\n🔑 Procent:\n• jeden procent (1%)\n• dwa/trzy/cztery procenty (2-4%)\n• pięć/dziesięć/sto procent (5+%)\n\n⚠️ \"Procent\" — исключение: dopełniacz l.mn. = \"procent\" (не \"procentów\").\n\n• A) \"Sześćdziesięciu\" — dopełniacz męskoosobowych\n• B) \"procentów\" — неправильная форма dopełniacza\n• D) \"Sześćdziesiąty\" — liczebnik porządkowy",
+    "explanationPl": "Po procentach czasownik w 3 os. l.poj., a \"procent\" stoi w dopełniaczu l.mn.: sześćdziesiąt procent (nie \"procentów\").\n\n🔑 Procent:\n• jeden procent (1%)\n• dwa/trzy/cztery procenty (2-4%)\n• pięć/dziesięć/sto procent (5+%)\n\n⚠️ \"Procent\" — wyjątek: dopełniacz l.mn. = \"procent\" (nie \"procentów\").\n\n• A) \"Sześćdziesięciu\" — dopełniacz męskoosobowych\n• B) \"procentów\" — błędna forma dopełniacza\n• D) \"Sześćdziesiąty\" — liczebnik porządkowy",
+    "topic": "Liczebniki — procent (ile procent)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_015",
+    "source": "pdf",
+    "question": "Na zewnątrz jest minus _______ stopni.",
+    "options": [
+      {
+        "label": "A",
+        "text": "piętnastu"
+      },
+      {
+        "label": "B",
+        "text": "piętnasty"
+      },
+      {
+        "label": "C",
+        "text": "piętnastego"
+      },
+      {
+        "label": "D",
+        "text": "piętnaście"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Температура: minus + liczebnik główny + stopni (dopełniacz l.mn.). Числительное в mianownik/biernik.\n\n🔑 Temperatura:\n• minus jeden stopień\n• minus dwa/trzy/cztery stopnie\n• minus piętnaście stopni\n\n• A) \"piętnastu\" — dopełniacz męskoosobowych\n• B) \"piętnasty\" — liczebnik porządkowy\n• C) \"piętnastego\" — dopełniacz porządkowego",
+    "explanationPl": "Temperatura: minus + liczebnik główny + stopni (dopełniacz l.mn.). Liczebnik w mianowniku/bierniku.\n\n🔑 Temperatura:\n• minus jeden stopień\n• minus dwa/trzy/cztery stopnie\n• minus piętnaście stopni\n\n• A) \"piętnastu\" — dopełniacz męskoosobowych\n• B) \"piętnasty\" — liczebnik porządkowy\n• C) \"piętnastego\" — dopełniacz porządkowego",
+    "topic": "Liczebniki — temperatura (ile stopni)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_LICZEBNIKI_016",
+    "source": "pdf",
+    "question": "Byłem w Paryżu _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzy razy"
+      },
+      {
+        "label": "B",
+        "text": "trzech razów"
+      },
+      {
+        "label": "C",
+        "text": "trzykrotny"
+      },
+      {
+        "label": "D",
+        "text": "po trzy razy"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Liczebniki wielokrotne: liczebnik główny + razy (biernik). \"Razy\" — nieodmienny в этой конструкции.\n\n🔑 Wielokrotność:\n• jeden raz / raz\n• dwa razy\n• trzy razy\n• pięć razy\n• Альтернатива: trzykrotnie (наречие)\n\n• B) \"trzech razów\" — неправильная конструкция\n• C) \"trzykrotny\" — przymiotnik, не подходит\n• D) \"po trzy razy\" — distributive, другое значение",
+    "explanationPl": "Liczebniki wielokrotne: liczebnik główny + razy (biernik). \"Razy\" — nieodmienny w tej konstrukcji.\n\n🔑 Wielokrotność:\n• jeden raz / raz\n• dwa razy\n• trzy razy\n• pięć razy\n• Alternatywa: trzykrotnie (przysłówek)\n\n• B) \"trzech razów\" — błędna konstrukcja\n• C) \"trzykrotny\" — przymiotnik, nie pasuje\n• D) \"po trzy razy\" — distributive, inne znaczenie",
+    "topic": "Liczebniki — wielokrotne (dwa razy, trzykrotnie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_LICZEBNIKI_003",
+    "source": "pdf",
+    "question": "Która forma jest poprawna w oficjalnym dokumencie?\n\"Średnia ocen wynosi _______.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "trzy i pół"
+      },
+      {
+        "label": "B",
+        "text": "trzy przecinek pięć"
+      },
+      {
+        "label": "C",
+        "text": "trzy pięć"
+      },
+      {
+        "label": "D",
+        "text": "trzech przecinek pięciu"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Ułamki dziesiętne читаются: liczebnik + przecinek + liczebnik: 3,5 = trzy przecinek pięć.\n\n🔑 Ułamki dziesiętne:\n• 0,5 = zero przecinek pięć\n• 2,75 = dwa przecinek siedemdziesiąt pięć\n• 3,5 = trzy przecinek pięć\n\n⚠️ \"Trzy i pół\" = 3,5 в разговорной речи, но в официальном контексте (średnia ocen) используется \"przecinek\".\n\n• A) \"trzy i pół\" — разговорно, не официально\n• C) \"trzy pięć\" — без \"przecinek\"\n• D) \"trzech przecinek pięciu\" — неправильное склонение",
+    "explanationPl": "Ułamki dziesiętne czyta się: liczebnik + przecinek + liczebnik: 3,5 = trzy przecinek pięć.\n\n🔑 Ułamki dziesiętne:\n• 0,5 = zero przecinek pięć\n• 2,75 = dwa przecinek siedemdziesiąt pięć\n• 3,5 = trzy przecinek pięć\n\n⚠️ \"Trzy i pół\" = 3,5 potocznie, ale w oficjalnym kontekście (średnia ocen) używa się \"przecinek\".\n\n• A) \"trzy i pół\" — potocznie, nie oficjalnie\n• C) \"trzy pięć\" — bez \"przecinek\"\n• D) \"trzech przecinek pięciu\" — błędna odmiana",
+    "topic": "Liczebniki — ułamki dziesiętne (oficjalny zapis)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_LICZEBNIKI_004",
+    "source": "pdf",
+    "question": "W parku bawiło się _______ dzieci.",
+    "options": [
+      {
+        "label": "A",
+        "text": "kilka"
+      },
+      {
+        "label": "B",
+        "text": "kilku"
+      },
+      {
+        "label": "C",
+        "text": "kilkoro"
+      },
+      {
+        "label": "D",
+        "text": "kilkanaście"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Для dzieci используются liczebniki zbiorowe: kilkoro dzieci (не \"kilka\" и не \"kilku\").\n\n🔑 Kilka vs kilku vs kilkoro:\n• kilka książek (niemęskoosobowe)\n• kilku studentów (męskoosobowe)\n• kilkoro dzieci (zbiorowe — дети, смешанные группы)\n\n• A) \"kilka\" — для niemęskoosobowych\n• B) \"kilku\" — для męskoosobowych\n• D) \"kilkanaście\" — 11-19, но тоже требует zbiorowej формы для dzieci → kilkanaścioro",
+    "explanationPl": "Dla dzieci używa się liczebników zbiorowych: kilkoro dzieci (nie \"kilka\" i nie \"kilku\").\n\n🔑 Kilka vs kilku vs kilkoro:\n• kilka książek (niemęskoosobowe)\n• kilku studentów (męskoosobowe)\n• kilkoro dzieci (zbiorowe — dzieci, grupy mieszane)\n\n• A) \"kilka\" — dla niemęskoosobowych\n• B) \"kilku\" — dla męskoosobowych\n• D) \"kilkanaście\" — 11-19, ale też wymaga zbiorowej formy dla dzieci → kilkanaścioro",
+    "topic": "Liczebniki — nieokreślone (kilka vs kilkoro vs kilku)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_PRZYIMKI_001",
+    "source": "pdf",
+    "question": "Idę _______ pocztę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "do"
+      },
+      {
+        "label": "B",
+        "text": "w"
+      },
+      {
+        "label": "C",
+        "text": "ku"
+      },
+      {
+        "label": "D",
+        "text": "na"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Некоторые места требуют na вместо do: poczta, dworzec, lotnisko, uniwersytet, policja, basen...\n\n🔑 Na + biernik (kierunek):\n• na pocztę, na dworzec, na lotnisko\n• na uniwersytet, na policję\n• na basen, na stadion\n\n🔑 Do + dopełniacz (kierunek):\n• do sklepu, do banku, do kina\n• do szkoły, do pracy\n\n• A) \"do poczty\" — не является стандартной формой в разговорном/экзаменационном языке\n• B) \"w pocztę\" — не используется для kierunku\n• C) \"ku poczcie\" — устаревшее/литературное",
+    "explanationPl": "Niektóre miejsca wymagają na zamiast do: poczta, dworzec, lotnisko, uniwersytet, policja, basen...\n\n🔑 Na + biernik (kierunek):\n• na pocztę, na dworzec, na lotnisko\n• na uniwersytet, na policję\n• na basen, na stadion\n\n🔑 Do + dopełniacz (kierunek):\n• do sklepu, do banku, do kina\n• do szkoły, do pracy\n\n• A) \"do poczty\" — nie jest formą standardową w języku potocznym/egzaminacyjnym\n• B) \"w pocztę\" — nie używa się dla kierunku\n• C) \"ku poczcie\" — archaiczne/literackie",
+    "topic": "Przyimki — do vs na (kierunek)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_002",
+    "source": "pdf",
+    "question": "Spotkajmy się _______ dworcu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "na"
+      },
+      {
+        "label": "B",
+        "text": "w"
+      },
+      {
+        "label": "C",
+        "text": "przy"
+      },
+      {
+        "label": "D",
+        "text": "u"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Места с na (miejsce): dworzec, poczta, lotnisko, uniwersytet, policja, stadion...\n\n🔑 Na + miejscownik (miejsce):\n• na dworcu, na poczcie, na lotnisku\n• na uniwersytecie, na policji\n• na basenie, na stadionie\n\n• B) \"w dworcu\" — неправильно для \"dworzec\"\n• C) \"przy dworcu\" — около вокзала (снаружи)\n• D) \"u dworcu\" — не используется",
+    "explanationPl": "Miejsca z na (miejsce): dworzec, poczta, lotnisko, uniwersytet, policja, stadion...\n\n🔑 Na + miejscownik (miejsce):\n• na dworcu, na poczcie, na lotnisku\n• na uniwersytecie, na policji\n• na basenie, na stadionie\n\n• B) \"w dworcu\" — błędnie dla \"dworzec\"\n• C) \"przy dworcu\" — obok dworca (na zewnątrz)\n• D) \"u dworcu\" — nie używa się",
+    "topic": "Przyimki — w vs na (miejsce)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_003",
+    "source": "pdf",
+    "question": "Dostałem list _______ przyjaciela.",
+    "options": [
+      {
+        "label": "A",
+        "text": "z"
+      },
+      {
+        "label": "B",
+        "text": "od"
+      },
+      {
+        "label": "C",
+        "text": "u"
+      },
+      {
+        "label": "D",
+        "text": "przez"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Od — от кого (источник/отправитель): dostać od kogoś.\nZ — откуда (место): przyjść z Polski.\n\n🔑 Od + dopełniacz (osoba jako źródło):\n• dostać list od przyjaciela\n• usłyszeć od kolegi\n• kupić od sąsiada\n\n• A) \"z przyjaciela\" — неправильно для лица\n• C) \"u przyjaciela\" — у друга (место)\n• D) \"przez przyjaciela\" — через друга (посредник)",
+    "explanationPl": "Od — od kogo (źródło/nadawca): dostać od kogoś.\nZ — skąd (miejsce): przyjść z Polski.\n\n🔑 Od + dopełniacz (osoba jako źródło):\n• dostać list od przyjaciela\n• usłyszeć od kolegi\n• kupić od sąsiada\n\n• A) \"z przyjaciela\" — błędnie dla osoby\n• C) \"u przyjaciela\" — u przyjaciela (miejsce)\n• D) \"przez przyjaciela\" — przez przyjaciela (pośrednik)",
+    "topic": "Przyimki — z vs od (źródło)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_004",
+    "source": "pdf",
+    "question": "Zrobiłem to _______ ciebie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przez"
+      },
+      {
+        "label": "B",
+        "text": "dla"
+      },
+      {
+        "label": "C",
+        "text": "za"
+      },
+      {
+        "label": "D",
+        "text": "od"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Dla — для кого (beneficjent/cel): zrobić dla kogoś.\nPrzez — из-за кого (przyczyna): spóźnić się przez kogoś.\n\n🔑 Dla + dopełniacz (beneficjent):\n• zrobić dla ciebie (для тебя — в твою пользу)\n• kupić prezent dla mamy\n\n🔑 Przez + biernik (przyczyna):\n• spóźnić się przez ciebie (из-за тебя)\n• nie spać przez hałas\n\n• A) \"przez ciebie\" — из-за тебя (негативно)\n• C) \"za ciebie\" — вместо тебя\n• D) \"od ciebie\" — от тебя",
+    "explanationPl": "Dla — dla kogo (beneficjent/cel): zrobić dla kogoś.\nPrzez — przez kogo (przyczyna): spóźnić się przez kogoś.\n\n🔑 Dla + dopełniacz (beneficjent):\n• zrobić dla ciebie (dla ciebie — na twoją korzyść)\n• kupić prezent dla mamy\n\n🔑 Przez + biernik (przyczyna):\n• spóźnić się przez ciebie (z twojej winy)\n• nie spać przez hałas\n\n• A) \"przez ciebie\" — z twojej winy (negatywnie)\n• C) \"za ciebie\" — zamiast ciebie\n• D) \"od ciebie\" — od ciebie",
+    "topic": "Przyimki — przez vs dla (cel/przyczyna)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_005",
+    "source": "pdf",
+    "question": "Wrócę _______ godzinę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "w"
+      },
+      {
+        "label": "B",
+        "text": "po"
+      },
+      {
+        "label": "C",
+        "text": "przez"
+      },
+      {
+        "label": "D",
+        "text": "za"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Za — через (сколько времени): za godzinę, za tydzień.\nW — в течение (как быстро): w godzinę = за час (сделать что-то).\n\n🔑 Za + biernik (kiedy w przyszłości):\n• wrócę za godzinę (через час)\n• spotkamy się za tydzień\n\n🔑 W + biernik (jak długo trwa):\n• zrobię to w godzinę (за час — длительность)\n• przeczytałem książkę w jeden dzień\n\n• A) \"w godzinę\" — за час (длительность действия)\n• B) \"po godzinie\" — после часа (после того как пройдёт)\n• C) \"przez godzinę\" — в течение часа (длительность)",
+    "explanationPl": "Za — za (ile czasu): za godzinę, za tydzień.\nW — w (jak szybko): w godzinę = w ciągu godziny (zrobić coś).\n\n🔑 Za + biernik (kiedy w przyszłości):\n• wrócę za godzinę (za godzinę)\n• spotkamy się za tydzień\n\n🔑 W + biernik (jak długo trwa):\n• zrobię to w godzinę (w ciągu godziny)\n• przeczytałem książkę w jeden dzień\n\n• A) \"w godzinę\" — w ciągu godziny (czas trwania czynności)\n• B) \"po godzinie\" — po godzinie (po upływie)\n• C) \"przez godzinę\" — przez godzinę (czas trwania)",
+    "topic": "Przyimki — za vs w (czas)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_006",
+    "source": "pdf",
+    "question": "Rozmawialiśmy _______ polityce.",
+    "options": [
+      {
+        "label": "A",
+        "text": "na"
+      },
+      {
+        "label": "B",
+        "text": "o"
+      },
+      {
+        "label": "C",
+        "text": "w"
+      },
+      {
+        "label": "D",
+        "text": "z"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "O — о чём (temat rozmowy): rozmawiać o czymś.\nNa — на какую тему (temat wykładu): wykład na temat czegoś.\n\n🔑 O + miejscownik (temat rozmowy):\n• rozmawiać o polityce\n• myśleć o przyszłości\n• marzyć o wakacjach\n\n• A) \"na polityce\" — неправильно для \"rozmawiać\"\n• C) \"w polityce\" — в политике (сфера)\n• D) \"z polityką\" — с политикой (инструмент)",
+    "explanationPl": "O — o czym (temat rozmowy): rozmawiać o czymś.\nNa — na jaki temat (temat wykładu): wykład na temat czegoś.\n\n🔑 O + miejscownik (temat rozmowy):\n• rozmawiać o polityce\n• myśleć o przyszłości\n• marzyć o wakacjach\n\n• A) \"na polityce\" — błędnie dla \"rozmawiać\"\n• C) \"w polityce\" — w polityce (dziedzina)\n• D) \"z polityką\" — z polityką (narzędzie)",
+    "topic": "Przyimki — o vs na (temat)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_007",
+    "source": "pdf",
+    "question": "Samochód stoi tuż _______ wejściem do domu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "przed"
+      },
+      {
+        "label": "B",
+        "text": "za"
+      },
+      {
+        "label": "C",
+        "text": "przy"
+      },
+      {
+        "label": "D",
+        "text": "nad"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Przed — перед (спереди): przed wejściem.\nZa — за (сзади): za wejściem.\n\n🔑 Контекст \"tuż przed wejściem\" однозначно указывает на положение спереди.\n\n• B) \"za wejściem\" — за входом (не подходит по смыслу)\n• C) \"przy wejściu\" — у входа (не сочетается с \"tuż\")\n• D) \"nad wejściem\" — над входом (невозможно для машины)",
+    "explanationPl": "Przed — przed (z przodu): przed wejściem.\nZa — za (z tyłu): za wejściem.\n\n🔑 Kontekst \"tuż przed wejściem\" jednoznacznie wskazuje na położenie z przodu.\n\n• B) \"za wejściem\" — za wejściem (nie pasuje znaczeniowo)\n• C) \"przy wejściu\" — przy wejściu (nie łączy się z \"tuż\")\n• D) \"nad wejściem\" — nad wejściem (niemożliwe dla samochodu)",
+    "topic": "Przyimki — przed vs za (położenie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_008",
+    "source": "pdf",
+    "question": "_______ deszczu poszliśmy na spacer.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Przez"
+      },
+      {
+        "label": "B",
+        "text": "Z powodu"
+      },
+      {
+        "label": "C",
+        "text": "Mimo"
+      },
+      {
+        "label": "D",
+        "text": "Wbrew"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Mimo/pomimo — несмотря на (przyzwolenie): mimo deszczu = несмотря на дождь.\nWbrew — вопреки (sprzeciw): wbrew rodzicom = вопреки родителям.\n\n🔑 Mimo + dopełniacz (przyzwolenie):\n• mimo deszczu (несмотря на дождь)\n• mimo zmęczenia (несмотря на усталость)\n• pomimo trudności (несмотря на трудности)\n\n• A) \"Przez deszcz\" — из-за дождя (przyczyna)\n• B) \"Z powodu deszczu\" — по причине дождя (przyczyna)\n• D) \"Wbrew deszczowi\" — вопреки дождю (celownik, менее естественно)",
+    "explanationPl": "Mimo/pomimo — mimo (przyzwolenie): mimo deszczu = mimo deszczu.\nWbrew — wbrew (sprzeciw): wbrew rodzicom = wbrew rodzicom.\n\n🔑 Mimo + dopełniacz (przyzwolenie):\n• mimo deszczu (mimo deszczu)\n• mimo zmęczenia (mimo zmęczenia)\n• pomimo trudności (pomimo trudności)\n\n• A) \"Przez deszcz\" — przez deszcz (przyczyna)\n• B) \"Z powodu deszczu\" — z powodu deszczu (przyczyna)\n• D) \"Wbrew deszczowi\" — wbrew deszczowi (celownik, mniej naturalne)",
+    "topic": "Przyimki — mimo vs pomimo (przyzwolenie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_PRZYIMKI_001",
+    "source": "pdf",
+    "question": "_______ trudną sytuację finansową firma musiała zwolnić pracowników.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ze względu na"
+      },
+      {
+        "label": "B",
+        "text": "W związku z"
+      },
+      {
+        "label": "C",
+        "text": "Z powodu"
+      },
+      {
+        "label": "D",
+        "text": "Dzięki"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Ze względu na + biernik — с учётом, ввиду (официальный стиль).\nW związku z + narzędnik — в связи с.\nZ powodu + dopełniacz — по причине.\n\n🔑 Różnice:\n• Ze względu na + biernik: ze względu na sytuację (ввиду ситуации)\n• W związku z + narzędnik: w związku z sytuacją (в связи с ситуацией)\n• Z powodu + dopełniacz: z powodu sytuacji (по причине ситуации)\n\nЗдесь \"trudną sytuację\" — biernik, поэтому ze względu na.\n\n• B) \"W związku z\" — требует narzędnika (w związku z trudną sytuacją)\n• C) \"Z powodu\" — требует dopełniacza (z powodu trudnej sytuacji)\n• D) \"Dzięki\" — благодаря (положительно)",
+    "explanationPl": "Ze względu na + biernik — ze względu na (styl oficjalny).\nW związku z + narzędnik — w związku z.\nZ powodu + dopełniacz — z powodu.\n\n🔑 Różnice:\n• Ze względu na + biernik: ze względu na sytuację\n• W związku z + narzędnik: w związku z sytuacją\n• Z powodu + dopełniacz: z powodu sytuacji\n\nTu \"trudną sytuację\" — biernik, więc ze względu na.\n\n• B) \"W związku z\" — wymaga narzędnika (w związku z trudną sytuacją)\n• C) \"Z powodu\" — wymaga dopełniacza (z powodu trudnej sytuacji)\n• D) \"Dzięki\" — dzięki (pozytywnie)",
+    "topic": "Przyimki — złożone (ze względu na, w związku z)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_PRZYIMKI_002",
+    "source": "pdf",
+    "question": "Szliśmy _______ rzeki, podziwiając krajobraz.",
+    "options": [
+      {
+        "label": "A",
+        "text": "poprzez"
+      },
+      {
+        "label": "B",
+        "text": "wokół"
+      },
+      {
+        "label": "C",
+        "text": "wzdłuż"
+      },
+      {
+        "label": "D",
+        "text": "przez"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Wzdłuż + dopełniacz — вдоль: wzdłuż rzeki.\nWokół + dopełniacz — вокруг: wokół jeziora.\nPoprzez + biernik — через (книжн.): poprzez las.\n\n🔑 Przyimki kierunku/położenia:\n• wzdłuż rzeki — вдоль реки (параллельно)\n• wokół jeziora — вокруг озера (по кругу)\n• poprzez las — через лес (насквозь, книжн.)\n• przez las — через лес (насквозь, нейтр.)\n\n• A) \"poprzez rzeki\" — через реки (книжн., не подходит)\n• B) \"wokół rzeki\" — вокруг реки (по кругу)\n• D) \"przez rzeki\" — через реки (пересекая)",
+    "explanationPl": "Wzdłuż + dopełniacz — wzdłuż: wzdłuż rzeki.\nWokół + dopełniacz — wokół: wokół jeziora.\nPoprzez + biernik — poprzez (książk.): poprzez las.\n\n🔑 Przyimki kierunku/położenia:\n• wzdłuż rzeki — wzdłuż rzeki (równolegle)\n• wokół jeziora — wokół jeziora (dookoła)\n• poprzez las — poprzez las (na wskroś, książk.)\n• przez las — przez las (na wskroś, neutr.)\n\n• A) \"poprzez rzeki\" — poprzez rzeki (książk., nie pasuje)\n• B) \"wokół rzeki\" — wokół rzeki (dookoła)\n• D) \"przez rzeki\" — przez rzeki (przecinając)",
+    "topic": "Przyimki — wzdłuż vs wokół vs poprzez",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_PRZYIMKI_009",
+    "source": "pdf",
+    "question": "Lampa wisi _______ stołem.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pod"
+      },
+      {
+        "label": "B",
+        "text": "przy"
+      },
+      {
+        "label": "C",
+        "text": "nad"
+      },
+      {
+        "label": "D",
+        "text": "za"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Nad — над (выше): nad stołem.\nPod — под (ниже): pod stołem.\n\n🔑 Nad vs pod (położenie):\n• lampa wisi nad stołem — лампа висит над столом\n• kot śpi pod stołem — кот спит под столом\n\n• A) \"pod stołem\" — под столом (лампа не может висеть под)\n• B) \"przy stole\" — около стола (рядом)\n• D) \"za stołem\" — за столом (сзади)",
+    "explanationPl": "Nad — nad (wyżej): nad stołem.\nPod — pod (niżej): pod stołem.\n\n🔑 Nad vs pod (położenie):\n• lampa wisi nad stołem — lampa wisi nad stołem\n• kot śpi pod stołem — kot śpi pod stołem\n\n• A) \"pod stołem\" — pod stołem (lampa nie może wisieć pod)\n• B) \"przy stole\" — przy stole (obok)\n• D) \"za stołem\" — za stołem (z tyłu)",
+    "topic": "Przyimki — pod vs nad (położenie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_010",
+    "source": "pdf",
+    "question": "Usiadłem _______ dwoma kolegami.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wśród"
+      },
+      {
+        "label": "B",
+        "text": "między"
+      },
+      {
+        "label": "C",
+        "text": "pośród"
+      },
+      {
+        "label": "D",
+        "text": "przy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Między — между (двумя объектами): między + narzędnik.\nWśród/pośród — среди (многих): wśród + dopełniacz.\n\n🔑 Między vs wśród:\n• między dwoma kolegami — между двумя коллегами\n• wśród kolegów — среди коллег (много)\n\n• A) \"wśród dwoma\" — неправильный падеж (wśród + dopełniacz)\n• C) \"pośród dwoma\" — неправильный падеж (pośród + dopełniacz)\n• D) \"przy dwoma\" — около двух (рядом)",
+    "explanationPl": "Między — między (dwoma obiektami): między + narzędnik.\nWśród/pośród — wśród (wielu): wśród + dopełniacz.\n\n🔑 Między vs wśród:\n• między dwoma kolegami — między dwoma kolegami\n• wśród kolegów — wśród kolegów (wielu)\n\n• A) \"wśród dwoma\" — błędny przypadek (wśród + dopełniacz)\n• C) \"pośród dwoma\" — błędny przypadek (pośród + dopełniacz)\n• D) \"przy dwoma\" — przy dwóch (obok)",
+    "topic": "Przyimki — między vs wśród (położenie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_011",
+    "source": "pdf",
+    "question": "Sklep znajduje się _______ banku, po drugiej stronie ulicy.",
+    "options": [
+      {
+        "label": "A",
+        "text": "naprzeciwko"
+      },
+      {
+        "label": "B",
+        "text": "obok"
+      },
+      {
+        "label": "C",
+        "text": "koło"
+      },
+      {
+        "label": "D",
+        "text": "przy"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Naprzeciwko — напротив (на другой стороне).\nObok/koło/przy — рядом (на той же стороне).\n\n🔑 Контекст \"по другой стороне улицы\" указывает на naprzeciwko.\n\n• B) \"obok\" — рядом (на той же стороне)\n• C) \"koło\" — около (на той же стороне)\n• D) \"przy\" — у (на той же стороне)",
+    "explanationPl": "Naprzeciwko — naprzeciwko (po drugiej stronie).\nObok/koło/przy — obok (po tej samej stronie).\n\n🔑 Kontekst \"po drugiej stronie ulicy\" wskazuje na naprzeciwko.\n\n• B) \"obok\" — obok (po tej samej stronie)\n• C) \"koło\" — koło (po tej samej stronie)\n• D) \"przy\" — przy (po tej samej stronie)",
+    "topic": "Przyimki — obok vs naprzeciwko (położenie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_012",
+    "source": "pdf",
+    "question": "Zostawiliśmy bagaże _______ samochodu.",
+    "options": [
+      {
+        "label": "A",
+        "text": "na zewnątrz"
+      },
+      {
+        "label": "B",
+        "text": "obok"
+      },
+      {
+        "label": "C",
+        "text": "wewnątrz"
+      },
+      {
+        "label": "D",
+        "text": "przy"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Wewnątrz — внутри (в середине).\nNa zewnątrz — снаружи.\n\n🔑 Багаж оставляют внутри машины → wewnątrz samochodu.\n\n• A) \"na zewnątrz\" — снаружи (не типично для багажа)\n• B) \"obok\" — рядом (не внутри)\n• D) \"przy\" — у (не внутри)",
+    "explanationPl": "Wewnątrz — wewnątrz (w środku).\nNa zewnątrz — na zewnątrz.\n\n🔑 Bagaże zostawia się wewnątrz samochodu → wewnątrz samochodu.\n\n• A) \"na zewnątrz\" — na zewnątrz (nietypowe dla bagażu)\n• B) \"obok\" — obok (nie wewnątrz)\n• D) \"przy\" — przy (nie wewnątrz)",
+    "topic": "Przyimki — wewnątrz vs na zewnątrz",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_013",
+    "source": "pdf",
+    "question": "_______ twojej pomocy udało mi się zdać egzamin.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Z powodu"
+      },
+      {
+        "label": "B",
+        "text": "Dzięki"
+      },
+      {
+        "label": "C",
+        "text": "Przez"
+      },
+      {
+        "label": "D",
+        "text": "Wskutek"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Dzięki — благодаря (положительная причина).\nZ powodu/przez — из-за (часто негативная причина).\nWskutek — вследствие (формально, нейтрально).\n\n🔑 Успех (здать экзамен) = положительный результат → dzięki.\n\n• A) \"Z powodu\" — из-за (нейтрально/негативно)\n• C) \"Przez\" — из-за (негативно)\n• D) \"Wskutek\" — вследствие (формально, нейтрально)",
+    "explanationPl": "Dzięki — dzięki (pozytywna przyczyna).\nZ powodu/przez — z powodu (często negatywna przyczyna).\nWskutek — wskutek (formalnie, neutralnie).\n\n🔑 Sukces (zdać egzamin) = pozytywny rezultat → dzięki.\n\n• A) \"Z powodu\" — z powodu (neutralnie/negatywnie)\n• C) \"Przez\" — przez (negatywnie)\n• D) \"Wskutek\" — wskutek (formalnie, neutralnie)",
+    "topic": "Przyimki — dzięki vs z powodu (przyczyna)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_014",
+    "source": "pdf",
+    "question": "_______ przepisom nie wolno tu parkować.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Według"
+      },
+      {
+        "label": "B",
+        "text": "Wbrew"
+      },
+      {
+        "label": "C",
+        "text": "Zdaniem"
+      },
+      {
+        "label": "D",
+        "text": "Dzięki"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Według — согласно (правилам, законам).\nWbrew — вопреки (нарушение).\n\n🔑 \"Не разрешается\" = согласно правилам → według przepisów.\n\n• B) \"Wbrew\" — вопреки (нарушение, не подходит)\n• C) \"Zdaniem\" — по мнению (для людей, не правил)\n• D) \"Dzięki\" — благодаря (не подходит по смыслу)",
+    "explanationPl": "Według — według (przepisów, zasad).\nWbrew — wbrew (naruszenie).\n\n🔑 \"Nie wolno\" = według przepisów → według przepisów.\n\n• B) \"Wbrew\" — wbrew (naruszenie, nie pasuje)\n• C) \"Zdaniem\" — zdaniem (dla osób, nie przepisów)\n• D) \"Dzięki\" — dzięki (nie pasuje znaczeniowo)",
+    "topic": "Przyimki — według vs wbrew",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_015",
+    "source": "pdf",
+    "question": "Który przyimek jest najbardziej neutralny w języku codziennym?\n\"Wszyscy przyszli _______ Marka.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "bez"
+      },
+      {
+        "label": "B",
+        "text": "oprócz"
+      },
+      {
+        "label": "C",
+        "text": "poza"
+      },
+      {
+        "label": "D",
+        "text": "mimo"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Oprócz — кроме (исключение из группы) — наиболее нейтральная форма.\nPoza — кроме (более книжно/официально).\nBez — без (другое значение).\n\n🔑 В разговорном языке oprócz — наиболее частотная и нейтральная форма.\n\n• A) \"bez\" — другое значение (отсутствие, не исключение)\n• C) \"poza\" — книжно/официально, не нейтрально\n• D) \"mimo\" — несмотря на (другое значение)",
+    "explanationPl": "Oprócz — oprócz (wyłączenie z grupy) — najbardziej neutralna forma.\nPoza — oprócz (bardziej książkowo/oficjalnie).\nBez — bez (inne znaczenie).\n\n🔑 W języku codziennym oprócz — najbardziej częsta i neutralna forma.\n\n• A) \"bez\" — inne znaczenie (brak, nie wyłączenie)\n• C) \"poza\" — książkowo/oficjalnie, nie neutralnie\n• D) \"mimo\" — mimo (inne znaczenie)",
+    "topic": "Przyimki — bez vs oprócz vs poza",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_PRZYIMKI_016",
+    "source": "pdf",
+    "question": "_______ kawy wypiję herbatę.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Zamiast"
+      },
+      {
+        "label": "B",
+        "text": "W miejsce"
+      },
+      {
+        "label": "C",
+        "text": "Na miejsce"
+      },
+      {
+        "label": "D",
+        "text": "Zamiast i w miejsce"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Zamiast — вместо (замена): zamiast kawy.\nW miejsce — на место (формальный стиль, реже используется с напитками).\n\n🔑 Zamiast vs w miejsce:\n• zamiast kawy — вместо кофе (нейтрально)\n• w miejsce dyrektora — на место директора (формально)\n\n• B) \"W miejsce kawy\" — слишком формально для напитков\n• C) \"Na miejsce kawy\" — неправильно\n• D) Не оба варианта одинаково естественны",
+    "explanationPl": "Zamiast — zamiast (zamiana): zamiast kawy.\nW miejsce — w miejsce (styl formalny, rzadziej z napojami).\n\n🔑 Zamiast vs w miejsce:\n• zamiast kawy — zamiast kawy (neutralnie)\n• w miejsce dyrektora — w miejsce dyrektora (formalnie)\n\n• B) \"W miejsce kawy\" — zbyt formalnie dla napojów\n• C) \"Na miejsce kawy\" — błędnie\n• D) Nie oba warianty są jednakowo naturalne",
+    "topic": "Przyimki — zamiast vs w miejsce",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_PRZYIMKI_003",
+    "source": "pdf",
+    "question": "_______ uzyskania wizy należy złożyć wniosek.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dla"
+      },
+      {
+        "label": "B",
+        "text": "W celu"
+      },
+      {
+        "label": "C",
+        "text": "Celem"
+      },
+      {
+        "label": "D",
+        "text": "B i C są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "W celu + dopełniacz — с целью (формальный стиль).\nCelem + dopełniacz — с целью (очень формальный, канцелярский стиль).\nDla — для (не подходит перед rzeczownikiem odczasownikowym).\n\n🔑 W celu vs celem:\n• w celu uzyskania wizy — с целью получения визы\n• celem uzyskania wizy — с целью получения визы (канцелярит)\n\nОба варианта (B и C) грамматически корректны в официальном контексте.\n\n• A) \"Dla uzyskania\" — неправильно (dla + osoba/rzecz, не czynność)",
+    "explanationPl": "W celu + dopełniacz — w celu (styl formalny).\nCelem + dopełniacz — celem (bardzo formalny, styl urzędowy).\nDla — dla (nie pasuje przed rzeczownikiem odczasownikowym).\n\n🔑 W celu vs celem:\n• w celu uzyskania wizy — w celu uzyskania wizy\n• celem uzyskania wizy — celem uzyskania wizy (urzędowo)\n\nOba warianty (B i C) są gramatycznie poprawne w oficjalnym kontekście.\n\n• A) \"Dla uzyskania\" — błędnie (dla + osoba/rzecz, nie czynność)",
+    "topic": "Przyimki — celem vs w celu vs dla",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_PRZYIMKI_004",
+    "source": "pdf",
+    "question": "Jego zachowanie _______ rodziców było nieodpowiednie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "wobec"
+      },
+      {
+        "label": "B",
+        "text": "względem"
+      },
+      {
+        "label": "C",
+        "text": "w stosunku do"
+      },
+      {
+        "label": "D",
+        "text": "Wszystkie są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Wobec, względem, w stosunku do — все означают \"по отношению к\" и могут использоваться взаимозаменяемо в контексте поведения.\n\n🔑 Wobec vs względem vs w stosunku do:\n• zachowanie wobec rodziców — поведение по отношению к родителям\n• zachowanie względem rodziców — поведение по отношению к родителям\n• zachowanie w stosunku do rodziców — поведение по отношению к родителям\n\nВсе три варианта грамматически корректны и естественны.",
+    "explanationPl": "Wobec, względem, w stosunku do — wszystkie oznaczają \"wobec\" i mogą być używane zamiennie w kontekście zachowania.\n\n🔑 Wobec vs względem vs w stosunku do:\n• zachowanie wobec rodziców — zachowanie wobec rodziców\n• zachowanie względem rodziców — zachowanie względem rodziców\n• zachowanie w stosunku do rodziców — zachowanie w stosunku do rodziców\n\nWszystkie trzy warianty są gramatycznie poprawne i naturalne.",
+    "topic": "Przyimki — wobec vs względem vs w stosunku do",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_SPOJNIKI_001",
+    "source": "pdf",
+    "question": "Chcę, _______ mi pomogła.",
+    "options": [
+      {
+        "label": "A",
+        "text": "żebyś"
+      },
+      {
+        "label": "B",
+        "text": "że"
+      },
+      {
+        "label": "C",
+        "text": "żeby"
+      },
+      {
+        "label": "D",
+        "text": "aby"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Żebyś — чтобы ты (желание + личная форма).\nŻeby — чтобы (без личной формы, требует отдельного подлежащего).\n\n🔑 Chcieć + żebyś/żebyście/żeby:\n• Chcę, żebyś mi pomogła. — Хочу, чтобы ты мне помогла.\n• Chcę, żeby ona mi pomogła. — Хочу, чтобы она мне помогла.\n\n• B) \"że\" — для сообщения факта, не желания\n• C) \"żeby\" — требует отдельного подлежащего (żeby ona)\n• D) \"aby\" — то же, что żeby, но без личной формы",
+    "explanationPl": "Żebyś — żebyś (pragnienie + forma osobowa).\nŻeby — żeby (bez formy osobowej, wymaga oddzielnego podmiotu).\n\n🔑 Chcieć + żebyś/żebyście/żeby:\n• Chcę, żebyś mi pomogła. — Chcę, żebyś mi pomogła.\n• Chcę, żeby ona mi pomogła. — Chcę, żeby ona mi pomogła.\n\n• B) \"że\" — dla przekazania faktu, nie pragnienia\n• C) \"żeby\" — wymaga oddzielnego podmiotu (żeby ona)\n• D) \"aby\" — to samo co żeby, ale bez formy osobowej",
+    "topic": "Spójniki — żeby vs że (cel vs treść)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_002",
+    "source": "pdf",
+    "question": "Która forma jest bardziej potoczna?\n\"_______ padał deszcz, poszliśmy na spacer.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chociaż"
+      },
+      {
+        "label": "B",
+        "text": "Mimo że"
+      },
+      {
+        "label": "C",
+        "text": "Choć"
+      },
+      {
+        "label": "D",
+        "text": "Pomimo że"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Choć — сокращённая, разговорная форма \"chociaż\".\nChociaż — нейтральная форма.\nMimo że/pomimo że — более формальные формы.\n\n🔑 Регистры:\n• choć — разговорно (potocznie)\n• chociaż — нейтрально\n• mimo że/pomimo że — формально\n\n• A) \"Chociaż\" — нейтрально\n• B) \"Mimo że\" — формально\n• D) \"Pomimo że\" — формально",
+    "explanationPl": "Choć — skrócona, potoczna forma \"chociaż\".\nChociaż — neutralna forma.\nMimo że/pomimo że — bardziej formalne formy.\n\n🔑 Rejestry:\n• choć — potocznie\n• chociaż — neutralnie\n• mimo że/pomimo że — formalnie\n\n• A) \"Chociaż\" — neutralnie\n• B) \"Mimo że\" — formalnie\n• D) \"Pomimo że\" — formalnie",
+    "topic": "Spójniki — chociaż vs choć (przyzwolenie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_003",
+    "source": "pdf",
+    "question": "Nie poszedłem na imprezę, _______ byłem chory.",
+    "options": [
+      {
+        "label": "A",
+        "text": "bo"
+      },
+      {
+        "label": "B",
+        "text": "ponieważ"
+      },
+      {
+        "label": "C",
+        "text": "dlatego że"
+      },
+      {
+        "label": "D",
+        "text": "A, B i C są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Bo, ponieważ, dlatego że — все три союза грамматически корректны в этом предложении.\n\n🔑 Различия стилистические:\n• bo — нейтрально, разговорно\n• ponieważ — более формально\n• dlatego że — более формально\n\nВсе три варианта выражают причину и взаимозаменяемы.",
+    "explanationPl": "Bo, ponieważ, dlatego że — wszystkie trzy spójniki są gramatycznie poprawne w tym zdaniu.\n\n🔑 Różnice stylistyczne:\n• bo — neutralnie, potocznie\n• ponieważ — bardziej formalnie\n• dlatego że — bardziej formalnie\n\nWszystkie trzy warianty wyrażają przyczynę i są zamienne.",
+    "topic": "Spójniki — bo vs ponieważ vs dlatego że (przyczyna)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_004",
+    "source": "pdf",
+    "question": "Byłem zmęczony, _______ poszedłem spać wcześniej.",
+    "options": [
+      {
+        "label": "A",
+        "text": "więc"
+      },
+      {
+        "label": "B",
+        "text": "dlatego"
+      },
+      {
+        "label": "C",
+        "text": "zatem"
+      },
+      {
+        "label": "D",
+        "text": "A, B i C są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Więc, dlatego, zatem — все три союза грамматически корректны в этом предложении.\n\n🔑 Различия стилистические:\n• więc — нейтрально, разговорно\n• dlatego — универсально\n• zatem — более формально\n\nВсе три варианта выражают следствие и взаимозаменяемы.",
+    "explanationPl": "Więc, dlatego, zatem — wszystkie trzy spójniki są gramatycznie poprawne w tym zdaniu.\n\n🔑 Różnice stylistyczne:\n• więc — neutralnie, potocznie\n• dlatego — uniwersalnie\n• zatem — bardziej formalnie\n\nWszystkie trzy warianty wyrażają skutek i są zamienne.",
+    "topic": "Spójniki — więc vs dlatego vs zatem (skutek)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_005",
+    "source": "pdf",
+    "question": "_______ będziesz miał czas, zadzwoń do mnie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jeśli"
+      },
+      {
+        "label": "B",
+        "text": "Jeżeli"
+      },
+      {
+        "label": "C",
+        "text": "Gdy"
+      },
+      {
+        "label": "D",
+        "text": "Wszystkie są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Jeśli, jeżeli, gdy — все могут выражать условие и использоваться взаимозаменяемо в данном контексте.\n\n🔑 Jeśli vs jeżeli vs gdy:\n• jeśli będziesz miał czas — если будешь иметь время\n• jeżeli będziesz miał czas — если будешь иметь время\n• gdy będziesz miał czas — когда/если будешь иметь время\n\nВсе три варианта грамматически корректны для выражения условия.",
+    "explanationPl": "Jeśli, jeżeli, gdy — wszystkie mogą wyrażać warunek i być używane zamiennie w tym kontekście.\n\n🔑 Jeśli vs jeżeli vs gdy:\n• jeśli będziesz miał czas — jeśli będziesz miał czas\n• jeżeli będziesz miał czas — jeżeli będziesz miał czas\n• gdy będziesz miał czas — gdy będziesz miał czas\n\nWszystkie trzy warianty są gramatycznie poprawne dla wyrażenia warunku.",
+    "topic": "Spójniki — jeśli vs jeżeli vs gdy (warunek)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_006",
+    "source": "pdf",
+    "question": "Nie lubię _______ kawy, _______ herbaty.",
+    "options": [
+      {
+        "label": "A",
+        "text": "albo...albo"
+      },
+      {
+        "label": "B",
+        "text": "czy...czy"
+      },
+      {
+        "label": "C",
+        "text": "ani...ani"
+      },
+      {
+        "label": "D",
+        "text": "lub...lub"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Ani...ani — ни...ни (отрицание двух элементов).\nAlbo...albo — или...или (выбор).\nCzy...czy — или...или (вопрос/неуверенность).\n\n🔑 Ani...ani в отрицательных предложениях:\n• Nie lubię ani kawy, ani herbaty. — Я не люблю ни кофе, ни чая.\n\n• A) \"albo...albo\" — для выбора, не отрицания\n• B) \"czy...czy\" — для вопросов/неуверенности\n• D) \"lub...lub\" — не используется парно",
+    "explanationPl": "Ani...ani — ani...ani (zaprzeczenie dwóch elementów).\nAlbo...albo — albo...albo (wybór).\nCzy...czy — czy...czy (pytanie/niepewność).\n\n🔑 Ani...ani w zdaniach przeczących:\n• Nie lubię ani kawy, ani herbaty. — Nie lubię ani kawy, ani herbaty.\n\n• A) \"albo...albo\" — dla wyboru, nie zaprzeczenia\n• B) \"czy...czy\" — dla pytań/niepewności\n• D) \"lub...lub\" — nie używa się parami",
+    "topic": "Spójniki — ani...ani vs albo...albo vs czy...czy",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_007",
+    "source": "pdf",
+    "question": "_______ Marek, _______ Anna zdali egzamin.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nie tylko...ale też"
+      },
+      {
+        "label": "B",
+        "text": "Zarówno...jak i"
+      },
+      {
+        "label": "C",
+        "text": "Czy...czy"
+      },
+      {
+        "label": "D",
+        "text": "Albo...albo"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Zarówno...jak i — как...так и (оба элемента равнозначны).\nNie tylko...ale też — не только...но и (второй элемент добавляется).\n\n🔑 Zarówno...jak i:\n• Zarówno Marek, jak i Anna zdali egzamin. — Как Марек, так и Анна сдали экзамен.\n\n• A) \"Nie tylko...ale też\" — возможно, но подчёркивает добавление\n• C) \"Czy...czy\" — для вопросов/неуверенности\n• D) \"Albo...albo\" — для выбора одного из двух",
+    "explanationPl": "Zarówno...jak i — zarówno...jak i (oba elementy równorzędne).\nNie tylko...ale też — nie tylko...ale też (drugi element dodawany).\n\n🔑 Zarówno...jak i:\n• Zarówno Marek, jak i Anna zdali egzamin. — Zarówno Marek, jak i Anna zdali egzamin.\n\n• A) \"Nie tylko...ale też\" — możliwe, ale podkreśla dodanie\n• C) \"Czy...czy\" — dla pytań/niepewności\n• D) \"Albo...albo\" — dla wyboru jednego z dwóch",
+    "topic": "Spójniki — zarówno...jak i vs nie tylko...ale też",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_SPOJNIKI_008",
+    "source": "pdf",
+    "question": "_______ nie skończysz pracy, nie wyjdziesz.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Zanim"
+      },
+      {
+        "label": "B",
+        "text": "Dopóki"
+      },
+      {
+        "label": "C",
+        "text": "Nim"
+      },
+      {
+        "label": "D",
+        "text": "Kiedy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Dopóki — пока (не) (длительность до момента).\nZanim/nim — прежде чем (предшествование).\n\n🔑 Dopóki vs zanim:\n• Dopóki nie skończysz — пока не закончишь (условие продолжения)\n• Zanim skończysz — прежде чем закончишь (предшествование)\n\nВ данном контексте \"dopóki nie\" — условие: пока не закончишь, не выйдешь.\n\n• A) \"Zanim\" — требует другой конструкции (zanim skończysz)\n• C) \"Nim\" — то же, что zanim (nim skończysz)\n• D) \"Kiedy\" — когда (не подходит по смыслу)",
+    "explanationPl": "Dopóki — dopóki (nie) (trwanie do momentu).\nZanim/nim — zanim (poprzedzanie).\n\n🔑 Dopóki vs zanim:\n• Dopóki nie skończysz — dopóki nie skończysz (warunek kontynuacji)\n• Zanim skończysz — zanim skończysz (poprzedzanie)\n\nW tym kontekście \"dopóki nie\" — warunek: dopóki nie skończysz, nie wyjdziesz.\n\n• A) \"Zanim\" — wymaga innej konstrukcji (zanim skończysz)\n• C) \"Nim\" — to samo co zanim (nim skończysz)\n• D) \"Kiedy\" — kiedy (nie pasuje znaczeniowo)",
+    "topic": "Spójniki — dopóki vs zanim vs nim (czas)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_SPOJNIKI_001",
+    "source": "pdf",
+    "question": "Które spójniki wyrażają WARUNEK POZYTYWNY?\n\"Przyjdę na spotkanie, _______ nie będę musiał pracować.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "o ile"
+      },
+      {
+        "label": "B",
+        "text": "pod warunkiem że"
+      },
+      {
+        "label": "C",
+        "text": "jeśli tylko"
+      },
+      {
+        "label": "D",
+        "text": "A i B są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "O ile и pod warunkiem że — оба выражают положительное условие и взаимозаменяемы.\nJeśli tylko — также выражает условие, но с другим оттенком.\n\n🔑 Положительное условие:\n• o ile nie będę musiał — если только не буду должен\n• pod warunkiem że nie będę musiał — при условии что не буду должен\n\nОба варианта (A и B) корректны и взаимозаменяемы.\n\n• C) \"jeśli tylko\" — выражает условие, но с другим оттенком (\"если только\" в смысле \"лишь бы\")",
+    "explanationPl": "O ile i pod warunkiem że — oba wyrażają warunek pozytywny i są zamienne.\nJeśli tylko — też wyraża warunek, ale z innym odcieniem.\n\n🔑 Warunek pozytywny:\n• o ile nie będę musiał — o ile nie będę musiał\n• pod warunkiem że nie będę musiał — pod warunkiem że nie będę musiał\n\nOba warianty (A i B) są poprawne i zamienne.\n\n• C) \"jeśli tylko\" — wyraża warunek, ale z innym odcieniem (\"jeśli tylko\" w sensie \"byleby\")",
+    "topic": "Spójniki — o ile vs pod warunkiem że vs chyba że",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_SPOJNIKI_002",
+    "source": "pdf",
+    "question": "Która forma jest typowym spójnikiem zdaniowym W TEJ POZYCJI (po przecinku)?\n\"Projekt był trudny, _______ udało nam się go ukończyć na czas.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "aczkolwiek"
+      },
+      {
+        "label": "B",
+        "text": "jakkolwiek"
+      },
+      {
+        "label": "C",
+        "text": "niemniej jednak"
+      },
+      {
+        "label": "D",
+        "text": "choć"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "Niemniej jednak — тем не менее (типичный союз после запятой).\nAczkolwiek/jakkolwiek — хотя (требуют позиции в начале предложения).\nChoć — хотя (также требует начальной позиции).\n\n🔑 Позиция в предложении:\n• Aczkolwiek projekt był trudny, udało nam się... — в начале\n• Projekt był trudny, niemniej jednak udało nam się... — после запятой\n\n• A) \"aczkolwiek\" — требует начальной позиции\n• B) \"jakkolwiek\" — требует начальной позиции\n• D) \"choć\" — требует начальной позиции",
+    "explanationPl": "Niemniej jednak — niemniej jednak (typowy spójnik po przecinku).\nAczkolwiek/jakkolwiek — aczkolwiek (wymagają pozycji na początku zdania).\nChoć — choć (też wymaga pozycji początkowej).\n\n🔑 Pozycja w zdaniu:\n• Aczkolwiek projekt był trudny, udało nam się... — na początku\n• Projekt był trudny, niemniej jednak udało nam się... — po przecinku\n\n• A) \"aczkolwiek\" — wymaga pozycji początkowej\n• B) \"jakkolwiek\" — wymaga pozycji początkowej\n• D) \"choć\" — wymaga pozycji początkowej",
+    "topic": "Spójniki — aczkolwiek vs niemniej jednak",
+    "difficulty": "very high"
   }
 ]
