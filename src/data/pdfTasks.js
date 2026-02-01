@@ -7530,4 +7530,365 @@ Obie formy są poprawne gramatycznie, choć "mówi się" jest znacznie częstsza
     topic: "Strona bierna — imiesłów bierny nieregularny",
     difficulty: "very high"
   }
+,
+  {
+    id: "B1_ASPEKT_007",
+    source: "pdf",
+    question: "Który czasownik jest NIEDOKONANY?",
+    options: [
+      { label: "A", text: "napisać" },
+      { label: "B", text: "przeczytać" },
+      { label: "C", text: "czytać" },
+      { label: "D", text: "zrobić" },
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Niedokonany** (несовершенный вид) — обозначает процесс, действие в развитии.
+**Dokonany** (совершенный вид) — обозначает завершённое действие.
+
+🔑 Rozpoznawanie aspektu:
+• **czytać** — niedokonany (читать — процесс)
+• **przeczytać** — dokonany (прочитать — результат)
+
+• A) "napisać" — dokonany (написать)
+• B) "przeczytać" — dokonany (прочитать)
+• D) "zrobić" — dokonany (сделать)`,
+    explanationPl: `**Niedokonany** — oznacza proces, czynność w trakcie.
+**Dokonany** — oznacza czynność zakończoną.
+
+🔑 Rozpoznawanie aspektu:
+• **czytać** — niedokonany (proces)
+• **przeczytać** — dokonany (rezultat)
+
+• A) "napisać" — dokonany
+• B) "przeczytać" — dokonany
+• D) "zrobić" — dokonany`,
+    topic: "Aspekt czasownika — rozpoznawanie aspektu",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_008",
+    source: "pdf",
+    question: "Jaka jest para aspektowa dla \"pisać\"?",
+    options: [
+      { label: "A", text: "napisać" },
+      { label: "B", text: "przepisać" },
+      { label: "C", text: "wypisać" },
+      { label: "D", text: "zapisać" },
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Para aspektowa** — пара глаголов, различающихся только видом.
+
+🔑 Pary aspektowe:
+• **pisać** (niedok.) → **napisać** (dok.) — писать/написать
+• przepisać — переписать (другое значение)
+• wypisać — выписать (другое значение)
+• zapisać — записать (другое значение)
+
+• B) "przepisać" — другое значение (переписать, скопировать)
+• C) "wypisać" — другое значение (выписать)
+• D) "zapisać" — другое значение (записать, сохранить)`,
+    explanationPl: `**Para aspektowa** — para czasowników różniących się tylko aspektem.
+
+🔑 Pary aspektowe:
+• **pisać** (niedok.) → **napisać** (dok.)
+• przepisać — inne znaczenie (skopiować)
+• wypisać — inne znaczenie (wypisać)
+• zapisać — inne znaczenie (zapisać, zachować)
+
+• B) "przepisać" — inne znaczenie (skopiować)
+• C) "wypisać" — inne znaczenie
+• D) "zapisać" — inne znaczenie (zachować)`,
+    topic: "Aspekt czasownika — pary aspektowe",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_009",
+    source: "pdf",
+    question: "Wczoraj cały dzień _______ książkę.\n(Która forma jest poprawna dla czynności trwającej?)",
+    options: [
+      { label: "A", text: "przeczytałem" },
+      { label: "B", text: "czytałem" },
+      { label: "C", text: "przeczytam" },
+      { label: "D", text: "czytam" },
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Czynność trwająca** (длительное действие) требует **niedokonany**.
+
+🔑 Aspekt w czasie przeszłym:
+• "cały dzień" — указывает на длительность → niedokonany
+• **czytałem** — читал (процесс)
+• **przeczytałem** — прочитал (результат)
+
+• A) "przeczytałem" — dokonany, не подходит для "cały dzień"
+• C) "przeczytam" — czas przyszły, nie przeszły
+• D) "czytam" — czas teraźniejszy, nie przeszły`,
+    explanationPl: `**Czynność trwająca** wymaga **niedokonanego**.
+
+🔑 Aspekt w czasie przeszłym:
+• "cały dzień" — wskazuje na trwanie → niedokonany
+• **czytałem** — czytałem (proces)
+• **przeczytałem** — przeczytałem (rezultat)
+
+• A) "przeczytałem" — dokonany, nie pasuje do "cały dzień"
+• C) "przeczytam" — czas przyszły, nie przeszły
+• D) "czytam" — czas teraźniejszy, nie przeszły`,
+    topic: "Aspekt czasownika — aspekt w czasie przeszłym",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_010",
+    source: "pdf",
+    question: "Jutro _______ ten raport do końca.\n(Która forma wyraża zakończenie czynności?)",
+    options: [
+      { label: "A", text: "będę pisać" },
+      { label: "B", text: "będę pisał" },
+      { label: "C", text: "piszę" },
+      { label: "D", text: "napiszę" },
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Zakończenie czynności** (завершение действия) требует **dokonany**.
+
+🔑 Aspekt w czasie przyszłym:
+• "do końca" — указывает на результат → dokonany
+• **napiszę** — напишу (результат, dokonany)
+• **będę pisać/pisał** — буду писать (процесс, niedokonany)
+
+• A) "będę pisać" — niedokonany, процесс
+• B) "będę pisał" — niedokonany, процесс
+• C) "piszę" — czas teraźniejszy (хотя может означать запланированное будущее)`,
+    explanationPl: `**Zakończenie czynności** wymaga **dokonanego**.
+
+🔑 Aspekt w czasie przyszłym:
+• "do końca" — wskazuje na rezultat → dokonany
+• **napiszę** — napiszę (rezultat, dokonany)
+• **będę pisać/pisał** — będę pisać (proces, niedokonany)
+
+• A) "będę pisać" — niedokonany, proces
+• B) "będę pisał" — niedokonany, proces
+• C) "piszę" — czas teraźniejszy (choć może oznaczać zaplanowaną przyszłość)`,
+    topic: "Aspekt czasownika — aspekt w czasie przyszłym",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_011",
+    source: "pdf",
+    question: "Który prefiks tworzy parę aspektową dla \"robić\"?",
+    options: [
+      { label: "A", text: "z- (zrobić)" },
+      { label: "B", text: "prze- (przerobić)" },
+      { label: "C", text: "wy- (wyrobić)" },
+      { label: "D", text: "do- (dorobić)" },
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Prefiks aspektowy** — приставка, которая только меняет вид, не меняя значения.
+
+🔑 Prefiksy aspektowe:
+• **robić** → **zrobić** — делать/сделать (только вид)
+• przerobić — переделать (другое значение)
+• wyrobić — выработать (другое значение)
+• dorobić — доработать (другое значение)
+
+• B) "przerobić" — изменяет значение (переделать)
+• C) "wyrobić" — изменяет значение (выработать)
+• D) "dorobić" — изменяет значение (доработать, подработать)`,
+    explanationPl: `**Prefiks aspektowy** — przedrostek, który tylko zmienia aspekt, nie zmieniając znaczenia.
+
+🔑 Prefiksy aspektowe:
+• **robić** → **zrobić** — tylko aspekt
+• przerobić — inne znaczenie (przerobić)
+• wyrobić — inne znaczenie (wyrobić)
+• dorobić — inne znaczenie (dorobić)
+
+• B) "przerobić" — zmienia znaczenie
+• C) "wyrobić" — zmienia znaczenie
+• D) "dorobić" — zmienia znaczenie`,
+    topic: "Aspekt czasownika — prefiksy aspektowe",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_012",
+    source: "pdf",
+    question: "Codziennie _______ kawę rano.\n(Która forma jest poprawna dla czynności powtarzającej się?)",
+    options: [
+      { label: "A", text: "wypiję" },
+      { label: "B", text: "piję" },
+      { label: "C", text: "napiję się" },
+      { label: "D", text: "pijam" },
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Czynność powtarzająca się** (повторяющееся действие) требует **niedokonany**.
+
+🔑 Aspekt z przysłówkami częstotliwości:
+• "codziennie" — указывает на повторяемость → niedokonany
+• **piję** — пью (niedokonany, powtarzające się)
+• **wypiję** — выпью (dokonany, jednorazowe)
+
+• A) "wypiję" — dokonany, jednorazowe
+• C) "napiję się" — dokonany, jednorazowe
+• D) "pijam" — forma niepoprawna (błąd koniugacji)`,
+    explanationPl: `**Czynność powtarzająca się** wymaga **niedokonanego**.
+
+🔑 Aspekt z przysłówkami częstotliwości:
+• "codziennie" — wskazuje na powtarzalność → niedokonany
+• **piję** — piję (niedokonany, powtarzające się)
+• **wypiję** — wypiję (dokonany, jednorazowe)
+
+• A) "wypiję" — dokonany, jednorazowe
+• C) "napiję się" — dokonany, jednorazowe
+• D) "pijam" — forma niepoprawna (błąd koniugacji)`,
+    topic: "Aspekt czasownika — aspekt z przysłówkami częstotliwości",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_013",
+    source: "pdf",
+    question: "Nie _______ jeszcze tej książki.\n(Która forma jest bardziej naturalna, gdy chodzi o brak doświadczenia?)",
+    options: [
+      { label: "A", text: "przeczytałem" },
+      { label: "B", text: "czytam" },
+      { label: "C", text: "czytałem" },
+      { label: "D", text: "przeczytam" },
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Czynność niezakończona** в прошлом с отрицанием может использовать **niedokonany**.
+
+🔑 Aspekt w przeczeniu:
+• "jeszcze" + przeczenie — указывает на незавершённость
+• **Nie czytałem** — ещё не читал (процесс не начинался/не завершился)
+• **Nie przeczytałem** — не прочитал (тоже возможно, но акцент на результат)
+
+⚠️ Когда говорим о браке опыта/знакомства, niedokonany более естественен (аналог англ. "I haven't read" vs "I didn't read").
+
+• A) "przeczytałem" — dokonany, акцент на результат
+• B) "czytam" — czas teraźniejszy
+• D) "przeczytam" — czas przyszły`,
+    explanationPl: `**Czynność niezakończona** w przeszłości z przeczeniem może używać **niedokonanego**.
+
+🔑 Aspekt w przeczeniu:
+• "jeszcze" + przeczenie — wskazuje na niezakończoność
+• **Nie czytałem** — jeszcze nie czytałem (proces nie zaczął się)
+• **Nie przeczytałem** — nie przeczytałem (też możliwe, ale akcent na rezultat)
+
+⚠️ Gdy mówimy o braku doświadczenia, niedokonany jest bardziej naturalny (analogicznie do ang. "I haven't read" vs "I didn't read").
+
+• A) "przeczytałem" — dokonany, akcent na rezultat
+• B) "czytam" — czas teraźniejszy
+• D) "przeczytam" — czas przyszły`,
+    topic: "Aspekt czasownika — aspekt w przeczeniu",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_014",
+    source: "pdf",
+    question: "Kiedy _______ do domu, zadzwonię do ciebie.\n(Która forma wyraża zakończenie czynności przed drugą czynnością?)",
+    options: [
+      { label: "A", text: "wrócę" },
+      { label: "B", text: "wracam" },
+      { label: "C", text: "będę wracać" },
+      { label: "D", text: "wracałem" },
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Zakończenie przed drugą czynnością** требует **dokonany**.
+
+🔑 Aspekt w zdaniach złożonych:
+• "Kiedy wrócę" — когда вернусь (dokonany, завершённое действие)
+• "Kiedy wracam" — когда возвращаюсь (niedokonany, процесс)
+
+Контекст: сначала вернусь (завершу), потом позвоню → dokonany.
+
+• B) "wracam" — niedokonany, процесс (не подходит для последовательности)
+• C) "będę wracać" — niedokonany przyszły, процесс
+• D) "wracałem" — czas przeszły`,
+    explanationPl: `**Zakończenie przed drugą czynnością** wymaga **dokonanego**.
+
+🔑 Aspekt w zdaniach złożonych:
+• "Kiedy wrócę" — kiedy wrócę (dokonany, czynność zakończona)
+• "Kiedy wracam" — kiedy wracam (niedokonany, proces)
+
+Kontekst: najpierw wrócę (zakończę), potem zadzwonię → dokonany.
+
+• B) "wracam" — niedokonany, proces (nie pasuje do sekwencji)
+• C) "będę wracać" — niedokonany przyszły, proces
+• D) "wracałem" — czas przeszły`,
+    topic: "Aspekt czasownika — aspekt a kontekst",
+    difficulty: "high"
+  },
+  {
+    id: "B2_ASPEKT_001",
+    source: "pdf",
+    question: "Która forma jest poprawna po \"musieć\" w znaczeniu ogólnym (powtarzającym się)?\n„Codziennie muszę _______ do pracy.\"",
+    options: [
+      { label: "A", text: "pojechać" },
+      { label: "B", text: "jechać" },
+      { label: "C", text: "jeździć" },
+      { label: "D", text: "B i C są poprawne" },
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Modalność + powtarzalność** требует **niedokonany wielokrotny**.
+
+🔑 Aspekt a modalność:
+• **musieć + niedokonany** — для повторяющихся действий
+• **jeździć** — niedokonany wielokrotny (ездить регулярно)
+• **jechać** — niedokonany jednokrotny (ехать один раз)
+• **pojechać** — dokonany (поехать один раз)
+
+"Codziennie" указывает на регулярность → **jeździć**.
+
+• A) "pojechać" — dokonany, jednorazowe
+• B) "jechać" — niedokonany, ale jednokrotny (одна поездка)
+• D) Неверно — только C подходит для регулярного действия`,
+    explanationPl: `**Modalność + powtarzalność** wymaga **niedokonanego wielokrotnego**.
+
+🔑 Aspekt a modalność:
+• **musieć + niedokonany** — dla czynności powtarzających się
+• **jeździć** — niedokonany wielokrotny (jeździć regularnie)
+• **jechać** — niedokonany jednokrotny (jechać raz)
+• **pojechać** — dokonany (pojechać raz)
+
+"Codziennie" wskazuje na regularność → **jeździć**.
+
+• A) "pojechać" — dokonany, jednorazowe
+• B) "jechać" — niedokonany, ale jednokrotny (jedna podróż)
+• D) Niepoprawne — tylko C pasuje do regularnej czynności`,
+    topic: "Aspekt czasownika — aspekt a modalność",
+    difficulty: "very high"
+  },
+  {
+    id: "B2_ASPEKT_002",
+    source: "pdf",
+    question: "Która forma jest poprawna w zdaniu warunkowym nierealnym?\n„Gdybym wczoraj _______ więcej, zdałbym egzamin.\"",
+    options: [
+      { label: "A", text: "uczę się" },
+      { label: "B", text: "uczyłem się" },
+      { label: "C", text: "nauczyłem się" },
+      { label: "D", text: "B i C są poprawne (z różnicą znaczeniową)" },
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Zdanie warunkowe nierealne** (przeszłe) допускает оба аспекта с разницей в значении.
+
+🔑 Aspekt w zdaniach warunkowych:
+• "Gdybym **uczyłem się** więcej" — если бы я учился больше (процесс)
+• "Gdybym **nauczył się** więcej" — если бы я выучил больше (результат)
+
+Оба варианта грамматически корректны, но с разным акцентом:
+• niedokonany — акцент на процесс (больше времени на учёбу)
+• dokonany — акцент на результат (выучил бы больше материала)
+
+• A) "uczę się" — czas teraźniejszy, nie pasuje do "gdybym"
+• C) Частично верно, но B тоже корректно`,
+    explanationPl: `**Zdanie warunkowe nierealne** (przeszłe) dopuszcza oba aspekty z różnicą znaczeniową.
+
+🔑 Aspekt w zdaniach warunkowych:
+• "Gdybym **uczyłem się** więcej" — gdybym się uczył więcej (proces)
+• "Gdybym **nauczył się** więcej" — gdybym się nauczył więcej (rezultat)
+
+Oba warianty są gramatycznie poprawne, ale z różnym akcentem:
+• niedokonany — akcent na proces (więcej czasu na naukę)
+• dokonany — akcent na rezultat (nauczyłbym się więcej materiału)
+
+• A) "uczę się" — czas teraźniejszy, nie pasuje do "gdybym"
+• C) Częściowo poprawne, ale B też jest poprawne`,
+    topic: "Aspekt czasownika — aspekt w zdaniach warunkowych",
+    difficulty: "very high"
+  }
 ];
