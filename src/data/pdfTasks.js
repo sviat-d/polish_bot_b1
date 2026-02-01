@@ -8268,5 +8268,1849 @@ Inne przykłady:
     topic: "Aspekt czasownika — aspekt a aktionsart (rodzaj czynności)",
     difficulty: "very high"
   }
+,
 
+  // ============================================================================
+  // BATCH 27-31: Tasks 281-330
+  // ============================================================================
+  {
+    id: "B1_MOWA_001",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Jestem zmęczony."
+Mowa zależna: On powiedział, że _______ zmęczony.`,
+    options: [
+    { label: "A", text: "jestem" },
+    { label: "B", text: "jest" },
+    { label: "C", text: "był" },
+    { label: "D", text: "będzie" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Mowa zależna** требует изменения лица (1 os. → 3 os.).
+
+🔑 Zmiana zaimków:
+• Mowa niezależna: "**Jestem** zmęczony" (1 os. l.poj.)
+• Mowa zależna: "On powiedział, że **jest** zmęczony" (3 os. l.poj.)
+
+Время остаётся teraźniejszy, если контекст не требует изменения.
+
+• A) "jestem" — 1 os., nie zmienione
+• C) "był" — przeszły, nie wymagany w tym kontekście
+• D) "będzie" — przyszły, nie wymagany`,
+    explanationPl: `**Mowa zależna** wymaga zmiany osoby (1 os. → 3 os.).
+
+🔑 Zmiana zaimków:
+• Mowa niezależna: "**Jestem** zmęczony" (1 os. l.poj.)
+• Mowa zależna: "On powiedział, że **jest** zmęczony" (3 os. l.poj.)
+
+Czas pozostaje teraźniejszy, jeśli kontekst nie wymaga zmiany.
+
+• A) "jestem" — 1 os., nie zmienione
+• C) "był" — przeszły, nie wymagany w tym kontekście
+• D) "będzie" — przyszły, nie wymagany`,
+    topic: "Mowa zależna — wprowadzenie z \"że\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_002",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Mój brat jest lekarzem."
+Mowa zależna: Ona powiedziała, że _______ brat jest lekarzem.`,
+    options: [
+    { label: "A", text: "jej" },
+    { label: "B", text: "mój" },
+    { label: "C", text: "jego" },
+    { label: "D", text: "twój" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Zaimki dzierżawcze** изменяются в зависимости от говорящего.
+
+🔑 Zmiana zaimków dzierżawczych:
+• Mowa niezależna: "**Mój** brat" (mówiąca: ona)
+• Mowa zależna: "**Jej** brat" (relacjonujemy её слова)
+
+Поскольку говорящая — "ona", её "mój" становится "jej".
+
+• B) "mój" — nie zmienione, niepoprawne
+• C) "jego" — byłoby poprawne, gdyby mówiący był mężczyzną
+• D) "twój" — nie pasuje do kontekstu`,
+    explanationPl: `**Zaimki dzierżawcze** zmieniają się w zależności od mówiącego.
+
+🔑 Zmiana zaimków dzierżawczych:
+• Mowa niezależna: "**Mój** brat" (mówiąca: ona)
+• Mowa zależna: "**Jej** brat" (relacjonujemy jej słowa)
+
+Ponieważ mówiąca to "ona", jej "mój" staje się "jej".
+
+• B) "mój" — nie zmienione, niepoprawne
+• C) "jego" — byłoby poprawne, gdyby mówiący był mężczyzną
+• D) "twój" — nie pasuje do kontekstu`,
+    topic: "Mowa zależna — zmiana zaimków dzierżawczych",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_003",
+    source: "pdf",
+    question: `Przekształć na mowę zależną (relacjonujemy następnego dnia):
+Mowa niezależna: „Dzisiaj idę do kina."
+Mowa zależna: Powiedział, że _______ idzie do kina.`,
+    options: [
+    { label: "A", text: "dzisiaj" },
+    { label: "B", text: "jutro" },
+    { label: "C", text: "wczoraj" },
+    { label: "D", text: "C i tego dnia są poprawne" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Określenia czasu** изменяются в зависимости от момента relacjonowania.
+
+🔑 Zmiana określeń czasu (relacjonujemy następnego dnia):
+• "dzisiaj" → "wczoraj" (вчера)
+• "jutro" → "następnego dnia" (на следующий день)
+• "teraz" → "wtedy" (тогда)
+
+Контекст: relacjonujemy następnego dnia, więc "dzisiaj" → "wczoraj".
+
+• A) "dzisiaj" — nie zmienione, niepoprawne
+• B) "jutro" — odwrotna zmiana
+• C) "wczoraj" — наиболее типичный вариант
+• "tego dnia" — также корректно, более формально`,
+    explanationPl: `**Określenia czasu** zmieniają się w zależności od momentu relacjonowania.
+
+🔑 Zmiana określeń czasu (relacjonujemy następnego dnia):
+• "dzisiaj" → "wczoraj"
+• "jutro" → "następnego dnia"
+• "teraz" → "wtedy"
+
+Kontekst: relacjonujemy następnego dnia, więc "dzisiaj" → "wczoraj".
+
+• A) "dzisiaj" — nie zmienione, niepoprawne
+• B) "jutro" — odwrotna zmiana
+• C) "wczoraj" — najbardziej typowy wariant
+• "tego dnia" — również poprawne, bardziej formalnie`,
+    topic: "Mowa zależna — zmiana określeń czasu",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_004",
+    source: "pdf",
+    question: `Przekształć na mowę zależną (relacjonujemy w innym miejscu):
+Mowa niezależna: „Tutaj jest bardzo ładnie."
+Mowa zależna: Powiedziała, że _______ jest bardzo ładnie.`,
+    options: [
+    { label: "A", text: "tutaj" },
+    { label: "B", text: "tam" },
+    { label: "C", text: "tu" },
+    { label: "D", text: "gdzie" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Określenia miejsca** изменяются в зависимости от miejsca relacjonowania.
+
+🔑 Zmiana określeń miejsca:
+• "tutaj/tu" → "tam" (там)
+• "tu" → "tam"
+
+Контекст: relacjonujemy w innym miejscu, więc "tutaj" → "tam".
+
+• A) "tutaj" — nie zmienione, niepoprawne
+• C) "tu" — synonim "tutaj", nie zmienione
+• D) "gdzie" — pytajne, nie pasuje`,
+    explanationPl: `**Określenia miejsca** zmieniają się w zależności od miejsca relacjonowania.
+
+🔑 Zmiana określeń miejsca:
+• "tutaj/tu" → "tam"
+• "tu" → "tam"
+
+Kontekst: relacjonujemy w innym miejscu, więc "tutaj" → "tam".
+
+• A) "tutaj" — nie zmienione, niepoprawne
+• C) "tu" — synonim "tutaj", nie zmienione
+• D) "gdzie" — pytajne, nie pasuje`,
+    topic: "Mowa zależna — zmiana określeń miejsca",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_005",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Zadzwoń do mnie!"
+Mowa zależna: Prosił, _______ do niego zadzwonić.`,
+    options: [
+    { label: "A", text: "że" },
+    { label: "B", text: "czy" },
+    { label: "C", text: "kiedy" },
+    { label: "D", text: "żeby" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Rozkaźnik** в mowie zależnej передаётся через **żeby + bezokolicznik**.
+
+🔑 Rozkaźnik → żeby:
+• Mowa niezależna: "**Zadzwoń** do mnie!" (rozkaźnik)
+• Mowa zależna: "Prosił, **żeby** zadzwonić do niego" (żeby + bezokolicznik)
+
+Также возможно: "Prosił, żebym zadzwonił" (żeby + forma osobowa).
+
+• A) "że" — для zdań oznajmujących, nie rozkazów
+• B) "czy" — dla pytań, nie rozkazów
+• C) "kiedy" — dla pytań o czas`,
+    explanationPl: `**Rozkaźnik** w mowie zależnej przekształca się przez **żeby + bezokolicznik**.
+
+🔑 Rozkaźnik → żeby:
+• Mowa niezależna: "**Zadzwoń** do mnie!" (rozkaźnik)
+• Mowa zależna: "Prosił, **żeby** zadzwonić do niego" (żeby + bezokolicznik)
+
+Również możliwe: "Prosił, żebym zadzwonił" (żeby + forma osobowa).
+
+• A) "że" — dla zdań oznajmujących, nie rozkazów
+• B) "czy" — dla pytań, nie rozkazów
+• C) "kiedy" — dla pytań o czas`,
+    topic: "Mowa zależna — rozkaźnik → żeby",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_006",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Czy masz czas?"
+Mowa zależna: Zapytał, _______ mam czas.`,
+    options: [
+    { label: "A", text: "czy" },
+    { label: "B", text: "że" },
+    { label: "C", text: "żeby" },
+    { label: "D", text: "co" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Pytania ogólne** (tak/nie) в mowie zależnej вводятся через **czy**.
+
+🔑 Pytania ogólne → czy:
+• Mowa niezależna: "**Czy** masz czas?" (pytanie ogólne)
+• Mowa zależna: "Zapytał, **czy** mam czas" (czy остаётся)
+
+• B) "że" — для zdań oznajmujących
+• C) "żeby" — для rozkazów/próśb
+• D) "co" — для pytań szczegółowych`,
+    explanationPl: `**Pytania ogólne** (tak/nie) w mowie zależnej wprowadza się przez **czy**.
+
+🔑 Pytania ogólne → czy:
+• Mowa niezależna: "**Czy** masz czas?" (pytanie ogólne)
+• Mowa zależna: "Zapytał, **czy** mam czas" (czy pozostaje)
+
+• B) "że" — dla zdań oznajmujących
+• C) "żeby" — dla rozkazów/próśb
+• D) "co" — dla pytań szczegółowych`,
+    topic: "Mowa zależna — pytania ogólne (tak/nie)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_007",
+    source: "pdf",
+    question: `Przekształć na mowę zależną (zapytała mnie):
+Mowa niezależna: „Gdzie mieszkasz?”
+Mowa zależna: Zapytała mnie, gdzie _______.`,
+    options: [
+    { label: "A", text: "mieszkasz" },
+    { label: "B", text: "mieszka" },
+    { label: "C", text: "mieszkam" },
+    { label: "D", text: "mieszkała" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Pytania szczegółowe** сохраняют вопросительное слово, но меняют лицо.
+
+🔑 Zmiana osoby w pytaniach:
+• Mowa niezależna: "Gdzie **mieszkasz**?" (2 os. — ty)
+• Mowa zależna: "Zapytała, gdzie **mieszkam**" (1 os. — ja, bo pytała меня)
+
+Контекст: она спросила меня, поэтому "ty" → "ja".
+
+• A) "mieszkasz" — 2 os., nie zmienione
+• B) "mieszka" — 3 os., byłoby poprawne, gdyby pytała o kogoś innego
+• D) "mieszkała" — przeszły, nie wymagany`,
+    explanationPl: `**Pytania szczegółowe** zachowują wyraz pytajny, ale zmieniają osobę.
+
+🔑 Zmiana osoby w pytaniach:
+• Mowa niezależna: "Gdzie **mieszkasz**?" (2 os. — ty)
+• Mowa zależna: "Zapytała, gdzie **mieszkam**" (1 os. — ja, bo pytała mnie)
+
+Kontekst: ona zapytała mnie, więc "ty" → "ja".
+
+• A) "mieszkasz" — 2 os., nie zmienione
+• B) "mieszka" — 3 os., byłoby poprawne, gdyby pytała o kogoś innego
+• D) "mieszkała" — przeszły, nie wymagany`,
+    topic: "Mowa zależna — pytania szczegółowe",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_008",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Ja to zrobiłem."
+Mowa zależna: Powiedział, że _______ to zrobił.`,
+    options: [
+    { label: "A", text: "ja" },
+    { label: "B", text: "on" },
+    { label: "C", text: "ty" },
+    { label: "D", text: "oni" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Zaimek "ja"** в mowie zależnej меняется на **"on/ona"** (в зависимости от пола говорящего).
+
+🔑 Zmiana zaimków osobowych:
+• Mowa niezależna: "**Ja** to zrobiłem" (mówiący: on)
+• Mowa zależna: "Powiedział, że **on** to zrobił"
+
+• A) "ja" — nie zmienione, niepoprawne
+• C) "ty" — byłoby poprawne dla "ty" w oryginale
+• D) "oni" — liczba mnoga, nie pasuje`,
+    explanationPl: `**Zaimek "ja"** w mowie zależnej zmienia się na **"on/ona"** (w zależności od płci mówiącego).
+
+🔑 Zmiana zaimków osobowych:
+• Mowa niezależna: "**Ja** to zrobiłem" (mówiący: on)
+• Mowa zależna: "Powiedział, że **on** to zrobił"
+
+• A) "ja" — nie zmienione, niepoprawne
+• C) "ty" — byłoby poprawne dla "ty" w oryginale
+• D) "oni" — liczba mnoga, nie pasuje`,
+    topic: "Mowa zależna — zmiana \"ja\" → \"on/ona\"",
+    difficulty: "high"
+  },
+  {
+    id: "B2_MOWA_001",
+    source: "pdf",
+    question: `Czy w języku polskim obowiązuje NASTĘPSTWO CZASÓW w mowie zależnej?
+Mowa niezależna: „Jestem chory."
+Mowa zależna (relacjonujemy później): „Powiedział, że _______ chory."`,
+    options: [
+    { label: "A", text: "jest (teraźniejszy — bez zmiany)" },
+    { label: "B", text: "był (przeszły — następstwo czasów)" },
+    { label: "C", text: "będzie (przyszły)" },
+    { label: "D", text: "A i B są poprawne (brak ścisłego następstwa)" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Następstwo czasów** в польском языке **не является обязательным** (в отличие от английского).
+
+🔑 Następstwo czasów w polskim:
+• "Powiedział, że **jest** chory" — teraźniejszy (bez zmiany) ✓
+• "Powiedział, że **był** chory" — przeszły (następstwo) ✓
+
+Оба варианта грамматически корректны. Выбор зависит от:
+• Контекста (актуальность информации)
+• Стиля (формальный vs разговорный)
+
+• A) Частично верно, но B тоже возможно
+• B) Частично верно, но A тоже возможно
+• C) "będzie" — изменил бы смысл`,
+    explanationPl: `**Następstwo czasów** w języku polskim **nie jest obowiązkowe** (w odróżnieniu od angielskiego).
+
+🔑 Następstwo czasów w polskim:
+• "Powiedział, że **jest** chory" — teraźniejszy (bez zmiany) ✓
+• "Powiedział, że **był** chory" — przeszły (następstwo) ✓
+
+Oba warianty są gramatycznie poprawne. Wybór zależy od:
+• Kontekstu (aktualność informacji)
+• Stylu (formalny vs potoczny)
+
+• A) Częściowo poprawne, ale B też możliwe
+• B) Częściowo poprawne, ale A też możliwe
+• C) "będzie" — zmieniłby sens`,
+    topic: "Mowa zależna — następstwo czasów",
+    difficulty: "very high"
+  },
+  {
+    id: "B2_MOWA_002",
+    source: "pdf",
+    question: `Jaki jest SZYK ZDANIA w pytaniu zależnym?
+Mowa niezależna: „Gdzie on mieszka?"
+Mowa zależna: „Zapytała, gdzie on _______."`,
+    options: [
+    { label: "A", text: "mieszka (szyk prosty: podmiot + orzeczenie)" },
+    { label: "B", text: "mieszka on (inwersja jak w pytaniu)" },
+    { label: "C", text: "on mieszka (szyk prosty)" },
+    { label: "D", text: "A i C są poprawne (szyk prosty, bez inwersji)" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Pytania zależne** в польском имеют **szyk prosty** (без инверсии).
+
+🔑 Szyk w pytaniach zależnych:
+• Pytanie niezależne: "Gdzie **mieszka on**?" (możliwa inwersja)
+• Pytanie zależne: "Zapytała, gdzie **on mieszka**" (szyk prosty)
+
+В pytaniach zależnych инверсия НЕ используется — порядок слов как в zdaniu oznajmującym.
+
+• A) "mieszka" — poprawne (podmiot domyślny)
+• B) "mieszka on" — inwersja, niepoprawna w pytaniu zależnym
+• C) "on mieszka" — poprawne (szyk prosty z podmiotem)`,
+    explanationPl: `**Pytania zależne** w polskim mają **szyk prosty** (bez inwersji).
+
+🔑 Szyk w pytaniach zależnych:
+• Pytanie niezależne: "Gdzie **mieszka on**?" (możliwa inwersja)
+• Pytanie zależne: "Zapytała, gdzie **on mieszka**" (szyk prosty)
+
+W pytaniach zależnych inwersja NIE jest używana — szyk jak w zdaniu oznajmującym.
+
+• A) "mieszka" — poprawne (podmiot domyślny)
+• B) "mieszka on" — inwersja, niepoprawna w pytaniu zależnym
+• C) "on mieszka" — poprawne (szyk prosty z podmiotem)`,
+    topic: "Mowa zależna — szyk zdania w pytaniach zależnych",
+    difficulty: "very high"
+  },
+  {
+    id: "B1_MOWA_011",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Muszę iść do lekarza."
+Mowa zależna: Powiedziała, że _______ iść do lekarza.`,
+    options: [
+    { label: "A", text: "musi" },
+    { label: "B", text: "muszę" },
+    { label: "C", text: "musiała" },
+    { label: "D", text: "będzie musiała" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Czasowniki modalne** в mowie zależnej изменяют лицо, но не обязательно время.
+
+🔑 Zmiana osoby z czasownikiem modalnym:
+• Mowa niezależna: "**Muszę** iść" (1 os. — ja/ona)
+• Mowa zależna: "Powiedziała, że **musi** iść" (3 os. — ona)
+
+Время остаётся teraźniejszy, если контекст не требует изменения.
+
+• B) "muszę" — 1 os., nie zmienione
+• C) "musiała" — przeszły, możliwe, ale nie wymagane
+• D) "będzie musiała" — przyszły, nie wymagane`,
+    explanationPl: `**Czasowniki modalne** w mowie zależnej zmieniają osobę, ale niekoniecznie czas.
+
+🔑 Zmiana osoby z czasownikiem modalnym:
+• Mowa niezależna: "**Muszę** iść" (1 os. — ja/ona)
+• Mowa zależna: "Powiedziała, że **musi** iść" (3 os. — ona)
+
+Czas pozostaje teraźniejszy, jeśli kontekst nie wymaga zmiany.
+
+• B) "muszę" — 1 os., nie zmienione
+• C) "musiała" — przeszły, możliwe, ale nie wymagane
+• D) "będzie musiała" — przyszły, nie wymagane`,
+    topic: "Mowa zależna — z czasownikami modalnymi",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_012",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Jutro pojadę do Krakowa."
+Mowa zależna: Powiedział, że _______ pojadę do Krakowa.`,
+    options: [
+    { label: "A", text: "jutro" },
+    { label: "B", text: "dzisiaj" },
+    { label: "C", text: "następnego dnia" },
+    { label: "D", text: "poprzedniego dnia" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**"Jutro"** в mowie zależnej меняется на **"następnego dnia"** (если relacjonujemy później).
+
+🔑 Zmiana określeń czasu:
+• "jutro" → "następnego dnia" (на следующий день)
+• "wczoraj" → "poprzedniego dnia" (накануне)
+• "dzisiaj" → "tego dnia" (в тот день)
+
+• A) "jutro" — nie zmienione, niepoprawne
+• B) "dzisiaj" — inna zmiana
+• D) "poprzedniego dnia" — dla "wczoraj"`,
+    explanationPl: `**"Jutro"** w mowie zależnej zmienia się na **"następnego dnia"** (jeśli relacjonujemy później).
+
+🔑 Zmiana określeń czasu:
+• "jutro" → "następnego dnia"
+• "wczoraj" → "poprzedniego dnia"
+• "dzisiaj" → "tego dnia"
+
+• A) "jutro" — nie zmienione, niepoprawne
+• B) "dzisiaj" — inna zmiana
+• D) "poprzedniego dnia" — dla "wczoraj"`,
+    topic: "Mowa zależna — z czasem przyszłym",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_013",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Wczoraj byłem w kinie."
+Mowa zależna (relacjonujemy tydzień później): Powiedział, że _______ był w kinie.`,
+    options: [
+    { label: "A", text: "wczoraj" },
+    { label: "B", text: "poprzedniego dnia" },
+    { label: "C", text: "tydzień temu" },
+    { label: "D", text: "tego dnia" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**"Wczoraj"** в mowie zależnej меняется на **"poprzedniego dnia"**.
+
+🔑 Zmiana określeń czasu:
+• "wczoraj" → "poprzedniego dnia" (накануне, день до момента речи)
+
+Даже если relacjonujemy tydzień później, "wczoraj" относится к дню до момента оригинальной речи.
+
+• A) "wczoraj" — nie zmienione, niepoprawne
+• C) "tydzień temu" — nie odpowiada "wczoraj"
+• D) "tego dnia" — dla "dzisiaj"`,
+    explanationPl: `**"Wczoraj"** w mowie zależnej zmienia się na **"poprzedniego dnia"**.
+
+🔑 Zmiana określeń czasu:
+• "wczoraj" → "poprzedniego dnia" (dzień przed momentem mówienia)
+
+Nawet jeśli relacjonujemy tydzień później, "wczoraj" odnosi się do dnia przed momentem oryginalnej wypowiedzi.
+
+• A) "wczoraj" — nie zmienione, niepoprawne
+• C) "tydzień temu" — nie odpowiada "wczoraj"
+• D) "tego dnia" — dla "dzisiaj"`,
+    topic: "Mowa zależna — z czasem przeszłym",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_014",
+    source: "pdf",
+    question: `Przekształć na mowę zależną (relacjonujemy w innym miejscu):
+Mowa niezależna: „Ten dom jest piękny."
+Mowa zależna: Powiedział, że _______ dom jest piękny.`,
+    options: [
+    { label: "A", text: "ten" },
+    { label: "B", text: "taki" },
+    { label: "C", text: "tamten" },
+    { label: "D", text: "ów" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**"Ten/ta/to"** в mowie zależnej меняется на **"tamten/tamta/tamto"** (если relacjonujemy w innym miejscu).
+
+🔑 Zmiana zaimków wskazujących:
+• "ten" → "tamten" (тот, не этот)
+• "ta" → "tamta"
+• "to" → "tamto"
+• A) "ten" — nie zmienione, niepoprawne dla innego miejsca
+• B) "taki" — zaimek jakościowy, nie wskazujący
+• D) "ów" — archaiczne, rzadko używane`,
+    explanationPl: `**"Ten/ta/to"** w mowie zależnej zmienia się na **"tamten/tamta/tamto"** (jeśli relacjonujemy w innym miejscu).
+
+🔑 Zmiana zaimków wskazujących:
+• "ten" → "tamten"
+• "ta" → "tamta"
+• "to" → "tamto"
+
+• A) "ten" — nie zmienione, niepoprawne dla innego miejsca
+• B) "taki" — zaimek jakościowy, nie wskazujący
+• D) "ów" — archaiczne, rzadko używane`,
+    topic: "Mowa zależna — zmiana zaimków wskazujących",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_015",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Proszę, pomóż mi!"
+Mowa zależna: Prosił, żebym mu _______.`,
+    options: [
+    { label: "A", text: "pomógł" },
+    { label: "B", text: "pomagał" },
+    { label: "C", text: "pomogę" },
+    { label: "D", text: "pomagam" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Prośba** в mowie zależnej передаётся через **żeby + forma osobowa (przeszła)**.
+
+🔑 Prośba → żeby + forma przeszła:
+• Mowa niezależna: "Pomóż mi!" (rozkaźnik)
+• Mowa zależna: "Prosił, żebym mu **pomógł**" (żeby + -bym + forma przeszła)
+
+Конструкция: żeby + końcówka osobowa (-m, -ś, -ø, -śmy, -ście, -ø) + forma przeszła.
+
+• B) "pomagał" — niedokonany, mniej typowy dla konkretnej prośby
+• C) "pomogę" — przyszły, nie pasuje do żeby
+• D) "pomagam" — teraźniejszy, nie pasuje do żeby`,
+    explanationPl: `**Prośba** w mowie zależnej przekształca się przez **żeby + forma osobowa (przeszła)**.
+
+🔑 Prośba → żeby + forma przeszła:
+• Mowa niezależna: "Pomóż mi!" (rozkaźnik)
+• Mowa zależna: "Prosił, żebym mu **pomógł**" (żeby + -bym + forma przeszła)
+
+Konstrukcja: żeby + końcówka osobowa (-m, -ś, -ø, -śmy, -ście, -ø) + forma przeszła.
+
+• B) "pomagał" — niedokonany, mniej typowy dla konkretnej prośby
+• C) "pomogę" — przyszły, nie pasuje do żeby
+• D) "pomagam" — teraźniejszy, nie pasuje do żeby`,
+    topic: "Mowa zależna — prośba z \"żeby\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_016",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Dlaczego nie przyszedłeś?"
+Mowa zależna: Zapytała, dlaczego nie _______.`,
+    options: [
+    { label: "A", text: "przyszedłeś" },
+    { label: "B", text: "przyszedłem" },
+    { label: "C", text: "przyszła" },
+    { label: "D", text: "przyjdę" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Pytanie z "dlaczego"** сохраняет вопросительное слово, но меняет лицо.
+
+🔑 Zmiana osoby:
+• Mowa niezależna: "Dlaczego nie **przyszedłeś**?" (2 os. — ty)
+• Mowa zależna: "Zapytała, dlaczego nie **przyszedłem**" (1 os. — ja, bo pytała меня)
+
+• A) "przyszedłeś" — 2 os., nie zmienione
+• C) "przyszła" — 3 os. żeńska, nie pasuje
+• D) "przyjdę" — przyszły, nie pasuje do przeszłego kontekstu`,
+    explanationPl: `**Pytanie z "dlaczego"** zachowuje wyraz pytajny, ale zmienia osobę.
+
+🔑 Zmiana osoby:
+• Mowa niezależna: "Dlaczego nie **przyszedłeś**?" (2 os. — ty)
+• Mowa zależna: "Zapytała, dlaczego nie **przyszedłem**" (1 os. — ja, bo pytała mnie)
+
+• A) "przyszedłeś" — 2 os., nie zmienione
+• C) "przyszła" — 3 os. żeńska, nie pasuje
+• D) "przyjdę" — przyszły, nie pasuje do przeszłego kontekstu`,
+    topic: "Mowa zależna — pytanie o przyczynę",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_017",
+    source: "pdf",
+    question: `Przekształć na mowę zależną (wszystkie zmiany):
+Mowa niezależna: „Ja dzisiaj tutaj pracuję.”
+Mowa zależna (relacjonujemy później, po zakończeniu pracy, w innym miejscu): Powiedział, że _______.`,
+    options: [
+    { label: "A", text: "ja dzisiaj tutaj pracuję" },
+    { label: "B", text: "on tego dnia tam pracuje" },
+    { label: "C", text: "on wczoraj tam pracował" },
+    { label: "D", text: "on tego dnia tam pracował" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Złożone przekształcenie** требует изменения всех элементов.
+
+🔑 Wszystkie zmiany:
+• "ja" → "on" (zmiana osoby)
+• "dzisiaj" → "tego dnia" (zmiana czasu)
+• "tutaj" → "tam" (zmiana miejsca)
+• "pracuję" → "pracował" (zmiana czasu, jeśli relacjonujemy później)
+
+Pełne przekształcenie: "On **tego dnia** **tam** **pracował**".
+
+• A) Brak zmian — niepoprawne
+• B) "pracuje" — teraźniejszy, możliwe, ale D bardziej kompletne
+• C) "wczoraj" — nie odpowiada "dzisiaj"`,
+    explanationPl: `**Złożone przekształcenie** wymaga zmiany wszystkich elementów.
+
+🔑 Wszystkie zmiany:
+• "ja" → "on" (zmiana osoby)
+• "dzisiaj" → "tego dnia" (zmiana czasu)
+• "tutaj" → "tam" (zmiana miejsca)
+• "pracuję" → "pracował" (zmiana czasu, jeśli relacjonujemy później)
+
+Pełne przekształcenie: "On **tego dnia** **tam** **pracował**".
+
+• A) Brak zmian — niepoprawne
+• B) "pracuje" — teraźniejszy, możliwe, ale D bardziej kompletne
+• C) "wczoraj" — nie odpowiada "dzisiaj"`,
+    topic: "Mowa zależna — złożone przekształcenie",
+    difficulty: "high"
+  },
+  {
+    id: "B1_MOWA_018",
+    source: "pdf",
+    question: `Przekształć na mowę zależną:
+Mowa niezależna: „Jak pięknie!"
+Mowa zależna: Powiedziała, że jest bardzo _______.`,
+    options: [
+    { label: "A", text: "pięknie" },
+    { label: "B", text: "piękny" },
+    { label: "C", text: "piękna" },
+    { label: "D", text: "piękność" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Wykrzyknienie** в mowie zależnej передаётся через описательную конструкцию.
+
+🔑 Wykrzyknienie → opis:
+• Mowa niezależna: "Jak **pięknie**!" (wykrzyknienie)
+• Mowa zależna: "Powiedziała, że jest bardzo **pięknie**" (opis)
+
+"Pięknie" — przysłówek, остаётся przysłówkiem.
+
+• B) "piękny" — przymiotnik męski, nie pasuje do "jest"
+• C) "piękna" — przymiotnik żeński, możliwe w innym kontekście
+• D) "piękność" — rzeczownik, nie pasuje`,
+    explanationPl: `**Wykrzyknienie** w mowie zależnej przekształca się przez konstrukcję opisową.
+
+🔑 Wykrzyknienie → opis:
+• Mowa niezależna: "Jak **pięknie**!" (wykrzyknienie)
+• Mowa zależna: "Powiedziała, że jest bardzo **pięknie**" (opis)
+
+"Pięknie" — przysłówek, pozostaje przysłówkiem.
+
+• B) "piękny" — przymiotnik męski, nie pasuje do "jest"
+• C) "piękna" — przymiotnik żeński, możliwe w innym kontekście
+• D) "piękność" — rzeczownik, nie pasuje`,
+    topic: "Mowa zależna — wykrzyknienie",
+    difficulty: "high"
+  },
+  {
+    id: "B2_MOWA_003",
+    source: "pdf",
+    question: `Która konstrukcja jest typowa dla FORMALNEGO cytowania w tekstach naukowych/prasowych?`,
+    options: [
+    { label: "A", text: "Powiedział, że..." },
+    { label: "B", text: "Według niego..." },
+    { label: "C", text: "Jak stwierdził..." },
+    { label: "D", text: "Wszystkie powyższe są poprawne" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Formalne cytowanie** в tekstach naukowych/prasowych использует разные конструкции.
+
+🔑 Konstrukcje formalne:
+• "Jak **stwierdził** X..." — как заявил X (формально, нейтрально)
+• "Według X..." — по мнению X (формально, с дистансом)
+• "X powiedział, że..." — X сказал, что (нейтрально)
+
+Все три конструкции используются в формальных текстах, различия стилистические/функциональные.
+
+• A) "Powiedział, że" — нейтрально, универсально
+• B) "Według niego" — формально, с дистансом
+• C) "Jak stwierdził" — формально, нейтрально`,
+    explanationPl: `**Formalne cytowanie** w tekstach naukowych/prasowych używa różnych konstrukcji.
+
+🔑 Konstrukcje formalne:
+• "Jak **stwierdził** X..." — jak stwierdził X (formalnie, neutralnie)
+• "Według X..." — według X (formalnie, z dystansem)
+• "X powiedział, że..." — X powiedział, że (neutralnie)
+
+Wszystkie trzy konstrukcje są używane w formalnych tekstach, różnice są stylistyczne/funkcjonalne.
+
+• A) "Powiedział, że" — neutralnie, uniwersalnie
+• B) "Według niego" — formalnie, z dystansem
+• C) "Jak stwierdził" — formalnie, neutralnie`,
+    topic: "Mowa zależna — w tekstach formalnych",
+    difficulty: "very high"
+  },
+  {
+    id: "B2_MOWA_004",
+    source: "pdf",
+    question: `Która konstrukcja wyraża DYSTANS lub WĄTPLIWOŚĆ wobec cytowanej treści?`,
+    options: [
+    { label: "A", text: "Powiedział, że jest niewinny." },
+    { label: "B", text: "Twierdzi, że jest niewinny." },
+    { label: "C", text: "Rzekomo jest niewinny." },
+    { label: "D", text: "B i C wyrażają dystans" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Dystans/wątpliwość** в cytowaniu выражается через специфические конструкции.
+
+🔑 Konstrukcje z dystansem:
+• "**Twierdzi**, że..." — утверждает, что (дистанс, не подтверждаем)
+• "**Rzekomo**..." — якобы (явный дистанс, сомнение)
+• "Powiedział, że..." — сказал, что (нейтрально, без дистанса)
+
+Оба варианта B и C выражают дистанс:
+• "Twierdzi" — глагол с оттенком неподтверждённости
+• "Rzekomo" — наречие, явно выражающее сомнение
+
+• A) "Powiedział" — нейтрально, без дистанса
+• B) Частично верно
+• C) Частично верно`,
+    explanationPl: `**Dystans/wątpliwość** w cytowaniu wyraża się przez specyficzne konstrukcje.
+
+🔑 Konstrukcje z dystansem:
+• "**Twierdzi**, że..." — twierdzi, że (dystans, nie potwierdzamy)
+• "**Rzekomo**..." — rzekomo (wyraźny dystans, wątpliwość)
+• "Powiedział, że..." — powiedział, że (neutralnie, bez dystansu)
+
+Oba warianty B i C wyrażają dystans:
+• "Twierdzi" — czasownik z odcieniem niepotwierdzoności
+• "Rzekomo" — przysłówek, wyraźnie wyrażający wątpliwość
+
+• A) "Powiedział" — neutralnie, bez dystansu
+• B) Częściowo poprawne
+• C) Częściowo poprawne`,
+    topic: "Mowa zależna — cytowanie pośrednie z dystansem",
+    difficulty: "very high"
+  },
+  {
+    id: "B1_WARUN_001",
+    source: "pdf",
+    question: `Który czas jest poprawny w ZDANIU GŁÓWNYM okresu realnego?
+„Jeśli będzie ładna pogoda, _______ na spacer."`,
+    options: [
+    { label: "A", text: "poszedłbym" },
+    { label: "B", text: "pójdę" },
+    { label: "C", text: "poszedłem" },
+    { label: "D", text: "idę" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Okres realny** (реальное условие) использует **przyszły** в обеих частях.
+
+🔑 Okres realny:
+• Zdanie warunkowe: "Jeśli **będzie** ładna pogoda" (przyszły)
+• Zdanie główne: "**pójdę** na spacer" (przyszły)
+
+Схема: Jeśli + przyszły, przyszły.
+
+• A) "poszedłbym" — tryb warunkowy, dla okresu nierealnego
+• C) "poszedłem" — przeszły, nie pasuje
+• D) "idę" — teraźniejszy, możliwe, ale mniej typowe`,
+    explanationPl: `**Okres realny** (warunek realny) używa **przyszłego** w obu częściach.
+
+🔑 Okres realny:
+• Zdanie warunkowe: "Jeśli **będzie** ładna pogoda" (przyszły)
+• Zdanie główne: "**pójdę** na spacer" (przyszły)
+
+Schemat: Jeśli + przyszły, przyszły.
+
+• A) "poszedłbym" — tryb warunkowy, dla okresu nierealnego
+• C) "poszedłem" — przeszły, nie pasuje
+• D) "idę" — teraźniejszy, możliwe, ale mniej typowe`,
+    topic: "Zdania warunkowe — okres realny",
+    difficulty: "high"
+  },
+  {
+    id: "B1_WARUN_002",
+    source: "pdf",
+    question: `Który czas jest poprawny w ZDANIU WARUNKOWYM okresu nierealnego teraźniejszego?
+„_______ więcej czasu, pojechałbym na wakacje."`,
+    options: [
+    { label: "A", text: "Gdybym miał" },
+    { label: "B", text: "Jeśli mam" },
+    { label: "C", text: "Kiedy mam" },
+    { label: "D", text: "Gdy będę miał" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Okres nierealny teraźniejszy** использует **gdyby + tryb warunkowy**.
+
+🔑 Okres nierealny teraźniejszy:
+• Zdanie warunkowe: "**Gdybym miał** więcej czasu" (gdyby + warunkowy)
+• Zdanie główne: "pojechałbym na wakacje" (warunkowy)
+
+Схема: Gdyby + warunkowy, warunkowy.
+
+• B) "Jeśli mam" — okres realny, nie nierealny
+• C) "Kiedy mam" — czasowe, nie warunkowe
+• D) "Gdy będę miał" — okres realny przyszły`,
+    explanationPl: `**Okres nierealny teraźniejszy** używa **gdyby + tryb warunkowy**.
+
+🔑 Okres nierealny teraźniejszy:
+• Zdanie warunkowe: "**Gdybym miał** więcej czasu" (gdyby + warunkowy)
+• Zdanie główne: "pojechałbym na wakacje" (warunkowy)
+
+Schemat: Gdyby + warunkowy, warunkowy.
+
+• B) "Jeśli mam" — okres realny, nie nierealny
+• C) "Kiedy mam" — czasowe, nie warunkowe
+• D) "Gdy będę miał" — okres realny przyszły`,
+    topic: "Zdania warunkowe — okres nierealny teraźniejszy",
+    difficulty: "high"
+  },
+  {
+    id: "B1_WARUN_003",
+    source: "pdf",
+    question: `Jaka jest różnica między "jeśli" a "gdyby"?`,
+    options: [
+    { label: "A", text: "Brak różnicy" },
+    { label: "B", text: "\"jeśli\" — formalnie, \"gdyby\" — potocznie" },
+    { label: "C", text: "\"jeśli\" — warunek realny, \"gdyby\" — warunek nierealny" },
+    { label: "D", text: "\"jeśli\" — przeszły, \"gdyby\" — przyszły" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Jeśli vs gdyby** — ключевое различие в реальности условия.
+
+🔑 Różnica:
+• **Jeśli** — warunek realny (возможный, вероятный)
+  "Jeśli będzie ładnie, pójdę na spacer." (реально)
+• **Gdyby** — warunek nierealny (невозможный, гипотетический)
+  "Gdybym był bogaty, kupiłbym dom." (нереально)
+
+• A) Różnica istnieje — znacząca
+• B) Odwrotnie — "gdyby" bardziej formalne
+• D) Odwrotnie — "jeśli" dla przyszłego, "gdyby" dla hipotetycznego`,
+    explanationPl: `**Jeśli vs gdyby** — kluczowa różnica w realności warunku.
+
+🔑 Różnica:
+• **Jeśli** — warunek realny (możliwy, prawdopodobny)
+  "Jeśli będzie ładnie, pójdę na spacer." (realnie)
+• **Gdyby** — warunek nierealny (niemożliwy, hipotetyczny)
+  "Gdybym był bogaty, kupiłbym dom." (nierealnie)
+
+• A) Różnica istnieje — znacząca
+• B) Odwrotnie — "gdyby" bardziej formalne
+• D) Odwrotnie — "jeśli" dla przyszłego, "gdyby" dla hipotetycznego`,
+    topic: "Zdania warunkowe — różnica jeśli vs gdyby",
+    difficulty: "high"
+  },
+  {
+    id: "B1_WARUN_004",
+    source: "pdf",
+    question: `Który szyk jest poprawny w zdaniu warunkowym?`,
+    options: [
+    { label: "A", text: "Tylko: Jeśli..., to..." },
+    { label: "B", text: "Oba: Jeśli..., to... / ..., jeśli..." },
+    { label: "C", text: "Tylko: ..., jeśli..." },
+    { label: "D", text: "Żaden z powyższych" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Szyk zdania warunkowego** — оба порядка возможны.
+
+🔑 Szyk zdania:
+• "**Jeśli** będzie ładnie, **to** pójdę na spacer." (warunek na początku)
+• "Pójdę na spacer, **jeśli** będzie ładnie." (warunek na końcu)
+
+Оба варианта грамматически корректны. "To" — опционально, усиливает связь.
+
+• A) Tylko jeden szyk — niepoprawne
+• C) Tylko jeden szyk — niepoprawne
+• D) Oba są poprawne`,
+    explanationPl: `**Szyk zdania warunkowego** — oba porządki są możliwe.
+
+🔑 Szyk zdania:
+• "**Jeśli** będzie ładnie, **to** pójdę na spacer." (warunek na początku)
+• "Pójdę na spacer, **jeśli** będzie ładnie." (warunek na końcu)
+
+Oba warianty są gramatycznie poprawne. "To" — opcjonalne, wzmacnia związek.
+
+• A) Tylko jeden szyk — niepoprawne
+• C) Tylko jeden szyk — niepoprawne
+• D) Oba są poprawne`,
+    topic: "Zdania warunkowe — szyk zdania",
+    difficulty: "high"
+  },
+  {
+    id: "B1_WARUN_005",
+    source: "pdf",
+    question: `Czy "to" jest OBOWIĄZKOWE w zdaniu głównym po "jeśli"?
+„Jeśli przyjdziesz, (to) będę szczęśliwy."`,
+    options: [
+    { label: "A", text: "Tak, zawsze obowiązkowe" },
+    { label: "B", text: "Nie, zawsze błędne" },
+    { label: "C", text: "Opcjonalne, ale częste" },
+    { label: "D", text: "Opcjonalne, wzmacnia związek między częściami" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**"To"** в zdaniu głównym — **opcjonalne**, но wzmacnia związek.
+
+🔑 Funkcja "to":
+• "Jeśli przyjdziesz, **to** będę szczęśliwy." (z "to" — wzmocnienie)
+• "Jeśli przyjdziesz, będę szczęśliwy." (bez "to" — też poprawne)
+
+"To" podkreśla związek przyczynowo-skutkowy między warunkiem a rezultatem.
+
+• A) Nie jest obowiązkowe
+• B) Nie jest błędne
+• C) Częściowo poprawne, ale D bardziej precyzyjne`,
+    explanationPl: `**"To"** w zdaniu głównym — **opcjonalne**, ale wzmacnia związek.
+
+🔑 Funkcja "to":
+• "Jeśli przyjdziesz, **to** będę szczęśliwy." (z "to" — wzmocnienie)
+• "Jeśli przyjdziesz, będę szczęśliwy." (bez "to" — też poprawne)
+
+"To" podkreśla związek przyczynowo-skutkowy między warunkiem a rezultatem.
+
+• A) Nie jest obowiązkowe
+• B) Nie jest błędne
+• C) Częściowo poprawne, ale D bardziej precyzyjne`,
+    topic: "Zdania warunkowe — \"to\" w zdaniu głównym",
+    difficulty: "high"
+  },
+  {
+    id: "B1_WARUN_006",
+    source: "pdf",
+    question: `Jaka jest różnica między "gdy" a "jeśli" w zdaniach warunkowych?`,
+    options: [
+    { label: "A", text: "\"gdy\" — warunek realny pewny, \"jeśli\" — warunek realny niepewny" },
+    { label: "B", text: "Brak różnicy" },
+    { label: "C", text: "\"gdy\" — tylko czasowe, \"jeśli\" — tylko warunkowe" },
+    { label: "D", text: "\"gdy\" — formalne, \"jeśli\" — potoczne" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**"Gdy" vs "jeśli"** — różnica w stopniu pewności.
+
+🔑 Różnica:
+• **Gdy** — warunek realny, pewny lub bardzo prawdopodobny
+  "Gdy przyjdziesz, zadzwoń." (oczekuję, że przyjdziesz)
+• **Jeśli** — warunek realny, niepewny
+  "Jeśli przyjdziesz, zadzwoń." (nie wiem, czy przyjdziesz)
+
+• B) Różnica istnieje
+• C) "Gdy" może być i czasowe, i warunkowe
+• D) Oba są neutralne stylistycznie`,
+    explanationPl: `**"Gdy" vs "jeśli"** — różnica w stopniu pewności.
+
+🔑 Różnica:
+• **Gdy** — warunek realny, pewny lub bardzo prawdopodobny
+  "Gdy przyjdziesz, zadzwoń." (oczekuję, że przyjdziesz)
+• **Jeśli** — warunek realny, niepewny
+  "Jeśli przyjdziesz, zadzwoń." (nie wiem, czy przyjdziesz)
+
+• B) Różnica istnieje
+• C) "Gdy" może być i czasowe, i warunkowe
+• D) Oba są neutralne stylistycznie`,
+    topic: "Zdania warunkowe — \"gdy\" vs \"jeśli\"",
+    difficulty: "high"
+  },
+  {
+    id: "B1_WARUN_007",
+    source: "pdf",
+    question: `Jak wyrazić PRZECZENIE w zdaniu warunkowym?
+„Jeśli _______ przyjdziesz, będę smutny."`,
+    options: [
+    { label: "A", text: "nie przyjdziesz" },
+    { label: "B", text: "nigdy" },
+    { label: "C", text: "przyjdziesz nie" },
+    { label: "D", text: "nie (przed czasownikiem)" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Przeczenie** в zdaniu warunkowym — **"nie" przed czasownikiem**.
+
+🔑 Przeczenie w warunku:
+• "Jeśli **nie** przyjdziesz, będę smutny." (przeczenie przed czasownikiem)
+
+Pozycja "nie" — bezpośrednio przed czasownikiem.
+
+• A) "nie przyjdziesz" — pełna forma, poprawna
+• B) "nigdy" — przysłówek częstotliwości, nie proste przeczenie
+• C) "przyjdziesz nie" — błędny szyk, "nie" musi stać PRZED czasownikiem`,
+    explanationPl: `**Przeczenie** w zdaniu warunkowym — **"nie" przed czasownikiem**.
+
+🔑 Przeczenie w warunku:
+• "Jeśli **nie** przyjdziesz, będę smutny." (przeczenie przed czasownikiem)
+
+Pozycja "nie" — bezpośrednio przed czasownikiem.
+
+• A) "nie przyjdziesz" — pełna forma, poprawna
+• B) "nigdy" — przysłówek częstotliwości, nie proste przeczenie
+• C) "przyjdziesz nie" — błędny szyk, "nie" musi stać PRZED czasownikiem`,
+    topic: "Zdania warunkowe — przeczenie w warunku",
+    difficulty: "high"
+  },
+  {
+    id: "B1_WARUN_008",
+    source: "pdf",
+    question: `Która forma jest poprawna dla OKRESU NIEREALNEGO PRZESZŁEGO?
+„Gdybym wczoraj _______ więcej, zdałbym egzamin."`,
+    options: [
+    { label: "A", text: "uczę się" },
+    { label: "B", text: "uczył się (niedokonany)" },
+    { label: "C", text: "nauczył się (dokonany)" },
+    { label: "D", text: "B i C są poprawne (z różnicą znaczeniową)" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Okres nierealny przeszły** — gdyby + forma przeszła (warunkowa).
+
+🔑 Okres nierealny przeszły:
+• "Gdybym wczoraj **uczył się** więcej" — если бы я учился больше (процесс)
+• "Gdybym wczoraj **nauczył się** więcej" — если бы я выучил больше (результат)
+• Konstrukcja: gdyby + końcówka osobowa + forma przeszła
+
+✅ Оба аспекта поправны с разницей в значении (процесс vs результат).
+
+• A) "uczę się" — teraźniejszy, nie pasuje do "gdybym"
+• B) "uczył się" — niedokonany, akcent na proces
+• C) "nauczył się" — dokonany, akcent na rezultat`,
+    explanationPl: `**Okres nierealny przeszły** — gdyby + forma przeszła (warunkowa).
+
+🔑 Okres nierealny przeszły:
+• "Gdybym wczoraj **uczył się** więcej" — gdybym się uczył więcej (proces)
+• "Gdybym wczoraj **nauczył się** więcej" — gdybym się nauczył więcej (rezultat)
+• Konstrukcja: gdyby + końcówka osobowa + forma przeszła
+
+✅ Oba aspekty są poprawne z różnicą znaczeniową (proces vs rezultat).
+
+• A) "uczę się" — teraźniejszy, nie pasuje do "gdybym"
+• B) "uczył się" — niedokonany, akcent na proces
+• C) "nauczył się" — dokonany, akcent na rezultat`,
+    topic: "Zdania warunkowe — okres nierealny przeszły",
+    difficulty: "high"
+  },
+  {
+    id: "B2_WARUN_001",
+    source: "pdf",
+    question: `Który okres warunkowy jest MIESZANY (przeszły warunek, teraźniejszy rezultat)?
+„Gdybym wczoraj nie zjadł tyle, teraz _______ się lepiej."`,
+    options: [
+    { label: "A", text: "czułem (przeszły)" },
+    { label: "B", text: "czuję (teraźniejszy)" },
+    { label: "C", text: "czułbym (warunkowy)" },
+    { label: "D", text: "czułbym się (warunkowy zwrotny)" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Mieszany okres warunkowy** — przeszły warunek + teraźniejszy rezultat w trybie warunkowym.
+
+🔑 Mieszany okres:
+• Warunek: "Gdybym wczoraj nie zjadł" (przeszły, nierealny)
+• Rezultat: "teraz **czułbym się** lepiej" (teraźniejszy, warunkowy)
+
+Схема: Gdyby + przeszły, teraz + warunkowy.
+
+⚠️ "Czuć się" — czasownik zwrotny, więc "czułbym się".
+
+• A) "czułem" — przeszły oznajmujący, nie warunkowy
+• B) "czuję" — teraźniejszy oznajmujący, nie warunkowy
+• C) "czułbym" — bez "się", niepełna forma`,
+    explanationPl: `**Mieszany okres warunkowy** — przeszły warunek + teraźniejszy rezultat w trybie warunkowym.
+
+🔑 Mieszany okres:
+• Warunek: "Gdybym wczoraj nie zjadł" (przeszły, nierealny)
+• Rezultat: "teraz **czułbym się** lepiej" (teraźniejszy, warunkowy)
+
+Schemat: Gdyby + przeszły, teraz + warunkowy.
+
+⚠️ "Czuć się" — czasownik zwrotny, więc "czułbym się".
+
+• A) "czułem" — przeszły oznajmujący, nie warunkowy
+• B) "czuję" — teraźniejszy oznajmujący, nie warunkowy
+• C) "czułbym" — bez "się", niepełna forma`,
+    topic: "Zdania warunkowe — mieszane okresy warunkowe",
+    difficulty: "very high"
+  },
+  {
+    id: "B2_WARUN_002",
+    source: "pdf",
+    question: `Która konstrukcja jest przykładem INWERSJI WARUNKOWEJ (bez spójnika)?`,
+    options: [
+    { label: "A", text: "Jeśli chcesz, pomogę ci." },
+    { label: "B", text: "Gdybyś chciał, pomógłbym ci." },
+    { label: "C", text: "Chciałbyś — pomógłbym ci." },
+    { label: "D", text: "B i C są poprawne" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Inwersja warunkowa** — конструкция bez spójnika, с паузой/тире.
+
+🔑 Inwersja warunkowa:
+• "**Chciałbyś** — **pomógłbym** ci." (bez spójnika, z pauzą)
+• Эквивалент: "Gdybyś chciał, pomógłbym ci."
+
+Это стилистический вариант, более разговорный или эмфатический.
+
+• A) "Jeśli chcesz" — okres realny, не инверсия
+• B) "Gdybyś chciał" — стандартная конструкция с "gdyby", не инверсия
+• D) Только C — инверсия, B — стандарт`,
+    explanationPl: `**Inwersja warunkowa** — konstrukcja bez spójnika, z pauzą/myślnikiem.
+
+🔑 Inwersja warunkowa:
+• "**Chciałbyś** — **pomógłbym** ci." (bez spójnika, z pauzą)
+• Ekwiwalent: "Gdybyś chciał, pomógłbym ci."
+
+To wariant stylistyczny, bardziej potoczny lub emfatyczny.
+
+• A) "Jeśli chcesz" — okres realny, nie inwersja
+• B) "Gdybyś chciał" — standardowa konstrukcja z "gdyby", nie inwersja
+• D) Tylko C to inwersja, B to standard`,
+    topic: "Zdania warunkowe — inwersja warunkowa (bez \"gdyby\")",
+    difficulty: "very high"
+  },
+  {
+    id: "B1_IMIES_001",
+    source: "pdf",
+    question: `Jaki jest imiesłów przymiotnikowy czynny od czasownika "czytać"?`,
+    options: [
+    { label: "A", text: "czytany" },
+    { label: "B", text: "czytający" },
+    { label: "C", text: "czytając" },
+    { label: "D", text: "przeczytany" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Imiesłów przymiotnikowy czynny** образуется от основы teraźniejszej + **-ący/-ąca/-ące**.
+
+🔑 Tworzenie:
+• "czytać" → oni czyta**ją** → czyta**jący** → **czytający**
+• Schemat: 3 os. l.mn. (bez -ą) + -ący
+
+• A) "czytany" — imiesłów bierny (страдательное причастие)
+• C) "czytając" — imiesłów przysłówkowy współczesny (деепричастие)
+• D) "przeczytany" — imiesłów bierny dokonany`,
+    explanationPl: `**Imiesłów przymiotnikowy czynny** tworzy się od podstawy teraźniejszej + **-ący/-ąca/-ące**.
+
+🔑 Tworzenie:
+• "czytać" → oni czyta**ją** → czyta**jący** → **czytający**
+• Schemat: 3 os. l.mn. (bez -ą) + -ący
+
+• A) "czytany" — imiesłów bierny
+• C) "czytając" — imiesłów przysłówkowy współczesny
+• D) "przeczytany" — imiesłów bierny dokonany`,
+    topic: "Imiesłów przymiotnikowy czynny — tworzenie",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_002",
+    source: "pdf",
+    question: `Jaki jest imiesłów przymiotnikowy bierny od czasownika "pisać"?`,
+    options: [
+    { label: "A", text: "pisany" },
+    { label: "B", text: "napisany" },
+    { label: "C", text: "piszący" },
+    { label: "D", text: "pisząc" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Imiesłów przymiotnikowy bierny** образуется от основы bezokolicznika + **-ny/-ty**.
+
+🔑 Tworzenie (końcówka -ny):
+• "pisać" → pisa- + -ny → **pisany**
+• Dla czasowników na -ać: -any (pisać → pisany, czytać → czytany)
+
+• B) "napisany" — forma dokonana (от "napisać")
+• C) "piszący" — imiesłów czynny
+• D) "pisząc" — imiesłów przysłówkowy`,
+    explanationPl: `**Imiesłów przymiotnikowy bierny** tworzy się od podstawy bezokolicznika + **-ny/-ty**.
+
+🔑 Tworzenie (końcówka -ny):
+• "pisać" → pisa- + -ny → **pisany**
+• Dla czasowników na -ać: -any (pisać → pisany, czytać → czytany)
+
+• B) "napisany" — forma dokonana (od "napisać")
+• C) "piszący" — imiesłów czynny
+• D) "pisząc" — imiesłów przysłówkowy`,
+    topic: "Imiesłów przymiotnikowy bierny — tworzenie (-ny)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_003",
+    source: "pdf",
+    question: `Jaki jest imiesłów przymiotnikowy bierny od czasownika "zamknąć"?`,
+    options: [
+    { label: "A", text: "zamknięcie" },
+    { label: "B", text: "zamykany" },
+    { label: "C", text: "zamknięty" },
+    { label: "D", text: "zamykający" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Imiesłów bierny** от czasowników na **-nąć** образуется с końcówką **-ty** (с alternacją).
+
+🔑 Tworzenie (końcówka -ty):
+• "zamknąć" → zamknię- + -ty → **zamknięty**
+• Alternacja: -ną- → -nię- przed -ty
+
+⚠️ Czasowniki na -nąć, -ąć, -yć, -uć часто имеют końcówkę -ty.
+• A) "zamknięcie" — rzeczownik, nie imiesłów
+• B) "zamykany" — od niedokonanego "zamykać"
+• D) "zamykający" — imiesłów czynny`,
+    explanationPl: `**Imiesłów bierny** od czasowników na **-nąć** tworzy się z końcówką **-ty** (z alternacją).
+
+🔑 Tworzenie (końcówka -ty):
+• "zamknąć" → zamknię- + -ty → **zamknięty**
+• Alternacja: -ną- → -nię- przed -ty
+
+⚠️ Czasowniki na -nąć, -ąć, -yć, -uć często mają końcówkę -ty.
+
+• A) "zamknięcie" — rzeczownik, nie imiesłów
+• B) "zamykany" — od niedokonanego "zamykać"
+• D) "zamykający" — imiesłów czynny`,
+    topic: "Imiesłów przymiotnikowy bierny — tworzenie (-ty)",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_004",
+    source: "pdf",
+    question: `Które zdanie jest poprawne?
+„Widzę _______ dziecko."`,
+    options: [
+    { label: "A", text: "płakające" },
+    { label: "B", text: "płakający" },
+    { label: "C", text: "płakająca" },
+    { label: "D", text: "płaczące" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Imiesłów czynny** согласуется с rzeczownikiem в rodzaju, liczbie i przypadku.
+
+🔑 Zgodność:
+• "dziecko" — rodzaj nijaki, biernik = mianownik
+• Imiesłów: **płaczące** (nijaki, l.poj., B.)
+
+⚠️ "Płakać" → oni płacz**ą** → płacz**ący/a/e** (nie "płakający"!)
+
+• A) "płakające" — błędna forma (od nieistniejącego "płakać" z -ają)
+• B) "płakający" — rodzaj męski, nie pasuje do "dziecko"
+• C) "płakająca" — rodzaj żeński, nie pasuje do "dziecko"`,
+    explanationPl: `**Imiesłów czynny** zgadza się z rzeczownikiem w rodzaju, liczbie i przypadku.
+
+🔑 Zgodność:
+• "dziecko" — rodzaj nijaki, biernik = mianownik
+• Imiesłów: **płaczące** (nijaki, l.poj., B.)
+
+⚠️ "Płakać" → oni płacz**ą** → płacz**ący/a/e** (nie "płakający"!)
+
+• A) "płakające" — błędna forma (od nieistniejącego "płakać" z -ają)
+• B) "płakający" — rodzaj męski, nie pasuje do "dziecko"
+• C) "płakająca" — rodzaj żeński, nie pasuje do "dziecko"`,
+    topic: "Imiesłów przymiotnikowy czynny — użycie",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_005",
+    source: "pdf",
+    question: `Które zdanie jest poprawne?
+„Książka _______ przez studentów leży na stole."`,
+    options: [
+    { label: "A", text: "czytana" },
+    { label: "B", text: "czytany" },
+    { label: "C", text: "czytane" },
+    { label: "D", text: "czytający" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Imiesłów bierny** согласуется с rzeczownikiem в rodzaju, liczbie i przypadku.
+
+🔑 Zgodność:
+• "książka" — rodzaj żeński, mianownik
+• Imiesłów: **czytana** (żeński, l.poj., M.)
+
+• B) "czytany" — rodzaj męski
+• C) "czytane" — rodzaj nijaki lub l.mn. niemęskoosobowa
+• D) "czytający" — imiesłów czynny (kto czyta, nie co jest czytane)`,
+    explanationPl: `**Imiesłów bierny** zgadza się z rzeczownikiem w rodzaju, liczbie i przypadku.
+
+🔑 Zgodność:
+• "książka" — rodzaj żeński, mianownik
+• Imiesłów: **czytana** (żeński, l.poj., M.)
+
+• B) "czytany" — rodzaj męski
+• C) "czytane" — rodzaj nijaki lub l.mn. niemęskoosobowa
+• D) "czytający" — imiesłów czynny (kto czyta, nie co jest czytane)`,
+    topic: "Imiesłów przymiotnikowy bierny — użycie",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_006",
+    source: "pdf",
+    question: `Uzupełnij zdanie poprawną formą:
+„Rozmawiam z _______ studentem."`,
+    options: [
+    { label: "A", text: "uczący się" },
+    { label: "B", text: "uczącego się" },
+    { label: "C", text: "uczącym się" },
+    { label: "D", text: "uczących się" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Imiesłów czynny** odmienia się jak przymiotnik i принимает przypadek rzeczownika.
+
+🔑 Odmiana:
+• "z + studentem" — narzędnik (z kim?)
+• "student" — rodzaj męski, l.poj.
+• Imiesłów: **uczącym się** (męski, l.poj., N.)
+
+Odmiana: uczący (M.) → uczącego (D.) → uczącemu (C.) → uczącego (B.) → **uczącym** (N.) → uczącym (Msc.)
+
+• A) "uczący się" — mianownik
+• B) "uczącego się" — dopełniacz lub biernik
+• D) "uczących się" — dopełniacz l.mn.`,
+    explanationPl: `**Imiesłów czynny** odmienia się jak przymiotnik i przyjmuje przypadek rzeczownika.
+
+🔑 Odmiana:
+• "z + studentem" — narzędnik (z kim?)
+• "student" — rodzaj męski, l.poj.
+• Imiesłów: **uczącym się** (męski, l.poj., N.)
+
+Odmiana: uczący (M.) → uczącego (D.) → uczącemu (C.) → uczącego (B.) → **uczącym** (N.) → uczącym (Msc.)
+
+• A) "uczący się" — mianownik
+• B) "uczącego się" — dopełniacz lub biernik
+• D) "uczących się" — dopełniacz l.mn.`,
+    topic: "Imiesłów przymiotnikowy czynny — odmiana",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_007",
+    source: "pdf",
+    question: `Uzupełnij zdanie poprawną formą:
+„Mówię o _______ książce."`,
+    options: [
+    { label: "A", text: "przeczytana" },
+    { label: "B", text: "przeczytanej" },
+    { label: "C", text: "przeczytaną" },
+    { label: "D", text: "przeczytane" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Imiesłów bierny** odmienia się jak przymiotnik и принимает przypadek rzeczownika.
+
+🔑 Odmiana:
+• "o + książce" — miejscownik (o czym?)
+• "książka" — rodzaj żeński, l.poj.
+• Imiesłów: **przeczytanej** (żeński, l.poj., Msc.)
+
+Odmiana żeńska: przeczytana (M.) → przeczytanej (D.) → przeczytanej (C.) → przeczytaną (B.) → przeczytaną (N.) → **przeczytanej** (Msc.)
+
+• A) "przeczytana" — mianownik
+• C) "przeczytaną" — biernik lub narzędnik
+• D) "przeczytane" — nijaki lub l.mn.`,
+    explanationPl: `**Imiesłów bierny** odmienia się jak przymiotnik i przyjmuje przypadek rzeczownika.
+
+🔑 Odmiana:
+• "o + książce" — miejscownik (o czym?)
+• "książka" — rodzaj żeński, l.poj.
+• Imiesłów: **przeczytanej** (żeński, l.poj., Msc.)
+
+Odmiana żeńska: przeczytana (M.) → przeczytanej (D.) → przeczytanej (C.) → przeczytaną (B.) → przeczytaną (N.) → **przeczytanej** (Msc.)
+
+• A) "przeczytana" — mianownik
+• C) "przeczytaną" — biernik lub narzędnik
+• D) "przeczytane" — nijaki lub l.mn.`,
+    topic: "Imiesłów przymiotnikowy bierny — odmiana",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_008",
+    source: "pdf",
+    question: `Jaki jest imiesłów przymiotnikowy bierny od czasownika "wziąć"?`,
+    options: [
+    { label: "A", text: "wzięty" },
+    { label: "B", text: "brany" },
+    { label: "C", text: "bierzący" },
+    { label: "D", text: "wziąwszy" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Imiesłów bierny** от "wziąć" — **nieregularny**: **wzięty**.
+
+🔑 Nieregularne imiesłowy bierne:
+• "wziąć" → **wzięty** (nie "wziąny"!)
+• "zjeść" → zjedzony
+• "wypić" → wypity
+
+• B) "brany" — od niedokonanego "brać"
+• C) "bierzący" — imiesłów czynny od "brać"
+• D) "wziąwszy" — imiesłów przysłówkowy uprzedni`,
+    explanationPl: `**Imiesłów bierny** od "wziąć" — **nieregularny**: **wzięty**.
+
+🔑 Nieregularne imiesłowy bierne:
+• "wziąć" → **wzięty** (nie "wziąny"!)
+• "zjeść" → zjedzony
+• "wypić" → wypity
+
+• B) "brany" — od niedokonanego "brać"
+• C) "bierzący" — imiesłów czynny od "brać"
+• D) "wziąwszy" — imiesłów przysłówkowy uprzedni`,
+    topic: "Imiesłów przymiotnikowy bierny — nieregularny",
+    difficulty: "high"
+  },
+  {
+    id: "B2_IMIES_001",
+    source: "pdf",
+    question: `Która forma jest poprawna w funkcji RZECZOWNIKA?
+„_______ powinni zgłosić się do sekretariatu."`,
+    options: [
+    { label: "A", text: "Studiujący" },
+    { label: "B", text: "Studenci studiujący" },
+    { label: "C", text: "Studiujący studenci" },
+    { label: "D", text: "A i B są poprawne" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Imiesłów czynny** может выступать как **rzeczownik** (субстантивизация).
+
+🔑 Imiesłów jako rzeczownik:
+• "**Studiujący** powinni zgłosić się..." — imiesłów w funkcji rzeczownika
+• Znaczenie: "ci, którzy studiują" = "studenci"
+
+✅ "Studiujący" samodzielnie pełni funkcję podmiotu (substanywizacja).
+
+• B) "Studenci studiujący" — NIE jest substantywizacją (imiesłów jako przydawka do "studenci")
+• C) "Studiujący studenci" — NIE jest substantywizacją (imiesłów jako przydawka)
+• D) Tylko A — imiesłów w funkcji rzeczownika`,
+    explanationPl: `**Imiesłów czynny** może występować jako **rzeczownik** (substanywizacja).
+
+🔑 Imiesłów jako rzeczownik:
+• "**Studiujący** powinni zgłosić się..." — imiesłów w funkcji rzeczownika
+• Znaczenie: "ci, którzy studiują" = "studenci"
+
+✅ "Studiujący" samodzielnie pełni funkcję podmiotu (substanywizacja).
+
+• B) "Studenci studiujący" — NIE jest substantywizacją (imiesłów jako przydawka do "studenci")
+• C) "Studiujący studenci" — NIE jest substantywizacją (imiesłów jako przydawka)
+• D) Tylko A — imiesłów w funkcji rzeczownika`,
+    topic: "Imiesłów przymiotnikowy czynny — w funkcji rzeczownika",
+    difficulty: "very high"
+  },
+  {
+    id: "B2_IMIES_002",
+    source: "pdf",
+    question: `Która forma jest przykładem IMIESŁOWU ZŁOŻONEGO?`,
+    options: [
+    { label: "A", text: "piszący" },
+    { label: "B", text: "napisany" },
+    { label: "C", text: "nowo otwarty" },
+    { label: "D", text: "C i \"szeroko znany\" są złożone" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Imiesłów złożony** — imiesłów z przysłówkiem lub innym modyfikatorem.
+
+🔑 Imiesłowy złożone:
+• "**nowo otwarty**" — przysłówek + imiesłów bierny
+• "**szeroko znany**" — przysłówek + imiesłów bierny
+• "świeżo upieczony", "długo oczekiwany" — inne przykłady
+
+✅ Oba przykłady (C i "szeroko znany") są imiesłowami złożonymi.
+
+• A) "piszący" — prosty imiesłów czynny
+• B) "napisany" — prosty imiesłów bierny
+• C) "nowo otwarty" — złożony (przysłówek + imiesłów)`,
+    explanationPl: `**Imiesłów złożony** — imiesłów z przysłówkiem lub innym modyfikatorem.
+
+🔑 Imiesłowy złożone:
+• "**nowo otwarty**" — przysłówek + imiesłów bierny
+• "**szeroko znany**" — przysłówek + imiesłów bierny
+• "świeżo upieczony", "długo oczekiwany" — inne przykłady
+
+✅ Oba przykłady (C i "szeroko znany") są imiesłowami złożonymi.
+
+• A) "piszący" — prosty imiesłów czynny
+• B) "napisany" — prosty imiesłów bierny
+• C) "nowo otwarty" — złożony (przysłówek + imiesłów)`,
+    topic: "Imiesłów przymiotnikowy — złożony",
+    difficulty: "very high"
+  },
+  {
+    id: "B1_IMIES_009",
+    source: "pdf",
+    question: `Jaki jest imiesłów przysłówkowy współczesny od czasownika "pisać"?`,
+    options: [
+    { label: "A", text: "pisany" },
+    { label: "B", text: "pisząc" },
+    { label: "C", text: "piszący" },
+    { label: "D", text: "napisawszy" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Imiesłów przysłówkowy współczesny** образуется от основы teraźniejszej + **-ąc**.
+
+🔑 Tworzenie:
+• "pisać" → oni pisz**ą** → pisz**ąc**
+• Schemat: 3 os. l.mn. (bez -ą) + -ąc
+
+Этот imiesłów выражает действие, происходящее **одновременно** с главным действием.
+
+• A) "pisany" — imiesłów bierny
+• C) "piszący" — imiesłów przymiotnikowy czynny
+• D) "napisawszy" — imiesłów przysłówkowy uprzedni`,
+    explanationPl: `**Imiesłów przysłówkowy współczesny** tworzy się od podstawy teraźniejszej + **-ąc**.
+
+🔑 Tworzenie:
+• "pisać" → oni pisz**ą** → pisz**ąc**
+• Schemat: 3 os. l.mn. (bez -ą) + -ąc
+
+Ten imiesłów wyraża czynność odbywającą się **równocześnie** z czynnością główną.
+
+• A) "pisany" — imiesłów bierny
+• C) "piszący" — imiesłów przymiotnikowy czynny
+• D) "napisawszy" — imiesłów przysłówkowy uprzedni`,
+    topic: "Imiesłów przysłówkowy współczesny — tworzenie",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_010",
+    source: "pdf",
+    question: `Jaki jest imiesłów przysłówkowy uprzedni od czasownika "napisać"?`,
+    options: [
+    { label: "A", text: "napisawszy" },
+    { label: "B", text: "napisując" },
+    { label: "C", text: "napisany" },
+    { label: "D", text: "piszący" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Imiesłów przysłówkowy uprzedni** образуется от основy przeszłej + **-wszy** (после гласной) или **-łszy** (после согласной).
+
+🔑 Tworzenie:
+• "napisać" → napisa**ł** → napisa**wszy**
+• Schemat: forma przeszła (bez -ł) + -wszy
+
+Этот imiesłów выражает действие, которое произошло **раньше** главного действия.
+
+• B) "napisując" — niepoprawna forma (od dokonanego nie tworzy się -ąc)
+• C) "napisany" — imiesłów bierny
+• D) "piszący" — imiesłów czynny od niedokonanego`,
+    explanationPl: `**Imiesłów przysłówkowy uprzedni** tworzy się od podstawy przeszłej + **-wszy** (po samogłosce) lub **-łszy** (po spółgłosce).
+
+🔑 Tworzenie:
+• "napisać" → napisa**ł** → napisa**wszy**
+• Schemat: forma przeszła (bez -ł) + -wszy
+
+Ten imiesłów wyraża czynność, która odbyła się **wcześniej** niż czynność główna.
+
+• B) "napisując" — niepoprawna forma (od dokonanego nie tworzy się -ąc)
+• C) "napisany" — imiesłów bierny
+• D) "piszący" — imiesłów czynny od niedokonanego`,
+    topic: "Imiesłów przysłówkowy uprzedni — tworzenie",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_011",
+    source: "pdf",
+    question: `Które zdanie jest poprawne?`,
+    options: [
+    { label: "A", text: "Czytając książkę, zadzwonił telefon." },
+    { label: "B", text: "Czytając książkę, usłyszałem dzwonek." },
+    { label: "C", text: "Czytając książkę, telefon zadzwonił." },
+    { label: "D", text: "B jest poprawne" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Imiesłów przysłówkowy** wymaga **tożsamości podmiotu** — podmiot imiesłowu = podmiot zdania głównego.
+
+🔑 Tożsamość podmiotu:
+• "**Czytając** książkę, **usłyszałem** dzwonek." — ja czytałem i ja usłyszałem ✓
+• "Czytając książkę, zadzwonił telefon." — ja czytałem, ale telefon zadzwonił ✗
+
+⚠️ Błąd: "Czytając książkę, zadzwonił telefon" — telefon nie czytał książki!
+
+• A) Błąd tożsamości podmiotu (telefon zadzwonił)
+• B) Poprawne — ja czytałem, ja usłyszałem
+• C) Błąd tożsamości podmiotu (telefon zadzwonił)`,
+    explanationPl: `**Imiesłów przysłówkowy** wymaga **tożsamości podmiotu** — podmiot imiesłowu = podmiot zdania głównego.
+
+🔑 Tożsamość podmiotu:
+• "**Czytając** książkę, **usłyszałem** dzwonek." — ja czytałem i ja usłyszałem ✓
+• "Czytając książkę, zadzwonił telefon." — ja czytałem, ale telefon zadzwonił ✗
+
+⚠️ Błąd: "Czytając książkę, zadzwonił telefon" — telefon nie czytał książki!
+
+• A) Błąd tożsamości podmiotu (telefon zadzwonił)
+• B) Poprawne — ja czytałem, ja usłyszałem
+• C) Błąd tożsamości podmiotu (telefon zadzwonił)`,
+    topic: "Imiesłów przysłówkowy współczesny — użycie",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_012",
+    source: "pdf",
+    question: `Które zdanie jest poprawne?
+„_______ pracę, poszedłem do domu."`,
+    options: [
+    { label: "A", text: "Kończąc" },
+    { label: "B", text: "Skończywszy" },
+    { label: "C", text: "Skończony" },
+    { label: "D", text: "Kończący" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Imiesłów przysłówkowy uprzedni** выражает действие, которое произошло **раньше** главного.
+
+🔑 Uprzedniość:
+• "**Skończywszy** pracę, poszedłem do domu." — сначала закончил, потом пошёл
+• Imiesłów uprzedni od dokonanego "skończyć"
+
+• A) "Kończąc" — imiesłów współczesny, одновременность (не подходит)
+• C) "Skończony" — imiesłów bierny (przymiotnikowy)
+• D) "Kończący" — imiesłów czynny (przymiotnikowy)`,
+    explanationPl: `**Imiesłów przysłówkowy uprzedni** wyraża czynność, która odbyła się **wcześniej** niż czynność główna.
+
+🔑 Uprzedniość:
+• "**Skończywszy** pracę, poszedłem do domu." — najpierw skończyłem, potem poszedłem
+• Imiesłów uprzedni od dokonanego "skończyć"
+
+• A) "Kończąc" — imiesłów współczesny, równoczesność (nie pasuje)
+• C) "Skończony" — imiesłów bierny (przymiotnikowy)
+• D) "Kończący" — imiesłów czynny (przymiotnikowy)`,
+    topic: "Imiesłów przysłówkowy uprzedni — użycie",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_013",
+    source: "pdf",
+    question: `Od którego aspektu tworzy się imiesłów przysłówkowy WSPÓŁCZESNY?`,
+    options: [
+    { label: "A", text: "Tylko od dokonanego" },
+    { label: "B", text: "Tylko od niedokonanego" },
+    { label: "C", text: "Od obu aspektów" },
+    { label: "D", text: "B jest poprawne" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Imiesłów przysłówkowy współczesny** (-ąc) tworzy się **tylko od niedokonanego**.
+
+🔑 Aspekt a imiesłowy przysłówkowe:
+• **Współczesny** (-ąc) — tylko niedokonany (czytać → czytając)
+• **Uprzedni** (-wszy) — tylko dokonany (przeczytać → przeczytawszy)
+
+⚠️ Nie istnieje: *"przeczytając" (dokonany + -ąc)
+
+• A) Odwrotnie — uprzedni od dokonanego
+• B) i D) Poprawne (дублирование)
+• C) Niepoprawne — tylko jeden aspekt`,
+    explanationPl: `**Imiesłów przysłówkowy współczesny** (-ąc) tworzy się **tylko od niedokonanego**.
+
+🔑 Aspekt a imiesłowy przysłówkowe:
+• **Współczesny** (-ąc) — tylko niedokonany (czytać → czytając)
+• **Uprzedni** (-wszy) — tylko dokonany (przeczytać → przeczytawszy)
+
+⚠️ Nie istnieje: *"przeczytając" (dokonany + -ąc)
+
+• A) Odwrotnie — uprzedni od dokonanego
+• B) i D) Poprawne
+• C) Niepoprawne — tylko jeden aspekt`,
+    topic: "Imiesłów przysłówkowy — aspekt",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_014",
+    source: "pdf",
+    question: `Przekształć zdanie na konstrukcję z imiesłowem:
+„Kiedy szedłem do pracy, spotkałem kolegę."`,
+    options: [
+    { label: "A", text: "Idąc do pracy, spotkałem kolegę." },
+    { label: "B", text: "Poszedłszy do pracy, spotkałem kolegę." },
+    { label: "C", text: "Idący do pracy, spotkałem kolegę." },
+    { label: "D", text: "Szedłem do pracy, spotykając kolegę." }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Zdanie czasowe** z "kiedy" можно przekształcić на imiesłów przysłówkowy.
+
+🔑 Przekształcenie:
+• "Kiedy **szedłem** do pracy" → "**Idąc** do pracy" (współczesny)
+• Действия одновременные → imiesłów współczesny
+
+• B) "Poszedłszy" — uprzedni, sugeruje: najpierw poszedłem, potem spotkałem
+• C) "Idący" — imiesłów przymiotnikowy, nie przysłówkowy
+• D) Odwrócona kolejność — niepoprawne znaczenie`,
+    explanationPl: `**Zdanie czasowe** z "kiedy" można przekształcić na imiesłów przysłówkowy.
+
+🔑 Przekształcenie:
+• "Kiedy **szedłem** do pracy" → "**Idąc** do pracy" (współczesny)
+• Czynności równoczesne → imiesłów współczesny
+
+• B) "Poszedłszy" — uprzedni, sugeruje: najpierw poszedłem, potem spotkałem
+• C) "Idący" — imiesłów przymiotnikowy, nie przysłówkowy
+• D) Odwrócona kolejność — niepoprawne znaczenie`,
+    topic: "Imiesłów przysłówkowy — przekształcenie zdania",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_015",
+    source: "pdf",
+    question: `Jaki jest imiesłów przysłówkowy uprzedni od czasownika "wziąć"?`,
+    options: [
+    { label: "A", text: "biorąc" },
+    { label: "B", text: "wziąwszy" },
+    { label: "C", text: "wzięty" },
+    { label: "D", text: "brawszy" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Imiesłów przysłówkowy uprzedni** от "wziąć" — **wziąwszy**.
+
+🔑 Tworzenie:
+• "wziąć" → wziął → wziąwszy
+• Schemat: wziął (bez -ł) + -wszy = wziąwszy
+
+⚠️ Forma nieregularna — alternacja w podstawie.
+
+• A) "biorąc" — imiesłów współczesny od "brać" (nie uprzedni!)
+• C) "wzięty" — imiesłów bierny (przymiotnikowy), nie przysłówkowy
+• D) "brawszy" — niepoprawna forma`,
+    explanationPl: `**Imiesłów przysłówkowy uprzedni** od "wziąć" — **wziąwszy**.
+
+🔑 Tworzenie:
+• "wziąć" → wziął → wziąwszy
+• Schemat: wziął (bez -ł) + -wszy = wziąwszy
+
+⚠️ Forma nieregularna — alternacja w podstawie.
+
+• A) "biorąc" — imiesłów współczesny od "brać" (nie uprzedni!)
+• C) "wzięty" — imiesłów bierny (przymiotnikowy), nie przysłówkowy
+• D) "brawszy" — niepoprawna forma`,
+    topic: "Imiesłów przysłówkowy uprzedni — nieregularny",
+    difficulty: "high"
+  },
+  {
+    id: "B1_IMIES_016",
+    source: "pdf",
+    question: `Jak tworzy się PRZECZENIE z imiesłowem przysłówkowym?
+„_______ nic, wyszedłem z pokoju."`,
+    options: [
+    { label: "A", text: "Niemówiąc" },
+    { label: "B", text: "Nie mówiąc" },
+    { label: "C", text: "Nie-mówiąc" },
+    { label: "D", text: "Nie mówiwszy" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Przeczenie** z imiesłowem przysłówkowym — **"nie" pisane oddzielnie**.
+
+🔑 Przeczenie:
+• "**Nie mówiąc** nic, wyszedłem z pokoju."
+• "Nie" + imiesłów = pisane oddzielnie (jak z czasownikiem)
+
+⚠️ W przeciwieństwie do imiesłowów przymiotnikowych (nieznany, niewidoczny).
+
+• A) "Niemówiąc" — błędna pisownia łączna
+• C) "Nie-mówiąc" — błędna pisownia z łącznikiem
+• D) "Nie mówiwszy" — uprzedni, ale kontekst wymaga współczesnego`,
+    explanationPl: `**Przeczenie** z imiesłowem przysłówkowym — **"nie" pisane oddzielnie**.
+
+🔑 Przeczenie:
+• "**Nie mówiąc** nic, wyszedłem z pokoju."
+• "Nie" + imiesłów = pisane oddzielnie (jak z czasownikiem)
+
+⚠️ W przeciwieństwie do imiesłowów przymiotnikowych (nieznany, niewidoczny).
+
+• A) "Niemówiąc" — błędna pisownia łączna
+• C) "Nie-mówiąc" — błędna pisownia z łącznikiem
+• D) "Nie mówiwszy" — uprzedni, ale kontekst wymaga współczesnego`,
+    topic: "Imiesłów przysłówkowy — przeczenie",
+    difficulty: "high"
+  },
+  {
+    id: "B2_IMIES_003",
+    source: "pdf",
+    question: `W jakim stylu najczęściej używa się imiesłowów przysłówkowych?`,
+    options: [
+    { label: "A", text: "W stylu potocznym" },
+    { label: "B", text: "W stylu formalnym/pisanym" },
+    { label: "C", text: "W obu stylach jednakowo" },
+    { label: "D", text: "W stylu formalnym/pisanym (rzadko w mowie)" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Imiesłowy przysłówkowe** są charakterystyczne dla **stylu formalnego/pisanego**.
+
+🔑 Styl:
+• W mowie potocznej: "Kiedy szedłem do pracy, spotkałem kolegę."
+• W stylu formalnym: "Idąc do pracy, spotkałem kolegę."
+
+⚠️ W języku mówionym imiesłowy przysłówkowe brzmią sztucznie.
+
+• A) Niepoprawne — rzadko w stylu potocznym
+• B) Częściowo poprawne
+• C) Niepoprawne — nie jednakowo
+• D) Najbardziej precyzyjne — formalny/pisany, rzadko w mowie`,
+    explanationPl: `**Imiesłowy przysłówkowe** są charakterystyczne dla **stylu formalnego/pisanego**.
+
+🔑 Styl:
+• W mowie potocznej: "Kiedy szedłem do pracy, spotkałem kolegę."
+• W stylu formalnym: "Idąc do pracy, spotkałem kolegę."
+
+⚠️ W języku mówionym imiesłowy przysłówkowe brzmią sztucznie.
+
+• A) Niepoprawne — rzadko w stylu potocznym
+• B) Częściowo poprawne
+• C) Niepoprawne — nie jednakowo
+• D) Najbardziej precyzyjne — formalny/pisany, rzadko w mowie`,
+    topic: "Imiesłowy przysłówkowe — styl formalny",
+    difficulty: "very high"
+  },
+  {
+    id: "B2_IMIES_004",
+    source: "pdf",
+    question: `Które zdanie zawiera BŁĄD w użyciu imiesłowu przysłówkowego?`,
+    options: [
+    { label: "A", text: "Wchodząc do pokoju, zobaczyłem kota." },
+    { label: "B", text: "Przeczytawszy książkę, oddałem ją do biblioteki." },
+    { label: "C", text: "Jadąc autobusem, minęliśmy most." },
+    { label: "D", text: "Wychodząc z domu, zaczął padać deszcz." }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Błąd tożsamości podmiotu** — najczęstszy błąd z imiesłowami przysłówkowymi.
+
+🔑 Analiza:
+• A) "Wchodząc... zobaczyłem" — ja wchodziłem, ja zobaczyłem ✓
+• B) "Przeczytawszy... oddałem" — ja przeczytałem, ja oddałem ✓
+• C) "Jadąc... minęliśmy" — my jechaliśmy, my minęliśmy ✓
+• D) "Wychodząc... zaczął padać deszcz" — ja wychodziłem, deszcz zaczął padać ✗
+
+⚠️ W D) deszcz nie wychodził z domu!
+
+Poprawnie: "Kiedy wychodziłem z domu, zaczął padać deszcz."`,
+    explanationPl: `**Błąd tożsamości podmiotu** — najczęstszy błąd z imiesłowami przysłówkowymi.
+
+🔑 Analiza:
+• A) "Wchodząc... zobaczyłem" — ja wchodziłem, ja zobaczyłem ✓
+• B) "Przeczytawszy... oddałem" — ja przeczytałem, ja oddałem ✓
+• C) "Jadąc... minęliśmy" — my jechaliśmy, my minęliśmy ✓
+• D) "Wychodząc... zaczął padać deszcz" — ja wychodziłem, deszcz zaczął padać ✗
+
+⚠️ W D) deszcz nie wychodził z domu!
+
+Poprawnie: "Kiedy wychodziłem z domu, zaczął padać deszcz."`,
+    topic: "Imiesłowy przysłówkowe — typowe błędy",
+    difficulty: "very high"
+  }
 ];
