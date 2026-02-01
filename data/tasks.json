@@ -5798,5 +5798,1405 @@
     "explanationPl": "Niemniej jednak — niemniej jednak (typowy spójnik po przecinku).\nAczkolwiek/jakkolwiek — aczkolwiek (wymagają pozycji na początku zdania).\nChoć — choć (też wymaga pozycji początkowej).\n\n🔑 Pozycja w zdaniu:\n• Aczkolwiek projekt był trudny, udało nam się... — na początku\n• Projekt był trudny, niemniej jednak udało nam się... — po przecinku\n\n• A) \"aczkolwiek\" — wymaga pozycji początkowej\n• B) \"jakkolwiek\" — wymaga pozycji początkowej\n• D) \"choć\" — wymaga pozycji początkowej",
     "topic": "Spójniki — aczkolwiek vs niemniej jednak",
     "difficulty": "very high"
+  },
+  {
+    "id": "B1_ZWROTNE_001",
+    "source": "pdf",
+    "question": "Ona kocha tylko _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "siebie"
+      },
+      {
+        "label": "B",
+        "text": "się"
+      },
+      {
+        "label": "C",
+        "text": "sobie"
+      },
+      {
+        "label": "D",
+        "text": "sobą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Siebie** — акцентированная форма возвратного местоимения (винительный падеж).\n**Się** — неакцентированная форма, используется с возвратными глаголами.\n\n🔑 Się vs siebie:\n• **się** — клитика, не может стоять после \"tylko\", не несёт ударения\n• **siebie** — полная форма, может стоять после \"tylko\", несёт ударение\n\n\"Tylko siebie\" — только себя (с акцентом на \"себя\").\n\n• B) \"się\" — клитика, не может стоять в акцентированной позиции\n• C) \"sobie\" — дательный падеж, не подходит для \"kochać\" (kochać kogo? — biernik)\n• D) \"sobą\" — творительный падеж, не подходит",
+    "explanationPl": "**Siebie** — akcentowana forma zaimka zwrotnego (biernik).\n**Się** — nieakcentowana forma, używana z czasownikami zwrotnymi.\n\n🔑 Się vs siebie:\n• **się** — klityka, nie może stać po \"tylko\", nie niesie akcentu\n• **siebie** — pełna forma, może stać po \"tylko\", niesie akcent\n\n\"Tylko siebie\" — tylko siebie (z akcentem na \"siebie\").\n\n• B) \"się\" — klityka, nie może stać w pozycji akcentowanej\n• C) \"sobie\" — celownik, nie pasuje do \"kochać\" (kochać kogo? — biernik)\n• D) \"sobą\" — narzędnik, nie pasuje",
+    "topic": "Czasowniki zwrotne — się vs siebie (akcentowane)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_002",
+    "source": "pdf",
+    "question": "Kupiłem _______ nowy telefon.",
+    "options": [
+      {
+        "label": "A",
+        "text": "się"
+      },
+      {
+        "label": "B",
+        "text": "sobie"
+      },
+      {
+        "label": "C",
+        "text": "siebie"
+      },
+      {
+        "label": "D",
+        "text": "sobą"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Sobie** — дательный падеж возвратного местоимения (для себя, себе).\n**Się** — винительный падеж, клитика.\n\n🔑 Się vs sobie:\n• **kupić sobie** — купить себе (дательный, для себя)\n• **kupić się** — не существует в этом значении\n\n\"Kupiłem sobie telefon\" — я купил себе телефон.\n\n• A) \"się\" — не используется с \"kupić\" в значении \"для себя\"\n• C) \"siebie\" — акцентированный винительный, не подходит (нужен дательный)\n• D) \"sobą\" — творительный падеж, не подходит",
+    "explanationPl": "**Sobie** — celownik zaimka zwrotnego (dla siebie, sobie).\n**Się** — biernik, klityka.\n\n🔑 Się vs sobie:\n• **kupić sobie** — kupić dla siebie (celownik)\n• **kupić się** — nie istnieje w tym znaczeniu\n\n\"Kupiłem sobie telefon\" — kupiłem dla siebie telefon.\n\n• A) \"się\" — nie używa się z \"kupić\" w znaczeniu \"dla siebie\"\n• C) \"siebie\" — akcentowany biernik, nie pasuje (potrzebny celownik)\n• D) \"sobą\" — narzędnik, nie pasuje",
+    "topic": "Czasowniki zwrotne — się vs sobie (biernik vs celownik)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_003",
+    "source": "pdf",
+    "question": "Gdzie znajduje się najbliższa apteka?\nKtóra pozycja \"się\" jest poprawna w tym zdaniu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gdzie się znajduje najbliższa apteka?"
+      },
+      {
+        "label": "B",
+        "text": "Gdzie znajduje się najbliższa apteka?"
+      },
+      {
+        "label": "C",
+        "text": "Obie pozycje (A i B) są poprawne"
+      },
+      {
+        "label": "D",
+        "text": "Żadna z powyższych"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Się** может стоять в разных позициях в предложении.\n\n🔑 Позиция się:\n• После вопросительного слова: \"Gdzie **się** znajduje...\"\n• После глагола: \"Gdzie znajduje **się**...\"\n• НЕ в конце предложения (неестественно)\n\nОбе позиции (A и B) корректны.\n\n• A) \"Gdzie się znajduje...\" — się после вопросительного слова\n• B) \"Gdzie znajduje się...\" — się после глагола\n• D) Неверно, так как обе позиции корректны\n\n❗ **Важно:** się НЕ может стоять в абсолютном конце предложения (\"...apteka się\" — некорректно)",
+    "explanationPl": "**Się** może stać w różnych pozycjach w zdaniu.\n\n🔑 Pozycja się:\n• Po wyrazie pytajnym: \"Gdzie **się** znajduje...\"\n• Po czasowniku: \"Gdzie znajduje **się**...\"\n• NIE na końcu zdania (nienaturalnie)\n\nObie pozycje (A i B) są poprawne.\n\n• A) \"Gdzie się znajduje...\" — się po wyrazie pytajnym\n• B) \"Gdzie znajduje się...\" — się po czasowniku\n• D) Niepoprawne, bo obie pozycje są poprawne\n\n❗ **Ważne:** się NIE może stać na absolutnym końcu zdania (\"...apteka się\" — niepoprawne)",
+    "topic": "Czasowniki zwrotne — pozycja się w zdaniu",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_004",
+    "source": "pdf",
+    "question": "Który czasownik NIE istnieje bez \"się\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "myć (myć się)"
+      },
+      {
+        "label": "B",
+        "text": "ubierać (ubierać się)"
+      },
+      {
+        "label": "C",
+        "text": "czesać (czesać się)"
+      },
+      {
+        "label": "D",
+        "text": "bać (bać się)"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "Некоторые глаголы существуют **только** с \"się\" (obligatoryjnie zwrotne).\n\n🔑 Obligatoryjnie zwrotne vs fakultatywnie zwrotne:\n• **bać się** — только с się (nie ma \"bać kogoś\")\n• **myć / myć się** — оба существуют (myć dziecko / myć się)\n• **ubierać / ubierać się** — оба существуют\n• **czesać / czesać się** — оба существуют\n\n• A) \"myć\" — существует (myć ręce, myć dziecko)\n• B) \"ubierać\" — существует (ubierać dziecko)\n• C) \"czesać\" — существует (czesać włosy)\n• D) \"bać\" — НЕ существует без się ✓",
+    "explanationPl": "Niektóre czasowniki istnieją **tylko** z \"się\" (obligatoryjnie zwrotne).\n\n🔑 Obligatoryjnie zwrotne vs fakultatywnie zwrotne:\n• **bać się** — tylko z się (nie ma \"bać kogoś\")\n• **myć / myć się** — oba istnieją (myć dziecko / myć się)\n• **ubierać / ubierać się** — oba istnieją\n• **czesać / czesać się** — oba istnieją\n\n• A) \"myć\" — istnieje (myć ręce, myć dziecko)\n• B) \"ubierać\" — istnieje (ubierać dziecko)\n• C) \"czesać\" — istnieje (czesać włosy)\n• D) \"bać\" — NIE istnieje bez się ✓",
+    "topic": "Czasowniki zwrotne — czasowniki obligatoryjnie zwrotne",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_005",
+    "source": "pdf",
+    "question": "Oni _______ od trzech lat. (= są w związku)",
+    "options": [
+      {
+        "label": "A",
+        "text": "kochają się"
+      },
+      {
+        "label": "B",
+        "text": "kochają siebie"
+      },
+      {
+        "label": "C",
+        "text": "kochają sobie"
+      },
+      {
+        "label": "D",
+        "text": "kochają sobą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Się** в значении взаимности (друг друга).\n\n🔑 Взаимное значение:\n• **kochać się** — любить друг друга (взаимно)\n• **kochać siebie** — любить себя (каждый себя)\n\n\"Oni kochają się\" — они любят друг друга (взаимно).\n\n• B) \"kochają siebie\" — каждый любит себя (не взаимно)\n• C) \"kochają sobie\" — грамматически некорректно\n• D) \"kochają sobą\" — грамматически некорректно",
+    "explanationPl": "**Się** w znaczeniu wzajemnym (nawzajem).\n\n🔑 Znaczenie wzajemne:\n• **kochać się** — kochać nawzajem (wzajemnie)\n• **kochać siebie** — kochać siebie (każdy siebie)\n\n\"Oni kochają się\" — oni kochają się nawzajem (wzajemnie).\n\n• B) \"kochają siebie\" — każdy kocha siebie (nie wzajemnie)\n• C) \"kochają sobie\" — gramatycznie niepoprawne\n• D) \"kochają sobą\" — gramatycznie niepoprawne",
+    "topic": "Czasowniki zwrotne — znaczenie wzajemne",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_006",
+    "source": "pdf",
+    "question": "Martwię się _______ ciebie.",
+    "options": [
+      {
+        "label": "A",
+        "text": "za"
+      },
+      {
+        "label": "B",
+        "text": "na"
+      },
+      {
+        "label": "C",
+        "text": "o"
+      },
+      {
+        "label": "D",
+        "text": "od"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Martwić się o kogoś/coś** — беспокоиться о ком-то/чём-то.\n\n🔑 Rekcja czasownika:\n• martwić się **o** + biernik (o ciebie, o zdrowie)\n• NIE: martwić się za/na/od\n\n• A) \"za\" — неправильная реакция\n• B) \"na\" — неправильная реакция\n• D) \"od\" — неправильная реакция",
+    "explanationPl": "**Martwić się o kogoś/coś** — martwić się o kogoś/coś.\n\n🔑 Rekcja czasownika:\n• martwić się **o** + biernik (o ciebie, o zdrowie)\n• NIE: martwić się za/na/od\n\n• A) \"za\" — niepoprawna rekcja\n• B) \"na\" — niepoprawna rekcja\n• D) \"od\" — niepoprawna rekcja",
+    "topic": "Czasowniki zwrotne — się z przyimkiem",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_007",
+    "source": "pdf",
+    "question": "\"Uczyć\" vs \"uczyć się\" — jaka jest różnica?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Brak różnicy, formy zamienne"
+      },
+      {
+        "label": "B",
+        "text": "\"uczyć\" = nauczać kogoś, \"uczyć się\" = zdobywać wiedzę"
+      },
+      {
+        "label": "C",
+        "text": "\"uczyć\" = zdobywać wiedzę, \"uczyć się\" = nauczać kogoś"
+      },
+      {
+        "label": "D",
+        "text": "Obie formy oznaczają \"nauczać kogoś\""
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "Добавление **się** меняет значение глагола.\n\n🔑 Uczyć vs uczyć się:\n• **uczyć kogoś** — учить кого-то (быть учителем)\n• **uczyć się** — учиться (получать знания)\n\n• A) Неверно — значения разные\n• C) Неверно — значения перепутаны\n• D) Неверно — \"uczyć się\" не означает \"nauczać\"",
+    "explanationPl": "Dodanie **się** zmienia znaczenie czasownika.\n\n🔑 Uczyć vs uczyć się:\n• **uczyć kogoś** — nauczać kogoś (być nauczycielem)\n• **uczyć się** — zdobywać wiedzę (być uczniem)\n\n• A) Niepoprawne — znaczenia są różne\n• C) Niepoprawne — znaczenia zamienione\n• D) Niepoprawne — \"uczyć się\" nie oznacza \"nauczać\"",
+    "topic": "Czasowniki zwrotne — zmiana znaczenia z się",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_008",
+    "source": "pdf",
+    "question": "Tu _______ po polsku.",
+    "options": [
+      {
+        "label": "A",
+        "text": "mówi się"
+      },
+      {
+        "label": "B",
+        "text": "mówi siebie"
+      },
+      {
+        "label": "C",
+        "text": "mówi sobie"
+      },
+      {
+        "label": "D",
+        "text": "mówi sobą"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Się** используется для образования безличных конструкций (strona bierna bezosobowa).\n\n🔑 Безличная конструкция:\n• **mówi się** — говорят (безлично)\n• **tu mówi się po polsku** — здесь говорят по-польски\n\n• B) \"mówi siebie\" — грамматически некорректно\n• C) \"mówi sobie\" — другое значение (говорит себе)\n• D) \"mówi sobą\" — грамматически некорректно",
+    "explanationPl": "**Się** używa się do tworzenia konstrukcji bezosobowych (strona bierna bezosobowa).\n\n🔑 Konstrukcja bezosobowa:\n• **mówi się** — mówią (bezosobowo)\n• **tu mówi się po polsku** — tu mówią po polsku\n\n• B) \"mówi siebie\" — gramatycznie niepoprawne\n• C) \"mówi sobie\" — inne znaczenie (mówi do siebie)\n• D) \"mówi sobą\" — gramatycznie niepoprawne",
+    "topic": "Czasowniki zwrotne — się w stronie biernej",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_ZWROTNE_001",
+    "source": "pdf",
+    "question": "Która forma jednoznacznie wyraża znaczenie WZAJEMNE (nie zwrotne)?\n„Oni nienawidzą _______.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "się"
+      },
+      {
+        "label": "B",
+        "text": "siebie nawzajem"
+      },
+      {
+        "label": "C",
+        "text": "siebie"
+      },
+      {
+        "label": "D",
+        "text": "A i B są poprawne, ale B jest jednoznaczne"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Siebie nawzajem** — однозначно выражает взаимное значение.\n**Się** может быть неоднозначным (взаимно или возвратно).\n\n🔑 Однозначность:\n• \"Oni nienawidzą **się**\" — **грамматически** может означать и взаимно, и каждый себя\n• \"Oni nienawidzą **siebie nawzajem**\" — однозначно взаимно\n\nℹ️ **На практике** \"oni nienawidzą się\" почти всегда понимается как взаимное, но **грамматически** форма не исключает возвратной интерпретации.\n\nВопрос спрашивает о форме, которая **однозначно** выражает взаимность.\n\n• A) \"się\" — неоднозначно\n• C) \"siebie\" — каждый себя (не взаимно)\n• D) Неверно — только B однозначно",
+    "explanationPl": "**Siebie nawzajem** — jednoznacznie wyraża znaczenie wzajemne.\n**Się** może być niejednoznaczne (wzajemnie lub zwrotnie).\n\n🔑 Jednoznaczność:\n• \"Oni nienawidzą **się**\" — **gramatycznie** może oznaczać i wzajemnie, i każdy siebie\n• \"Oni nienawidzą **siebie nawzajem**\" — jednoznacznie wzajemnie\n\nℹ️ **W praktyce** \"oni nienawidzą się\" jest rozumiane jako wzajemne, ale **gramatycznie** forma nie wyklucza interpretacji zwrotnej.\n\nPytanie pyta o formę, która **jednoznacznie** wyraża wzajemność.\n\n• A) \"się\" — niejednoznaczne\n• C) \"siebie\" — każdy siebie (nie wzajemnie)\n• D) Niepoprawne — tylko B jest jednoznaczne",
+    "topic": "Czasowniki zwrotne — się vs siebie nawzajem (precyzja)",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_ZWROTNE_002",
+    "source": "pdf",
+    "question": "Która pozycja \"się\" jest NIEPOPRAWNA w zdaniu złożonym?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chcę, żeby on się nauczył."
+      },
+      {
+        "label": "B",
+        "text": "Chcę, żeby się on nauczył."
+      },
+      {
+        "label": "C",
+        "text": "Chcę się, żeby on nauczył."
+      },
+      {
+        "label": "D",
+        "text": "Wszystkie są poprawne"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "В сложных предложениях **się** должно относиться к глаголу в своём придаточном.\n\n🔑 Позиция się в сложных предложениях:\n• **się** должно быть в том же придаточном, что и его глагол\n• \"Chcę **się**, żeby...\" — się относилось бы к \"chcę\", но \"chcieć się\" НЕ существует\n\n• A) Корректно — się в придаточном с \"nauczył\"\n• B) Корректно — się после \"żeby\" допустимо\n• C) НЕКОРРЕКТНО — \"chcieć się\" не существует\n• D) Неверно — C некорректно",
+    "explanationPl": "W zdaniach złożonych **się** musi odnosić się do czasownika w swoim zdaniu podrzędnym.\n\n🔑 Pozycja się w zdaniach złożonych:\n• **się** musi być w tym samym zdaniu podrzędnym co jego czasownik\n• \"Chcę **się**, żeby...\" — się odnosiłoby się do \"chcę\", ale \"chcieć się\" NIE istnieje\n\n• A) Poprawne — się w zdaniu podrzędnym z \"nauczył\"\n• B) Poprawne — się po \"żeby\" dopuszczalne\n• C) NIEPOPRAWNE — \"chcieć się\" nie istnieje\n• D) Niepoprawne — C jest niepoprawne",
+    "topic": "Czasowniki zwrotne — pozycja się w zdaniach złożonych",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_ZWROTNE_011",
+    "source": "pdf",
+    "question": "Interesuję się _______ polską.",
+    "options": [
+      {
+        "label": "A",
+        "text": "historią"
+      },
+      {
+        "label": "B",
+        "text": "historia"
+      },
+      {
+        "label": "C",
+        "text": "historii"
+      },
+      {
+        "label": "D",
+        "text": "historiom"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Interesować się + narzędnik** — интересоваться чем-то.\n\n🔑 Rekcja czasownika:\n• interesować się **czym?** (narzędnik)\n• historia → historią (narzędnik)\n\n• B) \"historia\" — mianownik, nie pasuje\n• C) \"historii\" — dopełniacz, nie pasuje\n• D) \"historiom\" — celownik l.mn., nie pasuje",
+    "explanationPl": "**Interesować się + narzędnik** — interesować się czymś.\n\n🔑 Rekcja czasownika:\n• interesować się **czym?** (narzędnik)\n• historia → historią (narzędnik)\n\n• B) \"historia\" — mianownik, nie pasuje\n• C) \"historii\" — dopełniacz, nie pasuje\n• D) \"historiom\" — celownik l.mn., nie pasuje",
+    "topic": "Czasowniki zwrotne — rekcja z przyimkiem",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_012",
+    "source": "pdf",
+    "question": "Cieszę się _______ spotkania z tobą.",
+    "options": [
+      {
+        "label": "A",
+        "text": "na"
+      },
+      {
+        "label": "B",
+        "text": "do"
+      },
+      {
+        "label": "C",
+        "text": "z"
+      },
+      {
+        "label": "D",
+        "text": "o"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Cieszyć się z czegoś** — радоваться чему-то (уже произошедшему).\n**Cieszyć się na coś** — радоваться чему-то (предстоящему).\n\n🔑 Cieszyć się + przyimek:\n• cieszyć się **z** + dopełniacz (z czegoś — из-за чего-то)\n• cieszyć się **na** + biernik (na coś — в ожидании чего-то)\n\n\"Cieszę się z spotkania\" — радуюсь встрече (уже состоявшейся).\n\n• A) \"na\" — требует biernik (na spotkanie), и означает ожидание\n• B) \"do\" — неправильная реакция\n• D) \"o\" — неправильная реакция",
+    "explanationPl": "**Cieszyć się z czegoś** — cieszyć się z czegoś (co już się wydarzyło).\n**Cieszyć się na coś** — cieszyć się na coś (co dopiero będzie).\n\n🔑 Cieszyć się + przyimek:\n• cieszyć się **z** + dopełniacz (z czegoś — z powodu czegoś)\n• cieszyć się **na** + biernik (na coś — w oczekiwaniu na coś)\n\n\"Cieszę się z spotkania\" — cieszę się ze spotkania (które już było).\n\n• A) \"na\" — wymaga biernika (na spotkanie), i oznacza oczekiwanie\n• B) \"do\" — niepoprawna rekcja\n• D) \"o\" — niepoprawna rekcja",
+    "topic": "Czasowniki zwrotne — rekcja z przyimkiem",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_013",
+    "source": "pdf",
+    "question": "Co oznacza \"podobać się\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Być podobnym do kogoś"
+      },
+      {
+        "label": "B",
+        "text": "Sprawiać wrażenie atrakcyjności"
+      },
+      {
+        "label": "C",
+        "text": "Udawać kogoś"
+      },
+      {
+        "label": "D",
+        "text": "Porównywać się z kimś"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Podobać się** — нравиться (производить впечатление привлекательности).\n**Być podobnym** — быть похожим.\n\n🔑 Podobać się vs być podobnym:\n• \"On mi **się podoba**\" — он мне нравится\n• \"On **jest podobny** do ojca\" — он похож на отца\n\n• A) \"Być podobnym\" — это \"być podobnym do\", не \"podobać się\"\n• C) \"Udawać kogoś\" — это \"udawać\", не \"podobać się\"\n• D) \"Porównywać się\" — это \"porównywać się\", не \"podobać się\"",
+    "explanationPl": "**Podobać się** — podobać się (sprawiać wrażenie atrakcyjności).\n**Być podobnym** — być podobnym.\n\n🔑 Podobać się vs być podobnym:\n• \"On mi **się podoba**\" — on mi się podoba\n• \"On **jest podobny** do ojca\" — on jest podobny do ojca\n\n• A) \"Być podobnym\" — to \"być podobnym do\", nie \"podobać się\"\n• C) \"Udawać kogoś\" — to \"udawać\", nie \"podobać się\"\n• D) \"Porównywać się\" — to \"porównywać się\", nie \"podobać się\"",
+    "topic": "Czasowniki zwrotne — idiomatyczne",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_014",
+    "source": "pdf",
+    "question": "Jaka jest różnica między \"zgodzić\" a \"zgodzić się\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Brak różnicy"
+      },
+      {
+        "label": "B",
+        "text": "\"zgodzić\" = wyrazić zgodę, \"zgodzić się\" = być zgodnym"
+      },
+      {
+        "label": "C",
+        "text": "\"zgodzić\" nie istnieje samodzielnie"
+      },
+      {
+        "label": "D",
+        "text": "\"zgodzić\" = pogodzić kogoś, \"zgodzić się\" = wyrazić zgodę"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "**Zgodzić kogoś** — помирить кого-то (rzadkie / książkowe — редкое, книжное).\n**Zgodzić się** — согласиться.\n\n🔑 Zgodzić vs zgodzić się:\n• \"zgodzić\" — помирить (zgodzić zwaśnionych)\n• \"zgodzić się\" — согласиться (zgodzić się na coś)\n\n• A) Неверно — значения разные\n• B) Неверно — значения перепутаны\n• C) Неверно — \"zgodzić\" существует (хотя редко)",
+    "explanationPl": "**Zgodzić kogoś** — pogodzić kogoś (rzadkie / książkowe / formalne).\n**Zgodzić się** — wyrazić zgodę.\n\n🔑 Zgodzić vs zgodzić się:\n• \"zgodzić\" — pogodzić (zgodzić zwaśnionych)\n• \"zgodzić się\" — wyrazić zgodę (zgodzić się na coś)\n\n• A) Niepoprawne — znaczenia są różne\n• B) Niepoprawne — znaczenia zamienione\n• C) Niepoprawne — \"zgodzić\" istnieje (choć rzadko)",
+    "topic": "Czasowniki zwrotne — zmiana znaczenia",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_015",
+    "source": "pdf",
+    "question": "Która forma jest DOKONANA?",
+    "options": [
+      {
+        "label": "A",
+        "text": "myć się"
+      },
+      {
+        "label": "B",
+        "text": "umyć się"
+      },
+      {
+        "label": "C",
+        "text": "mycie się"
+      },
+      {
+        "label": "D",
+        "text": "myjąc się"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Umyć się** — совершенный вид (dokonany).\n**Myć się** — несовершенный вид (niedokonany).\n\n🔑 Aspekt czasowników zwrotnych:\n• myć się (niedokonany) → umyć się (dokonany)\n• Prefiks **u-** часто образует совершенный вид\n\n• A) \"myć się\" — niedokonany\n• C) \"mycie się\" — rzeczownik odczasownikowy, nie czasownik\n• D) \"myjąc się\" — imiesłów, nie forma aspektowa",
+    "explanationPl": "**Umyć się** — aspekt dokonany.\n**Myć się** — aspekt niedokonany.\n\n🔑 Aspekt czasowników zwrotnych:\n• myć się (niedokonany) → umyć się (dokonany)\n• Prefiks **u-** często tworzy aspekt dokonany\n\n• A) \"myć się\" — niedokonany\n• C) \"mycie się\" — rzeczownik odczasownikowy, nie czasownik\n• D) \"myjąc się\" — imiesłów, nie forma aspektowa",
+    "topic": "Czasowniki zwrotne — aspekt",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_016",
+    "source": "pdf",
+    "question": "Chce mi się spać.\nCo oznacza \"chce mi się\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ja chcę"
+      },
+      {
+        "label": "B",
+        "text": "Ktoś chce, żebym ja..."
+      },
+      {
+        "label": "C",
+        "text": "Muszę"
+      },
+      {
+        "label": "D",
+        "text": "Mam ochotę / Odczuwam potrzebę"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "**Chce mi się** — безличная конструкция, означающая \"мне хочется\".\n\n🔑 Chcieć vs chcieć się:\n• \"Chcę spać\" — я хочу спать (волевое желание)\n• \"Chce mi się spać\" — мне хочется спать (физическая потребность)\n\n• A) \"Ja chcę\" — это \"chcę\", не \"chce mi się\"\n• B) Неверно — это не каузатив\n• C) \"Muszę\" — это обязанность, не желание",
+    "explanationPl": "**Chce mi się** — konstrukcja bezosobowa, oznaczająca \"mam ochotę\".\n\n🔑 Chcieć vs chcieć się:\n• \"Chcę spać\" — chcę spać (wolicjonalne pragnienie)\n• \"Chce mi się spać\" — mam ochotę spać (fizyczna potrzeba)\n\n• A) \"Ja chcę\" — to \"chcę\", nie \"chce mi się\"\n• B) Niepoprawne — to nie kauzatyw\n• C) \"Muszę\" — to obowiązek, nie pragnienie",
+    "topic": "Czasowniki zwrotne — konstrukcje modalne",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_017",
+    "source": "pdf",
+    "question": "Boję się _______.",
+    "options": [
+      {
+        "label": "A",
+        "text": "pająków"
+      },
+      {
+        "label": "B",
+        "text": "pająki"
+      },
+      {
+        "label": "C",
+        "text": "pająkom"
+      },
+      {
+        "label": "D",
+        "text": "pająkami"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Bać się + dopełniacz** — бояться кого-то/чего-то.\n\n🔑 Rekcja czasownika:\n• bać się **kogo/czego?** (dopełniacz)\n• pająki → pająków (dopełniacz l.mn.)\n\n• B) \"pająki\" — biernik, nie pasuje\n• C) \"pająkom\" — celownik, nie pasuje\n• D) \"pająkami\" — narzędnik, nie pasuje",
+    "explanationPl": "**Bać się + dopełniacz** — bać się kogoś/czegoś.\n\n🔑 Rekcja czasownika:\n• bać się **kogo/czego?** (dopełniacz)\n• pająki → pająków (dopełniacz l.mn.)\n\n• B) \"pająki\" — biernik, nie pasuje\n• C) \"pająkom\" — celownik, nie pasuje\n• D) \"pająkami\" — narzędnik, nie pasuje",
+    "topic": "Czasowniki zwrotne — rekcja",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ZWROTNE_018",
+    "source": "pdf",
+    "question": "Która forma jest STANDARDOWA w języku pisanym?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nie myję się rano."
+      },
+      {
+        "label": "B",
+        "text": "Nie się myję rano."
+      },
+      {
+        "label": "C",
+        "text": "Myję nie się rano."
+      },
+      {
+        "label": "D",
+        "text": "Się nie myję rano."
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "Стандартная позиция **się** при отрицании — после глагола.\n\n🔑 Pozycja się z przeczeniem:\n• \"Nie myję **się**\" — стандартно в письменном языке\n• \"Nie **się** myję\" — встречается в разговорной речи, но нестандартно и стилистически слабо\n\n• B) \"Nie się myję\" — встречается в разговорной речи, но нестандартно\n• C) \"Myję nie się\" — некорректный порядок слов\n• D) \"Się nie myję\" — некорректный порядок слов",
+    "explanationPl": "Standardowa pozycja **się** przy przeczeniu — po czasowniku.\n\n🔑 Pozycja się z przeczeniem:\n• \"Nie myję **się**\" — standardowo w języku pisanym\n• \"Nie **się** myję\" — spotykane w mowie potocznej, ale niestandardowe i stylowo słabe\n\n• B) \"Nie się myję\" — spotykane w mowie potocznej, ale niestandardowe\n• C) \"Myję nie się\" — niepoprawny szyk\n• D) \"Się nie myję\" — niepoprawny szyk",
+    "topic": "Czasowniki zwrotne — pozycja się z przeczeniem",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_ZWROTNE_003",
+    "source": "pdf",
+    "question": "Która pozycja \"się\" jest poprawna?\n„Nie mogę _______ zdecydować.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nie mogę się zdecydować."
+      },
+      {
+        "label": "B",
+        "text": "Nie mogę zdecydować się."
+      },
+      {
+        "label": "C",
+        "text": "Nie się mogę zdecydować."
+      },
+      {
+        "label": "D",
+        "text": "A i B są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "В конструкциях с инфинитивом **się** относится к инфинитиву, а не к модальному глаголу.\n\n🔑 Się z bezokolicznikiem:\n• \"Nie mogę **się** zdecydować\" — się перед инфинитивом (допустимо)\n• \"Nie mogę zdecydować **się**\" — się после инфинитива (допустимо)\n\nОба варианта (A и B) корректны.\n\n• C) \"Nie się mogę...\" — się относилось бы к \"mogę\", но \"móc się\" не существует",
+    "explanationPl": "W konstrukcjach z bezokolicznikiem **się** odnosi się do bezokolicznika, nie do czasownika modalnego.\n\n🔑 Się z bezokolicznikiem:\n• \"Nie mogę **się** zdecydować\" — się przed bezokolicznikiem (dopuszczalne)\n• \"Nie mogę zdecydować **się**\" — się po bezokoliczniku (dopuszczalne)\n\nOba warianty (A i B) są poprawne.\n\n• C) \"Nie się mogę...\" — się odnosiłoby się do \"mogę\", ale \"móc się\" nie istnieje",
+    "topic": "Czasowniki zwrotne — się w konstrukcjach z bezokolicznikiem",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_ZWROTNE_004",
+    "source": "pdf",
+    "question": "Która forma wyraża EMFAZĘ (nacisk)?\n„Widzę _______ w lustrze.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "się"
+      },
+      {
+        "label": "B",
+        "text": "siebie"
+      },
+      {
+        "label": "C",
+        "text": "sobie"
+      },
+      {
+        "label": "D",
+        "text": "A i B są poprawne, ale B wyraża emfazę"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "**Siebie** — акцентированная форма, выражает эмфазу.\n**Się** — неакцентированная форма, нейтральная.\n\n🔑 Się vs siebie (emfaza):\n• \"Widzę **się** w lustrze\" — нейтрально\n• \"Widzę **siebie** w lustrze\" — с акцентом (именно себя, а не кого-то другого)\n\nОба варианта грамматически корректны, но B выражает эмфазу.\n\n• A) \"się\" — корректно, но без эмфазы\n• B) \"siebie\" — корректно, с эмфазой\n• C) \"sobie\" — дательный падеж, не подходит для \"widzieć\" (widzieć kogo? — biernik)",
+    "explanationPl": "**Siebie** — akcentowana forma, wyraża emfazę.\n**Się** — nieakcentowana forma, neutralna.\n\n🔑 Się vs siebie (emfaza):\n• \"Widzę **się** w lustrze\" — neutralnie\n• \"Widzę **siebie** w lustrze\" — z akcentem (właśnie siebie, nie kogoś innego)\n\nOba warianty są gramatycznie poprawne, ale B wyraża emfazę.\n\n• A) \"się\" — poprawne, ale bez emfazy\n• B) \"siebie\" — poprawne, z emfazą\n• C) \"sobie\" — celownik, nie pasuje do \"widzieć\" (widzieć kogo? — biernik)",
+    "topic": "Czasowniki zwrotne — się vs siebie w emfazie",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_ROZKAZ_001",
+    "source": "pdf",
+    "question": "Jaka jest forma rozkazująca 2. os. l.poj. od \"pisać\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "piszę"
+      },
+      {
+        "label": "B",
+        "text": "pisz"
+      },
+      {
+        "label": "C",
+        "text": "piszaj"
+      },
+      {
+        "label": "D",
+        "text": "pisaj"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Pisać** — глагол I спряжения, основа на согласный.\n\n🔑 Tworzenie trybu rozkazującego (koniugacja I):\n• pisać → piszę, piszesz → pisz- → **pisz!** (2 os. l.poj.)\n• Основа берётся из 2 л. ед.ч.: pisz-esz → pisz!\n\n**Внимание:** Для глаголов типа \"pisać\" форма — \"pisz\", не \"pisaj\".\n\n• A) \"piszę\" — 1 os. l.poj. trybu oznajmującego, не повелительное\n• C) \"piszaj\" — не существует\n• D) \"pisaj\" — не существует",
+    "explanationPl": "**Pisać** — czasownik I koniugacji, temat na spółgłoskę.\n\n🔑 Tworzenie trybu rozkazującego (koniugacja I):\n• pisać → piszę, piszesz → pisz- → **pisz!** (2 os. l.poj.)\n• Temat bierze się z 2 os. l.poj.: pisz-esz → pisz!\n\n**Uwaga:** Dla czasowników typu \"pisać\" forma to \"pisz\", nie \"pisaj\".\n\n• A) \"piszę\" — 1 os. l.poj. trybu oznajmującego, nie rozkazujący\n• C) \"piszaj\" — nie istnieje\n• D) \"pisaj\" — nie istnieje",
+    "topic": "Tryb rozkazujący — tworzenie (koniugacja I)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ROZKAZ_002",
+    "source": "pdf",
+    "question": "Jaka jest forma rozkazująca 2. os. l.poj. od \"być\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "bądź"
+      },
+      {
+        "label": "B",
+        "text": "będź"
+      },
+      {
+        "label": "C",
+        "text": "byj"
+      },
+      {
+        "label": "D",
+        "text": "bywaj"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Być** — неправильный глагол с особой формой повелительного наклонения.\n\n🔑 Formy nieregularne:\n• być → **bądź!** (2 os. l.poj.)\n• bądźmy! (1 os. l.mn.)\n• bądźcie! (2 os. l.mn.)\n\n• B) \"będź\" — не существует\n• C) \"byj\" — не существует\n• D) \"bywaj\" — от \"bywać\" (бывать), другой глагол",
+    "explanationPl": "**Być** — czasownik nieregularny z osobliwą formą trybu rozkazującego.\n\n🔑 Formy nieregularne:\n• być → **bądź!** (2 os. l.poj.)\n• bądźmy! (1 os. l.mn.)\n• bądźcie! (2 os. l.mn.)\n\n• B) \"będź\" — nie istnieje\n• C) \"byj\" — nie istnieje\n• D) \"bywaj\" — od \"bywać\", inny czasownik",
+    "topic": "Tryb rozkazujący — formy nieregularne",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ROZKAZ_003",
+    "source": "pdf",
+    "question": "Jaka jest forma rozkazująca 2. os. l.poj. od \"mieć\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "masz"
+      },
+      {
+        "label": "B",
+        "text": "mij"
+      },
+      {
+        "label": "C",
+        "text": "miej"
+      },
+      {
+        "label": "D",
+        "text": "miejaj"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Mieć** — неправильный глагол.\n\n🔑 Formy nieregularne:\n• mieć → **miej!** (2 os. l.poj.)\n• miejmy! (1 os. l.mn.)\n• miejcie! (2 os. l.mn.)\n\n• A) \"masz\" — 2 os. l.poj. trybu oznajmującego, не повелительное\n• B) \"mij\" — от \"mijać\" (проходить мимо), другой глагол\n• D) \"miejaj\" — не существует",
+    "explanationPl": "**Mieć** — czasownik nieregularny.\n\n🔑 Formy nieregularne:\n• mieć → **miej!** (2 os. l.poj.)\n• miejmy! (1 os. l.mn.)\n• miejcie! (2 os. l.mn.)\n\n• A) \"masz\" — 2 os. l.poj. trybu oznajmującego, nie rozkazujący\n• B) \"mij\" — od \"mijać\", inny czasownik\n• D) \"miejaj\" — nie istnieje",
+    "topic": "Tryb rozkazujący — formy nieregularne",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ROZKAZ_004",
+    "source": "pdf",
+    "question": "Jak grzecznie poprosić kogoś starszego, żeby usiadł?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Usiądź!"
+      },
+      {
+        "label": "B",
+        "text": "Siadaj!"
+      },
+      {
+        "label": "C",
+        "text": "Siądź!"
+      },
+      {
+        "label": "D",
+        "text": "Niech Pan siada / Proszę usiąść"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "**Niech Pan/Pani + 3 os. l.poj.** — вежливая форма повелительного наклонения.\n**Proszę + bezokolicznik** — альтернативная вежливая форма.\n\n🔑 Formy grzecznościowe:\n• \"Niech Pan siada\" — пусть Вы садитесь (вежливо)\n• \"Proszę usiąść\" — прошу сесть (вежливо)\n• \"Usiądź!\" — сядь! (на \"ты\", невежливо к старшим)\n\n• A) \"Usiądź!\" — форма на \"ты\", невежливо\n• B) \"Siadaj!\" — форма на \"ты\", невежливо\n• C) \"Siądź!\" — форма на \"ты\", невежливо",
+    "explanationPl": "**Niech Pan/Pani + 3 os. l.poj.** — grzeczna forma trybu rozkazującego.\n**Proszę + bezokolicznik** — alternatywna grzeczna forma.\n\n🔑 Formy grzecznościowe:\n• \"Niech Pan siada\" — proszę, żeby Pan usiadł (grzecznie)\n• \"Proszę usiąść\" — proszę usiąść (grzecznie)\n• \"Usiądź!\" — usiądź! (na \"ty\", niegrzecznie do starszych)\n\n• A) \"Usiądź!\" — forma na \"ty\", niegrzecznie\n• B) \"Siadaj!\" — forma na \"ty\", niegrzecznie\n• C) \"Siądź!\" — forma na \"ty\", niegrzecznie",
+    "topic": "Tryb rozkazujący — formy grzecznościowe",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ROZKAZ_005",
+    "source": "pdf",
+    "question": "Jak powiedzieć \"Nie rób tego!\" po polsku?\nKtóry aspekt używamy w przeczeniu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nie zrób tego! (dokonany)"
+      },
+      {
+        "label": "B",
+        "text": "Nie rób tego! (niedokonany)"
+      },
+      {
+        "label": "C",
+        "text": "Oba są poprawne"
+      },
+      {
+        "label": "D",
+        "text": "Żaden nie jest poprawny"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "В отрицательных командах используется **несовершенный вид** (niedokonany).\n\n🔑 Aspekt w przeczeniu:\n• **Nie rób!** (niedokonany) — не делай! ✓\n• **Nie zrób!** (dokonany) — грамматически возможно, но означает предостережение, не запрет\n\nСтандартный запрет: \"Nie + niedokonany\".\n\n• A) \"Nie zrób!\" — предостережение (\"смотри, не сделай случайно\"), не запрет\n• C) Неверно — значения разные\n• D) Неверно — B корректно",
+    "explanationPl": "W przeczeniach używamy **aspektu niedokonanego**.\n\n🔑 Aspekt w przeczeniu:\n• **Nie rób!** (niedokonany) — nie rób! ✓\n• **Nie zrób!** (dokonany) — gramatycznie możliwe, ale oznacza ostrzeżenie, nie zakaz\n\nStandardowy zakaz: \"Nie + niedokonany\".\n\n• A) \"Nie zrób!\" — ostrzeżenie (\"uważaj, żebyś nie zrobił\"), nie zakaz\n• C) Niepoprawne — znaczenia są różne\n• D) Niepoprawne — B jest poprawne",
+    "topic": "Tryb rozkazujący — przeczenie",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ROZKAZ_006",
+    "source": "pdf",
+    "question": "Jaka jest forma rozkazująca 2. os. l.poj. od \"mówić\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "mówij"
+      },
+      {
+        "label": "B",
+        "text": "mówisz"
+      },
+      {
+        "label": "C",
+        "text": "mów"
+      },
+      {
+        "label": "D",
+        "text": "mówiaj"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Mówić** — глагол II спряжения.\n\n🔑 Tworzenie trybu rozkazującego (koniugacja II):\n• mówić → mówię, mówisz → mów- → **mów!** (2 os. l.poj.)\n• Глаголы на -ić/-yć: убираем -ić/-yć, добавляем -∅ или -ij\n\n• A) \"mówij\" — не существует (избыточное -ij)\n• B) \"mówisz\" — 2 os. l.poj. trybu oznajmującego, не повелительное\n• D) \"mówiaj\" — не существует",
+    "explanationPl": "**Mówić** — czasownik II koniugacji.\n\n🔑 Tworzenie trybu rozkazującego (koniugacja II):\n• mówić → mówię, mówisz → mów- → **mów!** (2 os. l.poj.)\n• Czasowniki na -ić/-yć: usuwamy -ić/-yć, dodajemy -∅ lub -ij\n\n• A) \"mówij\" — nie istnieje (nadmiarowe -ij)\n• B) \"mówisz\" — 2 os. l.poj. trybu oznajmującego, nie rozkazujący\n• D) \"mówiaj\" — nie istnieje",
+    "topic": "Tryb rozkazujący — tworzenie (koniugacja II)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ROZKAZ_007",
+    "source": "pdf",
+    "question": "Jaka jest forma rozkazująca 2. os. l.poj. od \"jeść\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "jedz"
+      },
+      {
+        "label": "B",
+        "text": "jesz"
+      },
+      {
+        "label": "C",
+        "text": "jedzij"
+      },
+      {
+        "label": "D",
+        "text": "jedzaj"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Jeść** — неправильный глагол.\n\n🔑 Formy nieregularne:\n• jeść → jem, jesz → **jedz!** (2 os. l.poj.)\n• jedzmy! (1 os. l.mn.)\n• jedzcie! (2 os. l.mn.)\n\n• B) \"jesz\" — 2 os. l.poj. trybu oznajmującego\n• C) \"jedzij\" — не существует\n• D) \"jedzaj\" — не существует",
+    "explanationPl": "**Jeść** — czasownik nieregularny.\n\n🔑 Formy nieregularne:\n• jeść → jem, jesz → **jedz!** (2 os. l.poj.)\n• jedzmy! (1 os. l.mn.)\n• jedzcie! (2 os. l.mn.)\n\n• B) \"jesz\" — 2 os. l.poj. trybu oznajmującego\n• C) \"jedzij\" — nie istnieje\n• D) \"jedzaj\" — nie istnieje",
+    "topic": "Tryb rozkazujący — formy nieregularne",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_ROZKAZ_008",
+    "source": "pdf",
+    "question": "Który aspekt jest typowy dla POZYTYWNEGO rozkazu jednorazowego?\n„_______ to zrobić!\" (= zrób to teraz, raz)",
+    "options": [
+      {
+        "label": "A",
+        "text": "Rób (niedokonany)"
+      },
+      {
+        "label": "B",
+        "text": "Robić (bezokolicznik)"
+      },
+      {
+        "label": "C",
+        "text": "Robienie (rzeczownik)"
+      },
+      {
+        "label": "D",
+        "text": "Zrób (dokonany)"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "В положительных командах для **однократного действия** используется **совершенный вид** (dokonany).\n\n🔑 Aspekt w rozkazie pozytywnym:\n• **Zrób!** (dokonany) — сделай! (однократно) ✓\n• **Rób!** (niedokonany) — делай! (повторяющееся или процесс)\n\n• A) \"Rób\" — для повторяющихся действий или процесса\n• B) \"Robić\" — инфинитив, не повелительное наклонение\n• C) \"Robienie\" — существительное, не глагол",
+    "explanationPl": "W pozytywnych rozkazach dla **jednorazowej czynności** używamy **aspektu dokonanego**.\n\n🔑 Aspekt w rozkazie pozytywnym:\n• **Zrób!** (dokonany) — zrób! (jednorazowo) ✓\n• **Rób!** (niedokonany) — rób! (powtarzające się lub proces)\n\n• A) \"Rób\" — dla powtarzających się czynności lub procesu\n• B) \"Robić\" — bezokolicznik, nie tryb rozkazujący\n• C) \"Robienie\" — rzeczownik, nie czasownik",
+    "topic": "Tryb rozkazujący — aspekt w rozkazie pozytywnym",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_ROZKAZ_001",
+    "source": "pdf",
+    "question": "Jak wyrazić życzenie/rozkaz dla 3. osoby?\n„_______ on to zrobi.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Niech"
+      },
+      {
+        "label": "B",
+        "text": "Żeby"
+      },
+      {
+        "label": "C",
+        "text": "Że"
+      },
+      {
+        "label": "D",
+        "text": "Oby"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Niech + 3 os.** — повелительное наклонение для 3-го лица.\n**Oby + 3 os.** — пожелание (optativ).\n\n🔑 Niech vs Oby:\n• \"**Niech** on to zrobi\" — пусть он это сделает (приказ/разрешение)\n• \"**Oby** on to zrobił\" — хоть бы он это сделал (пожелание)\n\nВопрос спрашивает о **życzenie/rozkaz** — это \"niech\".\n\n• B) \"Żeby\" — для придаточных цели, не для прямых команд\n• C) \"Że\" — для придаточных изъяснительных\n• D) \"Oby\" — для пожеланий, не команд",
+    "explanationPl": "**Niech + 3 os.** — tryb rozkazujący dla 3. osoby.\n**Oby + 3 os.** — życzenie (optativ).\n\n🔑 Niech vs Oby:\n• \"**Niech** on to zrobi\" — niech on to zrobi (rozkaz/pozwolenie)\n• \"**Oby** on to zrobił\" — oby on to zrobił (życzenie)\n\nPytanie pyta o **życzenie/rozkaz** — to \"niech\".\n\n• B) \"Żeby\" — dla zdań podrzędnych celu, nie dla bezpośrednich rozkazów\n• C) \"Że\" — dla zdań podrzędnych dopełnieniowych\n• D) \"Oby\" — dla życzeń, nie rozkazów",
+    "topic": "Tryb rozkazujący — niech w 3. osobie",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_ROZKAZ_002",
+    "source": "pdf",
+    "question": "Która forma jest archaiczna/literacka?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chodź!"
+      },
+      {
+        "label": "B",
+        "text": "Idź!"
+      },
+      {
+        "label": "C",
+        "text": "Pójdź!"
+      },
+      {
+        "label": "D",
+        "text": "Chodźże!"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Pójdź** — архаичная/литературная форма от \"pójść\".\nСовременная форма — **idź** (от \"iść\").\n\n🔑 Formy archaiczne:\n• \"Pójdź!\" — архаично, литературно\n• \"Idź!\" — современная стандартная форма\n• \"Chodź!\" — от \"chodzić\" (niedokonany), современно\n• \"Chodźże!\" — эмфатическая форма с частицей -że, не архаизм\n\n• A) \"Chodź!\" — современная форма\n• B) \"Idź!\" — современная стандартная форма\n• D) \"Chodźże!\" — эмфатическая, но не архаичная",
+    "explanationPl": "**Pójdź** — archaiczna/literacka forma od \"pójść\".\nWspółczesna forma — **idź** (od \"iść\").\n\n🔑 Formy archaiczne:\n• \"Pójdź!\" — archaicznie, literacko\n• \"Idź!\" — współczesna standardowa forma\n• \"Chodź!\" — od \"chodzić\" (niedokonany), współcześnie\n• \"Chodźże!\" — emfatyczna forma z partykułą -że, nie archaizm\n\n• A) \"Chodź!\" — współczesna forma\n• B) \"Idź!\" — współczesna standardowa forma\n• D) \"Chodźże!\" — emfatyczna, ale nie archaiczna",
+    "topic": "Tryb rozkazujący — formy archaiczne i literackie",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_WARUNK_001",
+    "source": "pdf",
+    "question": "Jaka jest forma trybu warunkowego 1. os. l.poj. od \"robić\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "robiłem by"
+      },
+      {
+        "label": "B",
+        "text": "robiłbym"
+      },
+      {
+        "label": "C",
+        "text": "robię by"
+      },
+      {
+        "label": "D",
+        "text": "robićbym"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Tryb warunkowy** = forma przeszła + końcówka osobowa -by-.\n\n🔑 Tworzenie trybu warunkowego:\n• robić → robiłem (przeszły) + -bym → **robiłbym**\n• Końcówka -by- пишется слитно с глаголом\n\n• A) \"robiłem by\" — раздельно, устаревшая форма\n• C) \"robię by\" — настоящее время + by, некорректно\n• D) \"robićbym\" — инфинитив + by, некорректно",
+    "explanationPl": "**Tryb warunkowy** = forma przeszła + końcówka osobowa -by-.\n\n🔑 Tworzenie trybu warunkowego:\n• robić → robiłem (przeszły) + -bym → **robiłbym**\n• Końcówka -by- pisze się łącznie z czasownikiem\n\n• A) \"robiłem by\" — rozdzielnie, forma przestarzała\n• C) \"robię by\" — czas teraźniejszy + by, niepoprawne\n• D) \"robićbym\" — bezokolicznik + by, niepoprawne",
+    "topic": "Tryb warunkowy — tworzenie",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNK_002",
+    "source": "pdf",
+    "question": "Uzupełnij: „Gdybyś _______, powiedziałbym ci.\"\n(wiedzieć, 2 os. l.poj., tryb warunkowy)",
+    "options": [
+      {
+        "label": "A",
+        "text": "wiedział"
+      },
+      {
+        "label": "B",
+        "text": "wiedziałeś"
+      },
+      {
+        "label": "C",
+        "text": "wiedziałbyś"
+      },
+      {
+        "label": "D",
+        "text": "wiedziałabyś"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После **gdybyś** глагол стоит в форме прошедшего времени БЕЗ повторения -by-.\n\n🔑 Gdyby + forma przeszła:\n• \"Gdyby**ś** wiedział\" — -by- уже в \"gdybyś\", глагол без -by-\n• НЕ: \"Gdybyś wiedziałbyś\" — двойное -by-\n\n• B) \"wiedziałeś\" — прошедшее время, но без условного значения\n• C) \"wiedziałbyś\" — двойное -by- (gdyby**ś** + wiedział**byś**)\n• D) \"wiedziałabyś\" — женский род + двойное -by-",
+    "explanationPl": "Po **gdybyś** czasownik stoi w formie przeszłej BEZ powtórzenia -by-.\n\n🔑 Gdyby + forma przeszła:\n• \"Gdyby**ś** wiedział\" — -by- już w \"gdybyś\", czasownik bez -by-\n• NIE: \"Gdybyś wiedziałbyś\" — podwójne -by-\n\n• B) \"wiedziałeś\" — czas przeszły, ale bez znaczenia warunkowego\n• C) \"wiedziałbyś\" — podwójne -by- (gdyby**ś** + wiedział**byś**)\n• D) \"wiedziałabyś\" — rodzaj żeński + podwójne -by-",
+    "topic": "Tryb warunkowy — końcówki osobowe",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNK_003",
+    "source": "pdf",
+    "question": "Która forma jest poprawna?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chciałbym, żebyś przyszedł."
+      },
+      {
+        "label": "B",
+        "text": "Chciałbym, żeby przyszedłbyś."
+      },
+      {
+        "label": "C",
+        "text": "Chciałbym, żebyś przyszedłbyś."
+      },
+      {
+        "label": "D",
+        "text": "A i B są poprawne"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "После **żebyś** глагол стоит в форме прошедшего времени БЕЗ повторения -by-.\n\n🔑 Żeby + forma przeszła:\n• \"Żeby**ś** przyszedł\" — -by- уже в \"żebyś\", глагол без -by-\n• НЕ: \"Żebyś przyszedłbyś\" — двойное -by-\n\n• B) \"żeby przyszedłbyś\" — -by- должно быть при \"żeby\", не при глаголе\n• C) \"żebyś przyszedłbyś\" — двойное -by-\n• D) Неверно — только A корректно",
+    "explanationPl": "Po **żebyś** czasownik stoi w formie przeszłej BEZ powtórzenia -by-.\n\n🔑 Żeby + forma przeszła:\n• \"Żeby**ś** przyszedł\" — -by- już w \"żebyś\", czasownik bez -by-\n• NIE: \"Żebyś przyszedłbyś\" — podwójne -by-\n\n• B) \"żeby przyszedłbyś\" — -by- powinno być przy \"żeby\", nie przy czasowniku\n• C) \"żebyś przyszedłbyś\" — podwójne -by-\n• D) Niepoprawne — tylko A jest poprawne",
+    "topic": "Tryb warunkowy — pozycja -by w zdaniu",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNK_004",
+    "source": "pdf",
+    "question": "Który okres warunkowy wyraża REALNY warunek?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gdybym miał czas, poszedłbym do kina."
+      },
+      {
+        "label": "B",
+        "text": "Gdybym był miał czas, byłbym poszedł do kina."
+      },
+      {
+        "label": "C",
+        "text": "Jeśli będę miał czas, pójdę do kina."
+      },
+      {
+        "label": "D",
+        "text": "Gdybym miał czas, pójdę do kina."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Realny warunek** — условие, которое может исполниться (jeśli/jeżeli + przyszły).\n**Nierealny warunek** — условие, которое не исполнится (gdyby + warunkowy).\n\n🔑 Okresy warunkowe:\n• **Realny:** \"Jeśli będę miał czas, pójdę\" — если у меня будет время, я пойду\n• **Nierealny teraźniejszy:** \"Gdybym miał czas, poszedłbym\" — если бы у меня было время, я бы пошёл\n• **Nierealny przeszły:** \"Gdybym był miał, byłbym poszedł\" — если бы у меня было (в прошлом)\n\n• A) Nierealny teraźniejszy\n• B) Nierealny przeszły\n• D) Смешанный тип (gdybym + pójdę) — некорректно",
+    "explanationPl": "**Realny warunek** — warunek, który może się spełnić (jeśli/jeżeli + przyszły).\n**Nierealny warunek** — warunek, który się nie spełni (gdyby + warunkowy).\n\n🔑 Okresy warunkowe:\n• **Realny:** \"Jeśli będę miał czas, pójdę\" — jeśli będę miał czas, pójdę\n• **Nierealny teraźniejszy:** \"Gdybym miał czas, poszedłbym\" — gdybym miał czas, poszedłbym\n• **Nierealny przeszły:** \"Gdybym był miał, byłbym poszedł\" — gdybym był miał (w przeszłości)\n\n• A) Nierealny teraźniejszy\n• B) Nierealny przeszły\n• D) Typ mieszany (gdybym + pójdę) — niepoprawne",
+    "topic": "Tryb warunkowy — okresy warunkowe (realne)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNK_005",
+    "source": "pdf",
+    "question": "Jaka jest różnica między \"gdyby\" a \"jeśli\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gdyby = warunek nierealny, jeśli = warunek realny"
+      },
+      {
+        "label": "B",
+        "text": "Gdyby = warunek realny, jeśli = warunek nierealny"
+      },
+      {
+        "label": "C",
+        "text": "Brak różnicy, formy zamienne"
+      },
+      {
+        "label": "D",
+        "text": "Gdyby = przeszłość, jeśli = przyszłość"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Gdyby** — нереальное условие (условное наклонение).\n**Jeśli/Jeżeli** — реальное условие (изъявительное наклонение).\n\n🔑 Gdyby vs Jeśli:\n• \"**Gdyby**m miał pieniądze, kupiłbym dom\" — если бы у меня были деньги (но нет)\n• \"**Jeśli** będę miał pieniądze, kupię dom\" — если у меня будут деньги (возможно)\n\n• B) Неверно — значения перепутаны\n• C) Неверно — значения разные\n• D) Частично верно, но не полно",
+    "explanationPl": "**Gdyby** — warunek nierealny (tryb warunkowy).\n**Jeśli/Jeżeli** — warunek realny (tryb oznajmujący).\n\n🔑 Gdyby vs Jeśli:\n• \"**Gdyby**m miał pieniądze, kupiłbym dom\" — gdybym miał pieniądze (ale nie mam)\n• \"**Jeśli** będę miał pieniądze, kupię dom\" — jeśli będę miał pieniądze (możliwe)\n\n• B) Niepoprawne — znaczenia zamienione\n• C) Niepoprawne — znaczenia są różne\n• D) Częściowo poprawne, ale niepełne",
+    "topic": "Tryb warunkowy — gdyby vs jeśli",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNK_006",
+    "source": "pdf",
+    "question": "Jaka jest forma trybu warunkowego 1. os. l.mn. od \"iść\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "szliśmy by"
+      },
+      {
+        "label": "B",
+        "text": "szlibyśmy"
+      },
+      {
+        "label": "C",
+        "text": "poszlibyśmy"
+      },
+      {
+        "label": "D",
+        "text": "iśćbyśmy"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Tryb warunkowy l.mn.** = forma przeszła l.mn. + końcówka -by-.\n\n🔑 Tworzenie (l.mn.):\n• iść → szliśmy (przeszły l.mn.) → **szlibyśmy** (warunkowy)\n• Końcówka: -byśmy (1 os.), -byście (2 os.), -by (3 os.)\n\n• A) \"szliśmy by\" — раздельно, устаревшая форма\n• C) \"poszlibyśmy\" — от \"pójść\" (dokonany), другой глагол\n• D) \"iśćbyśmy\" — инфинитив + by, некорректно",
+    "explanationPl": "**Tryb warunkowy l.mn.** = forma przeszła l.mn. + końcówka -by-.\n\n🔑 Tworzenie (l.mn.):\n• iść → szliśmy (przeszły l.mn.) → **szlibyśmy** (warunkowy)\n• Końcówka: -byśmy (1 os.), -byście (2 os.), -by (3 os.)\n\n• A) \"szliśmy by\" — rozdzielnie, forma przestarzała\n• C) \"poszlibyśmy\" — od \"pójść\" (dokonany), inny czasownik\n• D) \"iśćbyśmy\" — bezokolicznik + by, niepoprawne",
+    "topic": "Tryb warunkowy — końcówki w l.mn.",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNK_007",
+    "source": "pdf",
+    "question": "Która forma jest GRZECZNIEJSZA?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chcę kawę."
+      },
+      {
+        "label": "B",
+        "text": "Chciałem kawę."
+      },
+      {
+        "label": "C",
+        "text": "Chciałbym kawę."
+      },
+      {
+        "label": "D",
+        "text": "Chcąc kawę."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Tryb warunkowy** используется для вежливых просьб.\n\n🔑 Grzeczność:\n• \"Chcę kawę\" — прямо, невежливо\n• \"Chciałbym kawę\" — вежливо (условное наклонение смягчает)\n• \"Chciałem kawę\" — прошедшее время, не вежливая форма\n\n• A) Прямо, невежливо\n• B) Прошедшее время, не для просьб\n• D) Причастие, грамматически некорректно в этом контексте",
+    "explanationPl": "**Tryb warunkowy** używa się do grzecznych próśb.\n\n🔑 Grzeczność:\n• \"Chcę kawę\" — bezpośrednio, niegrzecznie\n• \"Chciałbym kawę\" — grzecznie (tryb warunkowy łagodzi)\n• \"Chciałem kawę\" — czas przeszły, nie grzeczna forma\n\n• A) Bezpośrednio, niegrzecznie\n• B) Czas przeszły, nie do próśb\n• D) Imiesłów, gramatycznie niepoprawne w tym kontekście",
+    "topic": "Tryb warunkowy — użycie grzecznościowe",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_WARUNK_008",
+    "source": "pdf",
+    "question": "Który aspekt jest typowy w trybie warunkowym dla wyrażenia JEDNORAZOWEJ czynności hipotetycznej?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dokonany (np. zrobiłbym)"
+      },
+      {
+        "label": "B",
+        "text": "Niedokonany (np. robiłbym)"
+      },
+      {
+        "label": "C",
+        "text": "Oba są równie typowe"
+      },
+      {
+        "label": "D",
+        "text": "Żaden — tryb warunkowy nie ma aspektu"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "В условном наклонении для **однократных гипотетических действий** типичен **совершенный вид**.\n\n🔑 Aspekt w trybie warunkowym:\n• \"**Zrobiłbym** to\" — сделал бы (однократно, гипотетически)\n• \"**Robiłbym** to\" — делал бы (повторяющееся или процесс)\n\n• B) Для повторяющихся или процессуальных действий\n• C) Неверно — есть различие\n• D) Неверно — аспект есть",
+    "explanationPl": "W trybie warunkowym dla **jednorazowych czynności hipotetycznych** typowy jest **aspekt dokonany**.\n\n🔑 Aspekt w trybie warunkowym:\n• \"**Zrobiłbym** to\" — zrobiłbym (jednorazowo, hipotetycznie)\n• \"**Robiłbym** to\" — robiłbym (powtarzające się lub proces)\n\n• B) Dla powtarzających się lub procesualnych czynności\n• C) Niepoprawne — jest różnica\n• D) Niepoprawne — aspekt istnieje",
+    "topic": "Tryb warunkowy — aspekt",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_WARUNK_001",
+    "source": "pdf",
+    "question": "Jak wyrazić warunek nierealny w PRZESZŁOŚCI?\n„Gdybym _______ wcześniej, _______ zdążył na pociąg.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "wyszedł ... byłbym"
+      },
+      {
+        "label": "B",
+        "text": "wyszedłbym ... byłbym"
+      },
+      {
+        "label": "C",
+        "text": "był wyszedł ... byłbym"
+      },
+      {
+        "label": "D",
+        "text": "A i C są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "**Okres nierealny przeszły** — условие, которое не исполнилось в прошлом.\n\n🔑 Dwie formy:\n• **Gdybym wyszedł..., byłbym zdążył** — стандартная форма (gdybym + przeszły, byłbym + przeszły)\n• **Gdybym był wyszedł..., byłbym zdążył** — эмфатическая форма (плюсквамперфект)\n\nОбе формы (A и C) корректны для выражения нереального условия в прошлом.\n\n• B) \"wyszedłbym\" — двойное -by- (gdybym + wyszedłbym)",
+    "explanationPl": "**Okres nierealny przeszły** — warunek, który nie spełnił się w przeszłości.\n\n🔑 Dwie formy:\n• **Gdybym wyszedł..., byłbym zdążył** — standardowa forma (gdybym + przeszły, byłbym + przeszły)\n• **Gdybym był wyszedł..., byłbym zdążył** — emfatyczna forma (czas zaprzeszły)\n\nObie formy (A i C) są poprawne dla wyrażenia nierealnego warunku w przeszłości.\n\n• B) \"wyszedłbym\" — podwójne -by- (gdybym + wyszedłbym)",
+    "topic": "Tryb warunkowy — okres nierealny przeszły",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_WARUNK_002",
+    "source": "pdf",
+    "question": "Która pozycja -by jest poprawna z zaimkiem?\n„_______ to zrobił.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ja bym"
+      },
+      {
+        "label": "B",
+        "text": "Jabym"
+      },
+      {
+        "label": "C",
+        "text": "Bym ja"
+      },
+      {
+        "label": "D",
+        "text": "A i C są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "**-By-** может отделяться от глагола и присоединяться к другим словам.\n\n🔑 Pozycja -by z zaimkami:\n• \"**Ja bym** to zrobił\" — -by- после местоимения (стандартно)\n• \"**Bym ja** to zrobił\" — -by- перед местоимением (допустимо, эмфатично)\n• \"**Jabym**\" — слитно с местоимением (некорректно)\n\nОбе формы (A и C) корректны.\n\n• B) \"Jabym\" — -by- не пишется слитно с местоимением",
+    "explanationPl": "**-By-** może oddziać się od czasownika i dołączać do innych wyrazów.\n\n🔑 Pozycja -by z zaimkami:\n• \"**Ja bym** to zrobił\" — -by- po zaimku (standardowo)\n• \"**Bym ja** to zrobił\" — -by- przed zaimkiem (dopuszczalne, emfatycznie)\n• \"**Jabym**\" — łącznie z zaimkiem (niepoprawne)\n\nObie formy (A i C) są poprawne.\n\n• B) \"Jabym\" — -by- nie pisze się łącznie z zaimkiem",
+    "topic": "Tryb warunkowy — pozycja -by z zaimkami",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B1_BIERNA_006",
+    "source": "pdf",
+    "question": "Jak przekształcić na stronę bierną?\n„Jan pisze list.\" → „List _______ przez Jana.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "pisze"
+      },
+      {
+        "label": "B",
+        "text": "jest pisany"
+      },
+      {
+        "label": "C",
+        "text": "był pisany"
+      },
+      {
+        "label": "D",
+        "text": "pisany jest"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Strona bierna** = być + imiesłów bierny.\n\n🔑 Tworzenie strony biernej:\n• \"Jan pisze list\" (czynna, teraźniejszy)\n• \"List **jest pisany** przez Jana\" (bierna, teraźniejszy)\n\nImiesłów bierny od \"pisać\": pis-any (rodzaj męski, bo \"list\" = m.)\n\n• A) \"pisze\" — strona czynna\n• C) \"był pisany\" — czas przeszły, nie teraźniejszy\n• D) \"pisany jest\" — порядок слов нестандартный",
+    "explanationPl": "**Strona bierna** = być + imiesłów bierny.\n\n🔑 Tworzenie strony biernej:\n• \"Jan pisze list\" (czynna, teraźniejszy)\n• \"List **jest pisany** przez Jana\" (bierna, teraźniejszy)\n\nImiesłów bierny od \"pisać\": pis-any (rodzaj męski, bo \"list\" = m.)\n\n• A) \"pisze\" — strona czynna\n• C) \"był pisany\" — czas przeszły, nie teraźniejszy\n• D) \"pisany jest\" — szyk niestandardowy",
+    "topic": "Strona bierna — tworzenie",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_007",
+    "source": "pdf",
+    "question": "Jaki jest imiesłów bierny od \"czytać\" w rodzaju żeńskim l.poj.?",
+    "options": [
+      {
+        "label": "A",
+        "text": "czytana"
+      },
+      {
+        "label": "B",
+        "text": "czytany"
+      },
+      {
+        "label": "C",
+        "text": "czytane"
+      },
+      {
+        "label": "D",
+        "text": "czytani"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Imiesłów bierny** изменяется по родам и числам.\n\n🔑 Odmiana imiesłowu biernego:\n• czytać → czyt-any (m.), czyt-ana (f.), czyt-ane (n.)\n• l.mn.: czyt-ani (męskoosobowy), czyt-ane (niemęskoosobowy)\n\n• B) \"czytany\" — rodzaj męski\n• C) \"czytane\" — rodzaj nijaki lub l.mn. niemęskoosobowy\n• D) \"czytani\" — l.mn. męskoosobowy",
+    "explanationPl": "**Imiesłów bierny** odmienia się przez rodzaje i liczby.\n\n🔑 Odmiana imiesłowu biernego:\n• czytać → czyt-any (m.), czyt-ana (f.), czyt-ane (n.)\n• l.mn.: czyt-ani (męskoosobowy), czyt-ane (niemęskoosobowy)\n\n• B) \"czytany\" — rodzaj męski\n• C) \"czytane\" — rodzaj nijaki lub l.mn. niemęskoosobowy\n• D) \"czytani\" — l.mn. męskoosobowy",
+    "topic": "Strona bierna — imiesłów bierny (rodzaje)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_008",
+    "source": "pdf",
+    "question": "Jak przekształcić na stronę bierną w czasie przeszłym?\n„Maria napisała raport.\" → „Raport _______ przez Marię.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "jest napisany"
+      },
+      {
+        "label": "B",
+        "text": "był napisać"
+      },
+      {
+        "label": "C",
+        "text": "został napisany"
+      },
+      {
+        "label": "D",
+        "text": "napisany był"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Strona bierna w czasie przeszłym** = zostać + imiesłów bierny (для dokonany).\n\n🔑 Być vs Zostać:\n• \"jest napisany\" — результат в настоящем (teraźniejszy)\n• \"**został napisany**\" — действие в прошлом (przeszły, dokonany)\n• \"był napisany\" — состояние в прошлом (przeszły, niedokonany)\n\n\"Napisać\" — dokonany, поэтому \"został\".\n\n• A) \"jest napisany\" — teraźniejszy, nie przeszły\n• B) \"był napisać\" — грамматически некорректно\n• D) \"napisany był\" — порядок слов нестандартный",
+    "explanationPl": "**Strona bierna w czasie przeszłym** = zostać + imiesłów bierny (dla dokonany).\n\n🔑 Być vs Zostać:\n• \"jest napisany\" — rezultat w teraźniejszości (teraźniejszy)\n• \"**został napisany**\" — czynność w przeszłości (przeszły, dokonany)\n• \"był napisany\" — stan w przeszłości (przeszły, niedokonany)\n\n\"Napisać\" — dokonany, dlatego \"został\".\n\n• A) \"jest napisany\" — teraźniejszy, nie przeszły\n• B) \"był napisać\" — gramatycznie niepoprawne\n• D) \"napisany był\" — szyk niestandardowy",
+    "topic": "Strona bierna — czas przeszły",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_009",
+    "source": "pdf",
+    "question": "Jaka jest różnica między \"jest zrobiony\" a \"został zrobiony\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Brak różnicy"
+      },
+      {
+        "label": "B",
+        "text": "\"jest zrobiony\" = przyszłość, \"został zrobiony\" = przeszłość"
+      },
+      {
+        "label": "C",
+        "text": "\"jest zrobiony\" = stan, \"został zrobiony\" = czynność"
+      },
+      {
+        "label": "D",
+        "text": "\"jest zrobiony\" = niedokonany, \"został zrobiony\" = dokonany"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanationRu": "**Być + imiesłów** — состояние (результат).\n**Zostać + imiesłów** — действие (процесс завершения).\n\n🔑 Być vs Zostać:\n• \"Obiad **jest zrobiony**\" — обед готов (состояние сейчас)\n• \"Obiad **został zrobiony**\" — обед был приготовлен (действие в прошлом)\n\n• A) Неверно — различие есть\n• B) Частично верно, но не полно (być может быть и в przeszły: \"był zrobiony\")\n• D) Неверно — оба могут использоваться с dokonany",
+    "explanationPl": "**Być + imiesłów** — stan (rezultat).\n**Zostać + imiesłów** — czynność (proces zakończenia).\n\n🔑 Być vs Zostać:\n• \"Obiad **jest zrobiony**\" — obiad jest gotowy (stan teraz)\n• \"Obiad **został zrobiony**\" — obiad został przygotowany (czynność w przeszłości)\n\n• A) Niepoprawne — różnica istnieje\n• B) Częściowo poprawne, ale niepełne (być może być też w przeszłym: \"był zrobiony\")\n• D) Niepoprawne — oba mogą być używane z dokonanym",
+    "topic": "Strona bierna — być vs zostać",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_010",
+    "source": "pdf",
+    "question": "Jak przekształcić na stronę bierną w czasie przyszłym?\n„Firma wybuduje dom.\" → „Dom _______ przez firmę.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "jest wybudowany"
+      },
+      {
+        "label": "B",
+        "text": "był wybudowany"
+      },
+      {
+        "label": "C",
+        "text": "będzie wybudować"
+      },
+      {
+        "label": "D",
+        "text": "zostanie wybudowany"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "**Strona bierna w czasie przyszłym** = zostać (przyszły) + imiesłów bierny.\n\n🔑 Czas przyszły bierny:\n• \"Dom **zostanie wybudowany**\" — дом будет построен\n• \"zostanie\" — przyszły od \"zostać\"\n\n• A) \"jest wybudowany\" — teraźniejszy\n• B) \"był wybudowany\" — przeszły\n• C) \"będzie wybudować\" — грамматически некорректно",
+    "explanationPl": "**Strona bierna w czasie przyszłym** = zostać (przyszły) + imiesłów bierny.\n\n🔑 Czas przyszły bierny:\n• \"Dom **zostanie wybudowany**\" — dom zostanie wybudowany\n• \"zostanie\" — przyszły od \"zostać\"\n\n• A) \"jest wybudowany\" — teraźniejszy\n• B) \"był wybudowany\" — przeszły\n• C) \"będzie wybudować\" — gramatycznie niepoprawne",
+    "topic": "Strona bierna — czas przyszły",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_011",
+    "source": "pdf",
+    "question": "Jaki jest imiesłów bierny od \"kupić\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "kupiony"
+      },
+      {
+        "label": "B",
+        "text": "kupny"
+      },
+      {
+        "label": "C",
+        "text": "kupowany"
+      },
+      {
+        "label": "D",
+        "text": "kupić"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanationRu": "**Imiesłów bierny** от глаголов на -ić/-yć: -ony/-ona/-one.\n\n🔑 Tworzenie imiesłowu biernego:\n• kupić → kup-iony (dokonany)\n• kupować → kup-owany (niedokonany)\n\n• B) \"kupny\" — przymiotnik, nie imiesłów\n• C) \"kupowany\" — od \"kupować\" (niedokonany)\n• D) \"kupić\" — bezokolicznik",
+    "explanationPl": "**Imiesłów bierny** od czasowników na -ić/-yć: -ony/-ona/-one.\n\n🔑 Tworzenie imiesłowu biernego:\n• kupić → kup-iony (dokonany)\n• kupować → kup-owany (niedokonany)\n\n• B) \"kupny\" — przymiotnik, nie imiesłów\n• C) \"kupowany\" — od \"kupować\" (niedokonany)\n• D) \"kupić\" — bezokolicznik",
+    "topic": "Strona bierna — imiesłów bierny (tworzenie)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_012",
+    "source": "pdf",
+    "question": "Kiedy używamy strony biernej?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gdy chcemy podkreślić wykonawcę czynności"
+      },
+      {
+        "label": "B",
+        "text": "Gdy wykonawca jest nieznany lub nieistotny"
+      },
+      {
+        "label": "C",
+        "text": "Gdy chcemy skrócić zdanie"
+      },
+      {
+        "label": "D",
+        "text": "Strona bierna nie jest używana w polskim"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Strona bierna** используется, когда:\n• Исполнитель неизвестен или неважен\n• Акцент на объекте действия, а не на субъекте\n\n🔑 Użycie strony biernej:\n• \"Dom **został zbudowany** w 2020 roku\" — кто построил — неважно\n• \"Książka **jest czytana** przez miliony\" — акцент на книге\n\n• A) Неверно — для подчёркивания исполнителя используется czynna\n• C) Неверно — bierna не сокращает, а часто удлиняет\n• D) Неверно — bierna используется в польском",
+    "explanationPl": "**Strona bierna** używa się, gdy:\n• Wykonawca jest nieznany lub nieistotny\n• Akcent na obiekcie czynności, nie na podmiocie\n\n🔑 Użycie strony biernej:\n• \"Dom **został zbudowany** w 2020 roku\" — kto zbudował — nieistotne\n• \"Książka **jest czytana** przez miliony\" — akcent na książce\n\n• A) Niepoprawne — do podkreślenia wykonawcy używa się czynnej\n• C) Niepoprawne — bierna nie skraca, często wydłuża\n• D) Niepoprawne — bierna jest używana w polskim",
+    "topic": "Strona bierna — użycie (kiedy?)",
+    "difficulty": "high"
+  },
+  {
+    "id": "B1_BIERNA_013",
+    "source": "pdf",
+    "question": "Przekształć na stronę czynną:\n„Okno zostało otwarte przez Annę.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Okno otworzyło Annę."
+      },
+      {
+        "label": "B",
+        "text": "Anna otworzyła okno."
+      },
+      {
+        "label": "C",
+        "text": "Okno się otworzyło."
+      },
+      {
+        "label": "D",
+        "text": "Anna została otwarta przez okno."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Transformacja bierna → czynna:**\n• Podmiot bierny → dopełnienie czynne\n• \"przez + wykonawca\" → podmiot czynny\n\n🔑 Transformacja:\n• \"Okno zostało otwarte przez Annę\" (bierna)\n• \"**Anna otworzyła okno**\" (czynna)\n\n• A) Неверно — смысл изменён (окно открыло Анну?)\n• C) Неверно — zwrotna, nie czynna\n• D) Неверно — смысл изменён",
+    "explanationPl": "**Transformacja bierna → czynna:**\n• Podmiot bierny → dopełnienie czynne\n• \"przez + wykonawca\" → podmiot czynny\n\n🔑 Transformacja:\n• \"Okno zostało otwarte przez Annę\" (bierna)\n• \"**Anna otworzyła okno**\" (czynna)\n\n• A) Niepoprawne — sens zmieniony (okno otworzyło Annę?)\n• C) Niepoprawne — zwrotna, nie czynna\n• D) Niepoprawne — sens zmieniony",
+    "topic": "Strona bierna — transformacja",
+    "difficulty": "high"
+  },
+  {
+    "id": "B2_BIERNA_003",
+    "source": "pdf",
+    "question": "Jaka jest bezosobowa forma bierna od \"mówić\"?\n„_______ po polsku.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mówi się"
+      },
+      {
+        "label": "B",
+        "text": "Jest mówione"
+      },
+      {
+        "label": "C",
+        "text": "Mówione jest"
+      },
+      {
+        "label": "D",
+        "text": "A i B są poprawne"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanationRu": "**Bezosobowa forma bierna** может выражаться двумя способами:\n• **się + 3 os. l.poj.** — \"Mówi się po polsku\"\n• **jest + imiesłów bierny (n.)** — \"Jest mówione po polsku\"\n\n🔑 Dwie formy bezosobowe:\n• \"**Mówi się** po polsku\" — говорят по-польски (zwrotna bezosobowa) — **значительно чаще**\n• \"**Jest mówione** po polsku\" — говорится по-польски (bierna bezosobowa) — **грамматически корректно, но реже используется**\n\nОбе формы грамматически корректны, хотя \"mówi się\" значительно чаще в живом языке.\n\n• C) \"Mówione jest\" — порядок слов нестандартный",
+    "explanationPl": "**Bezosobowa forma bierna** może być wyrażona dwoma sposobami:\n• **się + 3 os. l.poj.** — \"Mówi się po polsku\"\n• **jest + imiesłów bierny (n.)** — \"Jest mówione po polsku\"\n\n🔑 Dwie formy bezosobowe:\n• \"**Mówi się** po polsku\" — mówi się po polsku (zwrotna bezosobowa) — **znacznie częstsza**\n• \"**Jest mówione** po polsku\" — jest mówione po polsku (bierna bezosobowa) — **poprawna gramatycznie, ale rzadziej używana**\n\nObie formy są poprawne gramatycznie, choć \"mówi się\" jest znacznie częstsza w żywym języku.\n\n• C) \"Mówione jest\" — szyk niestandardowy",
+    "topic": "Strona bierna — bezosobowa forma",
+    "difficulty": "very high"
+  },
+  {
+    "id": "B2_BIERNA_004",
+    "source": "pdf",
+    "question": "Jaki jest imiesłów bierny od \"wziąć\"?",
+    "options": [
+      {
+        "label": "A",
+        "text": "wziąty"
+      },
+      {
+        "label": "B",
+        "text": "wzięty"
+      },
+      {
+        "label": "C",
+        "text": "wzięta"
+      },
+      {
+        "label": "D",
+        "text": "brany"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanationRu": "**Wziąć** — неправильный глагол с особой формой imiesłowu biernego.\n\n🔑 Formy nieregularne:\n• wziąć → **wzięty** (nie \"wziąty\")\n• Alternacja: ą → ę\n\n• A) \"wziąty\" — не существует (ошибка, нет альтернации)\n• C) \"wzięta\" — родзай żeński, вопрос о rodzaj męski\n• D) \"brany\" — от \"brać\" (niedokonany), другой глагол",
+    "explanationPl": "**Wziąć** — czasownik nieregularny z osobliwą formą imiesłowu biernego.\n\n🔑 Formy nieregularne:\n• wziąć → **wzięty** (nie \"wziąty\")\n• Alternacja: ą → ę\n\n• A) \"wziąty\" — nie istnieje (błąd, brak alternacji)\n• C) \"wzięta\" — rodzaj żeński, pytanie o rodzaj męski\n• D) \"brany\" — od \"brać\" (niedokonany), inny czasownik",
+    "topic": "Strona bierna — imiesłów bierny nieregularny",
+    "difficulty": "very high"
   }
 ]
