@@ -7891,4 +7891,382 @@ Oba warianty są gramatycznie poprawne, ale z różnym akcentem:
     topic: "Aspekt czasownika — aspekt w zdaniach warunkowych",
     difficulty: "very high"
   }
+,
+  {
+    id: "B1_ASPEKT_015",
+    source: "pdf",
+    question: `Jaka jest różnica między "iść" a "chodzić"?`,
+    options: [
+      { label: "A", text: "Brak różnicy" },
+      { label: "B", text: `"iść" — jednokrotne, "chodzić" — wielokrotne` },
+      { label: "C", text: `"iść" — dokonany, "chodzić" — niedokonany` },
+      { label: "D", text: `"iść" — przeszły, "chodzić" — teraźniejszny` }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Czasowniki ruchu** различаются по кратности (однократные vs многократные).
+
+🔑 Iść vs chodzić:
+• **iść** — идти (jednokrotny, одно направление, один раз)
+• **chodzić** — ходить (wielokrotny, регулярно, туда-сюда)
+
+Оба глагола — niedokonany! Различие в кратности, не в аспекте.
+
+• A) Неверно — различие есть
+• C) Неверно — оба niedokonany
+• D) Неверно — оба могут быть в любом времени`,
+    explanationPl: `**Czasowniki ruchu** różnią się krotnością (jednokrotne vs wielokrotne).
+
+🔑 Iść vs chodzić:
+• **iść** — iść (jednokrotny, jeden kierunek, jeden raz)
+• **chodzić** — chodzić (wielokrotny, regularnie, tam i z powrotem)
+
+Oba czasowniki są niedokonane! Różnica w krotności, nie w aspekcie.
+
+• A) Niepoprawne — różnica istnieje
+• C) Niepoprawne — oba niedokonane
+• D) Niepoprawne — oba mogą być w każdym czasie`,
+    topic: "Aspekt czasownika — czasowniki ruchu",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_016",
+    source: "pdf",
+    question: `Który aspekt jest typowy dla ZAKAZU (przeczenia w rozkaźniku)?
+„Nie _______ tego!"`,
+    options: [
+      { label: "A", text: "rób (niedokonany)" },
+      { label: "B", text: "zrób (dokonany)" },
+      { label: "C", text: "A i B są równie poprawne" },
+      { label: "D", text: "Żadne z powyższych" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Zakaz w rozkaźniku** — оба аспекта возможны, но с разным оттенком.
+
+🔑 Aspekt w zakazie:
+• "Nie **rób** tego!" — не делай этого (процесс, общий запрет)
+• "Nie **zrób** tego!" — не сделай этого (предостережение, конкретная ситуация)
+
+⚠️ В отличие от положительного императива (где dokonany типичен для приказа), в отрицании оба аспекта используются.
+
+• A) Частично верно, но B тоже возможно
+• B) Частично верно, но A тоже возможно
+• D) Неверно — оба варианта возможны`,
+    explanationPl: `**Zakaz w rozkaźniku** — oba aspekty są możliwe, ale z różnym odcieniem.
+
+🔑 Aspekt w zakazie:
+• "Nie **rób** tego!" — nie rób tego (proces, ogólny zakaz)
+• "Nie **zrób** tego!" — nie zrób tego (ostrzeżenie, konkretna sytuacja)
+
+⚠️ W odróżnieniu od pozytywnego imperatywu (gdzie dokonany jest typowy dla rozkazu), w przeczeniu oba aspekty są używane.
+
+• A) Częściowo poprawne, ale B też możliwe
+• B) Częściowo poprawne, ale A też możliwe
+• D) Niepoprawne — oba warianty są możliwe`,
+    topic: "Aspekt czasownika — aspekt w trybie rozkazującym",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_017",
+    source: "pdf",
+    question: `Zacząłem _______ nowy język.
+(Który aspekt jest poprawny po "zacząć"?)`,
+    options: [
+      { label: "A", text: "uczyć się (niedokonany)" },
+      { label: "B", text: "nauczyć się (dokonany)" },
+      { label: "C", text: "A i B są poprawne" },
+      { label: "D", text: "Żadne z powyższych" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Po "zacząć"** używa się **niedokonanego** — начинают процесс, не результат.
+
+🔑 Zacząć + aspekt:
+• **zacząć + niedokonany** — начать делать (процесс)
+• ❌ zacząć + dokonany — нелогично (нельзя начать завершённое действие)
+
+"Zacząłem **uczyć się**" — начал учить (процесс).
+❌ "Zacząłem **nauczyć się**" — некорректно.
+
+• B) "nauczyć się" — dokonany, nie pasuje po "zacząć"
+• C) Неверно — только niedokonany
+• D) Неверно — A poprawne`,
+    explanationPl: `**Po "zacząć"** używa się **niedokonanego** — zaczynamy proces, nie rezultat.
+
+🔑 Zacząć + aspekt:
+• **zacząć + niedokonany** — zacząć robić (proces)
+• ❌ zacząć + dokonany — nielogiczne (nie można zacząć zakończonej czynności)
+
+"Zacząłem **uczyć się**" — zacząłem się uczyć (proces).
+❌ "Zacząłem **nauczyć się**" — niepoprawne.
+
+• B) "nauczyć się" — dokonany, nie pasuje po "zacząć"
+• C) Niepoprawne — tylko niedokonany
+• D) Niepoprawne — A jest poprawne`,
+    topic: `Aspekt czasownika — aspekt z "zacząć"`,
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_018",
+    source: "pdf",
+    question: `Skończyłem _______ książkę.
+(Który aspekt jest poprawny po "skończyć"?)`,
+    options: [
+      { label: "A", text: "przeczytać (dokonany)" },
+      { label: "B", text: "czytać (niedokonany)" },
+      { label: "C", text: "A i B są poprawne" },
+      { label: "D", text: "Żadne z powyższych" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Po "skończyć"** можно использовать оба аспекта, хотя niedokonany более нейтрален.
+
+🔑 Skończyć + aspekt:
+• **skończyć + niedokonany** — закончить делать (процесс) — более нейтрально
+• **skończyć + dokonany** — встречается в разговорной речи
+
+"Skończyłem **czytać**" — закончил читать (нейтрально).
+"Skończyłem **przeczytać**" — разговорно, но употребляется.
+
+• A) "przeczytać" — dokonany, разговорный вариант
+• B) "czytać" — niedokonany, нейтральный вариант
+• D) Неверно — оба варианта возможны`,
+    explanationPl: `**Po "skończyć"** można użyć obu aspektów, choć niedokonany jest bardziej neutralny.
+
+🔑 Skończyć + aspekt:
+• **skończyć + niedokonany** — skończyć robić (proces) — bardziej neutralne
+• **skończyć + dokonany** — występuje w języku potocznym
+
+"Skończyłem **czytać**" — skończyłem czytać (neutralne).
+"Skończyłem **przeczytać**" — potocznie, ale używane.
+
+• A) "przeczytać" — dokonany, wariant potoczny
+• B) "czytać" — niedokonany, wariant neutralny
+• D) Niepoprawne — oba warianty są możliwe`,
+    topic: `Aspekt czasownika — aspekt z "skończyć"`,
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_019",
+    source: "pdf",
+    question: `Który czasownik jest DWUASPEKTOWY (może być i dokonany, i niedokonany)?`,
+    options: [
+      { label: "A", text: "pisać" },
+      { label: "B", text: "czytać" },
+      { label: "C", text: "robić" },
+      { label: "D", text: "aresztować" }
+    ],
+    correctAnswer: "D",
+    explanationRu: `**Czasowniki dwuaspektowe** — глаголы, которые могут быть и dokonany, и niedokonany в зависимости от контекста.
+
+🔑 Czasowniki dwuaspektowe:
+• **aresztować** — арестовать/арестовывать (dwuaspektowy)
+• **abdykować, adoptować, akceptować** — также dwuaspektowe
+• Часто это заимствования на -ować
+
+• A) "pisać" — только niedokonany (para: napisać)
+• B) "czytać" — только niedokonany (para: przeczytać)
+• C) "robić" — только niedokonany (para: zrobić)`,
+    explanationPl: `**Czasowniki dwuaspektowe** — czasowniki, które mogą być i dokonane, i niedokonane w zależności od kontekstu.
+
+🔑 Czasowniki dwuaspektowe:
+• **aresztować** — aresztować (dwuaspektowy)
+• **abdykować, adoptować, akceptować** — również dwuaspektowe
+• Często są to zapożyczenia na -ować
+
+• A) "pisać" — tylko niedokonany (para: napisać)
+• B) "czytać" — tylko niedokonany (para: przeczytać)
+• C) "robić" — tylko niedokonany (para: zrobić)`,
+    topic: "Aspekt czasownika — czasowniki dwuaspektowe",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_020",
+    source: "pdf",
+    question: `Czy już _______ obiad?
+(Który aspekt jest typowy dla pytania o rezultat?)`,
+    options: [
+      { label: "A", text: "zjadłeś (dokonany)" },
+      { label: "B", text: "jadłeś (niedokonany)" },
+      { label: "C", text: "jesz (teraźniejszny)" },
+      { label: "D", text: "A i B są równie poprawne" }
+    ],
+    correctAnswer: "A",
+    explanationRu: `**Pytanie o rezultat** требует **dokonany**.
+
+🔑 Aspekt w pytaniach:
+• "Czy już **zjadłeś**?" — ты уже съел? (результат)
+• "Czy **jadłeś**?" — ты ел? (процесс, без акцента на результат)
+
+"Już" указывает на ожидание результата → dokonany.
+
+• B) "jadłeś" — niedokonany, вопрос о процессе, не о результате
+• C) "jesz" — teraźniejszny, не подходит с "już" в этом контексте
+• D) Неверно — только A подходит для вопроса о результате`,
+    explanationPl: `**Pytanie o rezultat** wymaga **dokonanego**.
+
+🔑 Aspekt w pytaniach:
+• "Czy już **zjadłeś**?" — czy już zjadłeś? (rezultat)
+• "Czy **jadłeś**?" — czy jadłeś? (proces, bez akcentu na rezultat)
+
+"Już" wskazuje na oczekiwanie rezultatu → dokonany.
+
+• B) "jadłeś" — niedokonany, pytanie o proces, nie o rezultat
+• C) "jesz" — teraźniejszny, nie pasuje z "już" w tym kontekście
+• D) Niepoprawne — tylko A pasuje do pytania o rezultat`,
+    topic: "Aspekt czasownika — aspekt w pytaniach",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_021",
+    source: "pdf",
+    question: `Pisałem list przez dwie godziny i w końcu go _______.
+(Który aspekt wyraża zakończenie po długim procesie?)`,
+    options: [
+      { label: "A", text: "pisałem" },
+      { label: "B", text: "piszę" },
+      { label: "C", text: "napisałem" },
+      { label: "D", text: "będę pisać" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Zakończenie po procesie** требует **dokonany**.
+
+🔑 Sekwencja: proces → rezultat:
+• "Pisałem... przez dwie godziny" — процесс (niedokonany)
+• "...i w końcu go **napisałem**" — результат (dokonany)
+
+Контекст: "w końcu" указывает на завершение → dokonany.
+
+• A) "pisałem" — niedokonany, уже использован для процесса
+• B) "piszę" — teraźniejszny, не подходит
+• D) "będę pisać" — przyszły, не подходит`,
+    explanationPl: `**Zakończenie po procesie** wymaga **dokonanego**.
+
+🔑 Sekwencja: proces → rezultat:
+• "Pisałem... przez dwie godziny" — proces (niedokonany)
+• "...i w końcu go **napisałem**" — rezultat (dokonany)
+
+Kontekst: "w końcu" wskazuje na zakończenie → dokonany.
+
+• A) "pisałem" — niedokonany, już użyty dla procesu
+• B) "piszę" — teraźniejszny, nie pasuje
+• D) "będę pisać" — przyszły, nie pasuje`,
+    topic: "Aspekt czasownika — aspekt a czas trwania",
+    difficulty: "high"
+  },
+  {
+    id: "B1_ASPEKT_022",
+    source: "pdf",
+    question: `Który aspekt jest typowy dla INSTRUKCJI (przepisu kulinarnego)?
+„_______ cebulę na drobne kawałki."`,
+    options: [
+      { label: "A", text: "Kroić (niedokonany)" },
+      { label: "B", text: "Pokroić (dokonany)" },
+      { label: "C", text: "Kroisz (2 os. teraźniejszny)" },
+      { label: "D", text: "A i B są równie poprawne" }
+    ],
+    correctAnswer: "B",
+    explanationRu: `**Instrukcje** (инструкции, рецепты) типично используют **dokonany** в императиве.
+
+🔑 Aspekt w instrukcjach:
+• "**Pokrój** cebulę" — порежь лук (dokonany, конкретное действие)
+• "**Krój** cebulę" — режь лук (niedokonany, менее типично для инструкций)
+
+В рецептах каждый шаг — завершённое действие → dokonany.
+
+• A) "Kroić" — bezokolicznik niedokonany, менее типичен
+• C) "Kroisz" — 2 os. teraźniejszny, не императив
+• D) Неверно — dokonany более типичен для инструкций`,
+    explanationPl: `**Instrukcje** (przepisy kulinarne) typowo używają **dokonanego** w imperatywie.
+
+🔑 Aspekt w instrukcjach:
+• "**Pokrój** cebulę" — pokrój cebulę (dokonany, konkretna czynność)
+• "**Krój** cebulę" — krój cebulę (niedokonany, mniej typowe dla instrukcji)
+
+W przepisach każdy krok to zakończona czynność → dokonany.
+
+• A) "Kroić" — bezokolicznik niedokonany, mniej typowy
+• C) "Kroisz" — 2 os. teraźniejszny, nie imperatyw
+• D) Niepoprawne — dokonany jest bardziej typowy dla instrukcji`,
+    topic: "Aspekt czasownika — aspekt w instrukcjach",
+    difficulty: "high"
+  },
+  {
+    id: "B2_ASPEKT_003",
+    source: "pdf",
+    question: `Jak zmienia się aspekt w mowie zależnej?
+Mowa niezależna: „Przeczytam tę książkę."
+Mowa zależna: „Powiedział, że _______ tę książkę."`,
+    options: [
+      { label: "A", text: "przeczytał (dokonany przeszły)" },
+      { label: "B", text: "będzie czytać (niedokonany przyszły złożony)" },
+      { label: "C", text: "przeczyta (dokonany przyszły, bez zmiany aspektu)" },
+      { label: "D", text: "czyta (niedokonany teraźniejszny)" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Aspekt w mowie zależnej** — аспект НЕ меняется при переводе в косвенную речь.
+
+🔑 Mowa zależna a aspekt:
+• Mowa niezależna: "**Przeczytam**" (dokonany przyszły)
+• Mowa zależna: "Powiedział, że **przeczyta**" (dokonany przyszły)
+
+Аспект остаётся dokonany. Время может измениться (przyszły → przyszły относительно момента речи).
+
+• A) "przeczytał" — изменил бы время на przeszły, что неверно
+• B) "będzie czytać" — изменил бы аспект на niedokonany
+• D) "czyta" — изменил бы аспект и время`,
+    explanationPl: `**Aspekt w mowie zależnej** — aspekt NIE zmienia się przy przekształceniu na mowę zależną.
+
+🔑 Mowa zależna a aspekt:
+• Mowa niezależna: "**Przeczytam**" (dokonany przyszły)
+• Mowa zależna: "Powiedział, że **przeczyta**" (dokonany przyszły)
+
+Aspekt pozostaje dokonany. Czas może się zmienić (przyszły → przyszły względem momentu mówienia).
+
+• A) "przeczytał" — zmieniłby czas na przeszły, co jest niepoprawne
+• B) "będzie czytać" — zmieniłby aspekt na niedokonany
+• D) "czyta" — zmieniłby aspekt i czas`,
+    topic: "Aspekt czasownika — aspekt w mowie zależnej",
+    difficulty: "very high"
+  },
+  {
+    id: "B2_ASPEKT_004",
+    source: "pdf",
+    question: `Który czasownik wyraża POCZĄTEK czynności (aktionsart inchoatywny)?`,
+    options: [
+      { label: "A", text: "pisać" },
+      { label: "B", text: "napisać" },
+      { label: "C", text: "rozpisać się" },
+      { label: "D", text: "A i B są poprawne" }
+    ],
+    correctAnswer: "C",
+    explanationRu: `**Aktionsart inchoatywny** — способ действия, выражающий начало.
+
+🔑 Aktionsart a aspekt:
+• **rozpisać się** — разписаться (начать писать много, войти во вкус)
+• Prefiks **roz-** часто выражает начало или развитие действия
+
+Другие примеры:
+• roześmiać się — рассмеяться (начать смеяться)
+• rozpłakać się — расплакаться (начать плакать)
+• rozgadać się — разговориться (начать много говорить)
+
+• A) "pisać" — niedokonany, bez aktionsart
+• B) "napisać" — dokonany, rezultatywny (не inchoatywny)
+• D) Неверно — A и B не выражают начало`,
+    explanationPl: `**Aktionsart inchoatywny** — sposób czynności wyrażający początek.
+
+🔑 Aktionsart a aspekt:
+• **rozpisać się** — rozpisać się (zacząć pisać dużo, wejść w rytm)
+• Prefiks **roz-** często wyraża początek lub rozwój czynności
+
+Inne przykłady:
+• roześmiać się — roześmiać się (zacząć się śmiać)
+• rozpłakać się — rozpłakać się (zacząć płakać)
+• rozgadać się — rozgadać się (zacząć dużo mówić)
+
+• A) "pisać" — niedokonany, bez aktionsart
+• B) "napisać" — dokonany, rezultatywny (nie inchoatywny)
+• D) Niepoprawne — A i B nie wyrażają początku`,
+    topic: "Aspekt czasownika — aspekt a aktionsart (rodzaj czynności)",
+    difficulty: "very high"
+  }
+
 ];
