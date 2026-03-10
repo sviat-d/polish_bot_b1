@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
-  <rect width="40" height="40" rx="10" fill="#DC2626"/>
-  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Inter, sans-serif" font-weight="800" font-size="16">PB</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="0" fill="#DC2626"/>
+  <!-- Graduation cap top diamond -->
+  <polygon points="100,30 170,80 100,130 30,80" fill="white"/>
+  <!-- Red diamond in center -->
+  <polygon points="100,65 120,80 100,95 80,80" fill="#DC2626"/>
+  <!-- Cap bottom chevron / base -->
+  <polygon points="40,100 100,140 100,170 30,125" fill="white"/>
+  <polygon points="160,100 100,140 100,170 170,125" fill="white"/>
 </svg>
