@@ -9835,10 +9835,9 @@ Ten imiesłów wyraża czynność, która odbyła się **wcześniej** niż czynn
     options: [
     { label: "A", text: "Czytając książkę, zadzwonił telefon." },
     { label: "B", text: "Czytając książkę, usłyszałem dzwonek." },
-    { label: "C", text: "Czytając książkę, telefon zadzwonił." },
-    { label: "D", text: "B jest poprawne" }
+    { label: "C", text: "Czytając książkę, telefon zadzwonił." }
     ],
-    correctAnswer: "D",
+    correctAnswer: "B",
     explanationRu: `**Imiesłów przysłówkowy** wymaga **tożsamości podmiotu** — podmiot imiesłowu = podmiot zdania głównego.
 
 🔑 Tożsamość podmiotu:
@@ -9848,7 +9847,7 @@ Ten imiesłów wyraża czynność, która odbyła się **wcześniej** niż czynn
 ⚠️ Błąd: "Czytając książkę, zadzwonił telefon" — telefon nie czytał książki!
 
 • A) Błąd tożsamości podmiotu (telefon zadzwonił)
-• B) Poprawne — ja czytałem, ja usłyszałem
+• B) ✅ Poprawne — ja czytałem, ja usłyszałem
 • C) Błąd tożsamości podmiotu (telefon zadzwonił)`,
     explanationPl: `**Imiesłów przysłówkowy** wymaga **tożsamości podmiotu** — podmiot imiesłowu = podmiot zdania głównego.
 
@@ -9859,7 +9858,7 @@ Ten imiesłów wyraża czynność, która odbyła się **wcześniej** niż czynn
 ⚠️ Błąd: "Czytając książkę, zadzwonił telefon" — telefon nie czytał książki!
 
 • A) Błąd tożsamości podmiotu (telefon zadzwonił)
-• B) Poprawne — ja czytałem, ja usłyszałem
+• B) ✅ Poprawne — ja czytałem, ja usłyszałem
 • C) Błąd tożsamości podmiotu (telefon zadzwonił)`,
     topic: "Imiesłów przysłówkowy współczesny — użycie",
     difficulty: "high"
