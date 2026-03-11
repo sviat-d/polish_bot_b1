@@ -5,29 +5,28 @@
 const messages = {
   // Welcome messages
   welcome: () =>
-    `Privet! Dobro pozhalovat' v bot dlya podgotovki k ekzamenu po pol'skomu B1.\n\n` +
-    `Ya budu davat' tebe zadaniya po grammatike, a ty vybiraj pravil'nyj otvet.\n\n` +
-    `Komandy:\n` +
-    `/start - Nachat'/prodolzhit' praktiku\n` +
-    `/stats - Pokazat' statistiku\n` +
-    `/weak - Trenirovat' slabuyu temu\n` +
-    `/rating - Vklyuchit'/vyklyuchit' ocenku zadanij\n` +
-    `/reset - Sbrosit' progress\n\n` +
-    `Davaj nachnyom!`,
+    `Привет! Добро пожаловать в бот для подготовки к экзамену по польскому В1.\n\n` +
+    `Команды, которые тебе помогут:\n` +
+    `/start - начать/продолжить практику\n` +
+    `/stats - показать статистику\n` +
+    `/weak - тренировать слабую тему\n` +
+    `/rating - включить/выключить оценку заданий (это помогает нам находить слабые задания и улучшать их, а также создавать больше сильных заданий)\n` +
+    `/reset - сбросить прогресс\n` +
+    `/lang - сменить язык объяснений с русского на польский/с польского на русский`,
 
   welcomeBack: (completed, total) =>
-    `S vozvrashcheniem! Ty uzhe reshil ${completed} iz ${total} zadanij.\n\n` +
-    `Prodolzhaem praktiku!`,
+    `С возвращением! Ты уже решил ${completed} из ${total} заданий.\n\n` +
+    `Продолжаем практику!`,
 
   // Task display
   task: (task, taskNumber, totalTasks, topicMode = null) => {
     let text = '';
 
     if (topicMode) {
-      text += `[Trenirovka temy: ${topicMode}]\n\n`;
+      text += `[Тренировка темы: ${topicMode}]\n\n`;
     }
 
-    text += `Zadanie ${taskNumber}/${totalTasks}\n\n`;
+    text += `Задание ${taskNumber}/${totalTasks}\n\n`;
     text += `${task.question}\n\n`;
 
     task.options.forEach(opt => {
@@ -38,43 +37,99 @@ const messages = {
   },
 
   // Answer results
-  correctAnswer: (task) => {
-    let text = `Pravil'no!\n\n`;
-    text += `Ob"yasnenie:\n${task.explanationRu || task.explanationPl || 'Net ob"yasneniya'}`;
+  correctAnswer: (task, userLanguage = 'ru') => {
+    let text = `Правильно!\n\n`;
+
+    // Choose explanation based on user language preference
+    let explanation;
+    let fallbackNotice = '';
+
+    if (userLanguage === 'ru') {
+      explanation = task.explanationRu;
+      if (!explanation && task.explanationPl) {
+        console.warn(`Task ${task.id}: RU explanation missing, falling back to PL`);
+        explanation = task.explanationPl;
+        fallbackNotice = '(временно на польском, скоро будет на русском)\n\n';
+      }
+    } else {
+      explanation = task.explanationPl;
+      if (!explanation && task.explanationRu) {
+        console.warn(`Task ${task.id}: PL explanation missing, falling back to RU`);
+        explanation = task.explanationRu;
+        fallbackNotice = '(tymczasowo po rosyjsku, wkrótce będzie po polsku)\n\n';
+      }
+    }
+
+    if (!explanation) {
+      console.warn(`Task ${task.id}: No explanation available in any language`);
+      explanation = 'Нет объяснения / Brak wyjaśnienia';
+    }
+
+    text += `Объяснение:\n${fallbackNotice}${explanation}`;
     return text;
   },
 
-  incorrectAnswer: (task, userAnswer) => {
+  incorrectAnswer: (task, userAnswer, userLanguage = 'ru') => {
     const correctOption = task.options.find(o => o.label === task.correctAnswer);
-    let text = `Nepravil'no.\n\n`;
-    text += `Pravil'nyj otvet: ${task.correctAnswer}) ${correctOption?.text || ''}\n\n`;
-    text += `Ob"yasnenie:\n${task.explanationRu || task.explanationPl || 'Net ob"yasneniya'}`;
+    let text = `Неправильно.\n\n`;
+    text += `Правильный ответ: ${task.correctAnswer}) ${correctOption?.text || ''}\n\n`;
+
+    // Choose explanation based on user language preference
+    let explanation;
+    let fallbackNotice = '';
+
+    if (userLanguage === 'ru') {
+      explanation = task.explanationRu;
+      if (!explanation && task.explanationPl) {
+        console.warn(`Task ${task.id}: RU explanation missing, falling back to PL`);
+        explanation = task.explanationPl;
+        fallbackNotice = '(временно на польском, скоро будет на русском)\n\n';
+      }
+    } else {
+      explanation = task.explanationPl;
+      if (!explanation && task.explanationRu) {
+        console.warn(`Task ${task.id}: PL explanation missing, falling back to RU`);
+        explanation = task.explanationRu;
+        fallbackNotice = '(tymczasowo po rosyjsku, wkrótce będzie po polsku)\n\n';
+      }
+    }
+
+    if (!explanation) {
+      console.warn(`Task ${task.id}: No explanation available in any language`);
+      explanation = 'Нет объяснения / Brak wyjaśnienia';
+    }
+
+    text += `Объяснение:\n${fallbackNotice}${explanation}`;
     return text;
   },
 
   // Completion
   allCompleted: () =>
-    `Pozdravlyayu! Ty reshil vse zadaniya!\n\n` +
-    `Ispol'zuj /reset chtoby nachat' zanovo, ili /stats chtoby posmotret' statistiku.`,
+    `Поздравляю! Ты решил все задания!\n\n` +
+    `Используй /reset чтобы начать заново, или /stats чтобы посмотреть статистику.`,
 
   topicCompleted: (topic) =>
-    `Ty reshil vse zadaniya po teme "${topic}"!\n\n` +
-    `Rezhim trenirovki otklyuchen. Prodolzhaem s obychnym rezhimom.`,
+    `Ты решил все задания по теме "${topic}"!\n\n` +
+    `Режим тренировки отключен. Продолжаем с обычным режимом.`,
 
   // Statistics
-  stats: (stats, totalTasks) => {
-    let text = `Tvoya statistika:\n\n`;
-    text += `Vsego otvetov: ${stats.totalAnswered}\n`;
-    text += `Pravil'nyh: ${stats.totalCorrect}\n`;
-    text += `Nepravil'nyh: ${stats.totalIncorrect}\n\n`;
+  stats: (stats, totalTasks, language = 'ru') => {
+    let text = `Твоя статистика:\n\n`;
+    text += `Всего ответов: ${stats.totalAnswered}\n`;
+    text += `Правильных: ${stats.totalCorrect}\n`;
+    text += `Неправильных: ${stats.totalIncorrect}\n\n`;
 
     if (stats.totalAnswered > 0) {
       const percent = Math.round((stats.totalCorrect / stats.totalAnswered) * 100);
-      text += `Tochnost': ${percent}%\n\n`;
+      text += `Точность: ${percent}%\n\n`;
     }
 
+    // Show current language
+    const langName = language === 'ru' ? 'Русский' : 'Polski';
+    text += `Язык объяснений: ${langName}\n\n`;
+
     if (Object.keys(stats.byTopic).length > 0) {
-      text += `Po temam:\n`;
+      text += `По темам:\n`;
 
       // Sort by error rate (worst first)
       const sortedTopics = Object.entries(stats.byTopic)
@@ -82,7 +137,7 @@ const messages = {
 
       for (const [topic, data] of sortedTopics) {
         const percent = data.total > 0 ? Math.round((data.correct / data.total) * 100) : 0;
-        const emoji = data.errorRate > 50 ? '' : (data.errorRate > 25 ? '' : '');
+        const emoji = data.errorRate > 50 ? '❌' : (data.errorRate > 25 ? '⚠️' : '✅');
         text += `${emoji} ${topic}: ${data.correct}/${data.total} (${percent}%)\n`;
       }
     }
@@ -91,64 +146,73 @@ const messages = {
   },
 
   noStats: () =>
-    `U tebya poka net statistiki. Nachni reshat' zadaniya!`,
+    `У тебя пока нет статистики. Начни решать задания!`,
 
   // Weak topic
   weakTopicSuggestion: (topic, errorRate) =>
-    `Obnaruzhena slabaya tema!\n\n` +
-    `Tema "${topic}" imeet ${errorRate}% oshibok.\n\n` +
-    `Hochesh' potreniovat' eyo?`,
+    `Обнаружена слабая тема!\n\n` +
+    `Тема "${topic}" имеет ${errorRate}% ошибок.\n\n` +
+    `Хочешь потренировать её?`,
 
   weakTopicStart: (topic) =>
-    `Rezhim trenirovki temy "${topic}" vklyuchen.\n\n` +
-    `Teper' ty budesh' poluchat' tol'ko zadaniya po etoj teme.`,
+    `Режим тренировки темы "${topic}" включен.\n\n` +
+    `Теперь ты будешь получать только задания по этой теме.`,
 
   weakTopicExit: () =>
-    `Rezhim trenirovki otklyuchen. Prodolzhaem s obychnym rezhimom.`,
+    `Режим тренировки отключен. Продолжаем с обычным режимом.`,
 
   noWeakTopic: () =>
-    `U tebya net yavno slabykh tem. Prodolzhaj v tom zhe dukhe!\n\n` +
-    `(Slaboj schitaetsya tema s >50% oshibok pri >=5 otvetakh)`,
+    `У тебя нет явно слабых тем. Продолжай в том же духе!\n\n` +
+    `(Слабой считается тема с >50% ошибок при >=5 ответах)`,
 
   // Rating
   ratingAsk: () =>
-    `Hochesh' pomoch' nam uluchshit' bota?\n\n` +
-    `Ty mozhesh' ocenivat' kachestvo zadanij (1-5) posle kazhdogo otveta.\n\n` +
-    `Vklyuchit' ocenku zadanij?`,
+    `Хочешь помочь нам улучшить бота?\n\n` +
+    `Ты можешь оценивать качество заданий (1-5) после каждого ответа.\n\n` +
+    `Включить оценку заданий?`,
 
   ratingAskLast: () =>
-    `Poslednij raz sprashivaem: hochesh' ocenivat' zadaniya?\n\n` +
-    `Esli peredumayesh', mozhesh' vklyuchit' komandoj /rating`,
+    `Последний раз спрашиваем: хочешь оценивать задания?\n\n` +
+    `Если передумаешь, можешь включить командой /rating`,
 
   ratingEnabled: () =>
-    `Ocenka zadanij vklyuchena! Teper' posle kazhdogo otveta ty mozhesh' ocenit' zadanie.`,
+    `Оценка заданий включена! Теперь после каждого ответа ты можешь оценить задание.`,
 
   ratingDisabled: () =>
-    `Ocenka zadanij otklyuchena.`,
+    `Оценка заданий отключена.`,
 
   ratingPrompt: () =>
-    `Oceni eto zadanie (1-5):`,
+    `Оцени это задание (1-5):`,
 
   ratingThanks: () =>
-    `Spasibo za ocenku!`,
+    `Спасибо за оценку!`,
 
   // Reset
   confirmReset: () =>
-    `Ty uverenn, chto hochesh' sbrosit' ves' progress?\n\n` +
-    `Eto dej'stvie nel'zya otmenit'.`,
+    `Ты уверен, что хочешь сбросить весь прогресс?\n\n` +
+    `Это действие нельзя отменить.`,
 
   resetDone: () =>
-    `Progress sbroshen. Nachni zanovo s /start`,
+    `Прогресс сброшен. Начни заново с /start`,
 
   resetCancelled: () =>
-    `Sbros otmenen.`,
+    `Сброс отменен.`,
+
+  // Language switching
+  languageChanged: (language) => {
+    if (language === 'ru') {
+      return `Язык объяснений изменён на русский`;
+    } else {
+      return `Zmieniono język wyjaśnień na polski`;
+    }
+  },
 
   // Errors
   error: () =>
-    `Proizoshla oshibka. Poprobuj eshchyo raz ili napishi /start`,
+    `Произошла ошибка. Попробуй ещё раз или напиши /start`,
 
   unknownCommand: () =>
-    `Neizvestnaya komanda. Ispol'zuj /start dlya nachala.`
+    `Неизвестная команда. Используй /start для начала.`
 };
 
 module.exports = messages;

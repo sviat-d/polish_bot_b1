@@ -17,7 +17,7 @@ function createBot() {
   // Error handling
   bot.catch((err, ctx) => {
     console.error('Bot error:', err);
-    ctx.reply('Proizoshla oshibka. Poprobuj eshchyo raz.');
+    ctx.reply('Произошла ошибка. Попробуй ещё раз.');
   });
 
   // Register handlers
@@ -36,7 +36,7 @@ function createBot() {
     const handled = await handleTextAnswer(ctx);
 
     if (!handled) {
-      await ctx.reply(`Ispol'zuj knopki dlya otveta ili /start dlya nachala.`);
+      await ctx.reply(`Используй кнопки для ответа или /start для начала.`);
     }
   });
 

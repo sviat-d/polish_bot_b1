@@ -36,7 +36,7 @@ function ratingKeyboard() {
       Markup.button.callback('4', 'rate:4'),
       Markup.button.callback('5', 'rate:5'),
     ],
-    [Markup.button.callback('Pominac', 'rate:skip')]
+    [Markup.button.callback('Пропустить', 'rate:skip')]
   ]);
 }
 
@@ -46,8 +46,8 @@ function ratingKeyboard() {
 function ratingAskKeyboard() {
   return Markup.inlineKeyboard([
     [
-      Markup.button.callback('Da', 'rating_enable:yes'),
-      Markup.button.callback('Net', 'rating_enable:no')
+      Markup.button.callback('Да', 'rating_enable:yes'),
+      Markup.button.callback('Нет', 'rating_enable:no')
     ]
   ]);
 }
@@ -58,8 +58,8 @@ function ratingAskKeyboard() {
 function confirmResetKeyboard() {
   return Markup.inlineKeyboard([
     [
-      Markup.button.callback('Da, sbrosit\'', 'reset:confirm'),
-      Markup.button.callback('Otmena', 'reset:cancel')
+      Markup.button.callback('Да, сбросить', 'reset:confirm'),
+      Markup.button.callback('Отмена', 'reset:cancel')
     ]
   ]);
 }
@@ -70,8 +70,8 @@ function confirmResetKeyboard() {
 function weakTopicKeyboard() {
   return Markup.inlineKeyboard([
     [
-      Markup.button.callback('Da, trenirovat\'', 'weak:start'),
-      Markup.button.callback('Net, prodolzhit\'', 'weak:skip')
+      Markup.button.callback('Да, тренировать', 'weak:start'),
+      Markup.button.callback('Нет, продолжить', 'weak:skip')
     ]
   ]);
 }
@@ -81,7 +81,7 @@ function weakTopicKeyboard() {
  */
 function exitWeakModeKeyboard() {
   return Markup.inlineKeyboard([
-    [Markup.button.callback('Vyjti iz rezhima trenirovki', 'weak:exit')]
+    [Markup.button.callback('Выйти из режима тренировки', 'weak:exit')]
   ]);
 }
 

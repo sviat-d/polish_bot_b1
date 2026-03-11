@@ -1,7 +1,9 @@
 const userService = require('../services/userService');
 const taskService = require('../services/taskService');
+const adminService = require('../services/adminService');
 const messages = require('../utils/messages');
 const keyboard = require('../utils/keyboard');
+const config = require('../config');
 
 /**
  * Send next task to user
@@ -17,7 +19,7 @@ async function sendNextTask(ctx, user) {
       await ctx.reply(messages.topicCompleted(user.weakTopicMode.topic));
 
       // Try to get next task from all topics
-      const updatedUser = userService.getOrCreateUser(ctx.chat.id);
+      const updatedUser = userService.getOrCreateUser(ctx.chat.id, ctx.from);
       const nextTask = taskService.getNextTask(updatedUser);
 
       if (nextTask) {
@@ -55,7 +57,7 @@ async function sendTaskMessage(ctx, user, task) {
  */
 async function handleStart(ctx) {
   const chatId = ctx.chat.id;
-  const user = userService.getOrCreateUser(chatId);
+  const user = userService.getOrCreateUser(chatId, ctx.from);
   const totalTasks = taskService.getTotalTasksCount();
 
   // Check if new user
@@ -83,7 +85,7 @@ async function handleStart(ctx) {
  */
 async function handleStats(ctx) {
   const chatId = ctx.chat.id;
-  const user = userService.getOrCreateUser(chatId);
+  const user = userService.getOrCreateUser(chatId, ctx.from);
 
   if (user.answers.length === 0) {
     await ctx.reply(messages.noStats());
@@ -93,7 +95,7 @@ async function handleStats(ctx) {
   const stats = userService.calculateStats(user);
   const totalTasks = taskService.getTotalTasksCount();
 
-  await ctx.reply(messages.stats(stats, totalTasks));
+  await ctx.reply(messages.stats(stats, totalTasks, user.language || 'ru'));
 }
 
 /**
@@ -101,12 +103,12 @@ async function handleStats(ctx) {
  */
 async function handleWeak(ctx) {
   const chatId = ctx.chat.id;
-  const user = userService.getOrCreateUser(chatId);
+  const user = userService.getOrCreateUser(chatId, ctx.from);
 
   // If already in weak mode, show option to exit
   if (user.weakTopicMode?.active) {
     await ctx.reply(
-      `Ty uzhe v rezhime trenirovki temy "${user.weakTopicMode.topic}".`,
+      `Ты уже в режиме тренировки темы "${user.weakTopicMode.topic}".`,
       keyboard.exitWeakModeKeyboard()
     );
     return;
@@ -131,7 +133,7 @@ async function handleWeak(ctx) {
  */
 async function handleRating(ctx) {
   const chatId = ctx.chat.id;
-  const user = userService.getOrCreateUser(chatId);
+  const user = userService.getOrCreateUser(chatId, ctx.from);
 
   if (user.ratingEnabled) {
     // Turn off rating
@@ -152,6 +154,107 @@ async function handleReset(ctx) {
 }
 
 /**
+ * Handle /lang command - toggle language between RU and PL
+ */
+async function handleLang(ctx) {
+  const chatId = ctx.chat.id;
+  const user = userService.toggleLanguage(chatId);
+
+  await ctx.reply(messages.languageChanged(user.language));
+}
+
+/**
+ * Handle /chatid command - show user's chat ID
+ */
+async function handleChatId(ctx) {
+  const chatId = ctx.chat.id;
+  const username = ctx.from.username ? `@${ctx.from.username}` : ctx.from.first_name;
+
+  await ctx.reply(
+    `🆔 <b>Твой Chat ID:</b> <code>${chatId}</code>\n\n` +
+    `👤 <b>Имя:</b> ${username}\n\n` +
+    `💡 Скопируй этот Chat ID и добавь в переменную окружения ADMIN_CHAT_IDS на Railway, чтобы получить доступ к админским командам.`,
+    { parse_mode: 'HTML' }
+  );
+}
+
+/**
+ * Handle /admin command - show admin statistics
+ */
+async function handleAdmin(ctx) {
+  const chatId = ctx.chat.id;
+
+  // Check if user is admin
+  if (!config.ADMIN_CHAT_IDS.includes(chatId)) {
+    await ctx.reply('❌ У тебя нет доступа к этой команде.');
+    return;
+  }
+
+  const action = ctx.message.text.split(' ')[1]; // /admin [action]
+
+  // Load all users
+  const allUsers = adminService.loadAllUsers();
+
+  if (allUsers.length === 0) {
+    await ctx.reply('⚠️ Пользователи не найдены.\n\n💡 Убедись, что Railway Volume подключён правильно.');
+    return;
+  }
+
+  // Default action: show overall stats
+  if (!action || action === 'stats') {
+    const stats = adminService.calculateOverallStats(allUsers);
+    const message = adminService.formatStatsForTelegram(stats);
+    await ctx.reply(message, { parse_mode: 'HTML' });
+    return;
+  }
+
+  // Action: top users
+  if (action === 'top') {
+    const topUsers = adminService.getTopUsers(allUsers, 10);
+    const message = adminService.formatTopUsersForTelegram(topUsers);
+    await ctx.reply(message, { parse_mode: 'HTML' });
+    return;
+  }
+
+  // Action: recent users
+  if (action === 'recent') {
+    const recentUsers = adminService.getRecentUsers(allUsers, 7);
+    const message = adminService.formatRecentUsersForTelegram(recentUsers, 7);
+    await ctx.reply(message, { parse_mode: 'HTML' });
+    return;
+  }
+
+  // Action: users by date
+  if (action === 'dates') {
+    const usersByDate = adminService.getUsersByDate(allUsers);
+    const message = adminService.formatUsersByDateForTelegram(usersByDate);
+    await ctx.reply(message, { parse_mode: 'HTML' });
+    return;
+  }
+
+  // Action: help
+  if (action === 'help') {
+    const helpMessage = `📖 <b>АДМИНСКИЕ КОМАНДЫ</b>
+
+/admin - общая статистика
+/admin stats - общая статистика (то же самое)
+/admin top - топ-10 пользователей
+/admin recent - новые пользователи (7 дней)
+/admin dates - регистрации по дням
+/admin help - эта справка
+
+💡 Также можно использовать:
+   node scripts/analytics.js - подробная аналитика`;
+
+    await ctx.reply(helpMessage, { parse_mode: 'HTML' });
+    return;
+  }
+
+  // Unknown action
+  await ctx.reply('❌ Неизвестная команда. Используй /admin help');
+}
+
+/**
  * Register all command handlers
  */
 function registerCommands(bot) {
@@ -160,6 +263,9 @@ function registerCommands(bot) {
   bot.command('weak', handleWeak);
   bot.command('rating', handleRating);
   bot.command('reset', handleReset);
+  bot.command('lang', handleLang);
+  bot.command('chatid', handleChatId);
+  bot.command('admin', handleAdmin);
 
   // Text handler is registered in bot.js to avoid circular dependencies
 }

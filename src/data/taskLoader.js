@@ -1,6 +1,5 @@
 const fs = require('fs');
 const path = require('path');
-const { parse } = require('csv-parse/sync');
 const config = require('../config');
 const pdfTasks = require('./pdfTasks');
 
@@ -149,13 +148,13 @@ function loadCSVTasks() {
 }
 
 /**
- * Load all tasks (CSV + PDF)
+ * Load all tasks (PDF only)
  */
 function loadAllTasks() {
-  const csvTasks = loadCSVTasks();
-  const allTasks = [...csvTasks, ...pdfTasks];
+  // Only use PDF tasks (CSV loader disabled)
+  const allTasks = [...pdfTasks];
 
-  console.log(`Loaded ${csvTasks.length} CSV tasks and ${pdfTasks.length} PDF tasks`);
+  console.log(`Loaded ${pdfTasks.length} PDF tasks`);
   console.log(`Total: ${allTasks.length} tasks`);
 
   return allTasks;
@@ -204,7 +203,6 @@ function getTasks() {
 
 module.exports = {
   loadAllTasks,
-  loadCSVTasks,
   getTasks,
   getTopics,
   saveTasks
